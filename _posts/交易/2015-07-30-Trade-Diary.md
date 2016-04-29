@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 交易日记20150731
+title: 交易日记20150730
 category: 交易
-tags: trade
-keywords: diary
+tags: 
+keywords: 
 description: 
 ---
 

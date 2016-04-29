@@ -2,8 +2,8 @@
 layout: post
 title: 交易日记20150829
 category: 交易
-tags: trade
-keywords: trade,diary
+tags: 
+keywords: 
 description: 
 ---
 
