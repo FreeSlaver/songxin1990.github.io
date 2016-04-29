@@ -9,82 +9,150 @@ description: 金融必读书籍
 
 
 
-金融学必读书籍
-1.Dynamic Asset Pricing Theory Darrell Duffie 动态资产定价理论
-2.Asset Pricing John H.Cochrane 资产定价
-3.Econometric Analysis (3'rd edition) Greene W.H. 中级计量
-4.Financial Econometrics (problems, Models, And Methods) Christian Gourieroux &Joann JasiaK 金融计量经济学
-5.The Econometrics Of Financial Markets Campbell J.Y. Lo, A.W.& Mackinlay A.C 金融市场中的计量经济学
-6.Theory Of Financial Decision Making Imgersoll J.E. 金融决策理论
-7.Foundation For Financial Economics Huang C.F. & Litzenberger R.H. 金融经济学基础
-8.Principles Of Financial Economics S.F. Leroy&Jan Werner 金融经济学原理
-9.Continuous-time Finance Merton R.C. 连续时间金融
-10.Fractals And Scaling In Finance Mandelbrot B.B. 金融中的分形与标度 无
-11.Mathematics Of Financial Derivatives Salih1N.Neftci 金融衍生工具的数学理论(第三版)
-12.Options,Futures And Other Derivative Securities Hull 期权，期货及其它衍生证券(第四版) 
-13.Options,Futures And Other Derivative Securities Hull J. 期权、期货及其它衍生证券的习题集 
-14.Investments sharpe W.F.Alexander GJ.&Bailey J.V. 投资学
-15.Game Theory (3) FudenbeIB D.&Tirole J. 对策论
-16.Game Theory For Applied Economists 应用经济学中的对策论
-17.Time Series Analysis Hamilton J.D. 时间序列分析
-18.Fixed Income Mathematics Fabozzi F.J. 固定收入的数学
-1、兹维.博迪, 罗伯特.默顿：《金融学》，中国人民大学出版社
-2、兹维.博迪 《投资学》或者《投资学精要》，中国人民大学出版社，最新版的就好
+###金融学必读书籍
+1.Dynamic Asset Pricing Theory Darrell Duffie 动态资产定价理论。
+
+2.Asset Pricing John H.Cochrane 资产定价。
+
+3.Econometric Analysis (3'rd edition) Greene W.H. 中级计量。
+
+4.Financial Econometrics (problems, Models, And Methods) Christian Gourieroux &Joann JasiaK 金融计量经济学。
+
+5.The Econometrics Of Financial Markets Campbell J.Y. Lo, A.W.& Mackinlay A.C 金融市场中的计量经济学。
+
+6.Theory Of Financial Decision Making Imgersoll J.E. 金融决策理论。
+
+7.Foundation For Financial Economics Huang C.F. & Litzenberger R.H. 金融经济学基础。
+
+8.Principles Of Financial Economics S.F. Leroy&Jan Werner 金融经济学原理。
+
+9.Continuous-time Finance Merton R.C. 连续时间金融。
+
+10.Fractals And Scaling In Finance Mandelbrot B.B. 金融中的分形与标度 无。
+
+11.Mathematics Of Financial Derivatives Salih1N.Neftci 金融衍生工具的数学理论(第三版)。
+
+12.Options,Futures And Other Derivative Securities Hull 期权，期货及其它衍生证券(第四版) 。
+
+13.Options,Futures And Other Derivative Securities Hull J. 期权、期货及其它衍生证券的习题集 。
+
+14.Investments sharpe W.F.Alexander GJ.&Bailey J.V. 投资学。
+
+15.Game Theory (3) FudenbeIB D.&Tirole J. 对策论。
+
+16.Game Theory For Applied Economists 应用经济学中的对策论。
+
+17.Time Series Analysis Hamilton J.D. 时间序列分析。
+
+18.Fixed Income Mathematics Fabozzi F.J. 固定收入的数学。
+
+1、兹维.博迪, 罗伯特.默顿：《金融学》，中国人民大学出版社。
+
+2、兹维.博迪 《投资学》或者《投资学精要》，中国人民大学出版社，最新版的就好。
+
 3、《经济学原理》 N?格里高利?曼昆 （N.Gregory Mankiw），中国人民大学出版社。
+
 4、《货币金融学》 弗雷德里克•米什金 （Fredcric S.Mishkin），中国人民大学出版社。
+
 5、《公司理财》 斯蒂芬•罗斯， 机械工业出版社
+
 6、看一下金融联考的教材， 
+
 7、报纸《21世纪经济报道》
+
 8、网站：FT中文网、中国金融网、和迅网、人大经济论坛
-辅助一：
+
+###辅助一：
 1、《衍生金融工具与风险管理》 唐•M•钱斯（Don.M.Chanc），中信出版社
+
 2、佛兰克.J.法博齐 写的有关固定收益证券的书
+
 3、股票投资分析，书太多了，找一本看上去精致一点的就好，包括基本面和技术面的
-辅助二：
+
+###辅助二：
 1、佛兰克.J.法博齐、佛朗哥.莫迪利亚尼：《资本市场机构与工具》，经济科学出版社，1999。
+
 2、艾伦.加特： 《管制、放松与重新管制》，经济科学出版社，1999。
+
 3、查理斯R.吉斯特：《金融体系中的投资银行》，经济科学出版社，1999。
+
 4、洛伦茲.格利茲：《金融工程学》，经济科学出版社，1999。
+
 5、詹姆斯.托宾、斯蒂芬.S.戈卢布：《货币、信贷与资本》，东北财经大学出版社，2000。
+
 6、詹姆斯.C.范霍恩：《金融市场利率与流量》，东北财经大学出版社，2000。
+
 7、埃德加.E.彼得斯：《资本市场的混沌与秩序》，东北财经大学出版社，2000。
+
 8、劳伦斯.哈里斯：《货币理论》，中国金融出版社，1986。
+
 9、博迪.默顿：《金融学》，中国人民大学出版社，2000。
+
 10、佛朗哥.莫迪利亚尼：《莫迪利亚尼文萃》，首都经济贸易大学出版社，2001。
+
 11、莫顿.米勒：《金融创新与市场的波动性》，首都经济贸易大学出版社，2001。
+
 12、卡尔.E.瓦什：《货币理论与政策》，中国人民大学出版社，2001。
+
 13、哈利.M.马科维茲：《资产组合选择和资本市场的均值分析——方差分析》，上海三联书店、上海人民出版社，1999。
+
 14、威廉.夏普：《投资学》，中国人民大学出版社，1998。
+
 15、斯科特.梅森、罗伯特.默顿、安德鲁.佩罗德、彼得.图法诺：《金融工程学案例——金融创新的应用研究》，东北财经大学出版社，2001。
+
 16、菲利普.莫利纽克斯、尼达尔.沙姆洛克：《金融创新》，中国人民大学出版社，2003。
+
 17，富兰克林.艾伦、道格拉斯.盖尔：《比较金融系统》，中国人民大学出版社，2002。
+
 18、蒂米奇.威塔斯：《金融规管》，上海财经大学出版社，2000。
+
 19、北京奥尔多投资研究中心 ：《金融系统演变考》，中国财政经济出版社，2002。
+
 20、凯文.多德、默文.K.刘易斯:《金融与货币经济学前沿问题》,中国税务出版社，2000。
+
 21、戴维.里维里恩、克里斯.米尔纳：《国际货币经济学前沿问题》，中国税务出版社，2000。
+
 22、劳伦斯.S.科普兰：《汇率与国际金融》，中国金融出版社，1992。
+
 23、J.奥林.戈莱比：《国际金融市场》，中国人民大学出版社，1998。
+
 《应用经济计量学》 拉姆?拉玛纳山（Ramu Ramanathan），机械工业出版社。
+
 《国际金融管理》 Jeff.Madura，北京大学出版社。
+
 《固定收入证券市场及其衍生产品》 Suresh.M.Sundaresan，北京大学出版社。
+
 《银行管理——教程与案例》（第五版），乔治?H?汉普尔，中国人民大学出版社。
+
 《投资组合管理：理论及应用》 小詹姆斯?法雷尔，机械工业出版社。
+
 24、哈雷尔.弗雷克斯、让.夏尔.罗歇：《微观银行学》，西南财经大学出版社，2000。
+
 25、希拉.郝弗南《商业银行战略管理》，海天出版社，2000。
+
 26、蒂莫西.W.科克：《银行管理》，中国金融出版社，1991。
+
 27、V.N.巴拉舒伯拉曼亚姆、桑加亚.拉尔：《发展经济学前沿问题》，中国税务出版社，2000。
+
 28、大卫.格林纳韦：《宏观经济学前沿问题》，中国税务出版社，2000。
-工具书
+
+###工具书
 1、约翰.伊特韦尔、默里.米尔盖特、彼得.纽曼：《新帕尔格雷夫经济学大辞典》（1－4册），经济科学出版社，1992。
+
 2、彼得.纽曼、默里.米尔盖特、约翰.伊特韦尔：《新帕尔格雷夫货币金融大辞典》（1－3册），经济科学出版社，2000。
+
 3、本杰明.M.弗里德曼、弗兰克.H.哈恩：《货币经济学手册》（上、下册），经济科学出版社，2002。
+
 4、斯蒂芬.马奥尼：《国际金融词汇手册》，经济科学出版社，2000。
+
 5、迈哈伊.马图：《结构化衍生工具》，经济科学出版社，2000。
+
 Intermediate
 Damodaran ，corporate finance : theory and practice , 这本书的英文版的写的非常好。有中文版，人大出版的，翻译的不好，看得时候注意。
 Damodaran《投资估价》，这本书是非常好的投资评估、定价的书，推荐收藏。有中文版，上下两册。
 卢恩博格，《投资科学》，中英文版均在市面上可以买到。很好的投资学中级教材
-下面是金融工程的书。
+
+###下面是金融工程的书。
 John Hull. Options, Futures, and OtherDerivatives (5th Edition), 有中文版。这本书是华尔街 金融工程圣经。必读。写的很好。
 清华的宋逢明，《无套利均衡分析---金融工程原理》写的不错，很好的中文书。
 S N. Neftci an introduction to the mathematics of financial derivatitives 非常好的一本书。我唯一的一个读过三遍的书。其处理方法大大降低了对数学的要求。很难买到。
@@ -128,7 +196,8 @@ Dominick Salvatore “International Economics”（清华大学出版社，4e中
 Game Theory
 Gibbons “A Primer in Game Theory”（中国社会科学出版社，1e中文版）
 张维迎 “博弈论与信息经济学”（上海人民出版社, 1e）
-投资必读书目推荐
+
+###投资必读书目推荐
 1、《投资学精要》 兹维•博迪
 这本书的内容比较全面，是很多大学的教材，不过难度也较大，大家也可以选择其他资本市场类型的书作为教材。
 2、《股票作手回忆录》爱德温•李费佛
@@ -146,7 +215,8 @@ Gibbons “A Primer in Game Theory”（中国社会科学出版社，1e中文�
 12、《艾略特波浪理论》 小罗伯特•R•普莱切特
 13、《期货市场技术分析》 约翰•墨菲 ————分析方法
 14、《非理性繁荣》 ————行为金融学与投资者行为非理性
-金融机构类
+
+###金融机构类
 《华尔街巨人》 【美】华尔街日报编辑部　海南出版社
 《沃尔特•瑞斯顿与花旗银行》 【美】费利普•L•茨威格　海南出版社
 《摩根财团》 【美】罗恩•彻诺 中国财政经济出版社
@@ -157,7 +227,8 @@ Gibbons “A Primer in Game Theory”（中国社会科学出版社，1e中文�
 《反传统营销》 【美】查理•詹瑞特 海南出版社
 《大交易》 【美】布鲁斯•瓦瑟斯坦 海南出版社
 《悲观博士考夫曼论货币价值》 【美】亨利•考夫曼 海南出版社
-传记、小说类
+
+###传记、小说类
 《贼巢》 【美】詹姆斯•斯图尔特 国际文化出版公司
 《一个美国资本家的成长》 【美】罗杰•洛文斯坦 海南出版社
 《股票作手回忆录》 【美】爱德温•李费佛 海南出版社
@@ -169,8 +240,8 @@ Gibbons “A Primer in Game Theory”（中国社会科学出版社，1e中文�
 《24天：安然垮台真相》 【美】丽贝卡•史密斯，约翰•R•埃姆什威勒 上海远东出版社
 
 
+###全球市场
 
-全球市场
 《世纪大拍卖》 【英】克里斯蒂娅•弗里兰 中信出版社
 《时运变迁》 【美】保罗•沃尔克 【日】行天丰雄 中国金融出版社
 《蒙代尔经济学文集》 【加】蒙代尔 中国金融出版社
@@ -195,11 +266,13 @@ Gibbons “A Primer in Game Theory”（中国社会科学出版社，1e中文�
 《共同基金常识》 【美】约翰•鲍格尔 百家出版社
 《国际九大投资基金经理访谈录》 史振邦编著 学林出版社
 《投资智慧论语》 【美】彼得•克拉斯 机械工业出版社
-技术分析类
+
+###技术分析类
 《股市趋势技术分析》 【美】罗伯特•爱德华 约翰•迈吉 东方出版社
 《江恩:华尔街四十五年》 【美】江恩 中国财政经济出版社
 《艾略特名著集》 【美】小罗伯特•普莱切特 机械工业出版社
-社会心理学、金融行为学、管理学和社会学
+
+###社会心理学、金融行为学、管理学和社会学
 《非同寻常的大众幻想与群众性癫狂》 【英】查理斯•麦基 中国金融出版社
 《经济过热、经济恐慌及经济崩溃》 【美】查理斯••金德尔伯格 北京大学出版社
 《泡沫的秘密》 【美】彼得•加伯 华夏出版社
