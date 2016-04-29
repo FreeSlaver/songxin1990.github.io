@@ -1,6 +1,6 @@
 ---
 layout: post
-title:逆思考
+title: 逆思考
 category: 交易
 tags: 
 keywords: 
