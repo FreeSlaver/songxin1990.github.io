@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 逆思考
+title: 成为成功的交易者
 category: 交易
 tags: 
 keywords: 

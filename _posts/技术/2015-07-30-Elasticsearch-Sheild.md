@@ -47,6 +47,7 @@ curl -u es_admin:admin123 -XGET 'http://localhost:9200/'
 
 ```
 maven:
+
       <dependency>
          <groupId>org.elasticsearch</groupId>
          <artifactId>elasticsearch-shield</artifactId>

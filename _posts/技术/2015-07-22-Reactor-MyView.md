@@ -31,6 +31,7 @@ Reactor解决的问题就是一个线程如果在读写文件的时候，长时�
 Reactor是一个单独的进程或者线程，它会不断的循环等待，向操作系统查询IO是否就绪，如果就绪就调用之前在Reactor上面注册的handler来进行逻辑处理。也就是线程不会去等待IO就绪，（操作系统中的IO就绪是一个阻塞过程），但是IO操作（将内核中的数据拷贝到线程中）时候依然会阻塞，也就是NIO是阻塞IO，Reactor实现的只是解决了IO就绪期间的阻塞问题。）
 
 看段代码：
+
 ```
 
 public void run() {
@@ -49,7 +50,7 @@ public void run() {
                         //遍历完之后，清空，继续接受
 			selected.clear();
 		}
-	} catch (IOException ex) { /* ... */
+	} catch (IOException ex) { 
 
 	}
 }
