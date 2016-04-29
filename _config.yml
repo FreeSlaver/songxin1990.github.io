@@ -1,21 +1,22 @@
+#http://painterlin.com
 permalink: /:year/:month/:day/:title.html
 paginate: 10
 markdown: redcarpet
 
 # 作者信息
 author: 
-  name: Anya Lin
-  email: lay.1010@hotmail.com
-  link: http://painterlin.com
-  weibo: http://weibo.com/orangeissweet
-  github: http://github.com/lay1010
-  music: http://site.douban.com/linanya
-  linkedin: https://www.linkedin.com/pub/anya-lin/81/91/232
+  name: 宋鑫
+  email: 504252262@qq.com
+  link: http://3gods.com
+  weibo: 
+  github: http://github.com/songxin1990
+  music: http://www.xiami.com/space/lib-song?spm=a1z1s.6928797.226669510.3.wQwdsL
+  linkedin: 
 
 # 站点信息
-title: 林安亚的博客
+title: 宋鑫的博客
 description: My personal blog
-url: http://painterlin.com
+url: http://3gods.com
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
@@ -24,20 +25,21 @@ favicon: /public/img/deer3.png
 
 # google analytics 设置
 ga:
-  id: UA-54262064-1 
-  url: painterlin.com
+  id: UA-49965095-1
+  url: 3gods.com
 
 # disqus 设置
 disqus:
-  shortname: painterlin
+  shortname: 3gods
 
 # 主题设置，自动激活某个标签
-active: 读书
+active: 关于
 
 # 首页除了最新文章外显示分类
 cates: 
   - Optimization
-  - LaTeX
+  - LaTeX  
+   
 
 # 中文本地化
 locals:
@@ -45,3 +47,4 @@ locals:
   about: 关于
   newest: 最新文章
   archive: 归档
+  
