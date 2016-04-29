@@ -1,4 +1,3 @@
-#http://painterlin.com
 permalink: /:year/:month/:day/:title.html
 paginate: 10
 markdown: redcarpet
@@ -20,8 +19,8 @@ url: http://3gods.com
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: /public/img/deer3.png
-favicon: /public/img/deer3.png
+gavatar: http://7xnlfe.com1.z0.glb.clouddn.com/20130304_sunflower.jpg
+favicon: http://7xnlfe.com1.z0.glb.clouddn.com/20130304_sunflower.jpg
 
 # google analytics 设置
 ga:
