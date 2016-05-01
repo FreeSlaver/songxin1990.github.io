@@ -2,7 +2,7 @@
 layout: post
 title: 荷兰花卉小镇
 category: 旅行
-tags: 
+tags: travel
 keywords: 
 description: 
 ---

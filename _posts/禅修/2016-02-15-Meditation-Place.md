@@ -2,7 +2,7 @@
 layout: post
 title: 禅修的好地方
 category: 禅修
-tags: 
+tags: Dhyāna
 keywords: 
 description: 
 ---

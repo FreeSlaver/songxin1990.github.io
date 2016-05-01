@@ -2,7 +2,7 @@
 layout: post
 title: 广州
 category: 旅行
-tags: 
+tags: travel 
 keywords: 
 description: 
 ---

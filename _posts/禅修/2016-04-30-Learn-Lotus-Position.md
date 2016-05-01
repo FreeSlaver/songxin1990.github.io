@@ -2,7 +2,7 @@
 layout: post
 title: 如何在短时间内学会结双跏趺坐（双盘）?
 category: 禅修
-tags: 
+tags: Dhyāna
 keywords: 
 description: 
 ---

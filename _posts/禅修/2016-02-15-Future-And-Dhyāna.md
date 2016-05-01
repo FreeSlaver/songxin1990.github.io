@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 期货与禅
-category: 交易
-tags: 禅修
+category: 禅修
+tags: Dhyāna
 keywords: 
 description: 
 ---
