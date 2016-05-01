@@ -2,7 +2,7 @@
 layout: post
 title: Activemq之Amq实现
 category: 技术
-tags: mq
+tags: MQ
 keywords: 
 description: 
 ---

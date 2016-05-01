@@ -2,7 +2,7 @@
 layout: post
 title: 2015年国庆相亲记
 category: 生活
-tags: 
+tags: Life Blind-Date
 keywords: 
 description: 2015年国庆相亲记
 ---

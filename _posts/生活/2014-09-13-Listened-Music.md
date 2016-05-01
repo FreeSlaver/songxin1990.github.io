@@ -2,7 +2,7 @@
 layout: post
 title: 听过的歌
 category: 生活
-tags: 
+tags: Music Art
 keywords: 
 description: 
 ---

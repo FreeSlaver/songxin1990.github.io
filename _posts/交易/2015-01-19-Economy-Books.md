@@ -2,7 +2,7 @@
 layout: post
 title: 金融必读书籍
 category: 交易
-tags: 读书
+tags: 书籍
 keywords: 
 description: 金融必读书籍
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Memcached学习笔记
 category: 技术
-tags: 缓存
+tags: chache
 keywords: 
 description: 
 ---

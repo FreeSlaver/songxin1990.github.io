@@ -2,7 +2,7 @@
 layout: post
 title: 2014深圳动漫展
 category: 生活
-tags: travel
+tags: Cosplay Fun
 keywords: 
 description: 
 ---

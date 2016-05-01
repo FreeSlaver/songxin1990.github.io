@@ -2,7 +2,7 @@
 layout: post
 title: 如何书写简洁优雅的代码
 category: 技术
-tags: 
+tags: java
 keywords: 
 description: 
 ---

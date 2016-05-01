@@ -2,7 +2,7 @@
 layout: post
 title: 个人语录
 category: 生活
-tags: 
+tags: Think 
 keywords: 
 description: 
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: 技术博客网站收藏
 category: 技术
-tags: 
+tags: Java Blog
 keywords: 
 description: 
 ---

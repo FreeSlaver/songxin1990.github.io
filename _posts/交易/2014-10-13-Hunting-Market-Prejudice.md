@@ -2,7 +2,7 @@
 layout: post
 title: 捕捉市场偏见
 category: 交易
-tags: travel
+tags: TradingIdea
 keywords: 
 description: 
 ---

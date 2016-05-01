@@ -2,7 +2,7 @@
 layout: post
 title: 一个消息队列应该具有的功能
 category: 技术
-tags: 原创
+tags: MQ 原创
 keywords: 
 description: 
 ---

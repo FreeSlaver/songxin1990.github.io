@@ -2,7 +2,7 @@
 layout: post
 title: 基于Redis实现分布式消息队列
 category: 技术
-tags: MQ
+tags: MQ Redis
 keywords: 
 description: 
 ---

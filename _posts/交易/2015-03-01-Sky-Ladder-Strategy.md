@@ -2,7 +2,7 @@
 layout: post
 title: 天梯战法
 category: 交易
-tags: 
+tags: TradingSystem
 keywords: 
 description: 
 ---

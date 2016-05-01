@@ -2,7 +2,7 @@
 layout: post
 title: 投机
 category: 交易
-tags: 
+tags: TradingIdea
 keywords: 
 description: 
 ---

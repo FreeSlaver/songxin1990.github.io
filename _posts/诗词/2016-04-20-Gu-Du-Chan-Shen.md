@@ -2,7 +2,7 @@
 layout: post
 title: 孤独缠深
 category: 诗词
-tags: 
+tags: 原创 Dhyāna
 keywords: 
 description: 2016年厦门海沧区天竺山真寂寺偶得小诗一首
 ---

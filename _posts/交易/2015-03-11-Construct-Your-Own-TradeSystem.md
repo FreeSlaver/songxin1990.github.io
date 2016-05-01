@@ -2,7 +2,7 @@
 layout: post
 title: 构建自己的交易系统
 category: 交易
-tags: 
+tags: TradingSystem
 keywords: 
 description: 
 ---

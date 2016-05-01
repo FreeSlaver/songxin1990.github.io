@@ -2,7 +2,7 @@
 layout: post
 title: 盘感训练方法
 category: 交易
-tags: travel
+tags: Stock
 keywords: 
 description: 
 ---

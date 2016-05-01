@@ -2,7 +2,7 @@
 layout: post
 title: 牛股：什么样的股票涨的快
 category: 交易
-tags: 
+tags: Stock
 keywords: 
 description: 牛股：什么样的股票涨的快
 ---

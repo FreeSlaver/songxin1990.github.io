@@ -2,7 +2,7 @@
 layout: post
 title: 通信框架两种消息发送方式
 category: 技术
-tags: 同步异步
+tags: networking
 keywords: 
 description: 
 ---

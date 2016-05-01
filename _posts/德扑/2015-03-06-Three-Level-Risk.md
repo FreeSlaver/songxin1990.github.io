@@ -2,7 +2,7 @@
 layout: post
 title: 职业德州扑克手看交易——风险的三个层次
 category: 德扑
-tags: 
+tags: porker
 keywords: 
 description: 
 ---

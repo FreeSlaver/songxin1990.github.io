@@ -2,7 +2,7 @@
 layout: post
 title: 反突破系统
 category: 交易
-tags: 
+tags: TradingSystem
 keywords: 
 description: 
 ---

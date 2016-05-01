@@ -2,7 +2,7 @@
 layout: post
 title: Memcached深度分析
 category: 技术
-tags: 转载
+tags: cache
 keywords: 
 description: 
 ---

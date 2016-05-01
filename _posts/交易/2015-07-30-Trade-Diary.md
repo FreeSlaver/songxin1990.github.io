@@ -2,7 +2,7 @@
 layout: post
 title: 交易日记20150730
 category: 交易
-tags: 
+tags: Diary
 keywords: 
 description: 
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: 随想-心情的只言片语
 category: 生活
-tags: mood
+tags: 
 keywords: 
 description: 这个是用来写写平时随思随想，心情的只言片语的
 ---

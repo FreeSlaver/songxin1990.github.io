@@ -2,7 +2,7 @@
 layout: post
 title: 炒股笔记配图
 category: 交易
-tags: 
+tags: Dairy Stock
 keywords: 
 description: 
 ---

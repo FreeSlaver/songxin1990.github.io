@@ -2,7 +2,7 @@
 layout: post
 title: 自动化部署配置文件
 category: 技术
-tags: 
+tags: Deploy Config
 keywords: 
 description: 
 ---

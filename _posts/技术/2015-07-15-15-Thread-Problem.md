@@ -2,7 +2,7 @@
 layout: post
 title: 15个多线程面试题
 category: 技术
-tags: 多线程
+tags: multi-thread review
 keywords: 
 description: 
 ---

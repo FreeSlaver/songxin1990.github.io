@@ -2,7 +2,7 @@
 layout: post
 title: ActiveMQ in Action读书笔记
 category: 技术
-tags: 
+tags: MQ Note
 keywords: 
 description: 
 ---

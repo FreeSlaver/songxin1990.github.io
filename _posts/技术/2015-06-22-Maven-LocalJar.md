@@ -2,7 +2,7 @@
 layout: post
 title: maven在pom文件里引用本地jar
 category: 技术
-tags: 
+tags: java tool
 keywords: 
 description: 
 ---

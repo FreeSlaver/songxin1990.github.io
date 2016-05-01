@@ -2,7 +2,7 @@
 layout: post
 title: 芒格推荐书单(完全版32本)
 category: 进击
-tags: 
+tags: 书籍
 keywords: 
 description: 
 ---
