@@ -36,7 +36,6 @@ active: 交易
 
 # 首页除了最新文章外显示分类
 cates: 
-  - travel
   - Dhyāna  
    
 
@@ -47,5 +46,5 @@ locals:
   newest: 最新文章
   archive: 归档
   Dhyāna: 禅
-  travel：旅行
+  
   
