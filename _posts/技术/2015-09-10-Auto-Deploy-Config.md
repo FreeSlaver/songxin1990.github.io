@@ -15,16 +15,19 @@ description:
 #
 #
 
-># 路径探测区
+>#路径探测区
+
+```
+
 # =====================================
 SERVICE_BIN_DIR=$(dirname $( readlink -f "$0"))
 SERVICE_HOME=$(dirname $SERVICE_BIN_DIR)
 
+```
 
-># 手动设置区
+
+>#手动设置区
 # =====================================
-#JAVA_HOME=/usr/local/java/default
-#java_home
 JAVA_HOME=/usr/java/jdk1.7.0_71
 SERVICE_PORT=50011
 SERVICE_DEBUG_PORT=8077

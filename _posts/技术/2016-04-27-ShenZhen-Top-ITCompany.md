@@ -17,6 +17,7 @@ IBM MOTO Siemens MACFEE 华为 中兴 UT斯达康 中国移动
 中兴通讯股份有限公司
 
 腾讯科技(深圳)有限公司（比较多，但是大多是前端和后台服务器的）
+
 http://hr.tencent.com/position.php?keywords=JAVA&lid=2218&tid=87&start=10#a
 
 http://hr.tencent.com/position_detail.php?id=17223&keywords=JAVA&tid=87&lid=2218
@@ -213,5 +214,6 @@ http://hr.tencent.com/position_detail.php?id=17223&keywords=JAVA&tid=87&lid=2218
 深圳市科皓信息技术有限公司
 
 深圳市赛格导航科技股份有限公司
+
 
 当然还有些外企比如穆迪什么的，外包公司易思博什么的，搞金融的像融博、平安科技什么的，搞安全的泰然、天安什么的................ 
