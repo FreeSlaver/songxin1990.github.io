@@ -11,6 +11,8 @@ description:
 
 具体的参数，比如休眠时间，队列大小，可以自己设置，最好是设置之后进行测试，找出一个均衡点。
 
+工具类
+
 ```
 
 public class LogUtil {
@@ -84,6 +86,50 @@ public class LogUtil {
         mq.offer(log);
     }
 
+}
+
+```
+
+日志实体类：
+
+```
+
+public class LogMessage implements Serializable {
+
+    private static final long serialVersionUID = 1L;
+    private Class<?> clazz;
+    private String level;
+    private String msg;
+
+    public LogMessage(Class<?> clazz, String level, String msg) {
+        this.clazz = clazz;
+        this.level = level;
+        this.msg = msg;
+    }
+
+    public Class<?> getClazz() {
+        return clazz ;
+    }
+
+    public void setClazz(Class<?> clazz) {
+        this.clazz = clazz;
+    }
+
+    public String getLevel() {
+        return level ;
+    }
+
+    public void setLevel(String level) {
+        this.level = level;
+    }
+
+    public String getMsg() {
+        return msg ;
+    }
+
+    public void setMsg(String msg) {
+        this.msg = msg;
+    }
 }
 
 ```
