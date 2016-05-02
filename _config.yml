@@ -7,10 +7,10 @@ author:
   name: 宋鑫
   email: 504252262@qq.com
   link: http://3gods.com
-  weibo: 
+  weibo: http://weibo.com/u/2935730063/home?topnav=1&wvr=6
   github: http://github.com/songxin1990
   music: http://www.xiami.com/space/lib-song?spm=a1z1s.6928797.226669510.3.wQwdsL
-  linkedin: 
+  linkedin: https://www.linkedin.com/?trk=baidubrand-mainlink
 
 # 站点信息
 title: 宋鑫的博客
@@ -36,8 +36,8 @@ active: 交易
 
 # 首页除了最新文章外显示分类
 cates: 
-  - Dhyāna  
-   
+  - top  
+  - Dhyāna
 
 # 中文本地化
 locals:
@@ -46,5 +46,6 @@ locals:
   newest: 最新文章
   archive: 归档
   Dhyāna: 禅
+  top: 置顶
   
   
