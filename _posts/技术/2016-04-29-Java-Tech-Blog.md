@@ -66,5 +66,11 @@ MartinFowler
 
 http://martinfowler.com/
 
+Laurence的技术博客
+
+http://blog.csdn.net/bluishglc
+
+[Laurence的技术博客]( http://blog.csdn.net/bluishglc )
+
 
 
