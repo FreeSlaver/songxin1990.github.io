@@ -37,6 +37,10 @@ http://www.blogjava.net/xylz/
 
 http://xiaorui.cc/
 
+阿里核心技术团队
+http://csrd.aliapp.com/
+
+
 阿里中间件
 
 http://jm-blog.aliapp.com/
@@ -72,5 +76,9 @@ http://blog.csdn.net/bluishglc
 
 [Laurence的技术博客]( http://blog.csdn.net/bluishglc )
 
+酷壳
 
+这个网站非常的高大上，很详细。
+
+http://coolshell.cn/
 
