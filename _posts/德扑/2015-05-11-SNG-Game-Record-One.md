@@ -43,8 +43,8 @@ secret: true
 
  console.info(secret);
  if(secret){
-	alert("你没有权限看这篇文章!");
-	windows.location.href = "http://3gods.com";
+	//alert("你没有权限看这篇文章!");
+	window.location.href = "http://3gods.com";
  }
 </script>
 
