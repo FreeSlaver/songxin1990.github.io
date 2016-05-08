@@ -171,11 +171,9 @@ if (name.startsWith(packageDirName) && name.endsWith(".class" )&& name.indexOf( 
 ```
 
 然后将实现Plugin接口的实例包装到Adaptor中，之后将Adaptor的实例放到一个adaptorMap中，并将adaptorMap 注入到Selector中。
-```
 
 Selector. init( adaptorMap);
 
-```
 
 PluginManager的具体代码如下：
 
