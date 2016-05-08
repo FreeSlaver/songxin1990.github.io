@@ -5,6 +5,7 @@ category: 德扑
 tags: 
 keywords: 
 description: 
+secret: true
 ---
 
 <link rel="stylesheet" href="/public/css/screen.css">
@@ -38,6 +39,12 @@ description:
 <script src="/public/js/lightbox.js"></script>
 
 <script type="text/javascript">	
- alert("hello world")
+ var secret =  {{ page.secret }} ;
+
+ console.info(secret);
+ if(secret){
+	alert("你没有权限看这篇文章!");
+	location.href = "3gods.com";
+ }
 </script>
 
