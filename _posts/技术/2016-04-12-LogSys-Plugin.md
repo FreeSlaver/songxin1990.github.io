@@ -1,31 +1,31 @@
 ---
 layout: post
-title: ÈÕÖ¾ÏµÍ³handlerÖ®ÈÕÖ¾ÇåÏ´²å¼şÈÈ²å²¥µÄÊµÏÖ
-category: ¼¼Êõ
+title: æ—¥å¿—ç³»ç»Ÿhandlerä¹‹æ—¥å¿—æ¸…æ´—æ’ä»¶çƒ­æ’æ’­çš„å®ç°
+category: æŠ€æœ¯
 tags: Log 
 keywords: 
 description: 
 ---
 
-### Ê×ÏÈÎÒÃÇÓĞÒ»¸öPlugin½Ó¿Ú£º
+### é¦–å…ˆæˆ‘ä»¬æœ‰ä¸€ä¸ªPluginæ¥å£ï¼š
 
 ```
 
 public interface Plugin {
-  //»ñÈ¡ÈÕÖ¾ÀàĞÍ
+  //è·å–æ—¥å¿—ç±»å‹
   public String getPBType();
-  //»ñÈ¡ÈÕÖ¾´¦ÀíÆ÷
+  //è·å–æ—¥å¿—å¤„ç†å™¨
   public Processor getProcessor();
-  //»ñÈ¡Êä³öµ½ESÊµÏÖ
+  //è·å–è¾“å‡ºåˆ°ESå®ç°
   public Output getOutput();
 }
 
 ```
 
 
-### »¹ÓĞÒ»¸öAdaptor
+### è¿˜æœ‰ä¸€ä¸ªAdaptor
 
-¿ÉÒÔ´ÓAdaptorÖĞ¸ù¾İÈÕÖ¾ÀàĞÍÑ¡È¡²»Í¬µÄProcessor¶ÔÈÕÖ¾½øĞĞ´¦Àí£¬ÒÔ¼°Outputer¶ÔÈÕÖ¾½á¹û½øĞĞÊä³ö¡£
+å¯ä»¥ä»Adaptorä¸­æ ¹æ®æ—¥å¿—ç±»å‹é€‰å–ä¸åŒçš„Processorå¯¹æ—¥å¿—è¿›è¡Œå¤„ç†ï¼Œä»¥åŠOutputerå¯¹æ—¥å¿—ç»“æœè¿›è¡Œè¾“å‡ºã€‚
 
 ```
 
@@ -71,11 +71,11 @@ public class Adaptor {
         } catch (Exception e) {
             BasicMonitor.addErrMetric(pojo.getPb_type());
             BasicMonitor.addErrMetric("monitor");
-            LOG.warn("pb_type:" + getPbType() + "£¬["+ JSON.toJSONString(pojo)+"]Adaptor´¦ÀíÒì³£, " + ESUtil.printStackTraceToString(e));
+            LOG.warn("pb_type:" + getPbType() + "ï¼Œ["+ JSON.toJSONString(pojo)+"]Adaptorå¤„ç†å¼‚å¸¸, " + ESUtil.printStackTraceToString(e));
            
             DeplogVO vo = new DeplogVO();
             vo.setPbType(pojo.getPb_type());
-            vo.setMessage("[" +JSON.toJSONString(pojo)+ "]Adaptor´¦ÀíÒì³£, " + ESUtil.printStackTraceToString (e));
+            vo.setMessage("[" +JSON.toJSONString(pojo)+ "]Adaptorå¤„ç†å¼‚å¸¸, " + ESUtil.printStackTraceToString (e));
             LogUtils. warn(vo);
         }
         return result;
@@ -84,23 +84,23 @@ public class Adaptor {
 
 ```
 
-### »¹ÓĞÒ»¸öSelector
+### è¿˜æœ‰ä¸€ä¸ªSelector
 
-µ±ÈÕÖ¾À´ÁËÖ®ºó£¬ÎÒÃÇÊ¹ÓÃSelector¸ù¾İÈÕÖ¾ÀàĞÍ´ÓadaptorMapÖĞÑ¡È¡²»Í¬µÄAdaptor¡£
+å½“æ—¥å¿—æ¥äº†ä¹‹åï¼Œæˆ‘ä»¬ä½¿ç”¨Selectoræ ¹æ®æ—¥å¿—ç±»å‹ä»adaptorMapä¸­é€‰å–ä¸åŒçš„Adaptorã€‚
 
 ```
 
 public class Selector {
 
-     // selectorÊÇÀ´Í¨ÖªadaptorµÄ£¬È»ºóadaptorÀ´±éÀúlist£¬´¦Àí
+     // selectoræ˜¯æ¥é€šçŸ¥adaptorçš„ï¼Œç„¶åadaptoræ¥éå†listï¼Œå¤„ç†
      private static Map<String, Adaptor> adaptorMap;
 
      public static Adaptor select(CommonLogPojo pojo) {
-           // 1.ÅĞ¶Ïpojo
+           // 1.åˆ¤æ–­pojo
            if (null == pojo) {
                return null ;
           }
-           // 2.»ñÈ¡Adaptor
+           // 2.è·å–Adaptor
            return selecotr .get(pojo.getPb_type());
      }
 
@@ -111,15 +111,15 @@ public class Selector {
 
 ```
 
-### »¹ÓĞÒ»¸öPluginManager
+### è¿˜æœ‰ä¸€ä¸ªPluginManager
 
-ÔÚÏîÄ¿Æô¶¯µÄÊ±ºò£¬ÎÒÃÇµ÷ÓÃËüµÄregisterPlugin·½·¨£¬È¥É¨Ãècom.bd.log.pbÕâ¸öpackageÏÂµÄjavaÀà£¬²¢±éÀú×Ópackage¡£
+åœ¨é¡¹ç›®å¯åŠ¨çš„æ—¶å€™ï¼Œæˆ‘ä»¬è°ƒç”¨å®ƒçš„registerPluginæ–¹æ³•ï¼Œå»æ‰«æcom.bd.log.pbè¿™ä¸ªpackageä¸‹çš„javaç±»ï¼Œå¹¶éå†å­packageã€‚
 
-Èç¹ûÊÇÎÄ¼şÀàĞÍµÄ£¬»áÈ¥É¨ÃèclassÎÄ¼ş£¬Èç¹ûÊÇjarÀàĞÍµÄ£¬»áÊ¹ÓÃjarÀàĞÍµÄÉ¨Ãè²ßÂÔ¡£
+å¦‚æœæ˜¯æ–‡ä»¶ç±»å‹çš„ï¼Œä¼šå»æ‰«æclassæ–‡ä»¶ï¼Œå¦‚æœæ˜¯jarç±»å‹çš„ï¼Œä¼šä½¿ç”¨jarç±»å‹çš„æ‰«æç­–ç•¥ã€‚
 
-È»ºó¶Ô°üÏÂµÄÎÄ¼şÃû½øĞĞÆ¥Åä£¬Í¨¹ı·´ÉäµÃµ½ÊµÀı¡£
+ç„¶åå¯¹åŒ…ä¸‹çš„æ–‡ä»¶åè¿›è¡ŒåŒ¹é…ï¼Œé€šè¿‡åå°„å¾—åˆ°å®ä¾‹ã€‚
 
-ÎÄ¼şµÄ£º
+æ–‡ä»¶çš„ï¼š
 
 ```
 
@@ -135,8 +135,8 @@ for (File pbFile : pbFiles) {
 		       LogUtils. info(obj.getClass().getName());
 		  }
 	     } catch (Exception e) {
-		   LOG.error("É¨ÃèPluginÒì³£" +e.getMessage());
-		  LogUtils. error("É¨ÃèPluginÒì³£"+e.getMessage());
+		   LOG.error("æ‰«æPluginå¼‚å¸¸" +e.getMessage());
+		  LogUtils. error("æ‰«æPluginå¼‚å¸¸"+e.getMessage());
 	     }
 	}
    }
@@ -147,7 +147,7 @@ for (File pbFile : pbFiles) {
 
 ```
 
-JarÎÄ¼şµÄ£º
+Jaræ–‡ä»¶çš„ï¼š
 
 ```
 
@@ -170,12 +170,14 @@ if (name.startsWith(packageDirName) && name.endsWith(".class" )&& name.indexOf( 
 
 ```
 
-È»ºó½«ÊµÏÖPlugin½Ó¿ÚµÄÊµÀı°ü×°µ½AdaptorÖĞ£¬Ö®ºó½«AdaptorµÄÊµÀı·Åµ½Ò»¸öadaptorMapÖĞ£¬²¢½«adaptorMap ×¢Èëµ½SelectorÖĞ¡£
-```
-Selector. init( adaptorMap);
+ç„¶åå°†å®ç°Pluginæ¥å£çš„å®ä¾‹åŒ…è£…åˆ°Adaptorä¸­ï¼Œä¹‹åå°†Adaptorçš„å®ä¾‹æ”¾åˆ°ä¸€ä¸ªadaptorMapä¸­ï¼Œå¹¶å°†adaptorMap æ³¨å…¥åˆ°Selectorä¸­ã€‚
 ```
 
-PluginManagerµÄ¾ßÌå´úÂëÈçÏÂ£º
+Selector. init( adaptorMap);
+
+```
+
+PluginManagerçš„å…·ä½“ä»£ç å¦‚ä¸‹ï¼š
 
 ```
 
@@ -186,47 +188,47 @@ public class PluginManager {
     private static Map<String, Adaptor> adaptorMap = new HashMap<String, Adaptor>();
 
     /**
-     * ×¢²áPlugin
+     * æ³¨å†ŒPlugin
      * 
      */
     public static void registerPlugin() {
-        LOG.info("¿ªÊ¼×¢²áPlugin");
-        LogUtils.info("¿ªÊ¼×¢²áPlugin");
-        // ÊÇ·ñÑ­»·µü´ú
+        LOG.info("å¼€å§‹æ³¨å†ŒPlugin");
+        LogUtils.info("å¼€å§‹æ³¨å†ŒPlugin");
+        // æ˜¯å¦å¾ªç¯è¿­ä»£
         boolean recursive = true;
-        // »ñÈ¡°üµÄÃû×Ö ²¢½øĞĞÌæ»»
+        // è·å–åŒ…çš„åå­— å¹¶è¿›è¡Œæ›¿æ¢
         String packageDir = scanPackageClassName;
         String packageDirName = packageDir.replace('.', '/');
-        // ¶¨ÒåÒ»¸öÃ¶¾ÙµÄ¼¯ºÏ ²¢½øĞĞÑ­»·À´´¦ÀíÕâ¸öÄ¿Â¼ÏÂµÄthings
+        // å®šä¹‰ä¸€ä¸ªæšä¸¾çš„é›†åˆ å¹¶è¿›è¡Œå¾ªç¯æ¥å¤„ç†è¿™ä¸ªç›®å½•ä¸‹çš„things
         Enumeration<URL> dirs;
         try {
             dirs = Thread.currentThread().getContextClassLoader().getResources(packageDirName);
-            // Ñ­»·µü´úÏÂÈ¥
+            // å¾ªç¯è¿­ä»£ä¸‹å»
             while (dirs.hasMoreElements()) {
-                // »ñÈ¡ÏÂÒ»¸öÔªËØ
+                // è·å–ä¸‹ä¸€ä¸ªå…ƒç´ 
                 URL url = dirs.nextElement();
-                // µÃµ½Ğ­ÒéµÄÃû³Æ
+                // å¾—åˆ°åè®®çš„åç§°
                 String protocol = url.getProtocol();
-                // Èç¹ûÊÇÒÔÎÄ¼şµÄĞÎÊ½±£´æÔÚ·şÎñÆ÷ÉÏ
+                // å¦‚æœæ˜¯ä»¥æ–‡ä»¶çš„å½¢å¼ä¿å­˜åœ¨æœåŠ¡å™¨ä¸Š
                 if ("file".equals(protocol)) {
-                    LOG.info("fileÀàĞÍµÄÉ¨Ãè");
-                    LogUtils.info("fileÀàĞÍµÄÉ¨Ãè");
+                    LOG.info("fileç±»å‹çš„æ‰«æ");
+                    LogUtils.info("fileç±»å‹çš„æ‰«æ");
                     String filePath = URLDecoder.decode(url.getFile(), "UTF-8");
                     scanFileClassesInPackage(scanPackageClassName, filePath, recursive);
                 } else if ("jar".equals(protocol)) {
-                    // Èç¹ûÊÇjar°üÎÄ¼ş
-                    LOG.info("jarÀàĞÍµÄÉ¨Ãè");
-                    LogUtils.info("jarÀàĞÍµÄÉ¨Ãè");
+                    // å¦‚æœæ˜¯jaråŒ…æ–‡ä»¶
+                    LOG.info("jarç±»å‹çš„æ‰«æ");
+                    LogUtils.info("jarç±»å‹çš„æ‰«æ");
                     scanJarClassesInPackage(packageDirName, url);
                 }
             }
 
             Selector.init(adaptorMap);
-            LOG.info("×¢²áPlugin³É¹¦¡£");
-            LogUtils.info("×¢²áPlugin³É¹¦¡£");
+            LOG.info("æ³¨å†ŒPluginæˆåŠŸã€‚");
+            LogUtils.info("æ³¨å†ŒPluginæˆåŠŸã€‚");
         } catch (Exception e) {
-            LOG.error("×¢²áPluginÒì³£"+e.getMessage());
-            LogUtils.error("×¢²áPluginÒì³£"+e.getMessage());
+            LOG.error("æ³¨å†ŒPluginå¼‚å¸¸"+e.getMessage());
+            LogUtils.error("æ³¨å†ŒPluginå¼‚å¸¸"+e.getMessage());
         }
     }
 
@@ -234,14 +236,14 @@ public class PluginManager {
             InstantiationException, IllegalAccessException, IOException {
         JarFile jar = null;
         try {
-            // »ñÈ¡jar
+            // è·å–jar
             JarURLConnection jarconn = (JarURLConnection) url.openConnection();
             jar = jarconn.getJarFile();
             Enumeration<JarEntry> entries = jar.entries();
             while (entries.hasMoreElements()) {
                 JarEntry entry = entries.nextElement();
                 String name = entry.getName();
-                // Èç¹ûÊÇÒÔ/¿ªÍ·µÄ
+                // å¦‚æœæ˜¯ä»¥/å¼€å¤´çš„
                 if (name.charAt(0) == '/') {
                     name = name.substring(1);
                 }
@@ -263,13 +265,13 @@ public class PluginManager {
                 }
             }
         } catch (IOException e) {
-            throw new IOException("jarÀàĞÍµÄÉ¨ÃèÒì³£", e);
+            throw new IOException("jarç±»å‹çš„æ‰«æå¼‚å¸¸", e);
         }
 
     }
 
     /**
-     * ÒÔÎÄ¼şµÄĞÎÊ½À´»ñÈ¡°üÏÂµÄËùÓĞClass
+     * ä»¥æ–‡ä»¶çš„å½¢å¼æ¥è·å–åŒ…ä¸‹çš„æ‰€æœ‰Class
      * 
      * @param packageName
      * @param packagePath
@@ -277,27 +279,27 @@ public class PluginManager {
      * @param classes
      */
     public static void scanFileClassesInPackage(String packageName, String packagePath, final boolean recursive) {
-        // »ñÈ¡´Ë°üµÄÄ¿Â¼ ½¨Á¢Ò»¸öFile
+        // è·å–æ­¤åŒ…çš„ç›®å½• å»ºç«‹ä¸€ä¸ªFile
         File dir = new File(packagePath);
-        // Èç¹û²»´æÔÚ»òÕß Ò²²»ÊÇÄ¿Â¼¾ÍÖ±½Ó·µ»Ø
+        // å¦‚æœä¸å­˜åœ¨æˆ–è€… ä¹Ÿä¸æ˜¯ç›®å½•å°±ç›´æ¥è¿”å›
         if (!dir.exists() || !dir.isDirectory()) {
-            // log.warn("ÓÃ»§¶¨Òå°üÃû " + packageName + " ÏÂÃ»ÓĞÈÎºÎÎÄ¼ş");
+            // log.warn("ç”¨æˆ·å®šä¹‰åŒ…å " + packageName + " ä¸‹æ²¡æœ‰ä»»ä½•æ–‡ä»¶");
             return;
         }
-        // Èç¹û´æÔÚ ¾Í»ñÈ¡°üÏÂµÄËùÓĞÎÄ¼ş °üÀ¨Ä¿Â¼
+        // å¦‚æœå­˜åœ¨ å°±è·å–åŒ…ä¸‹çš„æ‰€æœ‰æ–‡ä»¶ åŒ…æ‹¬ç›®å½•
         File[] dirfiles = dir.listFiles(new FileFilter() {
-            // ×Ô¶¨Òå¹ıÂË¹æÔò Èç¹û¿ÉÒÔÑ­»·(°üº¬×ÓÄ¿Â¼) »òÔòÊÇÒÔ.class½áÎ²µÄÎÄ¼ş(±àÒëºÃµÄjavaÀàÎÄ¼ş)
+            // è‡ªå®šä¹‰è¿‡æ»¤è§„åˆ™ å¦‚æœå¯ä»¥å¾ªç¯(åŒ…å«å­ç›®å½•) æˆ–åˆ™æ˜¯ä»¥.classç»“å°¾çš„æ–‡ä»¶(ç¼–è¯‘å¥½çš„javaç±»æ–‡ä»¶)
             public boolean accept(File file) {
                 return (recursive && file.isDirectory()) || (file.getName().endsWith(".class"));
             }
         });
-        // Ñ­»·ËùÓĞÎÄ¼ş
+        // å¾ªç¯æ‰€æœ‰æ–‡ä»¶
         for (File file : dirfiles) {
-            // Èç¹ûÊÇÄ¿Â¼ Ôò¼ÌĞøÉ¨Ãè
+            // å¦‚æœæ˜¯ç›®å½• åˆ™ç»§ç»­æ‰«æ
             if (file.isDirectory()) {
-                // Èç¹û´æÔÚ ¾Í»ñÈ¡°üÏÂµÄËùÓĞÎÄ¼ş °üÀ¨Ä¿Â¼
+                // å¦‚æœå­˜åœ¨ å°±è·å–åŒ…ä¸‹çš„æ‰€æœ‰æ–‡ä»¶ åŒ…æ‹¬ç›®å½•
                 File[] pbFiles = file.listFiles(new FileFilter() {
-                    // ×Ô¶¨Òå¹ıÂË¹æÔò Èç¹û¿ÉÒÔÑ­»·(°üº¬×ÓÄ¿Â¼) »òÔòÊÇÒÔ.class½áÎ²µÄÎÄ¼ş(±àÒëºÃµÄjavaÀàÎÄ¼ş)
+                    // è‡ªå®šä¹‰è¿‡æ»¤è§„åˆ™ å¦‚æœå¯ä»¥å¾ªç¯(åŒ…å«å­ç›®å½•) æˆ–åˆ™æ˜¯ä»¥.classç»“å°¾çš„æ–‡ä»¶(ç¼–è¯‘å¥½çš„javaç±»æ–‡ä»¶)
                     public boolean accept(File file) {
                         return (recursive && file.isDirectory()) || (file.getName().endsWith(".class"));
                     }
@@ -316,8 +318,8 @@ public class PluginManager {
                                 LogUtils.info(obj.getClass().getName());
                             }
                         } catch (Exception e) {
-                            LOG.error("É¨ÃèPluginÒì³£"+e.getMessage());
-                            LogUtils.error("É¨ÃèPluginÒì³£"+e.getMessage());
+                            LOG.error("æ‰«æPluginå¼‚å¸¸"+e.getMessage());
+                            LogUtils.error("æ‰«æPluginå¼‚å¸¸"+e.getMessage());
                         }
                     }
                 }
