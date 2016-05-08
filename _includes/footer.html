@@ -18,6 +18,11 @@
 -->
 <script>
     $('a[href="#{{ site.active }}"]').tab('show');
+	var secret =  {{ page.secret }} ;
+	alert("secret"+secret);
+	if(secret){
+		alert("你没有权限查看这篇文章。");
+	}
 </script>
 
 

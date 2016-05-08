@@ -24,14 +24,9 @@ description:
 	}
 </style>
 
-下面是一些平时打的SNG比赛记录，这是一，每篇有10把。
 
-![1]( http://7xtttt.com1.z0.glb.clouddn.com/SNG5-20160506-T1558534022-1.png )
-![1]( http://7xtttt.com1.z0.glb.clouddn.com/SNG5-20160506-T1558534022-2.png )
-![1]( http://7xtttt.com1.z0.glb.clouddn.com/SNG5-20160506-T1558534022-3.png )
-![1]( http://7xtttt.com1.z0.glb.clouddn.com/SNG5-20160506-T1558534022-4.png )
 
-![1]( http://7xnlfe.com1.z0.glb.clouddn.com/test.gif )
+
 
 <div class="image-row">
 	<a class="example-image-link" href="http://7xtttt.com1.z0.glb.clouddn.com/SNG5-20160506-T1558534022-1.png" data-lightbox="example-1"><img class="example-image" src="img/demopage/image-1.jpg" alt="image-1" /></a>
