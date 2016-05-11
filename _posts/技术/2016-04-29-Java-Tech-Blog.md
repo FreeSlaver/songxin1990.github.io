@@ -32,6 +32,12 @@ CSDN
 [运维python]( http://xiaorui.cc/ )
 
 
+[IT职业发展规划]( http://wkee.net/ )
+
+
+[原创文章翻译]( http://www.importnew.com/ )
+
+
 ### 阿里
 
 [阿里核心技术团队]( http://csrd.aliapp.com/ )
@@ -49,10 +55,7 @@ CSDN
 [阿里UED前端]( http://ued.taobao.org/blog/ )
 
 
-[IT职业发展规划]( http://wkee.net/ )
 
-
-[原创文章翻译]( http://www.importnew.com/ )
 
 ### 大神
 
@@ -62,7 +65,6 @@ CSDN
 [Laurence的技术博客]( http://blog.csdn.net/bluishglc )
 
 
-这个网站非常的高大上，很详细。
-[酷壳]( http://coolshell.cn/ )
+[酷壳]( http://coolshell.cn/ ) 这个网站非常的高大上，很详细。
 
 
