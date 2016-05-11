@@ -11,17 +11,21 @@ description:
 学习的几个网址：
 http://kb.cnblogs.com/page/42731/
 先弄清楚几个问题
+
 1.什么是memcached
+
 memcached是一套分布式的快取系统。 memcached是高性能的分布式内存缓存服务器。 一般的使用目的是，通过缓存数据库查询结果，减少数据库访问次数，以提高动态Web应用的速度、 提高可扩展性。
 
 
 2.它的作用，解决的问题
+
  许多Web应用都将数据保存到RDBMS中，应用服务器从中读取数据并在浏览器中显示。 但随着数据量的增大、访问的集中，就会出现RDBMS的负担加重、数据库响应恶化、 网站显示延迟等重大影响。 这时就该memcached大显身手了。
 
 
 
 
 3.它的原理
+
  memcached的API使用三十二位元的循环冗余校验（CRC-32）计算键值后，将资料分散在不同的机器上。当表格满了以后，接下来新增的资料会以 LRU机制替换掉。由于memcached通常只是当作快取系统使用，所以使用memcached的应用程式在写回较慢的系统时（像是后端的数据库）需要 额外的程式码更新memcached内的资料。
 
 
@@ -29,12 +33,17 @@ CRC-32是什么，LRU是什么。
 
 
 4.它的特点特征
+
 memcached作为高速运行的分布式缓存服务器，具有以下的特点。
 
 协议简单
+
 基于libevent的事件处理
+
 内置内存存储方式
+
 memcached不互相通信的分布式
+
 协议简单
 
 
@@ -61,65 +70,91 @@ memcached尽管是“分布式”缓存服务器，但服务器端并没有分�
 
 
 4.如何安装，部署，使用
- 运行memcached需要本文开头介绍的libevent库
+
+运行memcached需要本文开头介绍的libevent库
+
 memcached安装与一般应用程序相同，configure、make、make install就行了。
 
 ```
+
 $ wget http://www.danga.com/memcached/dist/memcached-1.2.5.tar.gz
 $ tar zxf memcached-1.2.5.tar.gz
 $ cd memcached-1.2.5
 $ ./configure
 $ make
 $ sudo make install
+
 ```
+
 保存数据
 
 
 向memcached保存数据的方法有
+
 ```
 add
 replace
 set
+
 ```
 
 它们的使用方法都相同：
+
 ```
+
 my $add = $memcached->add( '键', '值', '期限' );
 my $replace = $memcached->replace( '键', '值', '期限' );
 my $set = $memcached->set( '键', '值', '期限' );
+
 ```
 
 保存数据
+
+```
+
 选项	说明
 add	仅当存储空间中不存在键相同的数据时才保存
 replace	仅当存储空间中存在键相同的数据时才保存
 set	与add和replace不同，无论何时都保存
 
+```
+
 获取数据
+
 获取数据可以使用get和get_multi方法。
 
 ```
+
 my $val = $memcached->get('键');
 my $val = $memcached->get_multi('键1', '键2', '键3', '键4', '键5');
+
 ```
+
 删除数据
+
 删除数据使用delete方法，不过它有个独特的功能。
 
 $memcached->delete('键', '阻塞时间(秒)');
+
 删除第一个参数指定的键的数据。第二个参数指定一个时间值，可以禁止使用同样的键保存新数据。 此功能可以用于防止缓存数据的不完整。但是要注意，set函数忽视该阻塞，照常保存数据
 
 增一和减一操作
 
 可以将memcached上特定的键值作为计数器使用。
 
+```
 
 my $ret = $memcached->incr('键');
 $memcached->add('键', 0) unless defined $ret;
+
+```
+
 增一和减一是原子操作，但未设置初始值时，不会自动赋成0
 
 
 
 5.内存存储方式
+
  本次将介绍memcached的内部构造的实现方式，以及内存的管理方式。 memcached的内部构造导致的弱点也将加以说明。 
 Slab Allocation机制：整理内存以便重复使用
 

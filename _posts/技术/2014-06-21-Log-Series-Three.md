@@ -98,6 +98,7 @@ protected void initChannel(SocketChannel ch) throws Exception {
 }
 
 ```
+
 至此Protobuf使用了稳定性更强的Netty中的组件。
 
 
