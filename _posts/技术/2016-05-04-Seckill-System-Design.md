@@ -10,11 +10,16 @@ description:
 最近在准备面试换工作，遇到一个秒杀方面的面试题，看了些文章，主要参考以下4篇文章，总结下，然后自己也细细思考下细节的处理。
 
 http://www.zhihu.com/question/20496392
+
 http://chuansong.me/n/1334017
+
 http://itindex.net/detail/53237-%E7%A7%92%E6%9D%80-%E7%B3%BB%E7%BB%9F-%E8%AE%BE%E8%AE%A1
+
 http://mengphilip.blog.51cto.com/2243393/1694547
 
+
 秒杀系统面对的问题：
+
 1.巨大的并发数
 2.瞬间并发的HTTP请求量巨大
 3.巨大的流量占用，因为不停的刷新页面
@@ -23,6 +28,7 @@ http://mengphilip.blog.51cto.com/2243393/1694547
 6.越过秒杀直接下单
 7.缓存和数据库中数据不一致。
 8.库存问题
+
 问题1：
 A:使用Netty之类框架，然后对ip进行限定一定时间内的访问，增加一些秒杀答题，或者验证码之类的
 B:集群

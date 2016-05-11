@@ -29,6 +29,7 @@ CommonLog commonLog2= CommonLog.parseFrom(byteArr );//这种可以，无论是so
 ```
 
 下面是readBytesFromStream方法：
+
 ```
 
 public static byte[] readBytesFromStream(InputStream in) throws IOException {
@@ -80,6 +81,7 @@ buf.readBytes(req);
 其实就是在Netty的类似Filter的处理机制中添加2个编解码的过滤类。
 Netty为protobuf提供了两个编码器（ProtobufEncoder，ProtobufVarint32LengthFieldPrepender），两个解码器（ProtobufVarint32FrameDecoder，ProtobufDecoder）
 具体代码如下
+
 ```
 
 protected void initChannel(SocketChannel ch) throws Exception {

@@ -13,72 +13,56 @@ ITEYE
 
 CSDN 
 
-并发编程网
 
-http://ifeve.com/
-
-云风的BLOG
-
-http://blog.codingnow.com/
-
-廖雪峰
-
-http://www.liaoxuefeng.com/
-
-INFOQ 
-
-http://www.infoq.com/
-
-andyliu在博客园
-
-http://www.blogjava.net/xylz/
-
-这个运维python等
-
-http://xiaorui.cc/
-
-阿里核心技术团队
-http://csrd.aliapp.com/
+[并发编程网]( http://ifeve.com/ )
 
 
-阿里中间件
-
-http://jm-blog.aliapp.com/
-
-阿里云
-
-http://blog.aliyun.com/
-
-淘宝搜索
-
-http://www.searchtb.com/
+[云风的BLOG]( http://blog.codingnow.com/ )
 
 
-阿里UED前端
+[廖雪峰的BLOG]( http://www.liaoxuefeng.com/ )
 
-http://ued.taobao.org/blog/
 
-IT职业发展规划
+[INFOQ]( http://www.infoq.com/ )
 
-http://wkee.net/
 
-原创文章翻译
+[andyliu在博客园]( http://www.blogjava.net/xylz/ )
 
-http://www.importnew.com/
 
-MartinFowler
+[运维python]( http://xiaorui.cc/ )
 
-http://martinfowler.com/
 
-Laurence的技术博客
+### 阿里
 
-http://blog.csdn.net/bluishglc
+[阿里核心技术团队]( http://csrd.aliapp.com/ )
+
+
+[阿里中间件]( http://jm-blog.aliapp.com/ )
+
+
+[阿里云]( http://blog.aliyun.com/ )
+
+
+[淘宝搜索]( http://www.searchtb.com/ )
+
+
+[阿里UED前端]( http://ued.taobao.org/blog/ )
+
+
+[IT职业发展规划]( http://wkee.net/ )
+
+
+[原创文章翻译]( http://www.importnew.com/ )
+
+### 大神
+
+[MartinFowler]( http://martinfowler.com/ )
+
 
 [Laurence的技术博客]( http://blog.csdn.net/bluishglc )
 
-酷壳
 
 这个网站非常的高大上，很详细。
+[酷壳]( http://coolshell.cn/ )
 
-http://coolshell.cn/
 

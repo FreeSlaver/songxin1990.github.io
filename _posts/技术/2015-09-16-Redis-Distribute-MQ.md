@@ -7,7 +7,7 @@ keywords:
 description: 
 ---
 
-##1、消息队列需提供哪些功能？##
+## 1、消息队列需提供哪些功能？##
 
 在功能设计上，我崇尚奥卡姆剃刀法则。
 
@@ -16,6 +16,7 @@ description:
 具体的业务场景是任务队列，代码设计如下：
 
 ```
+
 public abstract class TaskQueue{
     private final String name ;
     public String getName(){return this.name;}
@@ -44,9 +45,9 @@ popTask采用阻塞方式，还是非阻塞方式呢？
 
 先采用非阻塞的方式吧，如果队列是空的，popTask返回null，立即返回。
 
-##2、后续可能提供的功能##
+## 2、后续可能提供的功能 ##
 
-###2.1、引入Task生命周期概念应用场景不同，需求也不同。###
+### 2.1、引入Task生命周期概念应用场景不同，需求也不同。 ###
 
 在严格的应用场景中，需要确保每个Task执行“成功“了。 
 
@@ -57,6 +58,7 @@ popTask采用阻塞方式，还是非阻塞方式呢？
 调整后的代码如下：
 
 ```
+
 public abstract class TaskQueue{
 
     private final String name ;
@@ -71,7 +73,7 @@ public abstract class TaskQueue{
 
 ```
 
-###2.2、增加批量取出任务的功能popTask() ### 
+### 2.2、增加批量取出任务的功能popTask() ### 
 
 一次取出一个任务，太磨叽了。
 
@@ -80,12 +82,15 @@ public abstract class TaskQueue{
 我们需要一个一次取多个任务的方法。
 
 ```
+
 public abstract class TaskQueue{
     ... ...
     public abstract Serializable[] popTasks(long cnt);
 }
+
 ```
-###2.3、增加阻塞等待机制想象一种场景： ###
+
+### 2.3、增加阻塞等待机制想象一种场景： ###
 
 小明同学，取出一个任务，发现干不了，放回队列，再去取，取出来发现还是干不了，又放回去。反反复复。 
 
@@ -113,7 +118,7 @@ public abstract class TaskQueue{
 
 太复杂 了！设置一个连续失败次数的限制就够了！
 
-###2.4、考虑增加Task类不保存任务的相关数据是基本原则，绝对不动摇。### 
+### 2.4、考虑增加Task类不保存任务的相关数据是基本原则，绝对不动摇。### 
 
 增加Task类可以管理下生命周期，更有用的是，可以把Task本身设计成Listener，代码大概时这样的：
 
@@ -140,7 +145,7 @@ public abstract class Task{
 
 再考虑吧。
 
-###2.5、增加系统参数貌似需要个Config类了，不爽！ ###
+### 2.5、增加系统参数貌似需要个Config类了，不爽！ ###
 
 本来想做一个很小很精致的小东西的，如果必须再加吧。 
 

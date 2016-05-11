@@ -9,35 +9,35 @@ description:
 
 
 >#!/bin/bash
-#
-# 服务启动shell脚本
-# 这里的服务是指不需要web等容器加载的,直接java命令启动
-#
-#
+>#
+># 服务启动shell脚本
+># 这里的服务是指不需要web等容器加载的,直接java命令启动
+
+
 
 >#路径探测区
 
-```
 
-# =====================================
+
+># =====================================
 SERVICE_BIN_DIR=$(dirname $( readlink -f "$0"))
 SERVICE_HOME=$(dirname $SERVICE_BIN_DIR)
 
-```
+
 
 
 >#手动设置区
-# =====================================
+># =====================================
 JAVA_HOME=/usr/java/jdk1.7.0_71
 SERVICE_PORT=50011
 SERVICE_DEBUG_PORT=8077
-#程序运行主类
+>#程序运行主类
 SERVICE_MAIN=com.bd.log.server.Moja
-#配置及日志目录
+>#配置及日志目录
 CONF_DIR=$SERVICE_HOME/conf
-#LOGS_DIR=$SERVICE_HOME/logs
+>#LOGS_DIR=$SERVICE_HOME/logs
 LOGS_DIR=/app/logs/depLog
-#控制台日志
+>#控制台日志
 STDOUT_FILE=$LOGS_DIR/stdout.log
 
 ># 启动flag
@@ -50,8 +50,8 @@ JMX_PORT=50019
 
 
 ># 预探测服务存活
-# =====================================
-#判断该服务名称是否已经启动加载了
+># =====================================
+>#判断该服务名称是否已经启动加载了
 PIDS=$(ps --no-heading -C java -f --width 1000 | grep $SERVICE_HOME | awk '{print $2}')
 if [ -n "$PIDS" ]; then
     echo "ERROR: The $SERVICE_NAME already started!"
@@ -69,8 +69,8 @@ if [ -n "$SERVICE_PORT" ]; then
 fi
 
 ># 自动设置区
-# =====================================
-#服务名称和部署目录名称一般保持一致吧
+># =====================================
+>#服务名称和部署目录名称一般保持一致吧
 SERVICE_NAME=$(basename $SERVICE_HOME)
 if [ -z "$SERVICE_NAME" ]; then
     SERVICE_NAME=$( hostname)
@@ -91,8 +91,8 @@ echo "init server name[$SERVICE_NAME],server port[$SERVICE_PORT]"
 
 
 ># JAVA启动选项初始化区
-# =====================================
-# java 常规启动
+># =====================================
+># java 常规启动
 JAVA_OPTS=" -Djava.awt.headless=true -Djava.net.preferIPv4Stack=true -Dlog.path=${LOGS_DIR} -Dserver.port=${SERVICE_PORT} -Djmx.port=${JMX_PORT}"
 
 ># 默认启动内存配置
