@@ -76,6 +76,14 @@ $(document).ready(function() {
     });
   });
   contentEffects();
+
+  /* Init Fancybox */
+  $('.fancybox').fancybox({
+	padding : 0,
+	openEffect  : 'elastic',
+	closeBtn: false
+	
+  });
 });
 function contentEffects(){
   //remove the asidebar
