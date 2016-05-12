@@ -13,6 +13,8 @@ description:
 
 ![1]( http://7xtkrp.com1.z0.glb.clouddn.com/2014-07-20-ShenZhen-Cosplay-1.JPG )
 
+<a class="fancybox" href="http://7xtkrp.com1.z0.glb.clouddn.com/2014-07-20-ShenZhen-Cosplay-1.JPG" data-fancybox-group="gallery" title="深漫"><img src="http://7xtkrp.com1.z0.glb.clouddn.com/2014-07-20-ShenZhen-Cosplay-1.JPG" alt="" /></a>
+
 ![1]( http://7xtkrp.com1.z0.glb.clouddn.com/2014-07-20-ShenZhen-Cosplay-2.JPG )
 
 ![1]( http://7xtkrp.com1.z0.glb.clouddn.com/2014-07-20-ShenZhen-Cosplay-3.JPG )
