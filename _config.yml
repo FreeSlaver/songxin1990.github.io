@@ -36,7 +36,7 @@ active: 交易
 
 # 首页除了最新文章外显示分类
 cates: 
-  - top  
+  - TOP  
   - Dhyāna
 
 # 中文本地化
@@ -46,6 +46,6 @@ locals:
   newest: 最新文章
   archive: 归档
   Dhyāna: 禅
-  top: 置顶
+  TOP: 置顶
   
   
