@@ -1,8 +1,8 @@
 ---
-layout: post
-title: 中国的文化乃是一种阉割的文化
-category: 写作
-tags: 文化 未完待续
+layout: post  
+title: 中国的文化乃是一种阉割的文化  
+category: 写作  
+tags:
 keywords: 
 description: 
 ---
