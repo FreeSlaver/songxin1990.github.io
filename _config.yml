@@ -32,7 +32,7 @@ disqus:
   shortname: 3gods
 
 # 主题设置，自动激活某个标签
-active: 交易
+active: 归档
 
 # 首页除了最新文章外显示分类
 cates: 
