@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 中国的文化乃是一种阉割的文化
+title: 中国文化
 category: 生活
-tags: dream
+tags: 
 keywords: 
 description: 
 ---
