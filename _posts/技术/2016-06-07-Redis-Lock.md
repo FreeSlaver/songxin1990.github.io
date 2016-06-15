@@ -51,6 +51,49 @@ Redis实现分布式锁
 http://blog.csdn.net/java2000_wl/article/details/8740911
 
 
+### 后续跟新
+
+上面的方法会造成redis死锁，我想应该是每次获取连接之后没有释放之类的。具体原因我来看看源码。改进后的代码：
+
+```
+
+public boolean setNX(final K key, final V value) {
+	return redisTemplate.execute(new RedisCallback<Boolean>() {
+		@SuppressWarnings("unchecked")
+		public Boolean doInRedis(RedisConnection connection) throws DataAccessException {
+			RedisSerializer<K> keySerializer = (RedisSerializer<K>) redisTemplate.getKeySerializer();
+			byte[] keys = keySerializer.serialize(key);
+			RedisSerializer<V> valueSerializer = (RedisSerializer<V>) redisTemplate.getValueSerializer();
+			byte[] values = valueSerializer.serialize(value);
+			return connection.setNX(keys, values);
+		}
+	});
+}
+
+
+public boolean tryLock(K key, V value, final long expire, final long timeout, TimeUnit unit) {
+	long nano = System.nanoTime();
+	do {
+		boolean result = setNX(key, value);
+		if (result) {
+			redisTemplate.expire(key, expire, TimeUnit.SECONDS);
+			return true;
+		}
+		if (timeout == 0) {
+			break;
+		}
+		try {
+			Thread.sleep(300);
+		} catch (InterruptedException e) {
+			logger.error(e.getMessage(), e);
+		}
+	} while ((System.nanoTime() - nano) < unit.toNanos(timeout));
+	return false;
+}
+
+```
+
+
 
 
 
