@@ -8,7 +8,7 @@ description:
 ---
 
 
-<img src="http://7xtttt.com1.z0.glb.clouddn.com/Little-Green-Book-Note.jpg" alt="" /></a>
+<img src="http://7xtttt.com1.z0.glb.clouddn.com/Little-Green-Book-Note.jpg"/>
 
 
 1.成功的打法取决于你是否做出正确的决定，与盈利无关。
@@ -137,7 +137,7 @@ J5是9-8-7，Q6翻牌是T-9-8。
 
 62.用AT一下的AX全下，或者Call别人的全下，是负EV。
 
-<font color='red'>63.尽可能多的，便宜的去看翻牌。德州扑克的收益来自于：1.位置，2.良好的底池赔率，3.投入的成本，4.对手实力比你弱，5.对手弃牌。</font >
+63.尽可能多的，便宜的去看翻牌。德州扑克的收益来自于：1.位置，2.良好的底池赔率，3.投入的成本，4.对手实力比你弱，5.对手弃牌。
 
 
 

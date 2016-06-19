@@ -6,12 +6,11 @@
 	var _palyInterval;
 	var n=0;
 	var urls = [
-				"/public/mus/Sunrise.mp3",
-				"/public/mus/Lost.mp3",
-				"/public/mus/ElectricRemo.mp3",
-				"/public/mus/PerfectCircle.mp3",
-				"/public/mus/ELDorado.mp3",
-				"/public/mus/ViolinConcerto.mp3"	
+				"http://7xnlfe.com1.z0.glb.clouddn.com/Lost.mp3",
+				"http://7xnlfe.com1.z0.glb.clouddn.com/ElDorado.mp3",
+				"http://7xnlfe.com1.z0.glb.clouddn.com/PerfectCircle.mp3",
+				"http://7xnlfe.com1.z0.glb.clouddn.com/Sunrise.mp3",
+				"http://7xnlfe.com1.z0.glb.clouddn.com/ViolinConcerto.mp3"
 		];
 
 	$.fn.simplemusic=function(settings){
