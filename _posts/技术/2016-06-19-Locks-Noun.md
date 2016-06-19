@@ -11,9 +11,9 @@ description:
 
 
 
-JDK1.5到1.6对锁进行了大量优化，适应性自旋（Adaptive Spinning），锁清除（Lock Elimination），锁粗化（），轻量级锁（）和偏向锁（）等，都是为了高效的共享数据。
+JDK1.5到1.6对锁进行了大量优化，适应性自旋（Adaptive Spinning），锁清除（Lock Elimination），锁粗化（Lock Coarsening），轻量级锁（Lightweight Locking）和偏向锁（Biased Locking）等，都是为了高效的共享数据。
 
-### 自旋锁于自适应锁
+### 自旋锁与自适应锁
 
 互斥同步对性能最大的影响是阻塞的实现，挂起线程和回复线程的操作都需要转入内核态中完成，也就是造成很大的用户态和内核态切换的开销。
 
