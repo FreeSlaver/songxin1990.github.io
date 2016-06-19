@@ -1,5 +1,5 @@
 (function($){
-	/*
+	/*; 
 		simpler music player
 	*/
 	var _playstatus = false;
@@ -7,10 +7,12 @@
 	var n=0;
 	$.fn.simplemusic=function(settings){
 		$(this).css({"z-index":"999","width":"44px","height":"44px","position":"fixed","bottom":"10px","right":"10px","cursor":"pointer","background":"url(http://7xnlfe.com1.z0.glb.clouddn.com/o_music_note_big.png)"}).bind("click",function(){
+			var musLen = settings.length;
+			var rand = parseInt(Math.random()*musLen+1)
 			if(_playstatus){
-				pause(this);
+				pause(this,rand);
 			}else{
-				play(this);
+				play(this,rand);
 			}
 		});
 		var audio = document.createElement("audio");
@@ -25,15 +27,15 @@
 		}
 		if(settings.autoplay&&settings.autoplay == true){$(this).click();}
 	};
-	function play(e){
+	function play(e,index){
 		_palyInterval = setInterval(function(){
 			startRotate(e);
 		},10);
-		$("#audioPlayer")[0].play();
+		$("#audioPlayer")[index].play();
 		_playstatus=true;
 	}
-	function pause(){
-		$("#audioPlayer")[0].pause();
+	function pause(e,index){
+		$("#audioPlayer")[index].pause();
 		clearInterval(_palyInterval);
 		_playstatus=false;
 	}
