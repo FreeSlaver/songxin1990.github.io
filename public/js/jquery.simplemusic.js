@@ -27,20 +27,21 @@
 		
 		if(settings.loop && settings.loop==true){ $(audio).attr("loop","loop");}
 		
-		//if(urls && urls instanceof Array){
+		if(urls && urls instanceof Array){
 			var musLen = urls.length - 1;
-			//var musId = parseInt(Math.random()*musLen);
-			//var source = document.createElement("source");
-			//$(source).attr("src",urls[musId]).appendTo($(audio));
-			
-			var musId = 0;
+			var musId = parseInt(Math.random()*musLen);
 			var source = document.createElement("source");
-			$(source).attr("src",urls[musId%musLen]).appendTo($(audio));
-		//}
+			$(source).attr("src",urls[musId]).appendTo($(audio));
+			//for (var i=0;i<urls.length;i++)
+			//	{
+				
+			//	var source = document.createElement("source");
+			//	$(source).attr("src",urls[i]).appendTo($(audio));
+			//	}
+			
+		}
 		//当一首歌结束时，
-		$("#audio").attr("onended","javascript:
-				++musId;
-				$(source).attr("src",urls[musId%musLen]).appendTo($(audio));");
+		//$("#audio").attr("onended","javascript:alert('This is a test!');");
 
 		if(settings.autoplay&&settings.autoplay == true){$(this).click();}
 	};
