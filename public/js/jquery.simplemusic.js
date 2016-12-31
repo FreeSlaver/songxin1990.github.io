@@ -32,16 +32,13 @@
 			//var musId = parseInt(Math.random()*musLen);
 			//var source = document.createElement("source");
 			//$(source).attr("src",urls[musId]).appendTo($(audio));
-			for (var i=0;i<urls.length;i++)
-				{
-				
-				var source = document.createElement("source");
-				$(source).attr("src",urls[i]).appendTo($(audio));
-				}
+			
 			
 		}
 		//当一首歌结束时，
-		//$("#audio").attr("onended","javascript:alert('This is a test!');");
+		$("#audio").attr("onended","javascript:
+				++musId;
+				$(source).attr("src",urls[i]).appendTo($(audio));");
 
 		if(settings.autoplay&&settings.autoplay == true){$(this).click();}
 	};
