@@ -4,6 +4,8 @@
 	*/
 	var _playstatus = false;
 	var _palyInterval;
+	//标记到哪首曲子
+	var index = 0;
 	var n=0;
 	var urls = [
 				"http://7xnlfe.com1.z0.glb.clouddn.com/Lost.mp3",
@@ -27,11 +29,14 @@
 		
 		if(settings.loop && settings.loop==true){ $(audio).attr("loop","loop");}
 		
-		if(urls && urls instanceof Array){
-			var musLen = urls.length - 1;
-			var musId = parseInt(Math.random()*musLen);
-			var source = document.createElement("source");
-			$(source).attr("src",urls[musId]).appendTo($(audio));
+		
+		var source = document.createElement("source");
+		$(source).attr("src",urls[index]).appendTo($(audio));
+		//if(urls && urls instanceof Array){
+			//var musLen = urls.length - 1;
+			//var musId = parseInt(Math.random()*musLen);
+			//var source = document.createElement("source");
+			//$(source).attr("src",urls[musId]).appendTo($(audio));
 			//for (var i=0;i<urls.length;i++)
 			//	{
 				
@@ -39,9 +44,9 @@
 			//	$(source).attr("src",urls[i]).appendTo($(audio));
 			//	}
 			
-		}
+		//}
 		//当一首歌结束时，
-		//$("#audio").attr("onended","javascript:alert('This is a test!');");
+		$("#audio").attr("onended","next(this)");
 
 		if(settings.autoplay&&settings.autoplay == true){$(this).click();}
 	};
@@ -58,6 +63,13 @@
 		$("#audioPlayer")[0].pause();
 		clearInterval(_palyInterval);
 		_playstatus=false;	
+	}
+	function next(e){
+		index += 1;
+		if(index==urls.length){
+			index = 0;
+		}
+		$(source).attr("src",urls[index]).appendTo($(audio));
 	}
 
 	function startRotate(e){
