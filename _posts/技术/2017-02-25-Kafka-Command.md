@@ -9,7 +9,7 @@ description:
 
 一些使用Kafka时经常用到的命令。
 
-** 启动kafka **
+**启动kafka**
 
 JMX_PORT=9997  bin/kafka-server-start.sh config/server.properties &
 
