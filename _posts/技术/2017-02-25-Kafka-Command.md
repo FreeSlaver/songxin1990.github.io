@@ -112,9 +112,10 @@ bin/kafka-reassign-partitions.sh --zookeeper localhost:2181 --reassignment-json-
 
 
 **kafka启动时设置JMX环境变量** 
+之所以要这么设置，是因为线上环境，Kafka Manager需要配置Kafka节点的域名，使用IP非同台机器会报错
 
 ```
-之所以要这么设置，是因为线上环境，Kafka Manager需要配置Kafka节点的域名，使用IP非同台机器会报错
+
 KAFKA_JMX_OPTS="-Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote.authenticate=false  -Dcom.sun.management.jmxremote.ssl=false -Djava.rmi.server.hostname=$ip" JMX_PORT=9997 bin/kafka-server-start.sh config/server.properties
 
 ```
