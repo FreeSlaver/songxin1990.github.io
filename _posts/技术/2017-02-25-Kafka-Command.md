@@ -79,6 +79,8 @@ echo "exclude.internal.topics=false" > /tmp/consumer.config
 
 **手动均衡topic** 
 
+```
+
 bin/kafka-preferred-replica-election.sh --zookeeper 192.168.197.170:2181,192.168.197.171:2181 --path-to-json-file preferred-click.json
 cat preferred-click.json
 {
@@ -95,6 +97,8 @@ cat preferred-click.json
     ]
 }
 
+```
+
 **修改kafka Replication factor副本数量**
 
 1.bin/kafka-topics.sh --zookeeper host:port --alter --topic name --replication-factor 3
@@ -109,8 +113,11 @@ bin/kafka-reassign-partitions.sh --zookeeper localhost:2181 --reassignment-json-
 
 **kafka启动时设置JMX环境变量** 
 
+```
+之所以要这么设置，是因为线上环境，Kafka Manager需要配置Kafka节点的域名，使用IP非同台机器会报错
 KAFKA_JMX_OPTS="-Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote.authenticate=false  -Dcom.sun.management.jmxremote.ssl=false -Djava.rmi.server.hostname=$ip" JMX_PORT=9997 bin/kafka-server-start.sh config/server.properties
 
+```
 **启动kafka-manager如要设置访问端口，加-Dhttp.port=8080**
 
 nohup bin/kafka-manager -Dconfig.file=conf/application.conf  -Dapplication.home=/data/kafka-manager &
@@ -119,6 +126,9 @@ nohup bin/kafka-manager -Dconfig.file=conf/application.conf  -Dapplication.home=
 
 **查看kafka打开的连接数** 
 
+```
+
 lsof -n  | grep `ps aux | grep kafka  | grep -v grep| grep -v kafka-manager | awk '{print $2}'`  | awk '{print $2}'|sort|uniq -c|sort -nr | awk '{print $1}'
 
+```
 
