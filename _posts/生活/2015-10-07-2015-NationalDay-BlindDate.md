@@ -2,7 +2,7 @@
 layout: post
 title: 2015年国庆相亲记
 category: 生活
-tags: Life Blind-Date
+tags: 感悟
 keywords: 
 description: 2015年国庆相亲记
 secret: 20151007nb

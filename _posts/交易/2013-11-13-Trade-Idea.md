@@ -2,7 +2,7 @@
 layout: post
 title: 投资投机心法
 category: 交易
-tags: Summary
+tags: 总结
 keywords: 
 description: 
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: MySQL存储引擎及区别
 category: 技术
-tags: Interview MySQL
+tags: 面试
 keywords: 
 description: 
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: 关于Redis keys命令
 category: 技术
-tags: Redis
+tags: redis
 keywords: 
 description: 
 ---

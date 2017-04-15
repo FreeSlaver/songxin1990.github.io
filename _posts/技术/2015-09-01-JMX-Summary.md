@@ -2,7 +2,7 @@
 layout: post
 title: JMX模块总结
 category: 技术
-tags: JMX Summary
+tags: JMX
 keywords: 
 description: 
 ---

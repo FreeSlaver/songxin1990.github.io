@@ -2,7 +2,7 @@
 layout: post
 title: 在美元的闸刀面前，一切都是浮云
 category: 交易
-tags: 黑天鹅
+tags: 思维
 keywords: 
 description: 
 ---

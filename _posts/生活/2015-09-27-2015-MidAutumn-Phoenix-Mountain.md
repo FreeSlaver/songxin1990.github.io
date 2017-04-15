@@ -2,7 +2,7 @@
 layout: post
 title: 2015中秋凤凰山
 category: 生活
-tags: Fun Life
+tags: 感悟
 keywords: 
 description: 
 secret: 20150927mpm

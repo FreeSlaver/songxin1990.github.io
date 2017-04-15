@@ -2,7 +2,7 @@
 layout: post
 title: 几个交易策略
 category: 交易
-tags: TradingSystem
+tags: 交易系统
 keywords: 
 description: 
 ---

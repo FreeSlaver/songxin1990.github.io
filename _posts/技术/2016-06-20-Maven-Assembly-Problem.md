@@ -2,7 +2,7 @@
 layout: post
 title: Maven assembly打包报错
 category: 技术
-tags: Maven
+tags: projectbuild
 keywords: 
 description: 
 ---

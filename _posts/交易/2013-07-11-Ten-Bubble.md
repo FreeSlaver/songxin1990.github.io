@@ -2,7 +2,7 @@
 layout: post
 title: 十大交易员“圣经”
 category: 交易
-tags: 书籍
+tags: 读书
 keywords: 
 description: 
 ---

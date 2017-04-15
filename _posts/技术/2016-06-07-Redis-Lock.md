@@ -2,7 +2,7 @@
 layout: post
 title: Redis实现锁
 category: 技术
-tags: 
+tags: lock
 keywords: 
 description: 
 ---

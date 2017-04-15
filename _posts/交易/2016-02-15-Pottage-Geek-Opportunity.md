@@ -2,7 +2,7 @@
 layout: post
 title: 浓汤野人：交易中的机会
 category: 交易
-tags: 
+tags: 转载
 keywords: 
 description: 
 ---

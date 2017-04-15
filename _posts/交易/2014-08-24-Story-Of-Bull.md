@@ -2,7 +2,7 @@
 layout: post
 title: 牛的故事
 category: 交易
-tags: BullStock
+tags: 股票
 keywords: 
 description: 
 ---

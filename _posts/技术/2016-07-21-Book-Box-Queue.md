@@ -2,7 +2,7 @@
 layout: post
 title: 预约箱格请求排队
 category: 技术
-tags: 
+tags: queue
 keywords: 
 description: 
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: 艾迪.塞柯塔访谈摘要
 category: 交易
-tags: 
+tags: 转载
 keywords: 
 description: 
 ---

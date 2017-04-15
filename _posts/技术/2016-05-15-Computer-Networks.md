@@ -2,7 +2,7 @@
 layout: post
 title: 计算机网络 
 category: 技术
-tags: 计算机课程
+tags: 内功
 keywords: 
 description: 
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: IT必读书籍
 category: 技术
-tags: 书籍
+tags: 读书
 keywords: 
 description: 
 ---

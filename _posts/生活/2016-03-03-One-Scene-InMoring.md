@@ -2,7 +2,7 @@
 layout: post
 title: 今天早上发生的一幕
 category: 生活
-tags: Life 
+tags: 感悟 
 keywords: 
 description: 
 ---

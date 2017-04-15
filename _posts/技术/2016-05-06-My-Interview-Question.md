@@ -2,7 +2,7 @@
 layout: post
 title: 我遇到的笔试面试题
 category: 技术
-tags: Interview
+tags: 面试
 keywords: 
 description: 
 ---

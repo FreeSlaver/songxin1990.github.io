@@ -2,7 +2,7 @@
 layout: post
 title: 股市金刚经
 category: 交易
-tags: 炒股
+tags: 炒股 转载
 keywords: 
 description: 
 ---

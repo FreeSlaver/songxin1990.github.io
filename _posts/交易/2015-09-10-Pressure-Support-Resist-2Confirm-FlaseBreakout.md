@@ -2,7 +2,7 @@
 layout: post
 title: 压力 支撑 阻挡 二次确认 假突破
 category: 交易
-tags: TradingIdea
+tags: 总结
 keywords: 
 description: 
 ---

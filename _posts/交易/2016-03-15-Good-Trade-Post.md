@@ -2,7 +2,7 @@
 layout: post
 title: 几个好的交易帖子
 category: 交易
-tags: 
+tags: 转载
 keywords: 
 description: 
 ---

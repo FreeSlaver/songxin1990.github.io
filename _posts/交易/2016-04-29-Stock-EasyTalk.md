@@ -2,7 +2,7 @@
 layout: post
 title: 炒股简单说就是
 category: 交易
-tags: 
+tags: 股票
 keywords: 
 description: 
 ---
