@@ -2,21 +2,6 @@
 layout: base
 ---
 
-<script type="text/javascript">	
-	var pwd = "{{page.secret}}";
-	if(pwd){
-		//如果是保密的，先隐藏起来
-		document.getElementById("content").style.display="none";
-		var str=prompt("权限不足，请输入阅读码查看！");
-		if(str==pwd){
-			document.getElementById("content").style.display="block";
-		}else{					
-			alert("阅读码错误，当前页面正在跳转.....") ;
-			window.location.href = "http://3gods.com/" ;
-		}
-	}   
-</script>
-
 <div class="row">
   <div class="col-md-13 aside3-title">
     <br>
@@ -31,9 +16,7 @@ layout: base
         {{ content }}
     </div>
 	
-    <hr>
-    {% include disqus.html %}
-  </div>
+    </div>
   <!-- 目录 -->
   <div id="content_table" style="position:fixed;right:20px;top:120px;display:none;">
     <div class="panel panel-success">

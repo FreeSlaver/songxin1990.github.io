@@ -6,11 +6,8 @@ markdown: kramdown
 author: 
   name: 宋鑫
   email: 504252262@qq.com
-  link: http://3gods.com
-  weibo: http://weibo.com/u/2935730063/home?topnav=1&wvr=6
   github: http://github.com/songxin1990
-  music: http://www.xiami.com/space/lib-song?spm=a1z1s.6928797.226669510.3.wQwdsL
-  linkedin: https://www.linkedin.com/?trk=baidubrand-mainlink
+  linkedin: https://www.linkedin.com/in/song-xin/
 
 # 站点信息
 title: 宋鑫的博客
@@ -23,29 +20,27 @@ gavatar: http://7xnlfe.com1.z0.glb.clouddn.com/20130304_sunflower.jpg
 favicon: http://7xnlfe.com1.z0.glb.clouddn.com/20130304_sunflower.jpg
 
 # google analytics 设置
-ga:
-  id: UA-49965095-1
-  url: 3gods.com
+#ga:
+  #id: UA-49965095-1
+  #url: 3gods.com
 
 # disqus 设置
-disqus:
-  shortname: 3gods
+#disqus:
+  #shortname: 3gods
 
 # 主题设置，自动激活某个标签
 active: 归档
 
-# 首页除了最新文章外显示分类
+# 首页除了最新文章外显示其他分类
 cates: 
-  - TOP  
-  - Dhyāna
+- essence
 
 # 中文本地化
 locals:
   tags: 标签
-  about: 关于
   newest: 最新文章
   archive: 归档
   Dhyāna: 禅
-  TOP: 置顶
+  essence: 精华
   
   
