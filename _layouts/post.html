@@ -6,16 +6,20 @@ layout: base
   <div class="col-md-13 aside3-title">
     <br>
     <h2 id="#identifier">{{ page.title }}</h2>
-    {{ page.date | date:"%Y年%m月%d日" }}
+    {{ site.author.name }} &nbsp;&nbsp;  {{ page.date | date:"%Y-%m-%d" }}
   </div>
   
   <div class="col-md-13 aside3-content">
     <hr>
-	
+
     <div id="content">
         {{ content }}
     </div>
-	
+
+    <hr>
+    <!--<div id="tag">
+        {{page.tags}}
+    </div>-->
     </div>
   <!-- 目录 -->
   <div id="content_table" style="position:fixed;right:20px;top:120px;display:none;">

@@ -77,12 +77,12 @@ $(document).ready(function() {
   });
   contentEffects();
 
-  /* Init Fancybox */
+ /* /!* Init Fancybox *!/
   $('.fancybox').fancybox({
 	padding : 0,
 	openEffect  : 'elastic',
 	closeBtn: false
-	
+
   });
 
   $('.fancybox-buttons').fancybox({
@@ -102,10 +102,10 @@ $(document).ready(function() {
 	},
 
 	afterLoad : function() {
-		/*this.title = 'Image ' + (this.index + 1) + ' of ' + this.group.length + (this.title ? ' - ' + this.title : '');*/
-		/*this.title = this.title ? this.title : ' ';*/
+		/!*this.title = 'Image ' + (this.index + 1) + ' of ' + this.group.length + (this.title ? ' - ' + this.title : '');*!/
+		/!*this.title = this.title ? this.title : ' ';*!/
 	}
-	});
+	});*/
 
 
 });

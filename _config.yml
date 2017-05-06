@@ -11,7 +11,7 @@ author:
 
 # 站点信息
 title: 宋鑫的博客
-description: My personal blog
+description: songxin blog
 url: http://3gods.com
 rss_url: /pages/atom.xml
 
@@ -33,7 +33,7 @@ active: 归档
 
 # 首页除了最新文章外显示其他分类
 cates: 
-- essence
+- 精华
 
 # 中文本地化
 locals:
@@ -42,5 +42,7 @@ locals:
   archive: 归档
   Dhyāna: 禅
   essence: 精华
-  
-  
+
+# gems 设置
+#gems:
+  #- jekyll-gist

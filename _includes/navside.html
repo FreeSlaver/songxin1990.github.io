@@ -2,9 +2,12 @@
   <div class="row">
     <div class="col-md-2 col-xs-2 aside1">
       <br>
-      <a class="pjaxlink" href="/"><img src="{{ site.gavatar }}" class="img-ronuded avatar" style="border-width:0px; border-color:#000"></a>
-      <br><br><br><br>
+     <!-- <a class="pjaxlink" href="/">&lt;!&ndash;<img src="{{ site.gavatar }}" class="img-ronuded avatar" style="border-width:0px; border-color:#000">&ndash;&gt;
+        主页
+      </a>-->
+      <!--<br><br><br><br>-->
       <ul class="nav nav-pills nav-stacked">
+        <li><a class="pjaxlink" href="/">主页</a></li>
         {% for category in site.categories %}     
          <li><a href="#{{ category | first }}" data-toggle="tab">{{ category[0] }}</a></li>
         {% endfor %}
@@ -12,14 +15,6 @@
         <li><a class="pjaxlink" href="/pages/archive.html">{{ site.locals.archive }}</a></li>
         
       </ul>
-      <div class="aside1_bottom">
-        <table class="table table-condensed">
-          <tr>
-            <td><a href="/pages/atom.xml" target="_blank"><i class="fa fa-rss fa-lg" style="color:#fff;"></i></a></td>
-            <td><a href="mailto:{{ site.author.email }}"><i class="fa fa-envelope-o fa-lg" style="color:#fff;"></i></a></td>
-          </tr>
-        </table>
-      </div>
     </div>
     <div class="col-md-10 col-xs-10 aside2">
       <div class="row">
@@ -33,7 +28,8 @@
                 {% endfor %}
               </div>
             </div>
-          {% endfor %}      
+          {% endfor %}
+
           <div class="tab-pane" id="tags">
             <div class="panel-group" id="accordion">
               <!--<h2 class="center">{{ site.locals.tags }}</h2>-->
@@ -56,6 +52,7 @@
               {% endfor %}
             </div>
           </div>
+
         </div>
       </div>
     </div>
