@@ -24,24 +24,20 @@ favicon: http://7xnlfe.com1.z0.glb.clouddn.com/20130304_sunflower.jpg
   #id: UA-49965095-1
   #url: 3gods.com
 
-# disqus 设置
-#disqus:
-  #shortname: 3gods
-
 # 主题设置，自动激活某个标签
 active: 归档
 
 # 首页除了最新文章外显示其他分类
 cates: 
-- 精华
+- 精华文章
 
 # 中文本地化
 locals:
   tags: 标签
   newest: 最新文章
   archive: 归档
-  Dhyāna: 禅
-  essence: 精华
+  zen: 禅
+  essence: 精华文章
 
 # gems 设置
 #gems:
