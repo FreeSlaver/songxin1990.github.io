@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 捕捉市场偏见
-category: 交易
-tags: 思维
+category: stock
+tags: 
 keywords: 
 description: 
 ---

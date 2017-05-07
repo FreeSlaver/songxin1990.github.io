@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 小绿皮书读书笔记
-category: 交易
+category: porker
 tags: 
 keywords: 
 description: 

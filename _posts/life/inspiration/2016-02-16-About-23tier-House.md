@@ -2,7 +2,7 @@
 layout: post
 title: 最近想到点事情
 category: 生活
-tags: 思维
+tags: 
 keywords: 
 description: 
 ---

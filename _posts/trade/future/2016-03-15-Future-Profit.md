@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 期货日内交易的止损、持盈和止盈法则
-category: 交易
-tags: 期货
+category: future
+tags: 
 keywords: 
 description: 
 ---

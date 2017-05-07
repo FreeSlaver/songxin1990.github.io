@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 趋势的发展过程
-category: 交易
+category: stock
 tags: 
 keywords: 
 description: 

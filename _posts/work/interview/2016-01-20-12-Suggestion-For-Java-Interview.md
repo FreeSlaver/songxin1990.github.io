@@ -2,7 +2,7 @@
 layout: post
 title: 13点建议，三个月，顺利搞定8千以上Java面试及笔试题！
 category: 技术
-tags: 面试
+tags: 
 keywords: 
 description: 
 ---

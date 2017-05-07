@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 小散户
-category: 交易
+category: stock
 tags: 
 keywords: 
 description: 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Elasticsearch  Shield安装部署 JAVA连接
-category: 技术
-tags: Elasticsearch Shield
+category: project
+tags: 
 keywords: 
 description: 
 ---

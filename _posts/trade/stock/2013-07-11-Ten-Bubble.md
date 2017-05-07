@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 十大交易员“圣经”
-category: 交易
-tags: 读书
+category: stock
+tags: 
 keywords: 
 description: 
 ---

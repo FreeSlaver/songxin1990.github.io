@@ -1,0 +1,50 @@
+---
+layout: page_title
+title: <i class="fa fa-archive fa-lg"></i>
+titlename: 交易
+comments: false
+---
+
+<!-- 工作下分：面试求职，职场发展，高效工作-->
+<h2 id="#interview">{{ site.locals.interview }}</h2>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "interview" %}
+    <li>
+        <h3>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h3>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+<h2 id="#career">{{ site.locals.career }}</h2>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "career" %}
+    <li>
+        <h3>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h3>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+<h2 id="#effecthabit">{{ site.locals.effecthabit }}</h2>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "effecthabit" %}
+    <li>
+        <h3>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h3>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+
+
+

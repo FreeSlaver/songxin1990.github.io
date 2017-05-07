@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 盘感训练方法
-category: 交易
-tags: 交易 转载
+category: stock
+tags: 
 keywords: 
 description: 
 ---

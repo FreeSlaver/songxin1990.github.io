@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 日志队列系统一：总体简介
-category: 技术
-tags: log
+category: project
+tags: 
 keywords: 
 description: 
 ---

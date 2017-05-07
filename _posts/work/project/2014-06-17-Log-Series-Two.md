@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 日志队列系统二 关于protobuf
-category: 技术
-tags: log protobuf
+category: project
+tags: 
 keywords: 
 description: 
 ---

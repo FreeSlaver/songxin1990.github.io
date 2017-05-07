@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 小对子的玩法
-category: 交易
+category: porker
 tags: porker
 keywords: 
 description: 

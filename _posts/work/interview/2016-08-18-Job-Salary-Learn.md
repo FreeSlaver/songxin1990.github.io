@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 工作无非拿钱干活，要不卖力学东西
-category: 技术
-tags: 事业
+category: career
+tags: 
 keywords: 
 description: 
 ---

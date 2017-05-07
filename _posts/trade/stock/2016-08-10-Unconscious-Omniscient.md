@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 无所知，无所不知
-category: 交易
+category: stock
 tags: 
 keywords: 
 description: 

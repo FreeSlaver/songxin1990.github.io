@@ -1,0 +1,35 @@
+---
+layout: page_title
+title: <i class="fa fa-archive fa-lg"></i>
+titlename: 交易
+comments: false
+---
+
+<!-- 摄影下分：旅行，生活，商业，-->
+<h2 id="#poem">{{ site.locals.poem }}</h2>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "poem" %}
+    <li>
+        <h3>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h3>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+<h2 id="#sanwen">{{ site.locals.sanwen }}</h2>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "sanwen" %}
+    <li>
+        <h3>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h3>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+

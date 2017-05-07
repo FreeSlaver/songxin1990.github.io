@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 投机
-category: 交易
-tags: 总结
+category: stock
+tags: 
 keywords: 
 description: 
 ---

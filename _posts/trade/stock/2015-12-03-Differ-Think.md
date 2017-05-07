@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 逆思考
-category: 交易
+category: stock
 tags: 
 keywords: 
 description: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 最近观察
-category: 交易
+category: stock
 tags: 
 keywords: 
 description: 

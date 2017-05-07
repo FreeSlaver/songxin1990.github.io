@@ -1,0 +1,59 @@
+---
+layout: page_title
+title: <i class="fa fa-archive fa-lg"></i>
+titlename: 交易
+comments: false
+---
+
+<!--这里可以先这么写着，后面可以在config中配置collections然后遍历？
+首先要想的是将博客分为几大主题？
+交易，技术，公众号，文化，艺术，经济，政治，历史，读书，写作，诗词，
+设计，摄影，旅行，生活，德州，工作，
+
+
+交易，技术，摄影，工作，生活，
+
+交易下分：股票，期货，交易系统，
+
+技术下分：大数据，基础，开源，工具，并发，
+
+哈哈，全部用英文，然后本地locals下转成中文。
+-->
+<h2 id="#stock">{{ site.locals.stock }}</h2>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "stock" %}
+    <li>
+        <h3>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h3>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+<h2 id="#future">{{ site.locals.future }}</h2>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "future" %}
+    <li>
+        <h3>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h3>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+<h2 id="#tradesystem">{{ site.locals.tradesystem }}</h2>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "tradesystem" %}
+    <li>
+        <h3>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h3>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>

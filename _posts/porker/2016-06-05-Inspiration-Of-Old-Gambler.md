@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 一个老赌徒对赌博的感悟
-category: 交易
+category: porker
 tags: 转载
 keywords: 
 description: 

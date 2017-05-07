@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 20160626下午5/10打的几手牌
-category: 交易
+category: porker
 tags: porker
 keywords: 
 description: 

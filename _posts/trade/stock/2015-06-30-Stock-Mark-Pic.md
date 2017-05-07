@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 炒股笔记配图
-category: 交易
-tags: 股票
+category: stock
+tags: 
 keywords: 
 description: 
 ---

@@ -1,0 +1,35 @@
+---
+layout: page_title
+title: <i class="fa fa-archive fa-lg"></i>
+titlename: 交易
+comments: false
+---
+
+<!-- 写作下分：诗词，散文，小说，-->
+<h2 id="#book">{{ site.locals.book }}</h2>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "book" %}
+    <li>
+        <h3>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h3>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+<h2 id="#duhougan">{{ site.locals.duhougan }}</h2>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "sanwen" %}
+    <li>
+        <h3>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h3>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+

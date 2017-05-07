@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 从可能性出发
-category: 交易
+category: stock
 tags: 
 keywords: 
 description: 

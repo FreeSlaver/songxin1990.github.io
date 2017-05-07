@@ -1,8 +1,8 @@
 ---
 layout: post
 title: PVC交易日记
-category: 交易
-tags: 期货 日记
+category: future
+tags: 
 keywords: 
 description: 
 ---

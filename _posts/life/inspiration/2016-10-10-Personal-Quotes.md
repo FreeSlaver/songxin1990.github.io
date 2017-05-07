@@ -2,9 +2,10 @@
 layout: post
 title: 个人语录
 category: 生活
-tags: 思维 
+tags: 
 keywords: 
 description: 
+publish: false
 ---
 
 

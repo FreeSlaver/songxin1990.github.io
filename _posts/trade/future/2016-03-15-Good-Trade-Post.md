@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 几个好的交易帖子
-category: 交易
-tags: 转载
+category: future
+tags: 
 keywords: 
 description: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SNG比赛记录一
-category: 交易
+category: porker
 tags: porker
 keywords: 
 description: 

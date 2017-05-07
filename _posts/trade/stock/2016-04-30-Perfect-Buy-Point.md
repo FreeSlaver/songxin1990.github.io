@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 最完美的买点
-category: 交易
+category: stock
 tags: 
 keywords: 
 description: 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 秒杀系统设计 总结
-category: 技术
-tags: 面试
+category: interview
+tags: 
 keywords: 
 description: 
 ---

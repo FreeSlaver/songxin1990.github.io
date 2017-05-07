@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 最近一段时间的操作总结
-category: 交易
-tags: 期货
+category: future
+tags: 
 keywords: 
 description: 
 ---

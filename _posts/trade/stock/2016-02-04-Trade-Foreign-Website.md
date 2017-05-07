@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 几个国外的交易网站
-category: 交易
+category: stock
 tags: 
 keywords: 
 description: 

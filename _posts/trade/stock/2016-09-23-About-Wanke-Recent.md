@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 关于万科a近期走势
-category: 交易
+category: stock
 tags: 
 keywords: 
 description: 

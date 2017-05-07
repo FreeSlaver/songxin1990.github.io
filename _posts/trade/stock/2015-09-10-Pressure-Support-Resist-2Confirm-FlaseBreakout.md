@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 压力 支撑 阻挡 二次确认 假突破
-category: 交易
-tags: 总结
+category: stock
+tags: 
 keywords: 
 description: 
 ---

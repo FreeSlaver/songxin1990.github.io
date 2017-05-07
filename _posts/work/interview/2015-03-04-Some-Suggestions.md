@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 我觉得主要从根本上来讲，给你以下几个建议：
-category: 技术
-tags: 事业
+category: career
+tags: 
 keywords: 
 description: 
 ---

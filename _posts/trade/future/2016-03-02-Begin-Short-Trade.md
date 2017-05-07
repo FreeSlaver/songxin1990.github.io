@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 不行，我要开始做短线
-category: 交易
-tags: 期货
+category: future
+tags: 
 keywords: 
 description: 
 ---

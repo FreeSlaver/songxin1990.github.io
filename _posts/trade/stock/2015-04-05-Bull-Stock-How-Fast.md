@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 牛股：什么样的股票涨的快
-category: 交易
-tags: 股票
+category: stock
+tags: 
 keywords: 
 description: 
 ---

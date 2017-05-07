@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 妈的，昨晚棉花平早了
-category: 交易
-tags: 期货
+category: future
+tags: 
 keywords: 
 description: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 赌博的一点浅见
-category: 交易
+category: porker
 tags: porker
 keywords: 
 description: 

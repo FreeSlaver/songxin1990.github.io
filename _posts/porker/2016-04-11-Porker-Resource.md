@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 德州扑克资源
-category: 交易
+category: porker
 tags: poker
 keywords: 
 description: 

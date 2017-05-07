@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 最近操作小结Future
-category: 交易
-tags: 期货
+category: future
+tags: 
 keywords: 
 description: 
 ---

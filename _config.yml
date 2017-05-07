@@ -38,6 +38,26 @@ locals:
   archive: 归档
   zen: 禅
   essence: 精华文章
+  photography: 摄影
+  # 交易
+  stock: 股票
+  future: 期货
+  tradesystem: 交易系统
+  # 技术
+  bigdata: 大数据
+  concurrent: 高并发
+  javacore: java核心基础
+  opensource: 开源项目
+  tools: 开发工具
+  porker: 德州扑克
+  # 工作
+  interview: 求职面试
+  career: 职场发展
+  effecthabit: 高效习惯
+  # 生活
+  dream: 人生梦想
+  inspiration: 生活感悟
+
 
 # gems 设置
 #gems:

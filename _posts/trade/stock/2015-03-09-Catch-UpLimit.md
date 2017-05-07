@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 哦， 我终于懂了什么样的涨停板能够追
-category: 交易
-tags: 股票
+category: stock
+tags: 
 keywords: 
 description: 
 ---

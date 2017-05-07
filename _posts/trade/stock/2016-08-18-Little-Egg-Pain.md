@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 有点蛋疼啊
-category: 交易
-tags: dream
+category: stock
+tags: 
 keywords: 
 description: 
 ---

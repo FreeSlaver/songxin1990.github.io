@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 现在缺乏的
-category: 交易
+category: stock
 tags: 
 keywords: 
 description: 

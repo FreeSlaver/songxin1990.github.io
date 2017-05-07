@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 我遇到的笔试面试题
-category: 技术
-tags: 面试
+category: interview
+tags: 
 keywords: 
 description: 
 ---

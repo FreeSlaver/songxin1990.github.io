@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 摸到一点门路了
-category: 交易
+category: stock
 tags: 
 keywords: 
 description: 

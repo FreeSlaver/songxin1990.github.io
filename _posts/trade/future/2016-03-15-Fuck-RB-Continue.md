@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 今晚继续搞螺纹
-category: 交易
-tags: 期货
+category: future
+tags: 
 keywords: 
 description: 
 ---

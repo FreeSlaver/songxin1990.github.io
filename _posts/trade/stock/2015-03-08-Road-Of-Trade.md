@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 交易之路
-category: 交易
+category: stock
 tags: 
 keywords: 
 description: 

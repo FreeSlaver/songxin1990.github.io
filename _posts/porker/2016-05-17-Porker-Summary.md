@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 德州扑克总结经验
-category: 交易
+category: porker
 tags: porker
 keywords: 
 description: 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 架构师笔试面试准备
-category: 技术
-tags: 面试
+category: interview
+tags: 
 keywords: 
 description: 
 ---

@@ -1,0 +1,64 @@
+---
+layout: page_title
+title: <i class="fa fa-archive fa-lg"></i>
+titlename: 交易
+comments: false
+---
+
+<!--
+技术下分：大数据，基础，开源，工具，并发，
+-->
+<h2 id="#opensource">{{ site.locals.opensource }}</h2>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "opensource" %}
+    <li>
+        <h3>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h3>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+<h2 id="#bigdata">{{ site.locals.bigdata }}</h2>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "bigdata" %}
+    <li>
+        <h3>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h3>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+<h2 id="#concurrent">{{ site.locals.concurrent }}</h2>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "concurrent" %}
+    <li>
+        <h3>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h3>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+
+<h2 id="#javacore">{{ site.locals.javacore }}</h2>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "javacore" %}
+    <li>
+        <h3>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h3>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+

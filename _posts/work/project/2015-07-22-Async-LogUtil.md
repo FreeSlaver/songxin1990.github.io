@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 异步写日志工具类
-category: 技术
-tags: Log MQ
+category: project
+tags: 
 keywords: 
 description: 
 ---
