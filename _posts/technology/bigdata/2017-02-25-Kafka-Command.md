@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kafka命令
-category: 技术
+category: bigdata
 tags: Kafka
 keywords: 
 description: 

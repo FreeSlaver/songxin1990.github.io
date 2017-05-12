@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 如何短时间内学会双跏趺坐?
-category: 生活
-tags: zen
+category: zen others
+tags: 
 keywords: 
 description: 
 ---

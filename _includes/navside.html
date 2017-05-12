@@ -3,14 +3,9 @@
     <div class="col-md-2 col-xs-2 aside1">
       <br>
      <!-- <a class="pjaxlink" href="/">&lt;!&ndash;<img src="{{ site.gavatar }}" class="img-ronuded avatar" style="border-width:0px; border-color:#000">&ndash;&gt;
-        主页
       </a>-->
-      <!--<br><br><br><br>-->
       <ul class="nav nav-pills nav-stacked">
         <li><a class="pjaxlink" href="/">首页</a></li>
-        <!--{% for category in site.categories %}
-         <li><a href="#{{ category | first }}" data-toggle="tab">{{ category[0] }}</a></li>
-        {% endfor %}-->
         <li><a class="pjaxlink" href="/pages/life.html">生活</a></li>
         <li><a class="pjaxlink" href="/pages/work.html">工作</a></li>
         <li><a class="pjaxlink" href="/pages/trade.html">交易</a></li>
@@ -23,46 +18,6 @@
         <li><a class="pjaxlink" href="/pages/archive.html">{{ site.locals.archive }}</a></li>
       </ul>
     </div>
-
-
-    <div class="col-md-10 col-xs-10 aside2">
-      <div class="row">
-        <div class="tab-content"> 
-          {% for category in site.categories %} 
-            <div class="tab-pane" id="{{ category[0] }}">
-              <div class="list-group">
-                {% for post in category[1] %}
-                  <a href="{{ post.url }}" class="list-group-item-lay pjaxlink">{{post.title}}</a>
-                {% endfor %}
-       </div>
-     </div>
-   {% endfor %}
-
-   <div class="tab-pane" id="tags">
-     <div class="panel-group" id="accordion">
-        {% for tag in site.tags %}
-           <div class="panel panel-info">
-             <div class="panel-heading">
-               <h4 class="panel-title">
-                 <a data-toggle="collapse" data-toggle="collapse" data-parent="#accordion" href="#{{ tag[0] }}">{{ tag[0] }}</a>
-                 <span class="badge pull-right">{{ tag[1].size }}</span>
-               </h4>
-             </div>
-             <div id="{{ tag[0] }}" class="panel-collapse collapse">
-               {% for post in tag[1] %}
-                 <a  href='{{ post.url }}' class="list-group-item pjaxlink">
-                   {{post.title}}
-                 </a>
-               {% endfor %}
-             </div>
-           </div>
-         {% endfor %}
-       </div>
-     </div>
-
-   </div>
- </div>
-</div>
 
   </div>
 </div>

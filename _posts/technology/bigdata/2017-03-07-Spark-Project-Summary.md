@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Spark项目总结
-category: 技术
-tags: Spark
+category: bigdata
+tags: Spark Kafka
 keywords: 
 description: 
 ---

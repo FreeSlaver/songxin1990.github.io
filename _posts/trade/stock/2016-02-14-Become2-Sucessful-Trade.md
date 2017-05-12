@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 成为成功的交易者
-category: 交易
+category: stock
 tags: 
 keywords: 
 description: 

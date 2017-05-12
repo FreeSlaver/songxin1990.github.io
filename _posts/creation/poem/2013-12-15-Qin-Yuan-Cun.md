@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 沁园春*雪
-category: 创作
-tags: 诗词
+category: poem
+tags: 
 keywords: 
 description: 
-publish: false
+published: false
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google搜索技巧
-category: 技术
+category: devtool
 tags: tips
 keywords: 
 description: 

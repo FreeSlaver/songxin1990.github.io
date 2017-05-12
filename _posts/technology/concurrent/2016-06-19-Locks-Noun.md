@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 关于JDK几种锁的名词解释
-category: 技术
+category: concurrent
 tags: 
 keywords: 
 description: 

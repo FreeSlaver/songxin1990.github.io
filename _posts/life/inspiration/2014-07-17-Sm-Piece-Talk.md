@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 只言片语
-category: 生活
+category: 
 tags: 
 keywords: 
 description: 

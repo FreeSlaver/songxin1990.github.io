@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 模拟HTTP请求
-category: 技术
+category: javacore
 tags: HTTP
 keywords: 
 description: 

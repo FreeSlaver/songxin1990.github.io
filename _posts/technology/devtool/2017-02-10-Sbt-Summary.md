@@ -1,7 +1,7 @@
 ---
 layout: post
 title: sbt总结
-category: 技术
+category: devtool
 tags: sbt
 keywords: 
 description: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JMX模块总结
-category: 技术
+category: javacore
 tags: JMX
 keywords: 
 description: 

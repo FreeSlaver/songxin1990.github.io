@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 个人语录
-category: 生活
+category: essay
 tags: 
 keywords: 
 description: 
-publish: false
+published: false
 ---
 
 

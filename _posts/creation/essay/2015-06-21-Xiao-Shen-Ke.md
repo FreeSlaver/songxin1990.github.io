@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 肖申克的救赎
-category: 创作
+category: essay
 tags: 
 keywords: 
 description: 

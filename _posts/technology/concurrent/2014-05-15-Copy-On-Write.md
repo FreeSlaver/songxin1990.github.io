@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 什么是CopyOnWrite容器
-category: 技术
+category: concurrent
 tags: 
 keywords: 
 description: 

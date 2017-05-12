@@ -8,6 +8,7 @@ author:
   email: 504252262@qq.com
   github: http://github.com/songxin1990
   linkedin: https://www.linkedin.com/in/song-xin/
+  zhihu: https://www.zhihu.com/people/3gods
 
 # 站点信息
 title: 宋鑫的博客
@@ -30,6 +31,7 @@ active: 归档
 # 首页除了最新文章外显示其他分类
 cates: 
 - 精华文章
+- 宋鑫1989
 
 # 中文本地化
 locals:
@@ -57,6 +59,9 @@ locals:
   # 生活
   dream: 人生梦想
   inspiration: 生活感悟
+  # 摄影
+  travel: 旅行照片
+  lifephoto: 生活照片
 
 
 # gems 设置

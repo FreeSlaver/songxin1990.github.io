@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 听歌变的牛逼的几个标志
-category: 生活
+category: art others
 tags: 
 keywords: 
 description: 

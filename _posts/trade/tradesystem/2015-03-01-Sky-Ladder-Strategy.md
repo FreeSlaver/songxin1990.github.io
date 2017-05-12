@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 天梯战法
-category: 交易
-tags: 交易系统
+category: tradesystem
+tags: 
 keywords: 
 description: 
 ---

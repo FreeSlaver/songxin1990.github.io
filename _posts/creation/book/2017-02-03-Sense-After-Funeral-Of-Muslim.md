@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 穆斯林的葬礼读后感
-category: 创作
+category: book
 tags: 
 keywords: 
 description: 

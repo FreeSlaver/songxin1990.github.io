@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 同步，异步，阻塞，非阻塞
-category: 技术
+category: concurrent
 tags: 
 keywords: 
 description: 

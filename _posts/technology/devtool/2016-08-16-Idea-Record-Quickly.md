@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 想法，点子，思考马上记录
-category: 技术
-tags: 事业
+category: devtool
+tags: 
 keywords: 
 description: 
 ---

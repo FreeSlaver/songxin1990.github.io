@@ -6,10 +6,10 @@ comments: false
 ---
 
 <!-- 生活下分：生活感悟，生活梦想，-->
-<h2 id="#dream">{{ site.locals.dream }}</h2>
+<h2 id="#inspiration">{{ site.locals.inspiration }}</h2>
 <ul>
     {% for post in site.posts %}
-    {% if post.category contains "dream" %}
+    {% if post.category contains "inspiration" %}
     <li>
         <h3>
             <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
@@ -19,11 +19,10 @@ comments: false
     {% endfor %}
 </ul>
 
-
-<h2 id="#inspiration">{{ site.locals.inspiration }}</h2>
+<h2 id="#dream">{{ site.locals.dream }}</h2>
 <ul>
     {% for post in site.posts %}
-    {% if post.category contains "inspiration" %}
+    {% if post.category contains "dream" %}
     <li>
         <h3>
             <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>

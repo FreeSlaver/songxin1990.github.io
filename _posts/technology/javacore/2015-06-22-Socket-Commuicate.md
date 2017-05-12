@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 通信框架两种消息发送方式
-category: 技术
-tags: networking
+category: javacore
+tags: 
 keywords: 
 description: 
 ---

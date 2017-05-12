@@ -6,7 +6,8 @@ titlename: 首页
 
 <div>
   <h1 style="text-align:center">Live Once,Once Forever</h1>
-  <p>你好，陌生人，欢迎来到我的世界 : )<br><p>
+  <p>你好，陌生人，欢迎来到我的世界 : )<br>
+  <p>
 
   <h3>我是谁</h3>
   <p>宋鑫，生于1989年，家乡是湖北武汉，目前居住于深圳。<br>
@@ -17,7 +18,7 @@ titlename: 首页
   <ul>
     <li><a href="https://github.com/songxin1990/notes">我的笔记</a></li>
     <li><a href="https://github.com/songxin1990">我的开源项目</a></li>
-    <li>我的微信公众号：songxin0618</li>
+    <li id="wechat">我的微信公众号：songxin0618</li>
   </ul>
 
   <h3>联系我</h3>
@@ -26,11 +27,16 @@ titlename: 首页
       <i class="fa fa-github fa-lg" style="color:#16a095;"></i>
     </a>
   </li>
-<li>Linkedin:
-  <a href="{{ site.author.linkedin }}">
-    <i class="fa fa-linkedin fa-lg" style="color:#16a095;"></i>
-  </a>
-</li>
+  <li>Linkedin:
+    <a href="{{ site.author.linkedin }}">
+      <i class="fa fa-linkedin fa-lg" style="color:#16a095;"></i>
+    </a>
+  </li>
+  <li>ZhiHu:
+    <a href="{{ site.author.zhihu }}">
+      <img src="public/img/zhihu.svg" width="15.99px" height="19.2px">
+    </a>
+  </li>
   <li>Email:
     <a href="mailto:{{ site.author.email }}">
       <i class="fa fa-envelope-o fa-lg" style="color:#16a095;"></i>
@@ -41,8 +47,19 @@ titlename: 首页
       <i class="fa fa-rss fa-lg" style="color:#16a095;"></i>
     </a>
   </li>
-  
+
 </div>
+
+{% for tag in site.tags %}
+
+    {% for post in page.tags[1] %}
+    <a  href='{{ post.url }}' class="list-group-item pjaxlink">
+      {{post.title}}
+    </a>
+    {% endfor %}
+
+{% endfor %}
+
 <!--
    Hello,strangers.Welcome to my world : )
   <h3>Who am I</h3>
@@ -63,29 +80,29 @@ titlename: 首页
     <div class="panel panel-primary">
       <div class="panel-heading">{{ site.locals.newest }}</div>
       {% for post in paginator.posts %}
-        <a  href='{{ post.url }}' class="list-group-item pjaxlink clearfix">
-          {{post.title}}
-          <span class="badge">{{ post.date | date:"%Y年%m月%d日" }}</span>
-        </a>
+      <a href='{{ post.url }}' class="list-group-item pjaxlink clearfix">
+        {{post.title}}
+        <span class="badge">{{ post.date | date:"%Y年%m月%d日" }}</span>
+      </a>
       {% endfor %}
     </div>
   </div>
   {% for cate in site.cates %}
-    <div class="col-md-12">
-      <div class="panel panel-primary">
-        <div class="panel-heading">{{ cate }}</div>
-        {% for tag in site.tags %} 
-          {% if tag[0] == cate %}
-            {% for post in tag[1] %}
-              <a  href='{{ post.url }}' class="list-group-item pjaxlink clearfix">
-                {{post.title}}
-                <span class="badge">{{ post.date | date:"%Y年%m月%d日" }}</span>
-              </a>
-            {% endfor %}
-          {% endif %}
-        {% endfor %}
-      </div>
+  <div class="col-md-12">
+    <div class="panel panel-primary">
+      <div class="panel-heading">{{ cate }}</div>
+      {% for tag in site.tags %}
+      {% if tag[0] == cate %}
+      {% for post in tag[1] %}
+      <a href='{{ post.url }}' class="list-group-item pjaxlink clearfix">
+        {{post.title}}
+        <span class="badge">{{ post.date | date:"%Y年%m月%d日" }}</span>
+      </a>
+      {% endfor %}
+      {% endif %}
+      {% endfor %}
     </div>
+  </div>
   {% endfor %}
 </div>
  

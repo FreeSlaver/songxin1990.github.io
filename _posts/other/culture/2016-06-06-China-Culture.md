@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 中国文化
-category: 生活
+category: culture others
 tags: 
 keywords: 
 description: 

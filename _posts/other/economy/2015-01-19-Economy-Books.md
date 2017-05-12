@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 金融必读书籍
-category: 交易
+category: economy others book
 tags: 
 keywords: 
 description: 金融必读书籍

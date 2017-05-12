@@ -12,35 +12,12 @@ layout: base
   <!-- 文章 -->
   <div class="col-md-13 aside3-content">
     <hr>
-
     <div id="content">
         {{ content }}
     </div>
-
     <hr>
-
-    </div>
-
-  <!-- 相关文章 从tag中选取-->
-  <div>
-    <div id="relate">
-      <h3>相关文章</h3>
-      <ul>
-        {% for post in site.posts %}
-        {% if post.tags contains page.tags %}
-        <li>
-          <h3>
-            <a href="{{ post.url }}">
-              {{ post.title }}
-            </a>
-          </h3>
-        </li>
-        {% endif %}
-        {% endfor %}
-      </ul>
-    </div>
-
   </div>
+
   <!-- 目录 -->
   <div id="content_table" style="position:fixed;right:20px;top:120px;display:none;">
     <div class="panel panel-success">

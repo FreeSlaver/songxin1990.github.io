@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 大牛推荐技术书籍
-category: 创作
+category: book
 tags: 
 keywords: 
 description: 

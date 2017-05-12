@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Git常用命令 教程总结
-category: 技术
-tags: Git 原创
+category: devtool
+tags: Git
 keywords: 
 description: 
 ---

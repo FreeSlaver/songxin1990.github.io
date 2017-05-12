@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 并发性能优化 – 降低锁粒度
-category: 技术
+category: concurrent
 tags: 
 keywords: 
 description: 

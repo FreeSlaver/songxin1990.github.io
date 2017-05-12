@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reactor之我见
-category: 技术
+category: concurrent
 tags: 
 keywords: 
 description: 

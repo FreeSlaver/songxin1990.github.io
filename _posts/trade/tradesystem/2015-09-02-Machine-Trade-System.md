@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 机械交易系统 开始画蛋
-category: 交易
-tags: 交易系统
+category: tradesystem
+tags: 
 keywords: 
 description: 
 ---

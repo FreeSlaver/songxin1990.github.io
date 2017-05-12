@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 如何快速掌握一门编程语言
-category: 技术
-tags: learn
+category: javacore
+tags: 
 keywords: 
 description: 
 ---

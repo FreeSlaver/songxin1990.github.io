@@ -124,3 +124,7 @@ blockquote p {
   width: 100%;
   margin-bottom: 40px;
 }
+
+#wechat:hover {
+  url(public/img/wechat.bmp)
+}

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: IT必读书籍
-category: 技术
-tags: 读书
+category: javacore book
+tags: 
 keywords: 
 description: 
 ---

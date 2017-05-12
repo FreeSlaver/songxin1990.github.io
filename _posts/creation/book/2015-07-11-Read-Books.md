@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 读过的书
-category: 创作
+category: book
 tags: 
 keywords: 
 description: 

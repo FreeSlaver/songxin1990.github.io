@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 今天早上发生的一幕
-category: 生活
+category: inspiration
 tags: 
 keywords: 
 description: 

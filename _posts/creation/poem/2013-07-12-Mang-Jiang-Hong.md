@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 满江红
-category: 创作
+category: poem
 tags: 
 keywords: 
 description: 
-publish: false
+published: false
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 写代码经验的一些总结
-category: 技术
+category: javacore
 tags: 
 keywords: 
 description: 

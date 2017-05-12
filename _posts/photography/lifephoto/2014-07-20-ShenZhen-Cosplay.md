@@ -1,14 +1,15 @@
 ---
 layout: post
 title: 2014深圳Cosplay
-category: 旅行
-tags: travel 
+category: lifephoto
+tags:  
 keywords: 
 description: 
 ---
 
 
-
+
+
 
 
 ![1]( http://7xtkrp.com1.z0.glb.clouddn.com/2014-07-20-ShenZhen-Cosplay-1.JPG )

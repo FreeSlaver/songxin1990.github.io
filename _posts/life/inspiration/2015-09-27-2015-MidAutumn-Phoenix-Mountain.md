@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 2015中秋凤凰山
-category: 生活
+category: inspiration
 tags: 
 keywords: 
 description: 
-secret: 20150927mpm
+published: false
 ---
 
 

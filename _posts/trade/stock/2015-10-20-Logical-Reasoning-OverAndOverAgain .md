@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 不断的反复推理
-category: 交易
+category: stock
 tags: 
 keywords: 
 description: 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 由表及里
-category: 交易
-tags: trade
+category: stock
+tags: 
 keywords: 
 description: 
 ---

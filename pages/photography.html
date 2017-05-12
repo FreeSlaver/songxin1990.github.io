@@ -6,10 +6,10 @@ comments: false
 ---
 
 <!-- 摄影下分：旅行，生活，商业，-->
-<h2 id="#poem">{{ site.locals.poem }}</h2>
+<h2 id="#travel">{{ site.locals.travel }}</h2>
 <ul>
     {% for post in site.posts %}
-    {% if post.category contains "poem" %}
+    {% if post.category contains "travel" %}
     <li>
         <h3>
             <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
@@ -19,10 +19,10 @@ comments: false
     {% endfor %}
 </ul>
 
-<h2 id="#sanwen">{{ site.locals.sanwen }}</h2>
+<h2 id="#lifephoto">{{ site.locals.lifephoto }}</h2>
 <ul>
     {% for post in site.posts %}
-    {% if post.category contains "sanwen" %}
+    {% if post.category contains "lifephoto" %}
     <li>
         <h3>
             <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>

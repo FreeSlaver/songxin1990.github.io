@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 计算机网络 
-category: 技术
-tags: 内功
+category: javacore
+tags: network
 keywords: 
 description: 
 ---

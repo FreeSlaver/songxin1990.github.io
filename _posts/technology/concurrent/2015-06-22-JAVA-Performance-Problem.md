@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 10个常见性能优化问题
-category: 技术
+category: concurrent
 tags: 
 keywords: 
 description: 

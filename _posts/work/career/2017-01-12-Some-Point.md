@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 
-category: 生活
+title: 投机还是工作
+category: career
 tags: 
 keywords: 
 description: 

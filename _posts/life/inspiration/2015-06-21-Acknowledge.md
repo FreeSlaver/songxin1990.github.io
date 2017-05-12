@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 认知
-category: 生活
+category: inspiration
 tags: 
 keywords: 
 description: 

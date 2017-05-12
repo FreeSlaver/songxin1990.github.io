@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 侠客行
-category: 创作
-tags: 诗词
+category: poem
+tags: 
 keywords: 
 description: 
-publish: false
+published: false
 ---
 
 

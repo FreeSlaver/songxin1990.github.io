@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JAVA的JDBC事务详解
-category: 技术
+category: javacore
 tags: 
 keywords: 
 description: 
