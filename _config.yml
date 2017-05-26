@@ -68,6 +68,3 @@ locals:
 #gems:
   #- jekyll-gist
 
-tipue_search:
-  include:
-    pages: true
