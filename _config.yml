@@ -67,3 +67,7 @@ locals:
 # gems 设置
 #gems:
   #- jekyll-gist
+
+tipue_search:
+  include:
+    pages: true
