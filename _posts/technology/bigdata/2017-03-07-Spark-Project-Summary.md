@@ -26,4 +26,5 @@ java编程的并发问题：比如使用一个db资源，需要保证在一个pr
 
 ###下面是一个我的Spark Kafka和JDBC的项目。
 
-http://7xtlm4.com1.z0.glb.clouddn.com/ticket.rar?attname=&e=1489227044&token=iW0qYJJiTzAzo6tK3XT0_PCcPcAtWXyvwgsd5Ed3:VorljIvzNKXi0iZxp9egKKZCa40
+<a href="http://7xtlm4.com1.z0.glb.clouddn.com/ticket.rar?attname=&e=1489227044&token=iW0qYJJiTzAzo6tK3XT0_PCcPcAtWXyvwgsd5Ed3:VorljIvzNKXi0iZxp9egKKZCa40">
+项目下载</a>

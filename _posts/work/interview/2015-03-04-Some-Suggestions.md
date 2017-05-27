@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 我觉得主要从根本上来讲，给你以下几个建议：
-category: career
+title: 我觉得主要从根本上来讲，给你以下几个建议：[转载]
+category: career essence
 tags: 
 keywords: 
 description: 

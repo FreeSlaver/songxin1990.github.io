@@ -70,6 +70,7 @@ cat topic-to-move.json
 
 **_consumer_offset消费** 
 
+```
 #Create consumer config
 echo "exclude.internal.topics=false" > /tmp/consumer.config
 #Only consume the latest consumer offsets
