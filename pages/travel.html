@@ -5,11 +5,12 @@ titlename: 摄影
 comments: false
 ---
 
-<!-- 摄影下分：旅行，生活，商业，-->
-<h2 id="#travel">{{ site.locals.travel }}</h2>
+<!-- 旅行下分：生活照片，旅行照片，旅行游记，-->
+
+<h2 id="#travelphoto">{{ site.locals.travelphoto }}</h2>
 <ul>
     {% for post in site.posts %}
-    {% if post.category contains "travel" %}
+    {% if post.category contains "travelphoto" %}
     <li>
         <h3>
             <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
@@ -31,5 +32,19 @@ comments: false
     {% endif %}
     {% endfor %}
 </ul>
+
+<h2 id="#youji">游记</h2>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "youji" %}
+    <li>
+        <h3>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h3>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
 
 
