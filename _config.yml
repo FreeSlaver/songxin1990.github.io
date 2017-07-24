@@ -42,6 +42,11 @@ locals:
   essence: 精华文章
   photography: 摄影
   trash: 废弃
+  #创作
+  essay: 散文
+  poem: 诗词
+  book: 读书
+  review: 读后感
   # 交易
   stock: 股票
   future: 期货

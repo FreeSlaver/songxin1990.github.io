@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 英文的重要性
-category: wechat essence
+category: essence
 tags: 
 keywords: 
 description: 
