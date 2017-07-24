@@ -5,28 +5,41 @@ titlename: 生活
 comments: false
 ---
 
-<!-- 生活下分：生活感悟，生活梦想，-->
-<h2 id="#inspiration">{{ site.locals.inspiration }}</h2>
+<!-- 生活下分：生活禅，感悟，生活梦想，-->
+<h3 id="#zen">{{ site.locals.zen }}</h3>
 <ul>
     {% for post in site.posts %}
-    {% if post.category contains "inspiration" %}
+    {% if post.category contains "zen" %}
     <li>
-        <h3>
+        <h4>
             <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
-        </h3>
+        </h4>
     </li>
     {% endif %}
     {% endfor %}
 </ul>
 
-<h2 id="#dream">{{ site.locals.dream }}</h2>
+<h3 id="#inspiration">{{ site.locals.inspiration }}</h3>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "inspiration" %}
+    <li>
+        <h4>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h4>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+<h3 id="#dream">{{ site.locals.dream }}</h3>
 <ul>
     {% for post in site.posts %}
     {% if post.category contains "dream" %}
     <li>
-        <h3>
+        <h4>
             <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
-        </h3>
+        </h4>
     </li>
     {% endif %}
     {% endfor %}

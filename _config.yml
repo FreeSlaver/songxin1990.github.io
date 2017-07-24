@@ -34,12 +34,14 @@ cates:
 
 # 中文本地化
 locals:
+  #左侧导航栏
   tags: 标签
   newest: 最新文章
   archive: 归档
   zen: 禅
   essence: 精华文章
   photography: 摄影
+  trash: 废弃
   # 交易
   stock: 股票
   future: 期货
@@ -50,6 +52,8 @@ locals:
   javacore: java核心基础
   opensource: 开源项目
   tools: 开发工具
+  project: 项目总结
+  # 德扑
   porker: 德州扑克
   # 工作
   interview: 求职面试
@@ -61,6 +65,7 @@ locals:
   # 摄影
   travelphoto: 旅行照片
   lifephoto: 生活照片
+
 
 
 # gems 设置

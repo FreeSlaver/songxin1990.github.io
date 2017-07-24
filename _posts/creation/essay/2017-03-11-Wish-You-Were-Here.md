@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wish you were here 翻译
-category: 创作
+category: essay
 tags: 
 keywords: 
 description: 

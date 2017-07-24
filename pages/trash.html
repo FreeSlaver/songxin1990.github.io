@@ -1,15 +1,16 @@
 ---
 layout: page_title
 title: <i class="fa fa-archive fa-lg"></i>
-titlename: 其他
+titlename: 废弃
 comments: false
 ---
 
-<!-- 其他下分：无法分类的，或者文章还不够多的，暂时放在这里 -->
-<h3 id="#others">{{ site.locals.others }}</h3>
+<h2>曾经，我写的东西也很烂</h2>
+<!-- 废纸篓，自认为对我无用的文章 -->
+<h3 id="#trash">{{ site.locals.trash }}</h3>
 <ul>
     {% for post in site.posts %}
-    {% if post.category contains "others" %}
+    {% if post.category contains "trash" %}
     <li>
         <h4>
             <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>

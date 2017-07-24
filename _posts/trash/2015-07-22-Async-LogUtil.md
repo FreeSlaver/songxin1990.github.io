@@ -1,11 +1,14 @@
 ---
 layout: post
 title: 异步写日志工具类
-category: project
+category: trash
 tags: 
 keywords: 
 description: 
 ---
+
+<span style="color:red">**废弃**</span><br/>
+原因：log4j是有直接提供这种异步写日志的功能的。
 
 一个异步写日志的工具类，对于日志量很大，或者会造成一定响应延时的情况下，就需要使用异步写日志来实现。
 

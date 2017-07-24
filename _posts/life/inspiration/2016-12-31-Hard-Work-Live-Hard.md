@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 工作不易，生活不易
-category: 技术
+category: life
 tags: 
 keywords: 
 description: 

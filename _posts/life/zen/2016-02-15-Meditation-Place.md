@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 禅修的好地方
-category: zen others
+category: zen
 tags: 
 keywords: 
 description: 

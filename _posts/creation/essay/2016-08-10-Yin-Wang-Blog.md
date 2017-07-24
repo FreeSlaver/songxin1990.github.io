@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 看王垠的博客感想
-category: 创作
+category: essay
 tags: 
 keywords: 
 description: 

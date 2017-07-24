@@ -7,40 +7,40 @@ comments: false
 
 <!-- 旅行下分：生活照片，旅行照片，旅行游记，-->
 
-<h2 id="#travelphoto">{{ site.locals.travelphoto }}</h2>
+<h3 id="#travelphoto">{{ site.locals.travelphoto }}</h3>
 <ul>
     {% for post in site.posts %}
     {% if post.category contains "travelphoto" %}
     <li>
-        <h3>
+        <h4>
             <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
-        </h3>
+        </h4>
     </li>
     {% endif %}
     {% endfor %}
 </ul>
 
-<h2 id="#lifephoto">{{ site.locals.lifephoto }}</h2>
+<h3 id="#lifephoto">{{ site.locals.lifephoto }}</h3>
 <ul>
     {% for post in site.posts %}
     {% if post.category contains "lifephoto" %}
     <li>
-        <h3>
+        <h4>
             <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
-        </h3>
+        </h4>
     </li>
     {% endif %}
     {% endfor %}
 </ul>
 
-<h2 id="#youji">游记</h2>
+<h3 id="#youji">游记</h3>
 <ul>
     {% for post in site.posts %}
     {% if post.category contains "youji" %}
     <li>
-        <h3>
+        <h4>
             <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
-        </h3>
+        </h4>
     </li>
     {% endif %}
     {% endfor %}

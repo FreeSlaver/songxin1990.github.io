@@ -44,28 +44,28 @@ titlename: 首页
   </p>
 
   <h3>联系我</h3>
-  <ul class="list-inline">
-  <li>Github:
+  <ul>
+  <li>
     <a href="{{ site.author.github }}" target="_blank">
       <i class="fa fa-github fa-lg" style="color:#16a095;"></i>
     </a>
   </li>
-  <li>Linkedin:
+  <li>
     <a href="{{ site.author.linkedin }}">
       <i class="fa fa-linkedin fa-lg" style="color:#16a095;"></i>
     </a>
   </li>
-  <li>ZhiHu:
+  <!--<li>
     <a href="{{ site.author.zhihu }}">
       <img src="fa fa-star fa-lg" width="15.99px" height="19.2px">
     </a>
-  </li>
-  <li>Email:
+  </li>-->
+  <li>
     <a href="mailto:{{ site.author.email }}">
       <i class="fa fa-envelope-o fa-lg" style="color:#16a095;"></i>
     </a>
   </li>
-  <li>RSS:
+  <li>
     <a href="/pages/atom.xml" target="_blank">
       <i class="fa fa-rss fa-lg" style="color:#16a095;"></i>
     </a>
@@ -98,8 +98,8 @@ titlename: 首页
 </div>
 -->
 
-<div class="row">
-  <!--遍历最新文章-->
+<!--<div class="row">
+  &lt;!&ndash;遍历最新文章&ndash;&gt;
   <div class="col-md-12">
     <div class="panel panel-primary">
       <div class="panel-heading">{{ site.locals.newest }}</div>
@@ -112,7 +112,7 @@ titlename: 首页
     </div>
   </div>
 
-  <!--遍历cate中的文章-->
+  &lt;!&ndash;遍历cate中的文章&ndash;&gt;
   {% for cate in site.cates %}
   <div class="col-md-12">
     <div class="panel panel-primary">
@@ -131,5 +131,5 @@ titlename: 首页
   </div>
   {% endfor %}
 
-</div>
+</div>-->
  

@@ -8,54 +8,106 @@ comments: false
 <!--
 技术下分：大数据，基础，开源，工具，并发，
 -->
-<h2 id="#opensource">{{ site.locals.opensource }}</h2>
+<h3 id="#opensource">{{ site.locals.opensource }}</h3>
 <ul>
     {% for post in site.posts %}
     {% if post.category contains "opensource" %}
     <li>
-        <h3>
+        <h4>
             <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
-        </h3>
+        </h4>
     </li>
     {% endif %}
     {% endfor %}
 </ul>
 
-<h2 id="#bigdata">{{ site.locals.bigdata }}</h2>
+<h3 id="#bigdata">{{ site.locals.bigdata }}</h3>
 <ul>
     {% for post in site.posts %}
     {% if post.category contains "bigdata" %}
     <li>
-        <h3>
+        <h4>
             <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
-        </h3>
+        </h4>
     </li>
     {% endif %}
     {% endfor %}
 </ul>
 
-<h2 id="#concurrent">{{ site.locals.concurrent }}</h2>
+<h3 id="#concurrent">{{ site.locals.concurrent }}</h3>
 <ul>
     {% for post in site.posts %}
     {% if post.category contains "concurrent" %}
     <li>
-        <h3>
+        <h4>
             <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
-        </h3>
+        </h4>
     </li>
     {% endif %}
     {% endfor %}
 </ul>
 
 
-<h2 id="#javacore">{{ site.locals.javacore }}</h2>
+<h3 id="#javacore">{{ site.locals.javacore }}</h3>
 <ul>
     {% for post in site.posts %}
     {% if post.category contains "javacore" %}
     <li>
-        <h3>
+        <h4>
             <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
-        </h3>
+        </h4>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+<h3 id="#project">{{ site.locals.project }}</h3>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "project" %}
+    <li>
+        <h4>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h4>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+<h3 id="#interview">{{ site.locals.interview }}</h3>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "interview" %}
+    <li>
+        <h4>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h4>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+<h3 id="#career">{{ site.locals.career }}</h3>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "career" %}
+    <li>
+        <h4>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h4>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+<h3 id="#effecthabit">{{ site.locals.effecthabit }}</h3>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "effecthabit" %}
+    <li>
+        <h4>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h4>
     </li>
     {% endif %}
     {% endfor %}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Face The Future And Your Destiny
-category: 创作
+category: essay
 tags: 
 keywords: 
 description: 
