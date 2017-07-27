@@ -50,17 +50,17 @@ description:
 
 10. 逐步添加搜索关键词
 
-   job interviews  
-   prepare for job interviews  
-   how to prepare for a job interview  
-   这样做的好处是可以逐步缩减结果的范围，又可以避免过滤掉有用，有价值的信息。  
+    job interviews  
+    prepare for job interviews  
+    how to prepare for a job interview  
+    这样做的好处是可以逐步缩减结果的范围，又可以避免过滤掉有用，有价值的信息。  
 
 11. 使用网站会用的专业词汇，而非你的口头语
 
 12. 关键词尽量简洁，只使用最少，最重要的关键词
 
-   google的工作方式是将你输入的一行中的所有词作为关键词进行匹配。所以尽量使用少而重要的关键词。  
-   比如：怎样更好的使用google，不如：google 技巧  
+    google的工作方式是将你输入的一行中的所有词作为关键词进行匹配。所以尽量使用少而重要的关键词。  
+    比如：怎样更好的使用google，不如：google 技巧  
 
 13. 将名词置前
 
