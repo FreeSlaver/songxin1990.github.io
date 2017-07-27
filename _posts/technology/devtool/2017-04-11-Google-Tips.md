@@ -64,28 +64,28 @@ description:
 
 13. 将名词置前
 
-   Weather，Time，然后再输入修饰词。这样得到的结果更加准确。  
+    Weather，Time，然后再输入修饰词。这样得到的结果更加准确。  
 
 14. 多使用描述性关键词
 
 15. 使用filetype:搜索特定文件格式
 
-   thinking in java filetype:pdf 返回所有thinking in java相关的pdf文件。 
+    thinking in java filetype:pdf 返回所有thinking in java相关的pdf文件。 
 
 16. 使用intitle:搜索标题
 
-   intitle: obama yearbook 返回所有标题中包含关键词obama yearbook的结果。
+    intitle: obama yearbook 返回所有标题中包含关键词obama yearbook的结果。
 
 17. 使用allintitle:搜索标题
 
-   allintitle:SEO 搜索 返回所有标题中包含关键词SEO或搜索的结果，等价于intitle:SEO,intitle:搜索。  
+    allintitle:SEO 搜索 返回所有标题中包含关键词SEO或搜索的结果，等价于intitle:SEO,intitle:搜索。  
 
 18. 使用define:获取一个单词的定义
 
-   define: pangea 获取盘古大陆的解释。  
+    define: pangea 获取盘古大陆的解释。  
 
 19. 使用songs by 加乐队名搜索乐队所有歌曲
 
-   songs by Beatles 返回所有披头士的歌曲。  
-   同样也可以使用book by 加作者名 返回所有作者的作品。  
+    songs by Beatles 返回所有披头士的歌曲。  
+    同样也可以使用book by 加作者名 返回所有作者的作品。  
 
