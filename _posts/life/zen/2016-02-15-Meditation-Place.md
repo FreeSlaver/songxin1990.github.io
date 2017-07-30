@@ -3,7 +3,7 @@ layout: post
 title: 禅修的好地方
 category: zen
 tags: 
-keywords: 
+keywords: zen
 description: 
 ---
 

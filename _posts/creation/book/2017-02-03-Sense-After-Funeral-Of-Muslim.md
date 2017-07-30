@@ -2,8 +2,8 @@
 layout: post
 title: 穆斯林的葬礼读后感
 category: book
-tags: 
-keywords: 
+tags: ReadingReview
+keywords: 穆斯林的葬礼
 description: 
 ---
 	  

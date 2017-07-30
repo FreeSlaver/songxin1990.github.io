@@ -42,6 +42,8 @@ locals:
   essence: 精华文章
   photography: 摄影
   trash: 废弃
+  #商业
+  business: 商业
   #创作
   essay: 散文
   poem: 诗词

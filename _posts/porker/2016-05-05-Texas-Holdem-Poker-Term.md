@@ -3,7 +3,7 @@ layout: post
 title: 德州扑克术语大全
 category: porker
 tags: porker
-keywords: 
+keywords: porker 德州扑克 术语
 description: 
 ---
 

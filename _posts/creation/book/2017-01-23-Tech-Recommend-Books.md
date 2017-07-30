@@ -2,8 +2,8 @@
 layout: post
 title: 大牛推荐技术书籍
 category: book
-tags: 
-keywords: 
+tags: book
+keywords: 推荐 书籍
 description: 
 ---
 	  

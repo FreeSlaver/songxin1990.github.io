@@ -1,17 +1,15 @@
 ---
 layout: page_title
 title: <i class="fa fa-archive fa-lg"></i>
-titlename: 废弃
+titlename: 商业
 comments: false
 ---
 
-<h2>曾经，我写的东西也很烂</h2>
-<hr>
-<!-- 废纸篓，自认为对我无用的文章 -->
-<!--<h3 id="#trash">{{ site.locals.trash }}</h3>-->
+<!-- 商业-->
+<h3 id="#business">{{ site.locals.business }}</h3>
 <ul>
     {% for post in site.posts %}
-    {% if post.category contains "trash" %}
+    {% if post.category contains "business" %}
     <li>
         <h4>
             <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>

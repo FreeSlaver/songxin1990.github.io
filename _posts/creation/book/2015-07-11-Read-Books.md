@@ -2,8 +2,8 @@
 layout: post
 title: 读过的书
 category: book
-tags: 
-keywords: 
+tags: book
+keywords: 书籍
 description: 
 ---
 

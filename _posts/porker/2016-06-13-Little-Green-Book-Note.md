@@ -3,7 +3,7 @@ layout: post
 title: 小绿皮书读书笔记
 category: porker
 tags: 
-keywords: 
+keywords: 小绿皮书 德州扑克
 description: 
 ---
 

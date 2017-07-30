@@ -2,8 +2,8 @@
 layout: post
 title: 金融必读书籍
 category: economy others book
-tags: 
-keywords: 
+tags: book
+keywords: 书籍 economy
 description: 金融必读书籍
 ---
 

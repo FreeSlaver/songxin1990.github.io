@@ -1,11 +1,13 @@
 ---
 layout: post
 title: 小对子的玩法
-category: porker
+category: trash
 tags: porker
 keywords: 
 description: 
 ---
+
+**2017-07-30 16:15 废弃，原因：没撒价值，谁都知道怎么玩set。**
 
 22到AA，小对子中了SET，那真是酸爽。哈哈。
 

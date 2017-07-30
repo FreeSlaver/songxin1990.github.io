@@ -2,8 +2,8 @@
 layout: post
 title: 芒格推荐书单(完全版32本)
 category: book
-tags: 
-keywords: 
+tags: book
+keywords: 书单 查理芒格
 description: 
 ---
 

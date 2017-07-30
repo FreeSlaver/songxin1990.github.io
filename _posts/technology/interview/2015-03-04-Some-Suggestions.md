@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 我觉得主要从根本上来讲，给你以下几个建议：[转载]
+title: R.工作上的几点建议
 category: career essence
 tags: 
 keywords: 

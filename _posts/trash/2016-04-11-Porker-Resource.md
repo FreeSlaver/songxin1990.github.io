@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 德州扑克资源
-category: porker
+category: trash
 tags: poker
 keywords: 
 description: 
 ---
 
+**2017-07-30 16:14 废弃，原因：内容太少**
 ### 德州扑克论坛：
 
 中扑网
