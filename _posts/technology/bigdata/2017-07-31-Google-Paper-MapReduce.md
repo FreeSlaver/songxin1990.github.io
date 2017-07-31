@@ -44,7 +44,7 @@ description:
 </li>
 </ul>
 </div>
-</div>
+
 
 # MapReduce: Simplified Data Processing on Large Clusters<a id="sec-1" name="sec-1"></a>
 
