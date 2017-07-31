@@ -3,7 +3,7 @@ layout: post
 title: Kafka命令
 category: bigdata
 tags: Kafka
-keywords: 
+keywords: kafka command
 description: 
 ---
 

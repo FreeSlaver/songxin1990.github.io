@@ -2,8 +2,8 @@
 layout: post
 title: Spark项目总结
 category: bigdata
-tags: Spark Kafka
-keywords: 
+tags: spark kafka
+keywords: spark kafka 大数据
 description: 
 ---
 
