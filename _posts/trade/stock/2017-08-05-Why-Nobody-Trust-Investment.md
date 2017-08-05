@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 为什么很多人不相信在股票市场的价值投资？
-category: stock
+category: stock zhihu
 tags: 股票
 keywords: 股票 stock 价值投资 知乎
 description: 为什么很多人不相信在股票市场的价值投资？

@@ -21,9 +21,13 @@ gavatar: http://7xnlfe.com1.z0.glb.clouddn.com/20130304_sunflower.jpg
 favicon: http://7xnlfe.com1.z0.glb.clouddn.com/20130304_sunflower.jpg
 
 # google analytics 设置
-#ga:
-  #id: UA-49965095-1
-  #url: 3gods.com
+ga:
+  id: UA-49965095-1
+  url: 3gods.com
+
+# disqus 设置
+#disqus:
+  #shortname: songxin
 
 # 主题设置，自动激活某个标签
 active: 归档

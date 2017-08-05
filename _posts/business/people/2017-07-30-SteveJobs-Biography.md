@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 史蒂夫乔布斯传 笔记
-category: essence
+category: business people
 tags: 
 keywords: 乔布斯 apple 苹果
 description: 
