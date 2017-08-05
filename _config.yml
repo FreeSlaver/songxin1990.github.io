@@ -60,6 +60,7 @@ locals:
   opensource: 开源项目
   tools: 开发工具
   project: 项目总结
+  database: 数据库
   # 德扑
   porker: 德州扑克
   # 工作

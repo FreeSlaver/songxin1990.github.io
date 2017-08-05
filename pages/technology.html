@@ -47,6 +47,19 @@ comments: false
     {% endfor %}
 </ul>
 
+<h3 id="#database">{{ site.locals.database }}</h3>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "database" %}
+    <li>
+        <h4>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h4>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
 
 <h3 id="#javacore">{{ site.locals.javacore }}</h3>
 <ul>
