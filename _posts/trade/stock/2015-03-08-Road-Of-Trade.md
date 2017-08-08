@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 交易之路
-category: stock
+title: 交易之路-转载
+category: stock essence
 tags: 
-keywords: 
-description: 
+keywords: 交易 股票 stock
+description: 交易之路-多年交易心得，体会，操作手法
 ---
 
 很久很久没发新帖子了。想把自己做这么多年交易的一些心得，一些体会，还有一些具体的操作、分析的方法，写在这里。

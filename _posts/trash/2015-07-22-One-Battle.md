@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 一场战役-性命相搏
-category: stock
+category: trash
 tags: 
 keywords: 
 description: 

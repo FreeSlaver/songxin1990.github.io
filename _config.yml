@@ -8,6 +8,7 @@ author:
   email: songxin@3gods.com
   github: http://github.com/songxin1990
   linkedin: https://www.linkedin.com/in/song-xin/
+  stackoverflow: https://stackoverflow.com/users/6708214/songxin
   zhihu: https://www.zhihu.com/people/3gods
 
 # 站点信息
@@ -83,4 +84,6 @@ locals:
 # gems 设置
 #gems:
   #- jekyll-gist
+
+
 

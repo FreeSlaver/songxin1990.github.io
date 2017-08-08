@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 野鹤道场之———交易系统的本质
+title: 野鹤道场之———交易系统的本质-转载
 category: tradesystem
 tags: 转载
 keywords: 
-description: 
+description: 交易系统 野鹤
 ---
 
 

@@ -2,8 +2,8 @@
 layout: post
 title: 十大交易员“圣经”
 category: stock
-tags: 
-keywords: 
+tags: stock book
+keywords: 交易 圣经 stock
 description: 
 ---
 

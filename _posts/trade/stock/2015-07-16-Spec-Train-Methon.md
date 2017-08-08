@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 盘感训练方法
+title: 盘感训练方法-转载
 category: stock
 tags: 
 keywords: 

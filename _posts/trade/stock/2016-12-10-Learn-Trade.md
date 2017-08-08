@@ -1,11 +1,10 @@
 ---
 layout: post
 title: 学习交易
-category: stock
+category: stock essence
 tags: 
 keywords: 
 description: 
-secret: 20161210LT
 ---
 
 

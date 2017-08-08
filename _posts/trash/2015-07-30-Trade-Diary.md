@@ -1,11 +1,13 @@
 ---
 layout: post
 title: 交易日记20150730
-category: stock
+category: trash
 tags: 
 keywords: 
 description: 
 ---
+
+**废弃，1.不要扩大止损金额；2.不要加仓，要不一把梭哈，要不分批买入；3.没有很厚盈利，不要加仓；**
 
 ###操作记录
 昨天早上进了中体产业，国投新集，这2股，反弹很强劲，上破30,60天线。

@@ -7,8 +7,7 @@ keywords:
 description: 
 ---
 
-<span style="color:red">**废弃**</span><br/>
-原因：小儿科的玩具
+<span style="color:red">**废弃**，原因：小儿科的玩具</span><br/>
 
 
 最近公司要做一个日志系统，但是需求什么的各方面不明确，而且不想使用任何框架，说activemq这种的太笨重了，而且结果不可控制，出了问题，不知道消息是在哪里丢的。
