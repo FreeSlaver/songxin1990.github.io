@@ -1,11 +1,13 @@
 ---
 layout: post
 title: 想法，点子，思考马上记录
-category: devtool
+category: trash
 tags: 
 keywords: 
 description: 
 ---
+
+**废弃，没撒价值**
 
 今天本来想写一篇最近市场操作的总结的，而且想到了一些不错的层面，也有一些启发，但是等我想下午来写的时候，我发现已经回忆不起来了。
 

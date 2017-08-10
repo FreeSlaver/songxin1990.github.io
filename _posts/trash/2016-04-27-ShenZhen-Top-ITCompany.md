@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 深圳著名JAVA公司排名
-category: career
+category: trash
 tags: 
 keywords: 
 description: 

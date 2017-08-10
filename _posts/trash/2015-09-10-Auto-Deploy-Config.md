@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 自动化部署配置文件
-category: devtool
+category: trash
 tags: 
 keywords: 
 description: 
 ---
 
+**废弃，学会写部署的脚本，而不记或抄袭。**
 
 >#!/bin/bash
 >#
