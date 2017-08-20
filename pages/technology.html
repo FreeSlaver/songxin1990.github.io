@@ -60,6 +60,19 @@ comments: false
     {% endfor %}
 </ul>
 
+<h3 id="#monitor">监控</h3>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "monitor" %}
+    <li>
+        <h4>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h4>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
 
 <h3 id="#javacore">{{ site.locals.javacore }}</h3>
 <ul>
