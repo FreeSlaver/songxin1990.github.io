@@ -8,18 +8,17 @@ author:
   email: songxin@3gods.com
   github: http://github.com/songxin1990
   linkedin: https://www.linkedin.com/in/song-xin/
-  stackoverflow: https://stackoverflow.com/users/6708214/songxin
   zhihu: https://www.zhihu.com/people/3gods
 
 # 站点信息
-title: 宋鑫的博客
-description: 宋鑫的博客，关于成长，交易，技术
+title: 宋鑫的官方网站
+description: 研究互联网开发技术，记录分享成长所得，投机悟道提升思想境界
 url: http://3gods.com
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: http://7xnlfe.com1.z0.glb.clouddn.com/20130304_sunflower.jpg
-favicon: http://7xnlfe.com1.z0.glb.clouddn.com/20130304_sunflower.jpg
+gavatar: /public/img/pikachu.svg
+favicon: /public/img/fav.ico
 
 # google analytics 设置
 ga:
@@ -82,7 +81,9 @@ locals:
 
 
 # gems 设置
-#gems:
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
   #- jekyll-gist
 
 deploy:

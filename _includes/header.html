@@ -1,12 +1,14 @@
 <meta charset="utf-8">
 <title>{{ page.title }} | {{ site.title }}</title>
-<meta name="author" content="{{ site.author.name }}">
+<!--<meta name="author" content="{{ site.author.name }}">
 {% if page.keywords %}
-  <meta name="keywords" content="{{ page.keywords }}">
+  <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
 {% endif %}
 {% if page.description  %}
   <meta name="description " content="{{ page.description  }}">
-{% endif %}
+{% endif %}-->
+
+{% seo %}
 <link rel="shortcut icon" href="{{ site.favicon }}" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="baidu-site-verification" content="BjJPWTE1T9" />
