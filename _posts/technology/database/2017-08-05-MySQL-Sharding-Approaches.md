@@ -4,7 +4,7 @@ title: MySQL分库分表方案
 category: database
 tags: MySQL sharding
 keywords: MySQL sharding stackoverflow
-description: MySQL分库分表方案
+description: 翻译之stack overflow上的一个问答，觉得写的非常好，说的是：为什么不建议做MySql切分。
 ---
 <div id="text-table-of-contents">
 <ul>

@@ -2,9 +2,9 @@
 layout: post
 title: Unix设计哲学
 category: design
-tags: 
+tags: unix design
 keywords: 
-description: 
+description: Unix的设计哲学，摘录自维基百科，他人博客。
 ---
 
 ### Unix设计哲学1

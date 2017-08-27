@@ -4,7 +4,7 @@ title: Wish you were here 翻译
 category: essay
 tags: 
 keywords: 
-description: 
+description: wish you were here，巴尔特摩的夜晚乐队的一首歌曲。
 ---
 
 翻译一首wish you were here，取之乐队夫妻档，巴尔特摩的夜晚，

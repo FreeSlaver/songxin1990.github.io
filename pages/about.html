@@ -1,0 +1,133 @@
+---
+layout: page_title
+title: <i class="fa fa-user fa-lg"></i>
+titlename: 关于
+description: 关于宋鑫的其人其事
+---
+
+<div>
+  <h1 style="text-align:center">Live Once,Once Forever</h1>
+
+  <p>首先，感谢你打开这个页面。愿意花一点时间来了解我。<br>
+    我们每个人都有渴望被他人了解和去去了解他人的欲望。<br>
+    在这里，你可以了解到关于我的一切。
+  <p>
+
+  <h3>关于我</h3>
+  <p>我是宋鑫，出生于1989年，家乡是湖北武汉，目前和家人居住在深圳。<br>
+    作为一名程序员，我热爱思考，看书，听音乐，爱好旅游，摄影，游泳。<br>
+  </p>
+
+
+  <h3>真相</h3>
+  <img class=".img-circle" src="/public/img/me.jpg" alt="That's me">
+
+  <h3>关于我的项目</h3>
+  <ul>
+    <li><a href="https://github.com/songxin1990/notes">笔记</a></li>
+    <li><a href="https://github.com/songxin1990">开源项目</a></li>
+    <li><a href="/pages/resume.html">简历</a></li>
+  </ul>
+
+  <h3>关于本站</h3>
+  <p>
+    我发现将成长过程中所学习到的东西分享给他人，会让自身理解的更加深刻，而且还能给他人带去价值。<br>
+    <b>仅仅只是思考是不够的。</b> <br>
+    更多的去行动，去改变自己，影响社会才会有意义。<br>
+    <br>
+    写作能够极大的扩展思考的外延和思考的深度，写作创造的价值和影响力也是非常可观的。<br>
+    另一方面此站可以记录自身的成长，回头看看过去自己曾经的想法，写过的文章，会非常欣慰，自豪。<br>
+  </p>
+
+  <h3>关于版权</h3>
+  <P>
+    本站所有文章标题无转载字样的，均原创于：<a href="http://3gods.com/">宋鑫的官方网站</a>。<br>
+    所有版权均属宋鑫个人所有。 <br>
+    任何媒体、网站或个人都可以随意转载，但必须在文章顶部或底部进行如下声明： <br>
+    “本文转载自：<a href="http://3gods.com/">宋鑫的官方网站</a>，原文地址：http://3gods.com/xxx” <br>
+    违反上述声明者，本人将追究其相关法律责任。<br>
+  </p>
+
+
+  <h3>联系我</h3>
+  <ul class="list-inline">
+  <li>
+    <a href="{{ site.author.github }}" target="_blank">
+      <i class="fa fa-github fa-lg" style="color:#16a095;"></i>
+    </a>
+  </li>
+  <li>
+    <a href="{{ site.author.linkedin }}">
+      <i class="fa fa-linkedin fa-lg" style="color:#16a095;"></i>
+    </a>
+  </li>
+  <!--<li>
+    <a href="{{ site.author.zhihu }}">
+      <img src="fa fa-star fa-lg" width="15.99px" height="19.2px">
+    </a>
+  </li>-->
+  <li>
+    <a href="mailto:{{ site.author.email }}">
+      <i class="fa fa-envelope-o fa-lg" style="color:#16a095;"></i>
+    </a>
+  </li>
+  <li>
+    <a href="/pages/atom.xml" target="_blank">
+      <i class="fa fa-rss fa-lg" style="color:#16a095;"></i>
+    </a>
+  </li>
+  </ul>
+
+</div>
+
+
+<!--
+   Hello,strangers.Welcome to my world : )
+  <h3>Who am I</h3>
+  <p>I am SongXin,born in 1989.My hometown is Hubei Wuhan.Now I am living in ShenZhen.<br>
+    I am a Programmer,Speculator,Writer,Designer.I love thinking,reading,enjoy travelling,photographing,swimming.<br></p>
+  
+  <h3>My Projects</h3>
+  <ul>
+   <li><a href="https://github.com/songxin1990/notes">My Notes</a></li>
+    <li><a href="https://github.com/songxin1990">My OpenSource Project</a></li>
+    <li>My WeChat Official Account : sonxin0618</li>
+  </ul>
+</div>
+-->
+
+<!--<div class="row">
+  &lt;!&ndash;遍历最新文章&ndash;&gt;
+  <div class="col-md-12">
+    <div class="panel panel-primary">
+      <div class="panel-heading">{{ site.locals.newest }}</div>
+      {% for post in paginator.posts %}
+      <a href='{{ post.url }}' class="list-group-item pjaxlink clearfix">
+        {{post.title}}
+        <span class="badge">{{ post.date | date:"%Y年%m月%d日" }}</span>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+
+  &lt;!&ndash;遍历cate中的文章&ndash;&gt;
+  {% for cate in site.cates %}
+  <div class="col-md-12">
+    <div class="panel panel-primary">
+      <div class="panel-heading">{{ cate }}</div>
+      {% for tag in site.tags %}
+      {% if tag[0] == cate %}
+      {% for post in tag[1] %}
+      <a href='{{ post.url }}' class="list-group-item pjaxlink clearfix">
+        {{post.title}}
+        <span class="badge">{{ post.date | date:"%Y年%m月%d日" }}</span>
+      </a>
+      {% endfor %}
+      {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+  {% endfor %}
+
+</div>-->
+ 

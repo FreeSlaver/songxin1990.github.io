@@ -4,7 +4,7 @@ title: 投机还是工作
 category: work
 tags: 
 keywords: 
-description: 
+description: 一些选择，观点，关于到底是选择投机还是工作。
 ---
 | 修改时间 |    修改内容        | 描述  |
 | ------------- |:-------------:| -----:|

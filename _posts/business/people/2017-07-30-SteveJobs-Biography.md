@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 史蒂夫乔布斯传 笔记
-category: business people
-tags: 
+category: business people essay
+tags: 乔布斯 apple 苹果
 keywords: 乔布斯 apple 苹果
-description: 
+description: 史蒂夫乔布斯传的读书笔记，摘录了书中的精华语句以及段落，并附加上个人的所思所得。这本书讲述了乔布斯传奇的一生，他以及他伟大的苹果公司——Apple，产生了ipod，iphone，ipad，imac等令万千大众为之疯狂的产品。
 ---
 
 <div id="table-of-contents">

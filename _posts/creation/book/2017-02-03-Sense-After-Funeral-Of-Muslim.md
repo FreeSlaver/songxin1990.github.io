@@ -4,7 +4,7 @@ title: 穆斯林的葬礼读后感
 category: book
 tags: ReadingReview
 keywords: 穆斯林的葬礼
-description: 
+description: 穆斯林的葬礼，读完之后荡气回肠，更加觉得是一个偏女性民主，独立，自由的书。
 ---
 	  
 | 修改时间 |    修改内容        | 描述  |

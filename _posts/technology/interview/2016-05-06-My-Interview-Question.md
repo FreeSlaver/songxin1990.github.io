@@ -4,7 +4,7 @@ title: 我遇到的笔试面试题
 category: interview
 tags: 
 keywords: 
-description: 
+description: 我去做java面试时，遇到的各种面试题。
 ---
 
 1.分布式事务如何解决，分布式锁如何实现

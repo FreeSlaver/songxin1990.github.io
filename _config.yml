@@ -12,7 +12,7 @@ author:
 
 # 站点信息
 title: 宋鑫的官方网站
-description: 研究互联网开发技术，记录分享成长所得，投机悟道提升思想境界
+description: 研究互联网开发技术，记录分享个人成长所得，投机悟道提升思想境界
 url: http://3gods.com
 rss_url: /pages/atom.xml
 
@@ -86,11 +86,4 @@ gems:
   - jekyll-seo-tag
   #- jekyll-gist
 
-deploy:
-- type: git
-  repo: 'git@github.com:songxin1990/songxin1990.github.io.git'
-  branch: master
-- type: git
-  repo: 'git@git.coding.net:songxin1990/songxin1990.git'
-  branch: coding-pages
 

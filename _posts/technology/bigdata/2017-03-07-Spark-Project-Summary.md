@@ -4,7 +4,7 @@ title: Spark项目总结
 category: bigdata
 tags: spark kafka
 keywords: spark kafka 大数据
-description: 
+description: spark和kafka stream的项目demo总。
 ---
 
 ###Spark的特点

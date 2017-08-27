@@ -4,7 +4,7 @@ title: 工作无非拿钱干活，要不卖力学东西
 category: career
 tags: 
 keywords: 
-description: 
+description: 工作无法干活拿钱，要不卖力学东西。很多东西都不是你一个人能决定的。
 ---
 
 **废弃，现在看来，价值很小了。**

@@ -5,7 +5,6 @@ category: poem
 tags: 
 keywords: 
 description: 
-published: true
 ---
 
 

@@ -4,7 +4,7 @@ title: 看王垠的博客感想
 category: essay
 tags: 
 keywords: 
-description: 
+description: 王银，就读清华大学期间，主动退学，并写下万字长文，引发了中国教育界，以及网友的热烈讨论。后又出国留学，但是又再次退学。他的问题，我觉得是他与中国传统文化的格格不入，是传统文化的牺牲品。
 ---
 
 王垠的博客地址是：http://www.yinwang.org/

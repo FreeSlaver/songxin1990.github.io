@@ -4,7 +4,7 @@ title: 英文的重要性
 category: essence
 tags: 
 keywords: Wechat English
-description: 
+description: 英文的重要性，使用英文直接Google搜索，看原版书籍，看英文资料，眼光接轨国际化，语言本身塑造你的思维。
 ---
 
 为什么在这里我说英文而不是英语了？因为我英语说的不太溜。<br>

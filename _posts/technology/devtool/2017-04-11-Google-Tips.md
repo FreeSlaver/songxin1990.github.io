@@ -4,7 +4,7 @@ title: Google搜索技巧
 category: essence
 tags: tips
 keywords: google 技巧 搜索
-description: 
+description: 使用Google进行搜索的一些技巧，非常使用。
 ---
    
    **2017-07-27 20:14 修正格式，添加kewords**  

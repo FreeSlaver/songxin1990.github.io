@@ -4,7 +4,7 @@ title: 秒杀系统设计 总结
 category: interview
 tags: 
 keywords: 
-description: 
+description: 秒杀系统的设计，总结。
 ---
 
 最近在准备面试换工作，遇到一个秒杀方面的面试题，看了些文章，主要参考以下4篇文章，总结下，然后自己也细细思考下细节的处理。

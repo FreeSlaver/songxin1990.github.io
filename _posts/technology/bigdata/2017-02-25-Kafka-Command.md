@@ -4,7 +4,7 @@ title: Kafka命令
 category: bigdata
 tags: Kafka
 keywords: kafka command
-description: 
+description: kafka常用命令
 ---
 
 一些使用Kafka时经常用到的命令。

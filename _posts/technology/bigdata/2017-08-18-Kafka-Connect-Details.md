@@ -4,7 +4,7 @@ title: Kafka Connect Details 详解
 category: bigdata
 tags: kafka
 keywords: kafka connect
-description: Kafka Connect Details
+description: Kafka Connect技术详解，包含概览，启动和配置，单机，分布式模式，转换器，如何开发kafka connect，以及相较于producer和consumer的优势。
 ---
 
 <div id="table-of-contents">

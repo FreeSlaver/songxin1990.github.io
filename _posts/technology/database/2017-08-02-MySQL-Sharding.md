@@ -4,7 +4,7 @@ title: 数据库分库分表
 category: database
 tags: MySQL sharding
 keywords: MySQL sharding 分库分表
-description: 数据库分库分表
+description: MySql Sharding 数据库分库分表，包含：数据库架构演变，分库分表前面临的问题，单库，单标太大不同的解决方式。以及垂直切分，水平切分的使用场景和能解决的问题，以及分库分表后面临的问题和各种现有的解决方案。
 ---
 
 

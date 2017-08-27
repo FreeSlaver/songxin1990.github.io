@@ -2,86 +2,71 @@
 layout: page_title
 title: <i class="fa fa-home fa-lg"></i>
 titlename: 首页
-description: 研究互联网开发技术，记录分享成长所得，投机悟道提升思想境界
+description: 研究互联网开发技术，记录分享个人成长所得，投机悟道提升思想境界
 ---
 
 <div>
   <h1 style="text-align:center">Live Once,Once Forever</h1>
 
+
+
+  <h3>欢迎</h3>
   <p>你好，陌生人，欢迎来到我的世界 : )<br>
-    在这里，你可以了解到关于我的一切。
+    相逢即是缘，希望你在闲暇之余，浏览我的网站过后，能够略有所得。<br>
   <p>
 
-  <h3>我是谁</h3>
-  <p>我是宋鑫，出生于1989年，家乡是湖北武汉，目前和家人居住在深圳。<br>
-    作为一名程序员，我热爱思考，看书，听音乐，爱好旅游，摄影，游泳。<br>
-  </p>
+  <h3>本站创作主题</h3>
+  <ol>
+    <li><a href="/pages/technology.html">研究互联网开发技术</a></li>
+    <li><a href="/pages/growingup">记录分享个人成长所得</a></li>
+    <li><a href="/pages/trade.html">投机悟道提升思想境界</a></li>
+  </ol>
 
-  <h3>我的项目</h3>
-  <ul>
-    <li><a href="https://github.com/songxin1990/notes">笔记</a></li>
-    <li><a href="https://github.com/songxin1990">开源项目</a></li>
-   <!-- <li id="wechat">公众号：songxin0618</li>-->
-    <li><a href="/pages/resume.html">简历</a></li>
-  </ul>
+  <br>
+  目前网站正在重新建设之中，下面是我精选的一些文章：
+  <h3>基本素质</h3>
+  大凡成功者，我认为是因为他们具有了成功者必要的基本素质。
 
-  <h3><a href="/pages/state.html">最新动态</a></h3>
-  <p>
-    最近在看CSAPP，努力学习操作系统方面的知识，偿还大学期间的债务。
-  </p>
+  <ol>
+    <li><a href="2017/08/26/HowTo-Read-ABook-Note.html">如何阅读一本书—读书笔记</a></li>
+    <li><a href="2017/04/30/Art-Of-Learn-Note.html">学习的艺术—读书笔记</a></li>
+    <li><a href="/">学会提问</a></li>
+    <li>学会沟通</li>
+    <li>学习写作</li>
+  </ol>
 
-  <h3>关于本站</h3>
-  <p>
-    我发现将成长过程中所学习到的东西分享给他人，会让自身理解的更加深刻，而且还能给他人带去价值。<br>
-    <b>仅仅只是思考是不够的。</b> <br>
-    更多的去行动，去改变自己，影响社会才会有意义。<br>
-    <br>
-    写作能够极大的扩展思考的外延和思考的深度，写作创造的价值和影响力也是非常可观的。<br>
-    另一方面此站可以记录自身的成长，回头看看过去自己曾经的想法，写过的文章，会非常欣慰，自豪。<br>
-  </p>
+  <h3>高效人生</h3>
+  <ol>
+    <li>时间就是金钱</li>
+    <li>时间管理的艺术</li>
+    <li>我的高效的工作习惯</li>
+    <li>我的高效工具箱</li>
+  </ol>
+
+  <h3>程序员的逆袭，超神之路</h3>
+  <ol>
+    <li>优秀程序员的必备素质</li>
+    <li>培训生如何成为技术大神</li>
+    <li>优秀程序员的必备习惯</li>
+  </ol>
 
 
-<!--  <h3>真相</h3>
-  <img class=".img-circle" src="/public/img/me.jpg" alt="That's me">-->
-  <h3>联系我</h3>
-  <ul class="list-inline">
-  <li>
-    <a href="{{ site.author.github }}" target="_blank">
-      <i class="fa fa-github fa-lg" style="color:#16a095;"></i>
-    </a>
-  </li>
-  <li>
-    <a href="{{ site.author.linkedin }}">
-      <i class="fa fa-linkedin fa-lg" style="color:#16a095;"></i>
-    </a>
-  </li>
-  <!--<li>
-    <a href="{{ site.author.zhihu }}">
-      <img src="fa fa-star fa-lg" width="15.99px" height="19.2px">
-    </a>
-  </li>-->
-  <li>
-    <a href="mailto:{{ site.author.email }}">
-      <i class="fa fa-envelope-o fa-lg" style="color:#16a095;"></i>
-    </a>
-  </li>
-  <li>
-    <a href="/pages/atom.xml" target="_blank">
-      <i class="fa fa-rss fa-lg" style="color:#16a095;"></i>
-    </a>
-  </li>
-  </ul>
+  <h3>投机悟道</h3>
+  <ol>
+    <li><a href="/">如何学习炒股赚钱</a></li>
+    <li><a href="">读破天下书，投机——我只推荐这几本</a></li>
+    <li><a href="/">我为什么暂停做交易</a></li>
+    <li><a href="/">以交易为生</a></li>
+  </ol>
+
+  <h3>草根站长</h3>
+  <ol>
+    <li>不仅只是SEO</li>
+    <li>jekyll官方教程—笔记</li>
+    <li>内容的价值—网站的生命</li>
+  </ol>
 </div>
 
-{% for tag in site.tags %}
-
-    {% for post in page.tags[1] %}
-    <a  href='{{ post.url }}' class="list-group-item pjaxlink">
-      {{post.title}}
-    </a>
-    {% endfor %}
-
-{% endfor %}
 
 <!--
    Hello,strangers.Welcome to my world : )

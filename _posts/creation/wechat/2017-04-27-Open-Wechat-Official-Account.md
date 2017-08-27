@@ -4,7 +4,7 @@ title: 宋鑫1989公众号开通了
 category: essence
 tags: 
 keywords: Wechat 公众号
-description: 
+description: 宋鑫1989公众号开通了，我为什么开通公众号，公众号的作用，
 ---
 
 ### 为什么开通公众号？

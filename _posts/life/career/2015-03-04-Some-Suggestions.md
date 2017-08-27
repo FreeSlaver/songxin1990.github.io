@@ -4,7 +4,7 @@ title: 工作上的几点建议-转载
 category: career essence
 tags: 工作 建议
 keywords: 工作 职业 建议 成长
-description: 工作上的几点建议
+description: 工作上的几点建议：努力，虚心学习，自由，目标，计划，惜时，了解社会，不要害怕贫穷，吃苦耐闹，合作。
 ---
 
 **2017-08-11 19:16 修改样式，润饰句子。**

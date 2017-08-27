@@ -4,7 +4,7 @@ title: Google MapReduce 论文
 category: bigdata
 tags: paper 大数据
 keywords: MapReduce google 大数据
-description: 
+description: Google的MapReduce论文，赶里面重点地方做个翻译，做些笔记。
 ---
 
 <div id="text-table-of-contents">

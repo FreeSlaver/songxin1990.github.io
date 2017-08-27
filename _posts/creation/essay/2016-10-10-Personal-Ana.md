@@ -4,7 +4,7 @@ title: 个人语录
 category: essay
 tags: 
 keywords: 
-description: 
+description: 个人的语录，希望对你有所启发。
 ---
 
 

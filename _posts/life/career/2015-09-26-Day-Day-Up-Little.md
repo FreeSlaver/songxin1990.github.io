@@ -4,7 +4,7 @@ title: 程序员，你要每天进步一点点-转载
 category: career essence
 tags: 
 keywords: 程序员 进步
-description: 程序员，你要每天进步一点点
+description: 程序员，你要每天进步一点点。专注眼下，思考力与推动力，Never say No，投资未来，善用工具，管理时间。
 ---
 
 ### 第1个一点点：专注眼下

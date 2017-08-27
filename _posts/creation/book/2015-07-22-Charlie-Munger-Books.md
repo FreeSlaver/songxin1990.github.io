@@ -4,7 +4,7 @@ title: 芒格推荐书单(完全版32本)
 category: book
 tags: book
 keywords: 书单 查理芒格
-description: 
+description: 查理芒格推荐的书单，作为巴菲特的投资老搭档，也就是那个站在"幕后的男人"。对于投机，投资，商业有兴趣的人不妨看看。
 ---
 
 

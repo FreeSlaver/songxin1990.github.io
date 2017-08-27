@@ -4,7 +4,7 @@ title: Kafka Connect Develop Details 开发详解
 category: bigdata
 tags: kafka
 keywords: kafka connect develop
-description: Kafka Connect Develop Detail 开发详解
+description: Kafka Connect开发详解，详细
 ---
 
 <div id="table-of-contents">

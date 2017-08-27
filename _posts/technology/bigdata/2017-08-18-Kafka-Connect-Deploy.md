@@ -4,7 +4,7 @@ title: Kafka Connect Deploy 部署
 category: bigdata
 tags: kafka
 keywords: kafka connect
-description: Kafka Connect Deploy部署
+description: Kafka Connect部署详解，包括添加依赖，部署，打包，配置文件，启动等。
 ---
 
 <div id="table-of-contents">
@@ -31,7 +31,7 @@ description: Kafka Connect Deploy部署
 
 阅读本文前，请先阅读：
 [Kafka Connect Details 详解](http://3gods.com/2017/08/18/Kafka-Connect-Details.html)  
-[][Kafka Connect Develop Details 开发详解] 
+[Kafka Connect Develop Details 开发详解](http://3gods.com/2017/08/18/Kafka-Connect-Develop-Details.html)
 
 ## 编译，部署<a id="sec-1-1" name="sec-1-1"></a>
 

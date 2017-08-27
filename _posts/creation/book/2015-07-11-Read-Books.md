@@ -2,9 +2,9 @@
 layout: post
 title: 读过的书
 category: book
-tags: book
+tags: book 书籍
 keywords: 书籍
-description: 
+description: 我从大学毕业到目前为之读过或者正在读的书，都是非常经典，非常优秀的书籍。
 ---
 
 ### JAVA与技术

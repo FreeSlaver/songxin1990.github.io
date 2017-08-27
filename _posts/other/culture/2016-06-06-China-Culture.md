@@ -4,7 +4,7 @@ title: 中国文化
 category: culture others
 tags: 
 keywords: culture
-description: 
+description: 中国的文化，乃是一种阉割的文化。一种让你做好儿子，好学生，好工人的强迫文化，而不让你反思下自己想做什么样的人。
 ---
 
 
