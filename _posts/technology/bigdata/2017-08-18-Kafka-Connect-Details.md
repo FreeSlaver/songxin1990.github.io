@@ -175,7 +175,7 @@ DELETE /connectors/{name} - 删除一个connector
 GET /connector-plugins - 获取所有已安装的connector插件  
 PUT /connector-plugins/{connector-type}/config/validate - 校验connector的配置的属性类型。    
 #### 优雅关闭
-Kafka Connect是不提供关闭Connector的REST API，可以直接kill -9或者先delete掉，再post生成（保持name一直，不会有什么不良影响，比如offset出错。）
+Kafka Connect是不提供关闭Connector的REST API，可以直接kill -9或者先delete掉，再post生成（需要保持name一致）
 
 ## Kafka Connect 开发详解<a id="sec-1-5" name="sec-1-5"></a>
 
@@ -198,7 +198,7 @@ Source Connector对应Producer，Sink Connector对应Consumer。
 ## 第三方资源<a id="sec-1-7" name="sec-1-7"></a>
 
 这是已经得到支持的第三方组件，不需要做额外的开发：  
-[Kafka Connect Product](https://www.confluent.io/product/connectors/) 
+[Kafka Connect Product](https://www.confluent.io/product/connectors/)   
 括号中的Source表示将数据从其他系统导入Kafka，Sink表示将数据从Kafka导出到其他系统。  
 其他的我没看，但是JDBC的实现比较的坑爹，是通过primary key（如id）和时间戳（如updateTime）字段，  
 来判断数据是否更新，这样的话应用范围非常受局限。  
