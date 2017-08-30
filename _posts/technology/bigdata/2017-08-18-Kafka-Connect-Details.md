@@ -51,67 +51,90 @@ Kafka Connect是在0.9以后加入的功能，主要是用来将其他系统的�
 
 ### Standalone 单机模式<a id="sec-1-2-1" name="sec-1-2-1"></a>
 
-启动命令：
-bin/connect-standalone.sh config/connect-standalone.properties connector1.properties \[connector2.properties ...]  
-这么多的配置，搞毛线啊。说真的，官网的这个，当时我真没看懂。下面解释下：  
+启动命令：  
+bin/connect-standalone.sh config/connect-standalone.properties connector1.properties \[connector2.properties ...]    
+这个配置有点多，官方的文档也没说太清楚。什么东西搞多了，都容易出错，相互间关系也复杂了。  
+下面我解释下：    
 执行单机启动脚本connect-standalone.sh，将connect-standalone.properties属性文件传递进去作为Worker的配置，  
-另外的配置就是属于Connector的配置，会被全部传递给SouceConnector或者SinkConnector。  
+另外的配置就是属于Connector的配置，会被全部传递给SourceConnector和SinkConnector。  
 
-bootstrap.servers：kafka集群地址，例如：10.33.2.1:9092,10.33.2.9:9092,10.33.1.13:9092  
+bootstrap.servers：  
+kafka集群地址，例如：10.33.2.1:9092,10.33.2.9:9092,10.33.1.13:9092  
 
-key.converter：用来转换写入或者读出kafka中消息的key的，例如：org.apache.kafka.connect.json.JsonConverter。  
-效果是对指定了key是id=1000，转换成{"id" : 1000}，也可以使用Avro的格式。我做的项目使用的maxwell，发现使用Json转换后，  
-字段的双引号全没了，冒号变成等号，变成了这种鬼东西{id=1000}。后面直接改成使用String的转换器：org.apache.kafka.connect.storage.StringConverter。  
+key.converter：  
+用来转换写入或者读出kafka中消息的key的，例如：org.apache.kafka.connect.json.JsonConverter。  
+效果是对指定了key是id=1000，转换成{"id" : 1000}，也可以使用Avro的格式。我做的项目使用的maxwell，   
+发现使用Json转换后，字段的双引号全没了，冒号变成等号，变成了这种鬼东西{id=1000}。  
+后面直接改成使用String的转换器，然后自己做JSON转换：org.apache.kafka.connect.storage.StringConverter。    
 
-value.converter：同上，只是用来转换消息的value的，也就是传输的具体数据。  
+value.converter：  
+同上，只是用来转换消息的value的，也就是传输的具体数据。  
 
-offset.storage.file.filename：默认是：/tmp/connect.offsets。  
-**这个配置要注意，单机模式是需要自己持久化offset的。** Kafka Connect会用这里配置的文件保存offset。  
+offset.storage.file.filename：  
+默认是：/tmp/connect.offsets。    
+**这个配置要注意下，单机模式是需要自己持久化offset的。** Kafka Connect会用这里配置的文件保存offset。  
 而且针对producer和consumer（也就是source和sink）需要单独分别配置：  
 producer.offset.storage.file.filename=/temp/source-offset  
-consuer.offset.storage.file.filename=/temp/sink-offset  
-但是，我单机好像从来没成功过，每次重启，都是重头消费。  
+consumer.offset.storage.file.filename=/temp/sink-offset  
+但是，我单机好像从来没成功过，每次重启，offset都被reset了，都是重头消费。  
 
 ### Distribute 分布式模式<a id="sec-1-2-2" name="sec-1-2-2"></a>
 
 启动命令：  
 bin/connect-distributed.sh config/connect-distributed.properties  
-分布式模式下，connector类及其配置都是通过Rest API接口提交给kafka的。  
-但不需要配置保存offset的文件，因为分布式下，都是将offsets，configs和status保存到topics中的。  
+
+分布式模式下，connector的配置都是通过Rest API接口提交给kafka的。  
+但配置中不需要配置保存offset的文件，因为分布式下，都是将offsets，configs和status保存到相应的topics中的。  
 然后由Worker决定如何存储配置，分配工作，存储offsets和task的状态信息。  
 **切记，为了程序的高可用，这3个topics最好手动创建。**    
 具体命令，请看另外一篇博客：[Kafka命令](http://3gods.com/2017/02/25/Kafka-Command.html) 。
 
-group.id：也就是connect-cluster的group id，这个不能和consumer的goup id冲突。  
-config.storage.topic：用来保存connector和task的配置的。 **单分片，多副本，压实类型（compacted）** 的topic。  
+group.id：  
+也就是connect-cluster的group id，这个不能和consumer的goup id冲突。  
+
+config.storage.topic：  
+用来保存connector和task的配置的。 **单分片，多副本，压实类型（compacted）** 的topic。  
 **因为非压实的topic在一定配置，触发条件下，会删除！！！**  
 这里的多副本是为了配置一直都可用，建议数量等于Kafka Brokers的数量。单分片，应该是刚开始启动，初始化的时候，  只有一个线程消费。  
 
-offset.storage.topic：用来保存offset的，既有source connect的，也有sink connect的offset。多分片，多副本，压实的topic。  
-status.storage.topic：用来存储task状态的，多分片，多副本，压实的topic。  
+offset.storage.topic：  
+用来保存offset的，既有source connect的，也有sink connect的offset。多分片，多副本，压实的topic。  
+
+status.storage.topic：  
+用来存储task状态的，多分片，多副本，压实的topic。  
 这两个多分片，多副本配置和一般的topic相同就行了，比如我们是3个副本，5个partition。  
 
-上面的3个topic，你都可以用console-consumer进行消费看看，特别是status.storage.topic非常有用，  
+上面的3个topic，你都可以用console-consumer进行消费看看，特别是status.storage.topic，会非常有用，  
 **因为分布式模式下，task因为一些配置，异常关掉，只会显示xxxTask closed，但是不会显示异常信息。**  
 而从status.storage.topic中消费出来的消息可以看到具体异常信息。  
 
 ### Connector的配置<a id="sec-1-2-3" name="sec-1-2-3"></a>
 
-name：connector的唯一名字  
-connector.class：用来连接Kafka集群的类名，也就是你继承SourceConnector或SinkConnector的实现类，  
-也就是Connector程序的入口，尽量使用全量路径名。  
-tasks.max：task的数量，一个task就是一个线程。task数量设置要小于等于分片partition的数量，多了并发度无法提高。  
-key.converter：覆盖掉传递给Worker的消息的key转换类，也就是connect-stadalone.properties  
+name：  
+connector的唯一名字  
+  
+connector.class：  
+用来连接Kafka集群的类名，也就是你继承SourceConnector或SinkConnector的实现类，  
+也就是Connector程序的入口，尽量使用全量路径名。 
+   
+tasks.max：  
+task的数量，一个task就是一个线程。task数量设置要小于等于分片partition的数量，多了并发度无法提高。  
+  
+key.converter：  
+覆盖掉传递给Worker的消息的key转换类，也就是connect-stadalone.properties  
 和connect-distirbute.properties中key.converter。  
-value.converter：同上。  
-topics：要消费的topic列表，对于sink connector才需要配置。  
-
+   
+value.converter：同上。 
+     
+topics：  
+要消费的topic列表，对于sink connector才需要配置。  
+  
 ## Transformations 转换器<a id="sec-1-3" name="sec-1-3"></a>
 
 用来将消息进行修改，转换，以及路由的。可以将多个组合起来，作为一个转换链。  
 个人建议是，这些代码直接在connector中写，除非可以部署上去，多个系统公用。  
 还有一方面是，黑盒的类太多，出问题了后不知道是哪里出问题了，而且也不能本地debug。  
-再就是着他妈的Transformations配置也太多了，学习成本好高啊。这块的详细内容没看，详情请看官网。  
+再就是Transformations的配置也太多了，学习成本有点高。这块的详细内容没看，详情请看官网。  
 
 ## REST API<a id="sec-1-4" name="sec-1-4"></a>
 
@@ -120,9 +143,9 @@ GET /connectors - 查询所有connectors
 POST /connectors - 提交一个connector。比如是JSON格式，例子：  
 ```
 {
- "name": "dis-maxwell-sink",
+ "name": "maxwell-sink",
  "config": {
-   "name" : "maxwell-sink-song",
+   "name" : "maxwell-sink",
    "connector.class" : "com.cimc.maxwell.sink.MySqlSinkConnector",
    "tasks.max": 1,
    "topics": "estation.db_ez.t_parcel,estation.db_ez.t_box",
@@ -132,6 +155,15 @@ POST /connectors - 提交一个connector。比如是JSON格式，例子：
 GET /connectors/{name} - 查询指定connector信息的  
 GET /connectors/{name}/config - 查询指定connector配置的  
 PUT /connectors/{name}/config - 更新指定connector配置的  
+这里要说下这个PUT更新配置，需要全量传入更新后的配置，body直接传入类似这种：  
+```
+{
+   "name" : "maxwell-sink",
+   "connector.class" : "com.cimc.maxwell.sink.MySqlSinkConnector",
+   "tasks.max": 10,
+   "topics": "estation.db_ez.t_parcel,estation.db_ez.t_box,estation.db_ez.t_book_parcel",
+}
+```
 GET /connectors/{name}/status - 查询指定connector状态的  
 GET /connectors/{name}/tasks - 查询指定connector的所有tasks  
 GET /connectors/{name}/tasks/{taskid}/status - 查询指定connector的指定task的状态的，taskid一般是0，1，2之类  
@@ -141,7 +173,9 @@ POST /connectors/{name}/restart - 重启一个connector（connector因为一些�
 POST /connectors/{name}/tasks/{taskId}/restart - 重启一个指定的task的  
 DELETE /connectors/{name} - 删除一个connector  
 GET /connector-plugins - 获取所有已安装的connector插件  
-PUT /connector-plugins/{connector-type}/config/validate - 校验connector的配置的属性类型。  
+PUT /connector-plugins/{connector-type}/config/validate - 校验connector的配置的属性类型。    
+#### 优雅关闭
+Kafka Connect是不提供关闭Connector的REST API，可以直接kill -9或者先delete掉，再post生成（保持name一直，不会有什么不良影响，比如offset出错。）
 
 ## Kafka Connect 开发详解<a id="sec-1-5" name="sec-1-5"></a>
 
@@ -163,8 +197,8 @@ Source Connector对应Producer，Sink Connector对应Consumer。
 
 ## 第三方资源<a id="sec-1-7" name="sec-1-7"></a>
 
-这是已经得到支持的组件，不需要做额外的开发：  
-<https://www.confluent.io/product/connectors/>  
+这是已经得到支持的第三方组件，不需要做额外的开发：  
+[Kafka Connect Product](https://www.confluent.io/product/connectors/) 
 括号中的Source表示将数据从其他系统导入Kafka，Sink表示将数据从Kafka导出到其他系统。  
 其他的我没看，但是JDBC的实现比较的坑爹，是通过primary key（如id）和时间戳（如updateTime）字段，  
 来判断数据是否更新，这样的话应用范围非常受局限。  
