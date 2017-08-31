@@ -1,4 +1,5 @@
 ---
+permalink: /:title
 layout: post
 title: 使用Maxwell Kafka和Maxwell-Sink进行MySql数据同步
 category: bigdata kafka

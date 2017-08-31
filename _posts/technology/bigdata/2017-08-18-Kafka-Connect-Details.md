@@ -1,4 +1,6 @@
 ---
+permalink: /:title
+redirect_from: "/2017/08/18/Kafka-Connect-Details.html"
 layout: post
 title: Kafka Connect Details 详解
 category: bigdata

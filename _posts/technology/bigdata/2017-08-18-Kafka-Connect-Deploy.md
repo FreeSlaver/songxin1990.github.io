@@ -1,4 +1,6 @@
 ---
+permalink: /:title
+redirect_from: "/2017/08/18/Kafka-Connect-Deploy.html"
 layout: post
 title: Kafka Connect Deploy 部署
 category: bigdata
