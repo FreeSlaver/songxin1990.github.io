@@ -4,7 +4,7 @@ title: 使用Maxwell Kafka和Maxwell-Sink进行MySql数据同步
 category: bigdata kafka
 tags: kafka
 keywords: maxwell,kafka,maxwell-sink,mysql,sync,ETL,数据库同步
-description: 使用Maxwell，Kafka和Maxwell-Sink做ETL进行MySql数据同步，也可同步到其他数据仓库（如HBase，ES等）。Maxwell-Sink功能包括：按DML操作过滤，按各种字段条件过滤，数据的转换处理等。
+description: 使用Maxwell，Kafka和Maxwell-Sink做ETL进行MySql数据同步，也可同步到其他数据仓库（如HDFS，ES等）。Maxwell-Sink功能包括：按DML操作过滤，按各种字段条件过滤，数据的转换处理等。
 ---
 
 <div id="table-of-contents">
@@ -14,8 +14,8 @@ description: 使用Maxwell，Kafka和Maxwell-Sink做ETL进行MySql数据同步�
 <li><a href="#sec-1">1. 使用Maxwell Kafka和Maxwell-Sink进行MySql数据同步</a>
 <ul>
 <li><a href="#sec-1-1">1.1. Maxwell介绍</a></li>
-<li><a href="#sec-1-2">1.2. Kafka</a></li>
-<li><a href="#sec-1-3">1.3. Maxwell-Sink</a>
+<li><a href="#sec-1-2">1.2. Kafka介绍</a></li>
+<li><a href="#sec-1-3">1.3. Maxwell-Sink介绍</a>
 <ul>
 <li><a href="#sec-1-3-1">1.3.1. Maxwell-Sink提供的特性</a></li>
 </ul>
@@ -44,22 +44,22 @@ description: 使用Maxwell，Kafka和Maxwell-Sink做ETL进行MySql数据同步�
 
 ## Maxwell介绍<a id="sec-1-1" name="sec-1-1"></a>
 
-maxwell使用和mysql slaver相同的方式，通过读取mysql的日志文件binlog获取数据库的变更。  
-然后将binlog event转换为JSON数据，使用kafka producer写入到Kafka中。  
+maxwell使用和mysql slaver相同的方式，通过读取mysql的日志文件binlog获取数据的变更。  
+然后将binlog event转换为JSON数据，使用kafka producer写入到Kafka的topics中。  
 具体介绍见：[Maxwell's daemon](http://maxwells-daemon.io/) 。  
 
-## Kafka<a id="sec-1-2" name="sec-1-2"></a>
+## Kafka介绍<a id="sec-1-2" name="sec-1-2"></a>
 
 Kafka是Linkedin开发的一个分布式，多分区，多副本的的海量日志系统，也可以用作消息队列。  
 在这里主要是做数据中转站，存储maxwell产生的json数据，然后提供给maxwell-sink消费，或者其他实时数据分析系统消费。  
 具体介绍见：[Apache Kafka](https://kafka.apache.org/) 。  
 
-## Maxwell-Sink<a id="sec-1-3" name="sec-1-3"></a>
+## Maxwell-Sink介绍<a id="sec-1-3" name="sec-1-3"></a>
 
-Maxwell-Sink是我基于Kafka Connect写的一个支持mysql jdbc的Sinker，关于Kafka Connect的介绍可以看[Kafka Connect Details 详解](http://3gods.com/2017/08/18/Kafka-Connect-Details.html) 。  
-除了mysql当然你也可以加个Adapter，将数据同步到其他数据仓库，比如HBase，ES等。其实这整个就是一个ETL。  
+Maxwell-Sink是我基于[Kafka Connect](http://3gods.com/2017/08/18/Kafka-Connect-Details.html)写的一个支持mysql jdbc的Sinker。  
+除了写入到mysql当然你也可以加个Adapter，将数据同步到其他数据仓库，比如HDFS，ES等。其实这整个就是一个ETL。  
 
-Maxwell-Sink的功能是将Kafka中的JSON数据进行过滤，转换成SQL语句，然后用JDBC，沉淀到目标指定的mysql实例中。  
+Maxwell-Sink的功能是将Kafka中的JSON数据进行过滤，转换成SQL语句，然后使用JDBC，沉淀到指定的目标mysql实例中。  
 Github项目地址见：[maxwell-sink](https://github.com/songxin1990/maxwell-sink) 。  
 
 ### Maxwell-Sink提供的特性<a id="sec-1-3-1" name="sec-1-3-1"></a>
@@ -67,23 +67,23 @@ Github项目地址见：[maxwell-sink](https://github.com/songxin1990/maxwell-si
 1. 针对多个字段值进行过滤，比如终端号这个字段必须满足那些条件才能被放行。  
 2. 对数据进行一些必要的处理，转换。  
 3. 可以指定要同步过去的数据库名，表名，比如db_origin.t_term到db_back.t_terminal。
-4. 可以适配多个目的数据源，比如可以导出到habse，es等。
-5. 针对不同DML操作过滤。
+4. 可以适配到多个目的数据仓库，比如可以导出到HDFS，ES等。
+5. 针对不同的DML操作进行过滤。
 
 ## mysql数据同步架构图<a id="sec-1-4" name="sec-1-4"></a>
 
 ![MySqlSync-Maxwell-Kafka-MaxwellSink](http://7xnlfe.com1.z0.glb.clouddn.com/mysqlSync-maxwell-kafka-maxwellsink.jpg) 
 
-## mysql数据同步后结果校验  TODO<a id="sec-1-5" name="sec-1-5"></a>
+## mysql数据同步后结果校验<a id="sec-1-5" name="sec-1-5"></a>
 
-**这个还真是个大问题。**  
+**TODO 这个还真是个大问题。**  
 首先说说难点：  
-1. 整个同步过程是动态的，前后隔了几毫秒，可能就有数据改变  
+1. 整个数据同步过程是动态的，前后隔了几毫秒，可能就有数据改变  
 2. 数据库里面的数据太大了，比较起来非常耗时，而且不能锁表，影响业务。  
 3. 我们进行的数据同步不是全量的，而是部分的，也就是说必须将库表A中的部分数据和库表B的进行比较。  
 
 目前我们也没找到好的方案，但是因为我们的“非主流”同步玩法，所以可以保证数据的最终一致性，  
-并且所有数据都是单向同步，所以可以认为问题不大。
+并且所有数据都是单向同步，所以可以认为问题不大。（。。。弱弱的说）
 
 ## 问题<a id="sec-1-6" name="sec-1-6"></a>
 
@@ -95,15 +95,15 @@ Github项目地址见：[maxwell-sink](https://github.com/songxin1990/maxwell-si
 2. kafka broker接收端  
 这一点在我之前的文章中写的很清楚了，具体见：Apache Kafka技术分享。
 3. maxwell-sink消息消费端  
-主要关注consumer的offset提交， **不要在消息未消费成功，却提交offset成功了，这样就会造成消息丢失。**
-
-且maxwell-sink（也就是消费者Sinker）的offset也是记录在Kafka的Topic中（也就是日志文件），而kafka的多副本机制会保证消息不丢失。  
+主要关注consumer的offset提交， **不要消息未消费成功，offset却提交成功了，这样就会造成消息丢失。**  
+我们宁可消息offset提交失败，消息重复性消费，也不要造成消息的丢失。  
+元数据问题：maxwell-sink的offset是记录在配置的Kafka的Topic中（也就是日志文件），而kafka的多副本机制会保证元数据的有效可用。  
 
 ### 顺序性<a id="sec-1-6-2" name="sec-1-6-2"></a>
 
 如何保证源数据库中进行的增删改操作，输出到kafka，然后进入到maxwell-sink消费后，依然保持顺序？  
 因为maxwell是根据主键primary key进行hash取模的，因此可以保证同一个id的数据的增删改会输出  
-到同一个partition。而我们知道同一个partition只能分配到一个Task consumer（也就是一个现场）因此能顺序性。  
+到同一个partition。而我们知道同一个partition只能分配到一个Task consumer（也就是一个线程）因此能保证顺序性。  
 
 ### 重复性<a id="sec-1-6-3" name="sec-1-6-3"></a>
 
@@ -115,13 +115,13 @@ Github项目地址见：[maxwell-sink](https://github.com/songxin1990/maxwell-si
 
 对于重复的update，因为能够保证顺序性，因此后面执行的update总会在后面执行，也能满足最终一致性。  
 
-对于重复的delete，where条件是用的primary key，后续的delete不会改变结果集。  
+对于重复的delete，where条件是用的primary key，后续的delete有任何影响。    
 
 ### 高可用<a id="sec-1-6-4" name="sec-1-6-4"></a>
 
 Maxwell：  
 问题较大，因为是单实例的，存在单点故障，而且貌似输出DDL很容易造成解析DDL语句出错，然后就启动不了。  
-但是好像maxwell做成集群方式，内部能通信也不太可能，太复杂。现在maxwell是将Source offset保存在数据库中的，  
+但是好像maxwell做成集群方式，内部通信也不太可能，太复杂。现在maxwell是将Source offset保存在数据库中的，  
 因此挂掉后，重新读数据库，从上一次消费的地点重新开始就好。  
 
 Kafka：  
