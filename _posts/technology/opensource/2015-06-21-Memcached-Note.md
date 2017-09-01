@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Memcached学习笔记
-category: 技术
+category: javacore
 tags: chache
 keywords: 
 description: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Redis实现锁
-category: 技术
+category: javacore
 tags: lock
 keywords: 
 description: 

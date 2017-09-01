@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 基于Redis实现分布式消息队列
-category: 技术
+category: javacore
 tags: MQ Redis
 keywords: 
 description: 

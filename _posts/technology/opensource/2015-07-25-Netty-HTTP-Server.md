@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Netty实现HTTP服务器
-category: 技术
+category: javacore
 tags: Netty HTTP
 keywords: 
 description: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Redis pipeline的java代码实现
-category: 技术
+category: javacore
 tags: Redis
 keywords: 
 description: 

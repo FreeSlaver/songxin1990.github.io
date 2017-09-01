@@ -1,7 +1,7 @@
 ---
 layout: post
 title: protobuf编解码处理
-category: 技术
+category: javacore
 tags: 
 keywords: 
 description: 

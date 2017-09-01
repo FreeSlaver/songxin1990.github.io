@@ -1,7 +1,7 @@
 ---
 layout: post
 title: java中获取spring配置的properties文件属性
-category: 技术
+category: javacore
 tags: 
 keywords: 
 description: 

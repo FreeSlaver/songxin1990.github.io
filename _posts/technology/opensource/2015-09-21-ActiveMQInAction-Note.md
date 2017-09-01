@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ActiveMQ in Action读书笔记
-category: 技术
+category: javacore
 tags: MQ Note
 keywords: 
 description: 

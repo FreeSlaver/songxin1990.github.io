@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Memcached深度分析
-category: 技术
+category: javacore
 tags: cache
 keywords: 
 description: 

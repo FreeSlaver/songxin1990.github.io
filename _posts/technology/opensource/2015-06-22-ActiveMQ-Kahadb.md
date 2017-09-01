@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Activemq之KahaDB实现
-category: 技术
+category: javacore
 tags: MQ
 keywords: 
 description: 

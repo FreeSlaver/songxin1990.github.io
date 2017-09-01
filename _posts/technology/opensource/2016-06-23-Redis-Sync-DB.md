@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Redis与数据库数据同步解决方案
-category: 技术
+category: javacore
 tags: redis
 keywords: 
 description: 

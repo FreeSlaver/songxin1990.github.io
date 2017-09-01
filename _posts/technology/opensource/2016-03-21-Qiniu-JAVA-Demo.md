@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 七牛云存储图片JAVA DEMO
-category: 技术
+category: javacore
 tags: 
 keywords: 
 description: 

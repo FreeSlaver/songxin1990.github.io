@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google Protobuf教程总结
-category: 技术
+category: javacore
 tags: 
 keywords: 
 description: 

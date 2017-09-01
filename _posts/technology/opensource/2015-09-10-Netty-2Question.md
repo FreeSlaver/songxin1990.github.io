@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Netty两个使用问题
-category: 技术
+category: javacore
 tags: Netty Problem
 keywords: 
 description: 

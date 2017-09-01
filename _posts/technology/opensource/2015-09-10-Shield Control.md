@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shield权限控制
-category: 技术
+category: javacore
 tags: Shield Config
 keywords: 
 description: 

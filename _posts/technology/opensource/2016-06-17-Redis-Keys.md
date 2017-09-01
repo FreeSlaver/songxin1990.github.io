@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 关于Redis keys命令
-category: 技术
+category: javacore
 tags: redis
 keywords: 
 description: 
