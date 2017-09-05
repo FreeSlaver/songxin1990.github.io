@@ -1,7 +1,9 @@
 ---
+permalink: /:title
+redirect_from: "/2017/04/30/Art-Of-Learn-Note.html"
 layout: post
 title: 学习的艺术—读书笔记
-category: suzhi note essay
+category: note
 tags: 学习,learn,笔记
 keywords: 学习,learn,笔记
 description: 

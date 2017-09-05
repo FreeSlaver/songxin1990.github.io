@@ -1,7 +1,9 @@
 ---
+permalink: /:title
+redirect_from: "/2017/08/26/HowTo-Read-ABook-Note.html"
 layout: post
 title: 如何阅读一本书—读书笔记
-category: suzhi note essay
+category: note
 tags: 阅读,书籍,笔记
 keywords: 阅读,书籍,笔记
 description: How to Read a Book Note 如何阅读一本书—读书笔记。这是我个人精心做的读书笔记。

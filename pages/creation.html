@@ -1,9 +1,24 @@
 ---
 layout: page_title
 title: <i class="fa fa-archive fa-lg"></i>
-titlename: 交易
+titlename: 创作
 comments: false
+description: 当你开始创作，你就是上帝
 ---
+
+<!--笔记-->
+<h3 id="#note">读书笔记</h3>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "note" %}
+    <li>
+        <h4>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h4>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
 
 <!-- 散文-->
 <h3 id="#essay">{{ site.locals.essay }}</h3>

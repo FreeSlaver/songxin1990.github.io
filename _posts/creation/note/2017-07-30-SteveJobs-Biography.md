@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 史蒂夫乔布斯传 笔记
-category: business people essay
+title: 史蒂夫乔布斯传—读书笔记
+category: note
 tags: 乔布斯 apple 苹果
 keywords: 乔布斯 apple 苹果
 description: 史蒂夫乔布斯传的读书笔记，摘录了书中的精华语句以及段落，并附加上个人的所思所得。这本书讲述了乔布斯传奇的一生，他以及他伟大的苹果公司——Apple，产生了ipod，iphone，ipad，imac等令万千大众为之疯狂的产品。
@@ -11,7 +11,7 @@ description: 史蒂夫乔布斯传的读书笔记，摘录了书中的精华语�
 <h2></h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#sec-1">1. 史蒂夫.乔布斯传 笔记</a>
+<li><a href="#sec-1">1. 史蒂夫乔布斯传—读书笔记</a>
 <ul>
 <li><a href="#sec-1-1">1.1. 第一章</a></li>
 <li><a href="#sec-1-2">1.2. 第二章</a></li>
@@ -24,7 +24,7 @@ description: 史蒂夫乔布斯传的读书笔记，摘录了书中的精华语�
 </div>
 </div>
 
-# 史蒂夫.乔布斯传 笔记<a id="sec-1" name="sec-1"></a>
+# 史蒂夫乔布斯传—读书笔记<a id="sec-1" name="sec-1"></a>
 
 ## 第一章<a id="sec-1-1" name="sec-1-1"></a>
 
