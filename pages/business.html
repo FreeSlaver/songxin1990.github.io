@@ -3,6 +3,7 @@ layout: page_title
 title: <i class="fa fa-archive fa-lg"></i>
 titlename: 商业
 comments: false
+description:
 ---
 
 <!-- 商业-->
@@ -10,6 +11,20 @@ comments: false
 <ul>
     {% for post in site.posts %}
     {% if post.category contains "business" %}
+    <li>
+        <h4>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h4>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+<!-- 产品-->
+<h3 id="#product">产品</h3>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "product" %}
     <li>
         <h4>
             <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
