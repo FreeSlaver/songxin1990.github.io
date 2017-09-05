@@ -54,6 +54,9 @@ description:
 个人偏向于使用将redis做缓存，这是一种成熟做法。  
 如果你非要将redis做db，而同步变换到数据库，那么你将失去很多关系型数据库的特性。
 
+### 相关阅读
+[使用Maxwell Kafka和Maxwell-Sink进行MySql数据同步](http://3gods.com/MySql-ETL-Using-Maxwell-Kafka-MaxwellSink)
+
 
 
 
