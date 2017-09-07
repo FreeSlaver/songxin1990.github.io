@@ -88,6 +88,7 @@ gems:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-redirect-from
+  - jekyll-paginate
   #- jekyll-gist
 
 

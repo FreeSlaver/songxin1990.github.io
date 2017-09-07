@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 天涯牛帖-转载
-category: essence stock
+category: stock
 tags: 
 keywords: 
 description: 

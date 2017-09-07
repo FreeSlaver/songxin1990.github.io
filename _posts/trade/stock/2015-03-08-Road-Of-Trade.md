@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 交易之路-转载
-category: stock essence
+category: stock
 tags: 
 keywords: 交易 股票 stock
 description: 交易之路-多年交易心得，体会，操作手法

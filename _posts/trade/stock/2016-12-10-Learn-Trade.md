@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 学习交易
-category: stock essence
+category: stock
 tags: 
 keywords: 
 description: 

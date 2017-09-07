@@ -13,7 +13,30 @@ description: 研究互联网开发技术，记录分享个人成长所得，投�
     相逢即是缘，希望你在浏览本站之后能够有所收获。<br>
   <p>
 
-  <h3>本站创作主题</h3>
+  <h3 id="#newest">最新文章</h3>
+  <ul>
+    {% for post in site.posts limit:10 %}
+    <li>
+      <h4>
+        <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+      </h4>
+    </li>
+    {% endfor %}
+  </ul>
+
+  <h3 id="#essence">{{ site.locals.essence }}</h3>
+  <ul>
+    {% for post in site.posts %}
+    {% if post.category contains "essence" %}
+    <li>
+      <h4>
+        <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+      </h4>
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+  <!--<h3>本站创作主题</h3>
   <ol>
     <li><a href="/pages/technology.html">研究互联网开发技术</a></li>
     <li><a href="/pages/growingup">记录分享个人成长所得</a></li>
@@ -62,7 +85,7 @@ description: 研究互联网开发技术，记录分享个人成长所得，投�
     <li><a href="/NotOnly-SEO-But-HowTo-Think">不仅仅只是SEO，更是一种思考方式</a></li>
     <li>jekyll官方教程—笔记</li>
     <li>内容的价值—网站的生命</li>
-  </ol>
+  </ol>-->
 </div>
 
 
@@ -80,39 +103,6 @@ description: 研究互联网开发技术，记录分享个人成长所得，投�
   </ul>
 </div>
 -->
-
-<!--<div class="row">
-  &lt;!&ndash;遍历最新文章&ndash;&gt;
-  <div class="col-md-12">
-    <div class="panel panel-primary">
-      <div class="panel-heading">{{ site.locals.newest }}</div>
-      {% for post in paginator.posts %}
-      <a href='{{ post.url }}' class="list-group-item pjaxlink clearfix">
-        {{post.title}}
-        <span class="badge">{{ post.date | date:"%Y年%m月%d日" }}</span>
-      </a>
-      {% endfor %}
-    </div>
-  </div>
-
-  &lt;!&ndash;遍历cate中的文章&ndash;&gt;
-  {% for cate in site.cates %}
-  <div class="col-md-12">
-    <div class="panel panel-primary">
-      <div class="panel-heading">{{ cate }}</div>
-      {% for tag in site.tags %}
-      {% if tag[0] == cate %}
-      {% for post in tag[1] %}
-      <a href='{{ post.url }}' class="list-group-item pjaxlink clearfix">
-        {{post.title}}
-        <span class="badge">{{ post.date | date:"%Y年%m月%d日" }}</span>
-      </a>
-      {% endfor %}
-      {% endif %}
-      {% endfor %}
-    </div>
-  </div>
-  {% endfor %}
 
 </div>-->
  
