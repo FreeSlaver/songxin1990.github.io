@@ -1,0 +1,187 @@
+---
+layout: post
+title: 我的高效工具箱
+category: efficient
+tags: efficient tool
+keywords: efficient tool
+description: 我的高效工具箱，高效的工具代表的就是高效的生产力。包括翻墙，搜索，浏览器，浏览器插件，工作开发，写作，网盘，获取资讯等。
+---
+
+<div id="table-of-contents">
+<h2>目录</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. 我的高效工具箱</a>
+<ul>
+<li><a href="#sec-1-1">1.1. 核心工具</a></li>
+<li><a href="#sec-1-2">1.2. 翻墙 ShadowSocks</a></li>
+<li><a href="#sec-1-3">1.3. 搜索引擎 Google</a></li>
+<li><a href="#sec-1-4">1.4. 浏览器 Chrome</a>
+<ul>
+<li><a href="#sec-1-4-1">1.4.1. 浏览器书签 Chrome BookMark</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-5">1.5. 浏览器插件 Chrome-extensions</a>
+<ul>
+<li><a href="#sec-1-5-1">1.5.1. 拦截讨厌的广告 Adblock Plus</a></li>
+<li><a href="#sec-1-5-2">1.5.2. 查看JSON JSON-handler</a></li>
+<li><a href="#sec-1-5-3">1.5.3. HTTP API调试 Restlet Client</a></li>
+<li><a href="#sec-1-5-4">1.5.4. 划词翻译</a></li>
+<li><a href="#sec-1-5-5">1.5.5. 购物党比价</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-6">1.6. GTD Emacs+OrgMode</a></li>
+<li><a href="#sec-1-7">1.7. 工作开发 InteliJ Idea</a></li>
+<li><a href="#sec-1-8">1.8. 做笔记 Emacs+OrgMode</a></li>
+<li><a href="#sec-1-9">1.9. 写作 Jekyll+Markdown</a></li>
+<li><a href="#sec-1-10">1.10. 网盘同步 Dropbox</a></li>
+<li><a href="#sec-1-11">1.11. 收发邮件 网易企业邮</a></li>
+<li><a href="#sec-1-12">1.12. 获取资讯 Feedly，Pocket，IFTTT</a></li>
+<li><a href="#sec-1-13">1.13. 即时通讯 QQ</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+# 我的高效工具箱<a id="sec-1" name="sec-1"></a>
+
+## 核心工具<a id="sec-1-1" name="sec-1-1"></a>
+
+在开始介绍之前，我要强调一个核心的理念就是：   
+**围绕核心的工具来构建整个工具箱集合，并形成自己的高效工作流。**  
+工作流的概念非常有用，这个我也才接触，会在后续文章说到。  
+
+所谓的核心工具，就是你每天上班，打开电脑之后，开机启动得东西。  
+我的是ShadowSocks，Emacs，Chrome，QQ，Dropbox，IteliJ Idea，Github。  
+
+## 翻墙 ShadowSocks<a id="sec-1-2" name="sec-1-2"></a>
+
+翻墙我使用的ShadowSockes，需要另外购买VPS。比较好的是Linode，最低的每月5刀，但是我认为这点投入非常的值。  
+我目前使用的同事共享的。如果哪天没有了，我会毫不犹豫的自己掏钱购买。  
+
+翻墙不仅仅是上Facebook，Twitter，Youtube这些网站。  
+翻墙是一种态度，是一种生活方式，是一种对自由的追求和向往。  
+翻墙后，Google会带你进入一个更加宽广的天地，会带给你很多有价值的资料。  
+
+## 搜索引擎 Google<a id="sec-1-3" name="sec-1-3"></a>
+
+既然能够翻墙了，那必须要用Google啊，或者是因为想要用Google，必须先翻墙。  
+使用Google和百度的效率相差的不是一星半点，我可是特意针对同样的问题进行过搜索比较的。  
+而且我发现英文资料的含金量比中文的高太多，特别是关于IT技术方面的。  
+中文的技术资料几乎充斥各种”HelloWorld“级别的介绍，稍好点的就是自己使用这个技术的经验心得。  
+但是国外的高素质网站：Github，Stack Overflow，Reddit，Hacknews，Wikipedia等，  
+无论是从内容质量，人群素质，都甩国内几条街。  
+
+有时候我在查询一个技术问题，到处找，没找到的时候，然后使用site:stack overflow，或者其他的，  
+我的问题就能够得到神奇的解决，因为别人之前早遇到过了，也有人问过了。  
+
+## 浏览器 Chrome<a id="sec-1-4" name="sec-1-4"></a>
+
+能翻墙使用Chrome和不能翻墙使用Chrome，兼职是天壤之别。翻墙之后，简直爽到爆。  
+在Chrome中直接整合各种Google提供的骑兵利器，没有什么更爽的了。只是同事等用的太少，  
+不然各种协同工具，可以大大提供团队作战效率。  
+
+就是有一点不好比较耗内存，也可能跟我经常打开N多页面有关系。  
+
+### 浏览器书签 Chrome BookMark<a id="sec-1-4-1" name="sec-1-4-1"></a>
+
+没有任何一种第三方的书签管理工具比的上翻墙后的Chrome得了。全设备同步，打开页面同步等等。  
+不用担心丢失，甚至可以和GoogleDriver结合起来，定期同步导入到Driver中。  
+
+一些在公司经常要用到的页面，我会单独加到公司的书签文件夹下面。  
+每次遇到有用的文章就收藏起来，然后下次遇到同样的问题，就直接搜索书签了。  
+
+## 浏览器插件 Chrome-extensions<a id="sec-1-5" name="sec-1-5"></a>
+
+我试用过相当多的各种插件，但是感觉没有提供我想要的核心功能，价值就卸载掉了，因为装多了会拖慢浏览器速度。  
+
+### 拦截讨厌的广告 Adblock Plus<a id="sec-1-5-1" name="sec-1-5-1"></a>
+
+面对各种垃圾站，各种弹窗，广告，Adblock Plus简直是神器。  
+还有些网站经常放各种暴露的”私房模特“，上班时看有伤风化，直接右键拦截掉，还我界面一片清爽。  
+
+### 查看JSON JSON-handler<a id="sec-1-5-2" name="sec-1-5-2"></a>
+
+用来格式化，查看JSON的。格式化后非常漂亮，而且能对点选的子级节点进行编辑。  
+
+### HTTP API调试 Restlet Client<a id="sec-1-5-3" name="sec-1-5-3"></a>
+
+作为开发，经常要测试各种API接口，这个外观美丽，非常好用，而且可以分门别类的保存起来。  
+
+### 划词翻译<a id="sec-1-5-4" name="sec-1-5-4"></a>
+
+也是一个插件，可以直接翻译，因为复制黏贴到有道里面比较烦琐。  
+
+### 购物党比价<a id="sec-1-5-5" name="sec-1-5-5"></a>
+
+买东西时不用再担心吃亏上当了。  
+
+## GTD Emacs+OrgMode<a id="sec-1-6" name="sec-1-6"></a>
+
+GTD，Getting Things Done。是一种时间和事务的管理方法。核心原则就是：当下永远只做一件事。  
+这个工具的精髓和禅的：活在当下，以及Unix的软件设计哲学：  
+只做一件事，并做好它。（Do One Thing and Do it Well）都有异曲同工之妙。 
+
+它让你手头永远只关注并解决一件事情，这样充分释放你的大脑及焦虑感。  
+我现在是用Emacs中的插件OrgMode，AgendaView对全年，全月，全天的TODOs一目了然。  
+而且Org中的星号隐藏其他事项的细节，非常清晰，还有各种任何的不同状态，TODO,DOING,DONE等。  
+
+如果不会OrgMode的，我推荐一个叫Trello得工具，个人觉得如果团队协同干活，这个更有效。  
+
+## 工作开发 InteliJ Idea<a id="sec-1-7" name="sec-1-7"></a>
+
+我现在用的是InteiJ Idea，盗版的，别人共享的验证码。  
+不是我不想买，是真的买不起啊。太尼玛贵了，还是一年一付的。  
+
+使用Idea，一方面是，这个的确是比Eclipse强大太多，人性化太多（就是爽），商业的肯定比免费的好。  
+另外一个方面是，对SBT，也就是Scala语言的支持非常强大。还有一些比如直接打开数据库，终端，对markdown支持等。  
+
+## 做笔记 Emacs+OrgMode<a id="sec-1-8" name="sec-1-8"></a>
+
+好记性不如烂笔头，并且记下的东西，可以供以后回顾，反思。  
+我现在用的Emacs+OrgMode做笔记，  
+
+有时候一些比较好的笔记，比如读书笔记，技术学习笔记，可以直接导出Markdown，然后发布到博客。  
+我现在的玩法是：用Org做笔记，然后用Dropbox进行同步，每个月月底提交到Github生成网页，这样就可以随意的分享给他人。  
+
+## 写作 Jekyll+Markdown<a id="sec-1-9" name="sec-1-9"></a>
+
+即使只是自己一个人写了文章给自己看，这也会大大提高个人的语言组织能力，思维整理能力，书面表达能力。  
+但是如果真的是有价值的东西，就应该让它不断复制，以指数级的方式增长，这就应该借助于互联网。  
+
+所以，在互联网时代，爱好写作的人不妨搭建一个个人的静态博客，无论是对个人品牌建设，还是提升逼格，都大有裨益。  
+我用的基于Jekyll的Github Pages做的静态博客，使用Emac OrgMode写文章，之后转成Markdown格式。  
+具体的想了解的，可以自行Google下。  
+
+## 网盘同步 Dropbox<a id="sec-1-10" name="sec-1-10"></a>
+
+国内的网盘怕了，说关就关，Dropbox真的业界良心，2G容量完全够用。  
+主要用来存储文档，PDF，部分图片，笔记，博客，emacs配置，idea配置等。  
+
+这样Github+Dropbox的双份同步，笔记和博客是万无一失的，哈哈。  
+
+## 收发邮件 网易企业邮<a id="sec-1-11" name="sec-1-11"></a>
+
+我现在的做法是：用自己网站的个性化域名，配合网易的企业邮箱，还给自己搞了个牛逼的企业名称，然后去DNSPod配置一下。  
+
+其他所有邮箱收到的邮件都会转发到这个邮箱里面，进行分门别类的保存。  
+这样的好处太多了，一方面，我可以直接使用这个邮箱地址，各种注册，因为太多无量网站发垃圾邮件了。  
+我就是受不了，后面就没用QQ邮箱了。  
+
+再说，在较正式的场合使用自定义域名的邮箱，感觉逼格满满啊，比如简历上。  
+
+## 获取资讯 Feedly，Pocket，IFTTT<a id="sec-1-12" name="sec-1-12"></a>
+
+现在我很少刻意去获取资讯，甚至在外人看来可能有点和传统文化格格不入。  
+也就无聊时逛下知乎，微信上刷几个关心的朋友圈。  
+
+因为我现在需要留更多的大段空白时间——思考。  
+
+但是我同样可以推荐你一些好用的工具：比如用于Rss订阅的Feedly，收藏后同步到其他设备后用于阅读的Pocket，  
+还有一些更加高端的即使通知工具，比如IFTTT（IF THEN THEN THEN），  
+典型用法是：明天下雨，给我发一个通知；我的城市有流星雨，给我发通知；在国外甚至可以用来控制电器。  
+
+## 即时通讯 QQ<a id="sec-1-13" name="sec-1-13"></a>
+
+这个已经成为公司局域网通讯的通用工具了。  

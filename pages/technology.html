@@ -11,10 +11,11 @@ description: 研究互联网开发技术
 -->
 <h2>研究互联网开发技术</h2>
 <hr>
-<h3 id="#opensource">{{ site.locals.opensource }}</h3>
+
+<h3 id="#career">职业发展</h3>
 <ul>
     {% for post in site.posts %}
-    {% if post.category contains "opensource" %}
+    {% if post.category contains "career" %}
     <li>
         <h4>
             <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
@@ -116,10 +117,11 @@ description: 研究互联网开发技术
     {% endfor %}
 </ul>
 
-<h3 id="#career">{{ site.locals.career }}</h3>
+
+<h3 id="#opensource">{{ site.locals.opensource }}</h3>
 <ul>
     {% for post in site.posts %}
-    {% if post.category contains "career" %}
+    {% if post.category contains "opensource" %}
     <li>
         <h4>
             <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
@@ -128,18 +130,4 @@ description: 研究互联网开发技术
     {% endif %}
     {% endfor %}
 </ul>
-
-<h3 id="#effecthabit">{{ site.locals.effecthabit }}</h3>
-<ul>
-    {% for post in site.posts %}
-    {% if post.category contains "effecthabit" %}
-    <li>
-        <h4>
-            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
-        </h4>
-    </li>
-    {% endif %}
-    {% endfor %}
-</ul>
-
 

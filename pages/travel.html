@@ -9,10 +9,10 @@ description: 环游世界是我的梦想
 <!-- 旅行下分：生活照片，旅行照片，旅行游记，-->
 <h2>环游世界是我的梦想</h2>
 <hr>
-<h3 id="#travelphoto">{{ site.locals.travelphoto }}</h3>
+<h3 id="#photography">{{ site.locals.photography }}</h3>
 <ul>
     {% for post in site.posts %}
-    {% if post.category contains "travelphoto" %}
+    {% if post.category contains "photography" %}
     <li>
         <h4>
             <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
@@ -22,18 +22,6 @@ description: 环游世界是我的梦想
     {% endfor %}
 </ul>
 
-<h3 id="#lifephoto">{{ site.locals.lifephoto }}</h3>
-<ul>
-    {% for post in site.posts %}
-    {% if post.category contains "lifephoto" %}
-    <li>
-        <h4>
-            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
-        </h4>
-    </li>
-    {% endif %}
-    {% endfor %}
-</ul>
 
 <h3 id="#youji">游记</h3>
 <ul>

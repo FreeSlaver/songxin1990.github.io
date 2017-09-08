@@ -73,13 +73,11 @@ locals:
   # 工作
   interview: 求职面试
   career: 职场发展
-  effecthabit: 高效习惯
   # 生活
   dream: 人生梦想
   inspiration: 生活感悟
   # 摄影
-  travelphoto: 旅行照片
-  lifephoto: 生活照片
+  photography: 摄影
 
 
 

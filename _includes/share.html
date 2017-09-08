@@ -1,33 +1,47 @@
 <div id="share">
-    <p>
-
+    <p style="font-size:18px;font-weight: bold">
+        文章有用？分享给你的朋友们，让更多的人受到益处
     </p>
+
     <ul class="share-buttons">
         <li>
-            <a href="https://plus.google.com/share?url={{site.url}}{{page.url}}" target="_blank" title="Share on Wechat">
+            <a href="{{site.url}}{{page.url}}" target="_blank" title="Share on Wechat">
                 <img alt="Share on Wechat" src="{{site.url}}/public/img/share/WeChat.svg"/>
+                     <!--onmouseover="$('#qrcode').qrcode({width: 100, height: 100, text: 'hello'})-->
             </a>
         </li>
+        &nbsp;
         <li>
-            <a href="https://plus.google.com/share?url={{site.url}}{{page.url}}" target="_blank" title="Share on Weibo">
+            <a href="http://service.weibo.com/share/share.php?url={{site.url}}&title={{page.title}}" target="_blank"
+               title="Share on Weibo">
                 <img alt="Share on Weibo" src="{{site.url}}/public/img/share/Weibo.svg"/>
             </a>
         </li>
+        &nbsp;
         <li>
             <a href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{page.url}}&t={{page.title}}"
                title="Share on Facebook" target="_blank">
                 <img alt="Share on Facebook" src="{{site.url}}/public/img/share/Facebook.svg"/>
             </a>
         </li>
+        &nbsp;
         <li>
             <a href="https://twitter.com/intent/tweet?source={{site.url}}{{page.url}}&text={{page.title}}"
                target="_blank" title="Tweet">
                 <img alt="Tweet" src="{{site.url}}/public/img/share/Twitter.svg"/>
             </a>
         </li>
-        <li><a href="https://plus.google.com/share?url={{site.url}}{{page.url}}" target="_blank" title="Share on Google+">
+        &nbsp;
+        <li><a href="https://plus.google.com/share?url={{site.url}}{{page.url}}" target="_blank"
+               title="Share on Google+">
             <img alt="Share on Google+" src="{{site.url}}/public/img/share/Google+.svg"/>
         </a>
         </li>
     </ul>
+
+    <br>
+    <p style="font-size:18px;font-weight: bold">
+        更多精彩干货，尽请关注我的个人微信公众号<br>
+        <img alt="wechat" src="{{site.url}}/public/img/wechat.jpg"/>
+    </p>
 </div>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Memcached深度分析
+title: Memcached深度分析-转载
 category: javacore
 tags: cache
 keywords: 
@@ -8,7 +8,7 @@ description:
 ---
 
 
-转载
+
 
 Memcached是danga.com（运营LiveJournal的技术团队）开发的一套分布式内存对象缓存系统，用于在动态系统中减少数据库 负载，提升性能。关于这个东西，相信很多人都用过，本文意在通过对memcached的实现及代码分析，获得对这个出色的开源软件更深入的了解，并可以根 据我们的需要对其进行更进一步的优化。末了将通过对BSM_Memcache扩展的分析，加深对memcached的使用方式理解。
 本文的部分内容可能需要比较好的数学基础作为辅助。
