@@ -20,8 +20,8 @@ url: http://3gods.com
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: http://7xnlfe.com1.z0.glb.clouddn.com/fav.ico
-favicon: http://7xnlfe.com1.z0.glb.clouddn.com/fav.ico
+gavatar: /public/img/fav.ico
+favicon: /public/img/fav.ico
 
 # google analytics 设置
 ga:
