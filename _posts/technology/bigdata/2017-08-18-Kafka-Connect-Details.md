@@ -6,7 +6,7 @@ title: Kafka Connect Details 详解
 category: bigdata
 tags: kafka
 keywords: kafka connect
-description: Kafka Connect技术详解，包含概览，启动和配置，单机，分布式模式，转换器，如何开发kafka connect，以及相较于producer和consumer的优势。
+description: Kafka Connect技术详解，包含介绍，启动和配置，单机，分布式模式，转换器，如何开发kafka connect，以及相较于producer和consumer的优势。
 ---
 
 <div id="table-of-contents">
@@ -15,7 +15,7 @@ description: Kafka Connect技术详解，包含概览，启动和配置，单机
 <ul>
 <li><a href="#sec-1">1. Kafka Connect Details 详解</a>
 <ul>
-<li><a href="#sec-1-1">1.1. 概览</a></li>
+<li><a href="#sec-1-1">1.1. 介绍</a></li>
 <li><a href="#sec-1-2">1.2. 启动和配置</a>
 <ul>
 <li><a href="#sec-1-2-1">1.2.1. Standalone 单机模式</a></li>
@@ -41,7 +41,7 @@ description: Kafka Connect技术详解，包含概览，启动和配置，单机
 
 # Kafka Connect Details 详解<a id="sec-1" name="sec-1"></a>
 
-## 概览<a id="sec-1-1" name="sec-1-1"></a>
+## 介绍<a id="sec-1-1" name="sec-1-1"></a>
 
 Kafka Connect是在0.9以后加入的功能，主要是用来将其他系统的数据导入到Kafka,然后再将Kafka中的数据导出到另外的系统。  
 可以用来做实时数据同步的ETL，数据实时分析处理等。  
