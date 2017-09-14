@@ -199,7 +199,7 @@ TODO
 请参看一篇我翻译的stackoverflow上的回答，这个答者功力深厚，铁定的老司机：
 [MySQL分库分表方案](http://3gods.com/2017/08/05/MySQL-Sharding-Approaches.html)
 
-## 参考<a id="sec-1-8" name="sec-1-8"></a>
+## 参考资料<a id="sec-1-8" name="sec-1-8"></a>
 
 [MySQL Sharding-slideshare](https://www.slideshare.net/mkindahl/mysql-sharding-tools-and-best-practices-for-horizontal-scaling)  
 [数据库分库分表方式](http://3gods.com/2017/08/05/MySQL-Sharding-Approaches.html)  
