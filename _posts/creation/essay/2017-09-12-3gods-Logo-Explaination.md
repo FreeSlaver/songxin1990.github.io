@@ -31,6 +31,9 @@ description: 本篇文章将解释说明下本网站logo的涵义以及Ouroboros
 
 ## 关于这条蛇<a id="sec-1-1" name="sec-1-1"></a>
 
+![ouroboros](http://7xnlfe.com1.z0.glb.clouddn.com/ourboros-1.jpg)  
+
+
 以下内容翻译自维基百科：  
 Ouroboros，音译乌洛波洛斯，中文名：衔尾蛇，咬尾蛇，噬尾蛇。  
 远古时代的一个符号，代表着一条蛇或龙，正吞吃自己的尾巴。  
@@ -49,6 +52,8 @@ Ouroboros，音译乌洛波洛斯，中文名：衔尾蛇，咬尾蛇，噬尾�
 里面的人造人身上都有一个血红的蛇咬尾的纹身，非常狰狞，显眼。  
 这部动漫强烈建议观看，即使现在你人到中年。  
 
+![FULLMETAL ALCHEMIST SNAKE](http://7xnlfe.com1.z0.glb.clouddn.com/ourboros-3.jpg)  
+
 ### Ourboros的传说和神话<a id="sec-1-1-1" name="sec-1-1-1"></a>
 
 传说，太阳是从银河这条Ourboros的口中诞生的，那一天在炼金术中代表时间意识的进化。  
@@ -58,6 +63,7 @@ Ouroboros，音译乌洛波洛斯，中文名：衔尾蛇，咬尾蛇，噬尾�
 在诸神之黄昏（Ragnarok）中，被雷神索尔杀死，但是巨蛇的毒液也进入索尔体内，最后双方同归于尽。  
 
 ## 关于本网站logo的说明<a id="sec-1-2" name="sec-1-2"></a>
+![3gods website logo](http://7xnlfe.com1.z0.glb.clouddn.com/ouroboros%20logo.jpg)
 
 首先，我们看到这张图片logo， **视觉焦点先是落在正中心的问号** 。  
 然后我们会看整体，外围一条张开血盆大口的蛇，还有另外两个字母S和X。  
@@ -81,7 +87,9 @@ sex？six？我们发现任何一个元音字母和SX组合后，都代表一个
 
 写这篇文章是总结，意识人类思维思考，推理，猜测的过程，如何将事物联系起来，并从上下文中榨取足够多的信息。  
 
-## 象征意义的应用<a id="sec-1-3" name="sec-1-3"></a>
+## 符号的象征意义（待完善）<a id="sec-1-3" name="sec-1-3"></a>
+
+![ourboros times](http://7xnlfe.com1.z0.glb.clouddn.com/ourboros-4.jpg)
 
 这个符号象征代表的东西太多，太深，想了解的看看参考资料和扩展阅读。  
 我这里大概说说：  
