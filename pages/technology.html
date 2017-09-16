@@ -12,19 +12,6 @@ description: 研究互联网开发技术
 <h2>研究互联网开发技术</h2>
 <hr>
 
-<h3 id="#career">职业发展</h3>
-<ul>
-    {% for post in site.posts %}
-    {% if post.category contains "career" %}
-    <li>
-        <h4>
-            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
-        </h4>
-    </li>
-    {% endif %}
-    {% endfor %}
-</ul>
-
 <h3 id="#bigdata">{{ site.locals.bigdata }}</h3>
 <ul>
     {% for post in site.posts %}
@@ -95,6 +82,19 @@ description: 研究互联网开发技术
 <ul>
     {% for post in site.posts %}
     {% if post.category contains "project" %}
+    <li>
+        <h4>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h4>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+<h3 id="#career">职业发展</h3>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "career" %}
     <li>
         <h4>
             <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
