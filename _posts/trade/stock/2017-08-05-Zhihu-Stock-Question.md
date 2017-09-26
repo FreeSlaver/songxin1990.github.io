@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 我在知乎上回答的股票精选话题
-category: stock zhihu
-tags: 股票
+category: stock
+tags: zhihu
 keywords: 知乎 股票 stock
 description: 我在知乎上回答的股票精选话题
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IT必读书籍
-category: javacore book
+category: book
 tags: 
 keywords: 
 description: 

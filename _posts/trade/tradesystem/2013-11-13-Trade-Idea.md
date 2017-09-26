@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 投资投机心法
-category: tradesystem essence
+category: tradesystem
 tags: 
 keywords: 股票 投机 投资
 description: 

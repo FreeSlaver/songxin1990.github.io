@@ -28,14 +28,19 @@ description: 研究互联网开发技术，记录分享成长所得，投机悟�
 
   <h3 id="#essence">{{ site.locals.essence }}</h3>
   <ul>
-    {% for post in site.posts %}
-    {% if post.category contains "essence" %}
+    {% for cate in site.cates %}
+    {% for tag in site.tags %}
+    {% if tag[0] == cate %}
+    {% for post in tag[1] %}
     <li>
       <h4>
         <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
       </h4>
     </li>
+    {% endfor %}
     {% endif %}
+    {% endfor %}
+
     {% endfor %}
   </ul>
 

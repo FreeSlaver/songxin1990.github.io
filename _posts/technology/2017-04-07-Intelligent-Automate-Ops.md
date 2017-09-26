@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 自动化，智能化运维笔记
-category: ops javacore
+category: ops
 tags: ops
 keywords: 
 description: 

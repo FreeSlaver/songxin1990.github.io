@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 在美元的闸刀面前，一切都是浮云
-category: economy others
+category: economy
 tags: 
 keywords: 美元
 description: 在美元的闸刀面前，一切都是浮云。

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google搜索技巧
-category: essence tips
+category: tips
 tags: tips
 keywords: google 技巧 搜索
 description: 使用Google进行搜索的一些技巧，非常使用。

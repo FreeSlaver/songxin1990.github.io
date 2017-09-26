@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 论凌波之死
-category: essence
-tags: 
+category: inspiration
+tags: essence
 keywords: 贫穷 死亡 成长
 description: 
 ---

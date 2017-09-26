@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 暂停一切交易相关事务
-category: stock trash
+category: trash
 tags: stock
 keywords: stock 交易
 description: 

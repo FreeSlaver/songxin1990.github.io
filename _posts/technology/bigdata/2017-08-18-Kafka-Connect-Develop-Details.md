@@ -1,6 +1,4 @@
 ---
-permalink: /:title
-redirect_from: "/2017/08/18/Kafka-Connect-Develop-Details.html"
 layout: post
 title: Kafka Connect Develop Details 开发详解
 category: bigdata
@@ -95,7 +93,7 @@ Sinker要实现SinkConnector和SinkTask。
 
 2.  继承并实现抽象类  
 3.  打包，部署  
-    详情请参看：[Kafka Connect Deploy 部署](http://3gods.com/2017/08/18/Kafka-Connect-Deploy.html)  
+    详情请参看：[Kafka Connect Deploy 部署](http://3gods.com/Kafka-Connect-Deploy.html)  
 
 ## 注意事项<a id="sec-1-3" name="sec-1-3"></a>
 

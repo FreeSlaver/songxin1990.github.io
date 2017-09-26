@@ -1,4 +1,5 @@
 ---
+permalink: /archive.html
 layout: page_title
 title: <i class="fa fa-archive fa-lg"></i>
 titlename: 归档
@@ -15,7 +16,7 @@ description: 任何事物都需要归纳总结，浓缩为精华
     {% capture next_month %}{{ post.previous.date | date: "%m" }}{% endcapture %}
   
     {% if forloop.first %}
-      <legend id="{{this_year}}-{{this_month}}">{{this_year}}年-{{this_month}}月</legend>
+      <legend id="{{this_year}}-{{this_month}}">{{this_year}}年{{this_month}}月</legend>
       <ul>
     {% endif %}
     <li><!--<span>{{ post.date | date: "%Y-%m-%d" }}</span> &raquo;-->
@@ -27,12 +28,12 @@ description: 任何事物都需要归纳总结，浓缩为精华
     {% else %}
       {% if this_year != next_year %}
         </ul>
-        <legend id="{{next_year}}-{{next_month}}">{{next_year}}年-{{next_month}}月</legend>
+        <legend id="{{next_year}}-{{next_month}}">{{next_year}}年{{next_month}}月</legend>
         <ul>
       {% else %}    
         {% if this_month != next_month %}
         </ul>
-        <legend id="{{next_year}}-{{next_month}}">{{next_year}}年-{{next_month}}月</legend>
+        <legend id="{{next_year}}-{{next_month}}">{{next_year}}年{{next_month}}月</legend>
         <ul>
         {% endif %}
       {% endif %}

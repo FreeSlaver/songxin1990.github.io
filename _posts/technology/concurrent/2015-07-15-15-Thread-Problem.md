@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 15个多线程面试题
-category: concurrent interview
+category: concurrent
 tags: 
 keywords: 
 description: 

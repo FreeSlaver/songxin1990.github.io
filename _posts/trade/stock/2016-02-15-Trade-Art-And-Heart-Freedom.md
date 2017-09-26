@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 操作艺术与心灵自由
-category: zen stock
+category: stock
 tags: 转载
 keywords: 
 description: 

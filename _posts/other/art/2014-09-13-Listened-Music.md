@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 听过的歌
-category: art others
+category: art
 tags: 
 keywords: 
 description: 

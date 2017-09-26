@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 期货与禅
-category: future zen
+category: zen
 tags: 
 keywords: 
 description: 

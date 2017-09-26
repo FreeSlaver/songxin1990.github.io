@@ -1,4 +1,4 @@
-permalink: /:year/:month/:day/:title.html
+permalink: /:categories/:title.html
 paginate: 10
 markdown: kramdown
 
@@ -17,7 +17,7 @@ author:
 title: 宋鑫的官方网站
 description: 研究互联网开发技术，记录分享个人成长所得，投机悟道提升思想境界
 url: http://3gods.com
-rss_url: /pages/atom.xml
+rss_url: /atom.xml
 
 # gavatar头像及Favicon
 gavatar: /public/img/fav.ico
@@ -28,15 +28,8 @@ ga:
   id: UA-49965095-1
   url: 3gods.com
 
-# disqus 设置
-#disqus:
-  #shortname: songxin
-
-# 主题设置，自动激活某个标签
-active: 归档
-
 # 首页除了最新文章外显示其他分类
-cates: 
+cates:
 - essence
 
 # 中文本地化

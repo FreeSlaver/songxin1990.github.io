@@ -1,6 +1,4 @@
 ---
-permalink: /:title
-redirect_from: "/2017/08/18/Kafka-Connect-Details.html"
 layout: post
 title: Kafka Connect Details 详解
 category: bigdata
@@ -181,7 +179,7 @@ Kafka Connect是不提供关闭Connector的REST API，可以直接kill -9或者�
 
 ## Kafka Connect 开发详解<a id="sec-1-5" name="sec-1-5"></a>
 
-详见我的另外一篇博客：[Kafka Connect 开发详解](http://3gods.com/2017/08/18/Kafka-Connect-Develop-Details.html) 。
+详见我的另外一篇博客：[Kafka Connect 开发详解](http://3gods.com/Kafka-Connect-Develop-Details.html) 。
 
 ## Kafka Connect VS Producer Consumer<a id="sec-1-6" name="sec-1-6"></a>
 

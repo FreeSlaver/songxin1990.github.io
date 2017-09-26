@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 宋鑫1989公众号开通了
-category: essence
+category: note
 tags: 
 keywords: Wechat 公众号
 description: 宋鑫1989公众号开通了，我为什么开通公众号，公众号的作用，
