@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google MapReduce 论文
+title: Google论文之MapReduce详解
 category: bigdata
 tags: paper 大数据
 keywords: MapReduce google 大数据
