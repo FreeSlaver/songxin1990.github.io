@@ -6,7 +6,13 @@ layout: base
     <!-- 文章标题 -->
     <div class="col-md-15 aside3-title">
         <br>
-        <h2 id="#identifier">{{ page.title }}</h2>
+        <h2 id="#identifier">
+            {% if page.categories contains "trash" %}
+            <del>{{ page.title }}</del>
+            {% else %}
+            {{ page.title }}
+            {% endif %}
+        </h2>
         {{ site.author.name }} &nbsp;&nbsp; {{ page.date | date:"%Y-%m-%d" }}
     </div>
 

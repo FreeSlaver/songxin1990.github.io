@@ -21,7 +21,13 @@ description: 任何事物都需要归纳总结，浓缩为精华
       <ul>
     {% endif %}
     <li><!--<span>{{ post.date | date: "%Y-%m-%d" }}</span> &raquo;-->
-      <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+      <a class="pjaxlink" href="{{ post.url }}">
+          {% if post.categories contains "trash" %}
+          <del>{{ post.title }}</del>
+          {% else %}
+          {{ post.title }}
+          {% endif %}
+      </a>
     </li>
   
     {% if forloop.last %}

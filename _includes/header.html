@@ -1,9 +1,12 @@
 <meta charset="utf-8">
-<title>{{ page.title }} | {{ site.title }}</title>
 {% seo %}
+{% if page.keywords %}
+<meta name="keywords" content="{{ page.keywords }}">
+{% endif %}
 <link rel="shortcut icon" href="{{ site.favicon }}" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="msvalidate.01" content="76B177235172097DAFF78A0C750658B1" />
+<meta name="google-site-verification" content="EFxjvG_Lr9IPWKciBX7zQW7M89gAV_x_eFjh2hPt2Y4" />
 <meta name="sogou_site_verification" content="0g3QdKGMGK"/>
 <meta name="360-site-verification" content="c94e3336c2f515d0285f3d18312ab981" />
 <meta name="baidu-site-verification" content="gP0ZZIXso0" />
@@ -13,4 +16,14 @@
 <link rel="stylesheet" href="/public/css/base.css">
 <link rel="stylesheet" href="/public/css/jquery.fancybox.min.css" >
 <link href="/pages/atom.xml" rel="alternate" title="{{site.title}}" type="application/atom+xml">
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?86f3a8cc6941d962ca88840f7b329c4e";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+
 
