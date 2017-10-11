@@ -25,6 +25,7 @@ body, html {
   padding-left: 0px;
   padding-right: 0px;
   text-align: center;
+  display: none;
   /*box-shadow: inset -15px 0 20px -15px #77AEF4;*/
 }
 .aside1 > .nav > li > a {
