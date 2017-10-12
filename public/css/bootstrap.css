@@ -4733,11 +4733,12 @@ select[multiple].input-group-sm>.input-group-addon, select[multiple].input-group
 }
 
 .breadcrumb {
-    padding: 8px 15px;
-    margin-bottom: 20px;
+    padding: 8px 30px 8px 0px;
+    margin-bottom: 18px;
     list-style: none;
     background-color: #f5f5f5;
-    border-radius: 4px
+    border-radius: 4px;
+    font-size:20px;
 }
 
 .breadcrumb>li {
