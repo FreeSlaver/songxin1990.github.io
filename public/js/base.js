@@ -1,9 +1,13 @@
 /* 控制导航按钮动作 */
-function nav_show() {
-
+function nav_click(is_show) {
+    if (is_show) {
+        $(".aside1").hide();
+    }else{
+        $(".aside1").show();
+    }
 }
 
-function nav_click(is_show) {
+function nav_click_old(is_show) {
   if (is_show) {
     /* 显示左侧aside */
     $('.aside')
@@ -29,7 +33,7 @@ function nav_click(is_show) {
     /* 修改文字排版 */
     $('.aside3-content')
       .removeClass('col-md-13')
-      .addClass('col-md-10 col-lg-8 col-md-offset-1 col-lg-offset-2'); 
+      .addClass('col-md-10 col-lg-8 col-md-offset-1 col-lg-offset-2');
   }
 }
 /* 控制文章章节列表按钮 */
@@ -45,21 +49,13 @@ function content_click(is_show){
 
 $(document).ready(function() {
   /* 控制左侧 aside 的动作 */
-  /*$("#nav_btn").on('click', function() {
+  $("#nav_btn").on('click', function() {
     isClicked = $(this).data('clicked');
 
     nav_click(isClicked);
 
     $(this).data('clicked', !isClicked);
-  });*/
-  $("#nav_btn").on('mouseover',function () {
-     console.info("SHOW");
-     $(".aside1").show();
   });
-    $("#nav_btn").on('mouseout',function () {
-        console.info("HIDE");
-        $(".aside1").hide();
-    });
 
   /*$("#content_btn").on('click', function(){
     isClicked = $(this).data('clicked');
