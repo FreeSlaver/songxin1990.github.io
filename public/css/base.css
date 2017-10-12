@@ -86,6 +86,10 @@ body, html {
 
   /*background-image: url(/public/img/bg_lines1.jpg);*/
 }
+.aside3-breadcrumb {
+  text-align: center;
+}
+
 .aside3-title {
   background-color: #f5f5f5;
   /*background-image: url(/public/img/bg_grid.jpg);*/
@@ -156,5 +160,8 @@ span.beian{
   font-size: 16px;
   padding: 1em;
   text-align: center;
+}
+
+.breadcrumb {
 
 }
