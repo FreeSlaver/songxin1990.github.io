@@ -1,5 +1,4 @@
 ---
-permalink: /:categories/:title.html
 layout: post
 title: Google论文之Bigtable详解
 category: bigdata
