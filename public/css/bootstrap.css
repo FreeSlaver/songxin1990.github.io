@@ -4738,7 +4738,7 @@ select[multiple].input-group-sm>.input-group-addon, select[multiple].input-group
     list-style: none;
     background-color: #f5f5f5;
     border-radius: 4px;
-    font-size:20px;
+    font-size:16px;
 }
 
 .breadcrumb>li {

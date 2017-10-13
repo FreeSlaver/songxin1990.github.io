@@ -18,15 +18,12 @@ body, html {
 }
 /* 左侧导航栏 */
 .aside1 {
-  /*background-color: #1f2c39;*/
   background-color: #1abc9c;
-  /*background-image: url(/public/img/bg_grid.jpg);*/
   height: 100%;
   padding-left: 0px;
   padding-right: 0px;
   text-align: center;
   display: none;
-  /*box-shadow: inset -15px 0 20px -15px #77AEF4;*/
 }
 .aside1 > .nav > li > a {
   padding-left: 0px;
@@ -156,7 +153,7 @@ ul.share-buttons img{
 
 span.beian{
   color:black;
-  font-size: 16px;
+  font-size: 12px;
   padding: 1em;
   text-align: center;
 }

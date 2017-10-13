@@ -1,20 +1,25 @@
-<div class="col-md-3 col-lg-3 col-sm-13 col-xs-13 aside visible-md visible-lg">
-  <div class="row">
-    <div class="col-md-2 col-xs-2 aside1">
-      <br>
+<div style="position:fixed;right:15px;top:20px;">
+  <button id="nav_btn" class="btn btn-primary">
+    <i class="fa fa-lg fa-navicon"></i>
+  </button>
+  <div class="aside1">
+    <ul class="nav nav-pills nav-stacked">
+      <li><a class="pjaxlink" href="/">首页</a></li>
+      <li><a class="pjaxlink" href="/tech.html">技术</a></li>
+      <li><a class="pjaxlink" href="/growing.html">成长</a></li>
+      <li><a class="pjaxlink" href="/trade.html">交易</a></li>
+      <li><a class="pjaxlink" href="/creation.html">创作</a></li>
+      <li><a class="pjaxlink" href="/travel.html">旅行</a></li>
+      <li><a class="pjaxlink" href="/life.html">生活</a></li>
+      <li><a class="pjaxlink" href="/archive.html">{{ site.locals.archive }}</a></li>
+      <li><a class="pjaxlink" href="/about.html">关于</a></li>
+      <!--分类，但是不展现，为seo-->
+      <li><a class="pjaxlink" style="display: none" href="/bigdata.html">大数据</a></li>
+      <li><a class="pjaxlink" style="display: none" href="/career.html">职场发展</a></li>
+      <li><a class="pjaxlink" style="display: none" href="/note.html">读书笔记</a></li>
+      <li><a class="pjaxlink" style="display: none" href="/stock.html">股票</a></li>
+      <li><a class="pjaxlink" style="display: none" href="/tips.html">小贴士</a></li>
 
-      <ul class="nav nav-pills nav-stacked">
-        <li><a class="pjaxlink" href="/">首页</a></li>
-        <li><a class="pjaxlink" href="/tech.html">技术</a></li>
-        <li><a class="pjaxlink" href="/growing.html">成长</a></li>
-        <li><a class="pjaxlink" href="/trade.html">交易</a></li>
-        <li><a class="pjaxlink" href="/creation.html">创作</a></li>
-        <li><a class="pjaxlink" href="/travel.html">旅行</a></li>
-        <li><a class="pjaxlink" href="/life.html">生活</a></li>
-        <li><a class="pjaxlink" href="/archive.html">{{ site.locals.archive }}</a></li>
-        <li><a class="pjaxlink" href="/about.html">关于</a></li>
-      </ul>
-    </div>
-
+    </ul>
   </div>
 </div>

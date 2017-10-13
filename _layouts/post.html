@@ -20,10 +20,6 @@ layout: base
     <div class="col-md-15 aside3-content col-md-10 col-lg-8 col-md-offset-1 col-lg-offset-2">
         <hr>
         <div id="content">
-            <ul class="breadcrumb">
-                <li><a href="/"> 首页</a></li>
-                <li><a href="{{site.url}}/{{page.categories}}"> 大数据</a></li>
-            </ul>
 
             <p>本文原创于：<a href="http://3gods.com">宋鑫的官方网站</a>，原文地址为：http://3gods.com{{page.url}}，转载请注明出处，谢谢。</p>
             {{ content }}
@@ -31,8 +27,6 @@ layout: base
         </div>
 
         <br>
-        <hr>
-        {% include share.html %}
         <hr>
         {% include beian.html %}
         <hr>
