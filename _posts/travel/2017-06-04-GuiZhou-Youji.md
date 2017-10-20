@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 贵州游记
-category: youji
+category: travel
 tags: 
 keywords: 
 description: 

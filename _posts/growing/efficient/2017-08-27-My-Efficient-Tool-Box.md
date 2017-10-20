@@ -14,7 +14,7 @@ description: 我的高效工具箱，高效的工具代表的就是高效的生�
 <li><a href="#sec-1">1. 我的高效工具箱</a>
 <ul>
 <li><a href="#sec-1-1">1.1. 核心工具</a></li>
-<li><a href="#sec-1-2">1.2. 翻墙 ShadowSocks</a></li>
+
 <li><a href="#sec-1-3">1.3. 搜索引擎 Google</a></li>
 <li><a href="#sec-1-4">1.4. 浏览器 Chrome</a>
 <ul>
@@ -55,14 +55,7 @@ description: 我的高效工具箱，高效的工具代表的就是高效的生�
 所谓的核心工具，就是你每天上班，打开电脑之后，开机启动得东西。  
 我的是ShadowSocks，Emacs，Chrome，QQ，Dropbox，IteliJ Idea，Github。  
 
-## 翻墙 ShadowSocks<a id="sec-1-2" name="sec-1-2"></a>
 
-翻墙我使用的ShadowSockes，需要另外购买VPS。比较好的是Linode，最低的每月5刀，但是我认为这点投入非常的值。  
-我目前使用的同事共享的。如果哪天没有了，我会毫不犹豫的自己掏钱购买。  
-
-翻墙不仅仅是上Facebook，Twitter，Youtube这些网站。  
-翻墙是一种态度，是一种生活方式，是一种对自由的追求和向往。  
-翻墙后，Google会带你进入一个更加宽广的天地，会带给你很多有价值的资料。  
 
 ## 搜索引擎 Google<a id="sec-1-3" name="sec-1-3"></a>
 
