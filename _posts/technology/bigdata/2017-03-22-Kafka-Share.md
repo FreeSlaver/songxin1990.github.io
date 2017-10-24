@@ -46,19 +46,21 @@ kafka的持久化策略采用文件系统以及page cache，消息直接从内�
 - eBay将Kafka作为数据传输平台，支持实时计算，做欺诈检测，用户个性推荐等，并且还可以将在线数据传输到离线系统。
 
 ### Kafka核心概念
-**Broker** : 一个kafka实例就是一个broker，多个broker组成集群。  
-**Topic** ： 消息主题，一类消息的总和。  
-**Producer** : 消息生产者。push批量消息到Leader Partition。  
-**Consumer** : 消息消费者。从Leader Partition pull消息，0.9之前Consumer的元数据信息保存在Zookeeper上；0.9以后在_consumer_offset上。  
-**Consumer Group(CG)** : 多个Consumer共用一个groupid组成一个CG，类似MQ中的一个Topic的订阅者。一个CG可以消费一个或多个Topic。  
-CG中Consumer个数大于Topic的partition个数，会出现空闲的Consumer。当一个Consumer加入或者离开CG，会触发Consumer的负载均衡。  
+- **Broker** : 一个kafka实例就是一个broker，多个broker组成集群。  
+- **Topic** ： 消息主题，一类消息的总和。  
+- **Producer** : 消息生产者。push批量消息到Leader Partition。  
+- **Consumer** : 消息消费者。从Leader Partition pull消息，0.9之前Consumer的元数据信息保存在Zookeeper上；0.9以后在_consumer_offset上。  
+- **Consumer Group(CG)** : 多个Consumer共用一个groupid组成一个CG，类似MQ中的一个Topic的订阅者。
+一个CG可以消费一个或多个Topic。CG中Consumer个数大于Topic的partition个数，会出现空闲的Consumer。  
+当一个Consumer加入或者离开CG，会触发Consumer的负载均衡。  
+- **Partition** : 分片，一个Topic在物理上被顺序分配成多个Partition。一个Partition只能被CG中的一个Consumer消费。  
+- **Replica** : 副本，是Partition的数据副本，一个Partition可以有多个副本，副本中负责读写请求的叫Leader Partition。  
+- **Metadata** : 元数据信息，包含一条消息所在的topic，partition，offset等信息。  
+- **Offset** : 消息偏移量，用于标识Partition中唯一一条消息。  
+- **ISR** : in sync replica,同步副本列表，判断标准是：1.可以从leader partition中拉取数据；2.消息没有落后太多。  
+- **Segment** : 段，由成对的.index和.log文件组成，多个Segment组成一个Partition。 
+ 
 ![kafka_consumer_group](http://img.3gods.com/kafka_consumer_group.png)  
-**Partition** : 分片，一个Topic在物理上被顺序分配成多个Partition。一个Partition只能被CG中的一个Consumer消费。  
-**Replica** : 副本，是Partition的数据副本，一个Partition可以有多个副本，副本中负责读写请求的叫Leader Partition。  
-**Metadata** : 元数据信息，包含一条消息所在的topic，partition，offset等信息。  
-**Offset** : 消息偏移量，用于标识Partition中唯一一条消息。  
-**ISR** : in sync replica,同步副本列表，判断标准是：1.可以从leader partition中拉取数据；2.消息没有落后太多。  
-**Segment** : 段，由成对的.index和.log文件组成，多个Segment组成一个Partition。  
 
 **下图是一个我们线上的estation-parcel的topic描述结果**
 
@@ -249,7 +251,7 @@ https://issues.apache.org/jira/browse/KAFKA-4477
 4. Google+Github+Stackoverflow  
 
 ### 相关资料和扩展阅读
-[Kafka-Connect-Details](https://3gods.com/bigdata/Kafka-Connect-Details.html)  
-[Kafka-Connect-Develop-Details](https://3gods.com/bigdata/Kafka-Connect-Develop-Details.html)  
-[Kafka-Message-Delivery-Semantics](https://3gods.com/bigdata/Kafka-Message-Delivery-Semantics.html)  
+[Kafka Connect详解](https://3gods.com/bigdata/Kafka-Connect-Details.html)  
+[Kafka Connect开发详解](https://3gods.com/bigdata/Kafka-Connect-Develop-Details.html)  
+[Kafka消息投递语义-消息不丢失，不重复，不丢不重](https://3gods.com/bigdata/Kafka-Message-Delivery-Semantics.html)  
 
