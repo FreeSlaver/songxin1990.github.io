@@ -54,6 +54,6 @@ description:
 
 **刚才好好想了想，看来自己每日选择的多空方向 思维有很大问题。**
 
-![今晚继续搞螺纹](http://7xnlfe.com1.z0.glb.clouddn.com/2016-03-15-Fuck-RB-Continue.png "今晚继续搞螺纹")
+![今晚继续搞螺纹](http://img.3gods.com/2016-03-15-Fuck-RB-Continue.png "今晚继续搞螺纹")
 
 

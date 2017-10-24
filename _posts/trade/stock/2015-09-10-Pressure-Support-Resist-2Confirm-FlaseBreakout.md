@@ -7,7 +7,7 @@ keywords:
 description: 
 ---
 
-![1]( http://7xnlfe.com1.z0.glb.clouddn.com/2015-09-10-Pressure-Support-Resist-2Confirm-FlaseBreakout.png )
+![1]( http://img.3gods.com/2015-09-10-Pressure-Support-Resist-2Confirm-FlaseBreakout.png )
 
 我发现我开始慢慢读懂盘面的语言。根据上面的4个单词。
 

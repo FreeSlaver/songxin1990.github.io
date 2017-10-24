@@ -18,6 +18,7 @@ title: 宋鑫的官方网站
 description: 研究互联网开发技术，记录分享个人成长所得，投机悟道提升思想境界
 url: http://3gods.com
 rss_url: /atom.xml
+img_url: http://img.3gods.com
 
 # gavatar头像及Favicon
 gavatar: /public/img/fav.ico
@@ -27,6 +28,10 @@ favicon: /public/img/fav.ico
 ga:
   id: UA-49965095-1
   url: 3gods.com
+
+# disqus 设置
+disqus:
+  shortname: 3gods
 
 # 首页除了最新文章外显示其他分类
 cates:

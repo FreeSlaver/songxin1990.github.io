@@ -56,7 +56,7 @@ Bigtable是一个分布式的数据存储系统，用来管理那些被设计为
 这个Map通过行键（row key），列键（column key）和时间戳来进行索引：  
 (row:string, column:string, time:int64) → string  
 
-![Google论文之Bigtable详解-图1](http://7xnlfe.com1.z0.glb.clouddn.com/2017-09-21-Google-Paper-Bigtable1.png)  
+![Google论文之Bigtable详解-图1](http://img.3gods.com/2017-09-21-Google-Paper-Bigtable1.png)  
 
 上面是一个用于存储海量网页的大表的结构，  
 以反转的URL作为row行名，以网页内容contents作为column列名，将网页中的锚点保存在anchor列簇中。   
@@ -148,7 +148,7 @@ tablet服务器管理一系列的tablets，并负责处理它们的读写请求�
 
 ### tablet的定位<a id="sec-1-4-1" name="sec-1-4-1"></a>
 
-![Google论文之Bigtable详解-图2](http://7xnlfe.com1.z0.glb.clouddn.com/2017-09-21-Google-Paper-Bigtable2.png)   
+![Google论文之Bigtable详解-图2](http://img.3gods.com/2017-09-21-Google-Paper-Bigtable2.png)   
 
 Bigtable使用三级层次结构来存储tablet的信息，形成一个类似B+树的结构。  
 
@@ -187,7 +187,7 @@ master会去找Chubby要一个独占锁。如果master能拿到，说明Chubby�
 
 ### tablet如何服务<a id="sec-1-4-4" name="sec-1-4-4"></a>
 
-![Google论文之Bigtable详解-图3](http://7xnlfe.com1.z0.glb.clouddn.com/2017-09-21-Google-Paper-Bigtable3.png)   
+![Google论文之Bigtable详解-图3](http://img.3gods.com/2017-09-21-Google-Paper-Bigtable3.png)   
 
 tablet服务器恢复时，会从元信息表中读取元信息。  
 元信息，是由多个SSTables组成。SSTable由一个tablet和一系列的重做点（redo points）组成。  

@@ -17,9 +17,9 @@ description:
 先截个图，问了下之前公司同事的现状：
 
 
-![1](http://7xnlfe.com1.z0.glb.clouddn.com/2016-12-31-Hard-Work-Live-Hard-1.png )
+![1](http://img.3gods.com/2016-12-31-Hard-Work-Live-Hard-1.png )
 
-![2](http://7xnlfe.com1.z0.glb.clouddn.com/2016-12-31-Hard-Work-Live-Hard-2.png )
+![2](http://img.3gods.com/2016-12-31-Hard-Work-Live-Hard-2.png )
 
 
 
