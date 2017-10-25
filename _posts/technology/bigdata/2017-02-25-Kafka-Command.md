@@ -2,7 +2,7 @@
 layout: post
 title: Kafka命令
 category: bigdata
-tags: Kafka
+tags: kafka
 keywords: kafka command
 description: kafka常用命令
 ---

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 使用Maxwell Kafka和Maxwell-Sink进行MySql数据同步
+title: 使用Maxwell Kafka做ETL同步Mysql
 category: bigdata
 tags: kafka
-keywords: maxwell,kafka,maxwell-sink,mysql,sync,ETL,数据库同步
+keywords: [maxwell,kafka,maxwell-sink,mysql,ETL,数据同步,教程]
 description: 使用Maxwell，Kafka和Maxwell-Sink做ETL进行MySql数据同步，也可同步到其他数据仓库（如HDFS，ES等）。Maxwell-Sink功能包括：按DML操作过滤，按各种字段条件过滤，数据的转换处理等。
 ---
 
@@ -11,7 +11,7 @@ description: 使用Maxwell，Kafka和Maxwell-Sink做ETL进行MySql数据同步�
 <h2>目录</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#sec-1">1. 使用Maxwell Kafka和Maxwell-Sink进行MySql数据同步</a>
+<li><a href="#sec-1">1. 使用Maxwell Kafka做ETL同步Mysql</a>
 <ul>
 <li><a href="#sec-1-1">1.1. Maxwell介绍</a></li>
 <li><a href="#sec-1-2">1.2. Kafka介绍</a></li>
@@ -39,7 +39,7 @@ description: 使用Maxwell，Kafka和Maxwell-Sink做ETL进行MySql数据同步�
 </div>
 </div>
 
-# 使用Maxwell Kafka和Maxwell-Sink进行MySql数据同步<a id="sec-1" name="sec-1"></a>
+# 使用Maxwell Kafka做ETL同步Mysql<a id="sec-1" name="sec-1"></a>
 
 
 ## Maxwell介绍<a id="sec-1-1" name="sec-1-1"></a>
@@ -153,3 +153,9 @@ String strVal = String.valueOf(map.get(sn));//这种null的会转成"null"字符
 一个是Update If Not Exist Insert。  
 这个。。。就是进行更新，如果不存在，就插入。  
 这个东西最后的语义也转成上面一条了，效果是一样的  。
+
+## 相关推荐文章
+[Apache Kafka技术分享](http://3gods.com/bigdata/Kafka-Share.html)  
+[Kafka消息投递语义-消息不丢失，不重复，不丢不重](http://3gods.com/bigdata/Kafka-Message-Delivery-Semantics.html)  
+[Kafka Connect教程详解](http://3gods.com/bigdata/Kafka-Connect-Details.html)
+[Kafka Connect开发教程](http://3gods.com/bigdata/Kafka-Connect-Develope-Details.html)

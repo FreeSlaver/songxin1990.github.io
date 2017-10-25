@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Kafka Connect Details 详解
+title: Kafka Connect教程详解
 category: bigdata
 tags: kafka
-keywords: kafka connect
+keywords: [kafka connect,kafka,教程]
 description: Kafka Connect技术详解，包含介绍，启动和配置，单机，分布式模式，转换器，如何开发kafka connect，以及相较于producer和consumer的优势。
 ---
 
@@ -11,7 +11,7 @@ description: Kafka Connect技术详解，包含介绍，启动和配置，单机
 <h2>目录</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#sec-1">1. Kafka Connect Details 详解</a>
+<li><a href="#sec-1">1. Kafka Connect教程详解</a>
 <ul>
 <li><a href="#sec-1-1">1.1. 介绍</a></li>
 <li><a href="#sec-1-2">1.2. 启动和配置</a>
@@ -37,7 +37,7 @@ description: Kafka Connect技术详解，包含介绍，启动和配置，单机
 </div>
 </div>
 
-# Kafka Connect Details 详解<a id="sec-1" name="sec-1"></a>
+# Kafka Connect教程详解<a id="sec-1" name="sec-1"></a>
 
 ## 介绍<a id="sec-1-1" name="sec-1-1"></a>
 
@@ -179,7 +179,7 @@ Kafka Connect是不提供关闭Connector的REST API，可以直接kill -9或者�
 
 ## Kafka Connect 开发详解<a id="sec-1-5" name="sec-1-5"></a>
 
-详见我的另外一篇博客：[Kafka Connect 开发详解](http://3gods.com/Kafka-Connect-Develop-Details.html) 。
+详见我的另外一篇博客：[Kafka Connect 开发详解](http://3gods.com/bigdata/Kafka-Connect-Develop-Details.html) 。
 
 ## Kafka Connect VS Producer Consumer<a id="sec-1-6" name="sec-1-6"></a>
 
@@ -202,6 +202,11 @@ Source Connector对应Producer，Sink Connector对应Consumer。
 括号中的Source表示将数据从其他系统导入Kafka，Sink表示将数据从Kafka导出到其他系统。  
 其他的我没看，但是JDBC的实现比较的坑爹，是通过primary key（如id）和时间戳（如updateTime）字段，  
 来判断数据是否更新，这样的话应用范围非常受局限。  
+
+## 相关推荐文章
+[Apache Kafka技术分享](http://3gods.com/bigdata/Kafka-Share.html)  
+[使用Maxwell Kafka和Maxwell-Sink进行MySql数据同步](http://3gods.com/bigdata/MySql-ETL-Using-Maxwell-Kafka-MaxwellSink.html)   
+[Kafka消息投递语义-消息不丢失，不重复，不丢不重](http://3gods.com/bigdata/Kafka-Message-Delivery-Semantics.html)  
 
 ## 参考<a id="sec-1-8" name="sec-1-8"></a>
 

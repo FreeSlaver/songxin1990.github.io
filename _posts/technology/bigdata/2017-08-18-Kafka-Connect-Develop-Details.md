@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Kafka Connect Develop Details 开发详解
+title: Kafka Connect开发教程
 category: bigdata
 tags: kafka
-keywords: kafka connect develop
+keywords: [kafka connect,kafka,教程]
 description: Kafka Connect开发详解，详细
 ---
 
@@ -11,7 +11,7 @@ description: Kafka Connect开发详解，详细
 <h2>目录</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#sec-1">1. Kafka Connect Develop Detail 开发详解</a>
+<li><a href="#sec-1">1. Kafka Connect开发教程</a>
 <ul>
 <li><a href="#sec-1-1">1.1. Core Concepts 核心概念</a>
 <ul>
@@ -33,7 +33,7 @@ description: Kafka Connect开发详解，详细
 </div>
 </div>
 
-# Kafka Connect Develop Details 开发详解<a id="sec-1" name="sec-1"></a>
+# Kafka Connect开发教程<a id="sec-1" name="sec-1"></a>
 
 不得不吐槽下Kafka的官方文档写的不够详细，可能他们需要干的事情太多了，无暇顾及。  
 看本文之前请先阅读：[Kafka Connect Details 详解](http://3gods.com/2017/08/18/Kafka-Connect-Details.html) 。  
@@ -115,6 +115,11 @@ maxwell使用的主键hash策略，所以能够保证相同primary key值的记�
 3. version()方法  
 不太重要，反正我直接用的"1.0.0"。
 
+## 相关推荐文章
+[Apache Kafka技术分享](http://3gods.com/bigdata/Kafka-Share.html)  
+[使用Maxwell Kafka和Maxwell-Sink进行MySql数据同步](http://3gods.com/bigdata/MySql-ETL-Using-Maxwell-Kafka-MaxwellSink.html)   
+[Kafka消息投递语义-消息不丢失，不重复，不丢不重](http://3gods.com/bigdata/Kafka-Message-Delivery-Semantics.html)   
+[Kafka Connect详解](http://3gods.com/bigdata/Kafka-Connect-Details.html)
 ## 参考<a id="sec-1-4" name="sec-1-4"></a>
 
 [8.3 Connector Development Guide](https://kafka.apache.org/documentation/#connect_development)  

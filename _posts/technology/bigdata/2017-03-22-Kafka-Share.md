@@ -3,8 +3,8 @@ layout: post
 title: Apache Kafka技术分享
 category: bigdata
 tags: kafka
-keywords: [kafka,]
-description: 这篇文章是我在在公司做的技术分享，包括了：Kafka是什么，特性及优势，应用领域，配置，核心概念，架构，监控等等各个方面。
+keywords: [kafka]
+description: 这篇文章是我在在公司做的技术分享，包括了：Kafka是什么，Kafka的特性及优势，Kafka应用领域，Kafka配置，Kafka核心概念，Kafka架构，Kafka集群监控等等各个方面。
 ---
 
 
@@ -251,7 +251,7 @@ https://issues.apache.org/jira/browse/KAFKA-4477
 4. Google+Github+Stackoverflow  
 
 ### 相关资料和扩展阅读
-[Kafka Connect详解](https://3gods.com/bigdata/Kafka-Connect-Details.html)  
-[Kafka Connect开发详解](https://3gods.com/bigdata/Kafka-Connect-Develop-Details.html)  
-[Kafka消息投递语义-消息不丢失，不重复，不丢不重](https://3gods.com/bigdata/Kafka-Message-Delivery-Semantics.html)  
+[Kafka Connect详解](http://3gods.com/bigdata/Kafka-Connect-Details.html)  
+[Kafka Connect开发详解](http://3gods.com/bigdata/Kafka-Connect-Develop-Details.html)  
+[Kafka消息投递语义-消息不丢失，不重复，不丢不重](http://3gods.com/bigdata/Kafka-Message-Delivery-Semantics.html)  
 

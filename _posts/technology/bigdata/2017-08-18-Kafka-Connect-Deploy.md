@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Kafka Connect Deploy 部署
+title: Kafka Connect部署教程
 category: bigdata
 tags: kafka
-keywords: kafka connect
+keywords: [kafka connect,kafka,部署,教程]
 description: Kafka Connect部署详解，包括添加依赖，部署，打包，配置文件，启动等。
 ---
 
@@ -11,7 +11,7 @@ description: Kafka Connect部署详解，包括添加依赖，部署，打包，
 <h2>目录</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#sec-1">1. Kafka Connect Deploy 部署</a>
+<li><a href="#sec-1">1. Kafka Connect部署教程</a>
 <ul>
 <li><a href="#sec-1-1">1.1. 编译，部署</a>
 <ul>
@@ -28,11 +28,11 @@ description: Kafka Connect部署详解，包括添加依赖，部署，打包，
 </div>
 </div>
 
-# Kafka Connect Deploy 部署<a id="sec-1" name="sec-1"></a>
+# Kafka Connect部署教程<a id="sec-1" name="sec-1"></a>
 
 阅读本文前，可以先看看关于Kafka Connect概念和开发的2篇文章：  
-[Kafka Connect Details 详解](http://3gods.com/2017/08/18/Kafka-Connect-Details.html)  
-[Kafka Connect Develop Details 开发详解](http://3gods.com/2017/08/18/Kafka-Connect-Develop-Details.html)
+[Kafka Connect教程详解](http://3gods.com/bigdata/Kafka-Connect-Details.html)  
+[Kafka Connect开发教程](http://3gods.com/bigdata/Kafka-Connect-Develop-Details.html)
 
 ## 编译，部署<a id="sec-1-1" name="sec-1-1"></a>
 
@@ -124,3 +124,8 @@ Distribute 分布式模式下启动
 Landoop也出了个UI，但是界面比较粗糙，想了解的见[Github项目地址](https://github.com/Landoop/kafka-connect-ui)  
 
 我们现在的做法是写个定时程序，循环查询connectors和tasks的状态，出现异常了告警。
+
+## 相关推荐文章
+[Apache Kafka技术分享](http://3gods.com/bigdata/Kafka-Share.html)  
+[使用Maxwell Kafka和Maxwell-Sink进行MySql数据同步](http://3gods.com/bigdata/MySql-ETL-Using-Maxwell-Kafka-MaxwellSink.html)   
+[Kafka消息投递语义-消息不丢失，不重复，不丢不重](http://3gods.com/bigdata/Kafka-Message-Delivery-Semantics.html)  
