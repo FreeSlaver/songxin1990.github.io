@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2014深圳动漫展
-category: inspiration
+category: essay
 tags: 
 keywords: 
 description: 

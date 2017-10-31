@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 不仅仅只是SEO，更是一种思考方式
-category: think
-tags: seo,think
+category: seo
+tags: [seo,think]
 keywords: seo
 description: 
 ---

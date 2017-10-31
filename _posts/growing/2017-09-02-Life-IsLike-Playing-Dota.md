@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 人生就像打Dota
-category: mind
+category: growing
 tags: life,dota
 keywords: dota,life,
 description: 如何将从成为Dota高手中学习到的一些道理移植到生活和人生中，并完成人生的逆袭，翻盘，甚至一路超神。

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 认知
-category: inspiration
+category: essay
 tags: 
 keywords: 
 description: 

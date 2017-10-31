@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 最美的句子
-category: poem
+category: essay
 tags: 
 keywords: 
 description: 最美丽的诗句。

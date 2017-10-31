@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我喜爱的诗词
-category: poem
+category: essay
 tags: 
 keywords: 
 description: 我喜爱的诗词

@@ -2,7 +2,7 @@
 permalink: /:categories/:title.html
 layout: post
 title: 个人网站快速备案
-category: tips
+category: webmaster
 tags: [备案]
 keywords: [网站备案,备案流程,个人快速备案,]
 description: 本文将总结个人备案经验，详述备案流程，备案注意事项，并教你如何快速的进行个人网站备案。

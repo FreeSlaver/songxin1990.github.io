@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Git常用命令 教程总结
-category: devtool
+category: tech
 tags: Git
 keywords: 
 description: Git常用命令，教程总结

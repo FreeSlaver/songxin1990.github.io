@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 学习方法 考研小结
-category: learn
+category: growing
 tags: learn,method
 keywords: learn,method,postgraduate
 description:

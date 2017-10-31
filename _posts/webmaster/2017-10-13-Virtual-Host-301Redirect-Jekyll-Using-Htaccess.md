@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 使用htaccess对虚拟主机进行301重定向
-category: tips
+category: webmaster
 tags: [webmaster]
 keywords: [虚拟机,301重定向,jekyll,htaccess]
 description: 网站通过备案，将github上的jekyll博客搬到了阿里云万网虚拟主机，使用htacess进行301重定向

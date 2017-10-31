@@ -1,7 +1,7 @@
 ---
 layout: post
 title: InfluxDB介绍
-category: monitor
+category: tech
 tags: 
 keywords: InfluxDB monitor introduction
 description: InfluxDB introduction

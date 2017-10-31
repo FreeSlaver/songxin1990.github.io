@@ -1,7 +1,7 @@
 ---
 layout:  post
 title:  打工还是从商，一生一次的抉择-转载
-category: tips
+category: career
 tags: 
 keywords: 
 description: 

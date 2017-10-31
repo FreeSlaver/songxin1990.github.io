@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 最近想到点事情
-category: inspiration
+category: essay
 tags: 
 keywords: 
 description: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 最棒的旅游技巧总结
-category: tips
+category: travel
 tags: [essence,travel]
 keywords: [旅游,技巧,攻略,总结]
 description: 这篇文章总结了我这些年的旅行经验，虽然不是攻略，但是说的都是旅游总的原则性要点，而且部分技巧非常具体，实用。

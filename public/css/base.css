@@ -6,7 +6,7 @@
 body, html {
   margin: 0px;
   height: 100%;
-  overflow: hidden; 
+  overflow: hidden;
   background-color: #303030;
 }
 .row {
@@ -16,14 +16,24 @@ body, html {
 .aside {
   height: 100%;
 }
+
+#myNav{
+  display:flex;
+  position:fixed;
+  /*align-items: center;*/
+  justify-content: center;
+  flex-flow: column;
+  /*top:250px;*/
+}
 /* 左侧导航栏 */
 .aside1 {
   background-color: #1abc9c;
-  height: 100%;
+  /*height: 100%;*/
   padding-left: 0px;
   padding-right: 0px;
   text-align: center;
-  display: none;
+  /*display: none;*/
+  overflow: auto;
 }
 .aside1 > .nav > li > a {
   padding-left: 0px;
