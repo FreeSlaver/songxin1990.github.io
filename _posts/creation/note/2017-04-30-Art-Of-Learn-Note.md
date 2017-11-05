@@ -3,7 +3,7 @@ layout: post
 title: 学习的艺术—读书笔记
 category: note
 tags: essence
-keywords: 学习,learn,笔记
+keywords: [学习,learn,笔记]
 description: 
 ---
 
