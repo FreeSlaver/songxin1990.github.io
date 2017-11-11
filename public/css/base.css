@@ -17,21 +17,34 @@ body, html {
   height: 100%;
 }
 
-
+/* 左侧导航栏 */
+.aside1 {
+  background-color: #1abc9c;
+  /*height: 100%;*/
+  padding-left: 0px;
+  padding-right: 0px;
+  text-align: center;
+  display: none;
+  overflow: auto;
+  position: fixed;
+}
 
 .aside1 > .nav > li > a {
   padding-left: 0px;
   padding-right: 0px;
   border-radius: 0px;
-  color: black;
-  font-size: 36px;
+  color: #ffffff;
+  font-size: 16px;
   padding: 10px 10px;
 
 }
+/*ul.nav.nav-pills {
+  width: 58%;
+}*/
 
 .aside1> .nav > li > a:hover {
   color:#fff;
-  background-color: black;
+  background-color: #16a085;
 }
 
 .aside1 > .nav-pills>li.active>a ,.nav-pills>li.active>a:hover,.nav-pills>li.active>a:focus {
@@ -92,7 +105,7 @@ body, html {
 .aside3-content {
 /*  padding-left: 40px;
   padding-right: 40px;
-*/  
+*/
   padding: 0 5% 0 5%;
   color: #656565;
   line-height: 1.42857143;
@@ -151,4 +164,28 @@ span.beian{
   padding: 1em;
   text-align: center;
 }
+/*@media screen and (max-width: 480px) {
+  .aside1 {
+    display: none;
+  }
+}*/
+.aside3-nav{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+.aside3-nav ul{
 
+}
+.aside3-nav ul li{
+  display: inline-block;
+  padding: 0 12px;
+  width: 200px;
+  height: 200px;
+
+}
+.aside3-nav ul li a{
+  color: black;
+  font-size: 24px;
+  text-align: center;
+}

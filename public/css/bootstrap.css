@@ -3469,7 +3469,6 @@ tbody.collapse.in {
 .dropdown-toggle:focus {
     outline: 0
 }
-
 .dropdown-menu {
     position: absolute;
     top: 100%;
@@ -3477,19 +3476,31 @@ tbody.collapse.in {
     z-index: 1000;
     display: none;
     float: left;
-    min-width: 160px;
-    padding: 5px 0;
-    margin: 2px 0 0;
-    list-style: none;
-    font-size: 14px;
+    min-width: 10rem;
+    padding: .5rem 0;
+    margin: .125rem 0 0;
+    font-size: 1rem;
+    color: #292b2c;
     text-align: left;
+    list-style: none;
     background-color: #fff;
-    border: 1px solid #ccc;
-    border: 1px solid rgba(0, 0, 0, 0.15);
-    border-radius: 4px;
-    -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
-    background-clip: padding-box
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    border: 1px solid rgba(0, 0, 0, .15);
+    border-radius: .25rem;
+}
+
+.dropdown-item {
+    display: block;
+    width: 100%;
+    padding: 3px 1.5rem;
+    clear: both;
+    font-weight: 400;
+    color: #292b2c;
+    text-align: inherit;
+    white-space: nowrap;
+    background: 0 0;
+    border: 0;
 }
 
 .dropdown-menu.pull-right {
@@ -3947,9 +3958,9 @@ select[multiple].input-group-sm>.input-group-addon, select[multiple].input-group
 }
 
 .nav {
+    margin-bottom: 0;
     padding-left: 0;
-    list-style: none;
-    margin:auto;
+    list-style: none
 }
 
 .nav>li {
