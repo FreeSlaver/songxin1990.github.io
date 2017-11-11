@@ -3947,9 +3947,9 @@ select[multiple].input-group-sm>.input-group-addon, select[multiple].input-group
 }
 
 .nav {
-    margin-bottom: 0;
     padding-left: 0;
-    list-style: none
+    list-style: none;
+    margin:auto;
 }
 
 .nav>li {

@@ -1,6 +1,6 @@
 ---
 permalink: /creation.html
-layout: page_title
+layout: page
 title: <i class="fa fa-archive fa-lg"></i>
 titlename: 创作
 comments: false
@@ -28,20 +28,6 @@ description: 当你开始创作，你就是上帝
 <ul>
     {% for post in site.posts %}
     {% if post.category contains "essay" %}
-    <li>
-        <h4>
-            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
-        </h4>
-    </li>
-    {% endif %}
-    {% endfor %}
-</ul>
-
-<!--诗歌-->
-<h3 id="#poem">我喜欢的{{ site.locals.poem }}</h3>
-<ul>
-    {% for post in site.posts %}
-    {% if post.category contains "poem" %}
     <li>
         <h4>
             <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>

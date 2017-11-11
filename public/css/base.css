@@ -17,37 +17,21 @@ body, html {
   height: 100%;
 }
 
-#myNav{
-  display:flex;
-  position:fixed;
-  /*align-items: center;*/
-  justify-content: center;
-  flex-flow: column;
-  /*top:250px;*/
-}
-/* 左侧导航栏 */
-.aside1 {
-  background-color: #1abc9c;
-  /*height: 100%;*/
-  padding-left: 0px;
-  padding-right: 0px;
-  text-align: center;
-  /*display: none;*/
-  overflow: auto;
-}
+
+
 .aside1 > .nav > li > a {
   padding-left: 0px;
   padding-right: 0px;
   border-radius: 0px;
-  color: #fff;
-  font-size: 15px;
+  color: black;
+  font-size: 36px;
   padding: 10px 10px;
 
 }
 
 .aside1> .nav > li > a:hover {
   color:#fff;
-  background-color: #16a085;
+  background-color: black;
 }
 
 .aside1 > .nav-pills>li.active>a ,.nav-pills>li.active>a:hover,.nav-pills>li.active>a:focus {
@@ -166,28 +150,5 @@ span.beian{
   font-size: 12px;
   padding: 1em;
   text-align: center;
-}
-
-#captioned-gallery figure {
-  margin: 0; background: #101010;
-  font-family: Istok Web, sans-serif;
-  font-weight: 100;
-}
-div#captioned-gallery {
-  width: 100%; overflow: hidden;
-}
-#captioned-gallery figure.slider {
-  position: relative; width: 500%;
-  font-size: 0; animation: 30s slidy infinite;
-}
-#captioned-gallery figure.slider figure {
-  width: 20%; height: auto;
-  display: inline-block;  position: inherit;}
-#captioned-gallery figure.slider img { width: 100%; height: auto; }
-#captioned-gallery figure.slider figure figcaption {
-  position: absolute; bottom: 0;
-  background: rgba(0,0,0,0.4);
-  color: #fff; width: 100%;
-  font-size: 2rem; padding: .6rem;
 }
 
