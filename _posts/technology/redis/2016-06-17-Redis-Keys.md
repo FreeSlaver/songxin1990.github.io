@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 关于Redis keys命令
-category: javacore
-tags: redis
-keywords: 
+category: redis
+tags: [redis,redis keys,command]
+keywords: [redis,redis keys,command]
 description: 
 ---
 

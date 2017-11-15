@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Redis实现锁
-category: javacore
-tags: lock
-keywords: 
+category: redis
+tags: [redis,lock]
+keywords: [redis,lock]
 description: 
 ---
 
