@@ -329,3 +329,7 @@ Redis主从架构会有单点故障的问题，因为主从之间的复制是异
             }
         }
     }
+
+### 参考资料和扩展阅读  
+[Distributed locks with Redis](https://redis.io/topics/distlock)  
+[Redisson Distributed locks](https://github.com/redisson/redisson/wiki/8.-Distributed-locks-and-synchronizers)  

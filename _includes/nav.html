@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        .nav {
+            background-color: #ffffff;
+            height: 96px;
+            border: 1px solid;
+            position: relative;
+        }
+
+        ul {
+            list-style-type: none;
+            text-align: center;
+            line-height: 96px;
+            /*position: absolute;*/
+            /*margin: auto;*/
+        }
+
+        .category li {
+            display: inline-block;
+            background-color: #ffffff;
+            /*position: absolute;*/
+        }
+
+        .category li:hover .sub-category {
+            display: list-item;
+
+        }
+
+        .category li a {
+            text-decoration: none;
+            color: #000000;
+            font-size: 24px;
+            padding: 0px 30px;
+        }
+
+        li a:hover {
+            color: red;
+        }
+
+        .sub-category {
+            display: none;
+            position: absolute
+        }
+
+        .sub-category li {
+            display: block;
+            background-color: #ffffff;
+        }
+
+    </style>
+</head>
+<body>
+<div class="nav">
+    <ul class="category">
+        <li><a href="/">首页</a></li>
+        <li><a href="/tech.html">编程</a>
+            <ul class="sub-category">
+                <li><a href="/bigdata.html">大数据</a></li>
+                <li><a href="/redis.html">Redis</a></li>
+                <li><a href="/database.html">数据库</a></li>
+            </ul>
+        </li>
+        <li><a href="/creation.html">写作</a>
+            <ul class="sub-category">
+                <li><a href="/note.html">笔记</a></li>
+                <li><a href="/essay.html">散文</a></li>
+                <li><a href="/book.html">读书</a></li>
+                <li><a href="/book.html">观影</a></li>
+            </ul>
+        </li>
+        <li><a href="/trade.html">交易</a>
+            <ul class="sub-category">
+                <li><a href="/stock.html">股票</a></li>
+                <li><a href="/redis.html">期货</a></li>
+                <li><a href="/tradesystem.html">交易系统</a></li>
+                <li><a href="/porker.html">德州扑克</a></li>
+            </ul>
+        </li>
+        <li><a href="/growing.html">成长</a></li>
+        <li><a href="/life.html">生活</a>
+            <ul class="sub-category">
+                <li><a href="/zen.html">禅</a></li>
+                <li><a href="/tips.html">小贴士</a></li>
+            </ul>
+        </li>
+        <li><a href="/travel.html">旅行</a>
+            <ul class="sub-category">
+                <li><a href="/youji.html">游记</a></li>
+            </ul>
+        </li>
+        <li><a href="/photography.html">摄影</a></li>
+        <li><a href="/archive.html">归档</a></li>
+        <li><a href="/about.html">关于</a></li>
+
+    </ul>
+
+    <!--现在要做的是几个大主题，然后下面有小主题
+    妈的，自己好好想，怎么做
+    大类：编程，写作，交易，成长，然后还有页面，比如关于，简历等
+    怎么实现？可以用隐藏，然后移动过去显示，也可以
+    -->
+
+</div>
+</body>
+</html>
