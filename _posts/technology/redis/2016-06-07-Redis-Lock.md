@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Redis实现锁
+title: Redis实现锁-废弃
 category: redis
 tags: [redis,lock]
 keywords: [redis,lock]
