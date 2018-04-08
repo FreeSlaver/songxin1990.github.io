@@ -111,7 +111,11 @@ body, html {
   line-height: 1.42857143;
 }
 #content {
-  font-size: 18px;
+  font-size: 20px;
+}
+p {
+  margin: 0 0 16px;
+  line-height: 1.6;
 }
 #content h2, h3 {
   line-height: 2;
