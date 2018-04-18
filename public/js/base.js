@@ -73,7 +73,7 @@ $(document).ready(function() {
     $('.aside3').scrollTop(0);
     contentEffects();
   });
-  $('body').on('click', '.show-commend', function(){
+  /*$('body').on('click', '.show-commend', function(){
     var ds_loaded = false;
     window.disqus_shortname = $('.show-commend').attr('name');
     $.ajax({
@@ -82,10 +82,10 @@ $(document).ready(function() {
       dataType: "script",
       cache: true
     });
-  });
+  });*/
   contentEffects();
 
-
+  // loadViewTimes();
 });
 function contentEffects(){
   //remove the asidebar
@@ -105,3 +105,14 @@ function contentEffects(){
     $('#content_btn').hide();
   }
 }
+/*
+function loadViewTimes() {
+    var title =
+    $.ajax({
+        type: "GET",
+        url: "http://" + disqus_shortname + ".disqus.com/embed.js",
+        dataType: "script",
+        cache: true
+    });
+
+}*/
