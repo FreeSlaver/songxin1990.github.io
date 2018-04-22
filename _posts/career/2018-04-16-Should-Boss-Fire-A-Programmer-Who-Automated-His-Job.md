@@ -5,6 +5,7 @@ category: career
 tags: [programmer,fire,think]
 keywords: [programmer,fire,think]
 description: 
+published: false
 ---
 
 原文废话有点多，大概故事是说：一个远程工作的员工，用自动化程序完成了老板分配的数据录入工作。  

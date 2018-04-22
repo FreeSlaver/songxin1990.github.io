@@ -5,6 +5,7 @@ category: career
 tags: [fail,seekjob,advantage]
 keywords: [fail,advantage]
 description: 为什么我会在求职这件事上遇到这么大的挫败？
+published: false
 ---
 
 <div id="table-of-contents">
