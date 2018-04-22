@@ -5,7 +5,6 @@ category: career
 tags: [job,thoughts,fail]
 keywords: [job,thoughts,fail]
 description: 
-published: false
 ---
 
 <div id="table-of-contents">
