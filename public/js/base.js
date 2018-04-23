@@ -96,9 +96,9 @@ function contentEffects(){
         current.attr("id", "title" + i);
         tag = current.prop('tagName').substr(-1);
         $("#nav").append("<div style='margin-left:"+15*(tag-1)+"px'><a id='link" + i + "' href='#title" +i + "'>" + current.html() + "</a></div>");
-    }); 
+    });
     $("pre").addClass("prettyprint");
-    prettyPrint(); 
+    prettyPrint();
     $('#content img').addClass('img-thumbnail').parent('p').addClass('center');
     $('#content_btn').show();
   }else{
@@ -116,3 +116,22 @@ function loadViewTimes() {
     });
 
 }*/
+function postComment() {
+    var comment = {
+        name:'songxin',
+        email:'504252262@qq.com',
+        website:'http://3gods.com',
+        ip:'127.0.0.1',
+        content:'真是一篇好文章啊！',
+        blog_title:'Learn-More-Study-Less-Note'
+    }
+    $.ajax({
+        type: "post",
+        url: "http://localhost:4567/comment/add",
+        dataType:'json',
+        data: comment,
+        success: function (data) {
+            alert(data);
+        }
+    });
+}

@@ -199,3 +199,21 @@ span.beian{
   margin: 18px 30px 10px 0px;
   border: solid 2px #16a085;
 }
+hr{
+  border: solid 1px;
+}
+
+/*comment*/
+#comment label {
+  font-size: 20px;
+  font-weight: normal;
+}
+#comment button{
+  float: right;
+}
+#comment h2{
+  margin-bottom: 22px;
+}
+#comment input{
+  height: 42px;
+}
