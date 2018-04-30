@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 数据库分库分表
+redirect_from:
+  - /2017/08/02/MySQL-Sharding.html
 category: database
 tags: MySQL sharding
 keywords: MySQL sharding 分库分表

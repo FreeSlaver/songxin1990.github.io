@@ -5,7 +5,6 @@ category: career
 tags: [programmer,fire,think]
 keywords: [programmer,fire,think]
 description: 
-published: false
 ---
 
 <div id="table-of-contents">

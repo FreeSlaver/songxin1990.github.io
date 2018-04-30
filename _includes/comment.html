@@ -1,46 +1,61 @@
-<!--<div id="disqus_thread">
-    <button type="button" name="{{ site.disqus.shortname }}" class="btn btn-default show-commend">
-        <i class="fa fa-comment-o fa-lg" style="color: #16a095;"></i>     &lt;!&ndash; 修改显示评论按钮图标&ndash;&gt;
-    </button>
-</div>-->
-<!--评论-->
-<!--
-<div id="uyan_frame"></div>
-<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2123019"></script>-->
+ <!--post comment-->
+    <div id="comment_post">
+        <a href="#" id="comment_ico">
+            <i class="fa fa-edit fa-lg" style="color:#16a095;">    我来说两句</i>
+        </a><br>
+        <form style="display: none;">
+            <div class="form-group row">
+                <label for="exampleInputName" class="col-sm-2 col-form-label">您的大名:</label>
+                <div class="col-sm-4">
+                    <input type="text" class="form-control input-lg" id="exampleInputName" name="name">
+                </div>
+            </div>
 
-<div id="SOHUCS" sid="{{page.url}}"></div>
-<script type="text/javascript">
-    (function () {
-        var appid = 'cytyWKilS';
-        var conf = 'prod_e27ec97ca6abc4e47b22e4d15680ba3d';
-        var width = window.innerWidth || document.documentElement.clientWidth;
-        if (width < 960) {
-            window.document.write('<script id="changyan_mobile_js" charset="utf-8" type="text/javascript" src="http://changyan.sohu.com/upload/mobile/wap-js/changyan_mobile.js?client_id=' + appid + '&conf=' + conf + '"><\/script>');
-        } else {
-            var loadJs = function (d, a) {
-                var c = document.getElementsByTagName("head")[0] || document.head || document.documentElement;
-                var b = document.createElement("script");
-                b.setAttribute("type", "text/javascript");
-                b.setAttribute("charset", "UTF-8");
-                b.setAttribute("src", d);
-                if (typeof a === "function") {
-                    if (window.attachEvent) {
-                        b.onreadystatechange = function () {
-                            var e = b.readyState;
-                            if (e === "loaded" || e === "complete") {
-                                b.onreadystatechange = null;
-                                a()
-                            }
-                        }
-                    } else {
-                        b.onload = a
-                    }
-                }
-                c.appendChild(b)
-            };
-            loadJs("http://changyan.sohu.com/upload/changyan.js", function () {
-                window.changyan.api.config({appid: appid, conf: conf})
-            });
-        }
-    })();
-</script>
+            <div class="form-group row">
+                <label for="exampleInputEmail1" class="col-sm-2 col-form-label">邮件地址:</label>
+                <div class="col-sm-4">
+                    <input type="email" class="form-control input-lg" id="exampleInputEmail1" name="email">
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <label for="exampleInputWebsite" class="col-sm-2 col-form-label">个人主页:</label>
+                <div class="col-sm-4">
+                    <input type="url" class="form-control input-lg" id="exampleInputWebsite" name="website">
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <label for="exampleFormControlTextarea1" class="col-sm-2 col-form-label">输入评论:</label>
+                <div class="col-sm-10">
+                <textarea class="form-control input-lg" id="exampleFormControlTextarea1" rows="6"
+                          name="content"></textarea>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary col-sm-2 btn-lg">提交</button>
+        </form>
+    </div>
+    <!--list comments-->
+    <div id="comment_list">
+        <!--<table class="table" data-height="460" id="comment_list_table">
+            <thead>
+            <tr>
+                <th data-field="id">Item ID</th>
+                <th data-field="avatar">Item AVATAR</th>
+                <th data-field="name">Item ID</th>
+                <th data-field="email">Item ID</th>
+                <th data-field="website">Item ID</th>
+                <th data-field="createTime">Item Name</th>
+                <th data-field="content">Item Price</th>
+            </tr>
+            </thead>
+        </table>-->
+        <img src="/public/img/fav.ico"><span>小王</span>
+        <p>sfxxxxxxxxxxxxxxxxxxxxxxx
+            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
+
+        <
+
+
+    </div>

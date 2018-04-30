@@ -86,6 +86,18 @@ $(document).ready(function() {
   contentEffects();
 
   // loadViewTimes();
+  //   listComment();
+    var i = 0;
+    $("#comment_ico").click(function () {
+        if(i==0){
+            $("#comment_post form").show();
+            i=1;
+        }else{
+            $("#comment_post form").hide();
+            i=0;
+        }
+
+    })
 });
 function contentEffects(){
   //remove the asidebar
@@ -116,6 +128,28 @@ function loadViewTimes() {
     });
 
 }*/
+function listComment() {
+    $.ajax({
+        type: "GET",
+        url: "http://localhost:4567/comment/list?blogTitle=zipkin",
+        success:function (data) {
+            console.info(data);
+            var json = $.parseJSON(data);
+            var code = json.code;
+            var msg = json.msg;
+            console.info("code"+code+",msg:"+msg);
+            var dataObj = json.data;
+            //在这里进行组装，我们先在界面上看看样式。
+
+            $('#comment_list_table').bootstrapTable({
+                data: dataObj
+            });
+        },
+        error:function (data) {
+            console.info(data);
+        }
+    });
+}
 function postComment() {
     var comment = {
         name:'songxin',

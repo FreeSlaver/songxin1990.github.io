@@ -90,9 +90,7 @@ body, html {
 
   /*background-image: url(/public/img/bg_lines1.jpg);*/
 }
-.aside3-crumb {
-  padding: 0 5% 0 5%;
-}
+
 .aside3-title {
   background-color: #f5f5f5;
   /*background-image: url(/public/img/bg_grid.jpg);*/
@@ -101,6 +99,7 @@ body, html {
   padding-right: 30px;
   text-align: center;
   color: #303030;
+  /*padding-top: 32px;*/
 }
 .aside3-content {
 /*  padding-left: 40px;
@@ -173,47 +172,67 @@ span.beian{
     display: none;
   }
 }*/
-.aside3-nav{
-  display:flex;
-  align-items: center;
-  justify-content: center;
-}
-.aside3-nav ul{
 
-}
-.aside3-nav ul li{
-  display: inline-block;
-  padding: 0 12px;
-  width: 200px;
-  height: 200px;
-
-}
-.aside3-nav ul li a{
-  color: black;
-  font-size: 24px;
-  text-align: center;
-}
 .appreciate{
   width: 300px;
   height: 300px;
   margin: 18px 30px 10px 0px;
   border: solid 2px #16a085;
 }
-hr{
+/*hr{
   border: solid 1px;
-}
+}*/
 
 /*comment*/
-#comment label {
+#comment_post label {
   font-size: 20px;
   font-weight: normal;
 }
-#comment button{
+#comment_post button{
   float: right;
 }
-#comment h2{
+#comment_post h2{
   margin-bottom: 22px;
 }
-#comment input{
+#comment_post input{
   height: 42px;
+}
+#comment_ico{
+  float: right;
+  display: block;
+}
+
+/*navbar*/
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+  /*padding-right: 240px;*/
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+  padding-top: 16px;
+}
+
+@media (min-width: 768px) {
+  .navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+  }
+
+  .navbar .navbar-collapse {
+    text-align: center;
+  }
+}
+.navbar-nav>li>a{
+  font-size: 24px;
+}
+
+.dropdown-menu{
+  min-width: 8rem;
+}
+.dropdown-menu>li>a{
+  font-size: 16px;
 }

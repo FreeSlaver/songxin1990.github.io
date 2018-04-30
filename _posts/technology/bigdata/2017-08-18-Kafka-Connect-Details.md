@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Kafka Connect教程详解
+redirect_from:
+  - /2017/08/18/Kafka-Connect-Details.html
 category: bigdata
 tags: kafka
 keywords: [kafka connect,kafka,教程]

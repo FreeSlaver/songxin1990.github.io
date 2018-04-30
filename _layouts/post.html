@@ -13,7 +13,7 @@ layout: base
             {{ page.title }}
             {% endif %}
         </h2>
-        {{ site.author.name }} &nbsp;&nbsp; {{ page.date | date:"%Y-%m-%d" }}
+        jquery-3.3.1.js     {{ site.author.name }} &nbsp;&nbsp; {{ page.date | date:"%Y-%m-%d" }}
     </div>
 
     <!-- 文章内容 -->
@@ -23,20 +23,14 @@ layout: base
             <p>本文：<a href="http://3gods.com{{page.url}}">{{page.title}}</a>，原创于：<a href="http://3gods.com">宋鑫的官方网站</a>，转载请注明出处，谢谢。</p>
             {{ content }}
         </div>
-
         <hr>
-        <!--{% include comments.html %}-->
-
-        {% include beian.html %}
-
+    </div>
+    <!-- 文章评论 -->
+    <div class="col-md-15 aside3-content col-md-10 col-lg-8 col-md-offset-1 col-lg-offset-2">
+        <!--{% include comment.html %}-->
     </div>
 
-    <!-- 目录 -->
-    <!--<div id="content_table" style="position:fixed;right:20px;top:120px;display:block;">
-        <div class="panel panel-success">
-            <div class="panel-body" id="nav"></div>
-        </div>
-    </div>-->
 
+    {% include beian.html %}
 </div>
 

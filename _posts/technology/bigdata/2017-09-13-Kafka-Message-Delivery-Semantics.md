@@ -2,6 +2,8 @@
 layout: post
 title: Kafka消息投递语义-消息不丢失，不重复，不丢不重
 category: bigdata
+redirect_from:
+  - /Kafka-Message-Delivery-Semantics
 tags: kafka
 keywords: kafka,delivery,semantic
 description: 本文将讲述kafka支持的3种消息投递语义，以及实现exactly once语义的原理机制。

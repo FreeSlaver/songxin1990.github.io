@@ -77,8 +77,6 @@ locals:
   # 摄影
   photography: 摄影
 
-
-
 # gems 设置
 gems:
   - jekyll-sitemap
