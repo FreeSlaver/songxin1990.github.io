@@ -1,6 +1,8 @@
 ---
 layout: post
 title: MySQL分库分表方案
+redirect_from:
+  - /2017/08/05/MySQL-Sharding-Approaches.html
 category: database
 tags: MySQL sharding
 keywords: MySQL sharding stackoverflow
