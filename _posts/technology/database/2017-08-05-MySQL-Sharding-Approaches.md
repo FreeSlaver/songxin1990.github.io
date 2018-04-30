@@ -28,7 +28,7 @@ description: 翻译自stack overflow上的一个问答：MySQL sharding approach
 </ul>
 </div>
 
-# MySQL分库分表方案<a id="sec-1" name="sec-1"></a>
+
 
 翻译一个stackoverflow上的问答，关于分库分表的缺点的，原文链接:    
 [MySQL sharding approaches?](https://stackoverflow.com/questions/5541421/mysql-sharding-approaches)  

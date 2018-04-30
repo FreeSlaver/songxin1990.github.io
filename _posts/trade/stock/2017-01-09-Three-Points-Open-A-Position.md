@@ -22,7 +22,7 @@ description:
 </div>
 </div>
 
-# 空单的三个开仓点<a id="sec-1" name="sec-1"></a>
+
 
 空单的三个开仓点，分别对应：  
 1. 反弹的高点。

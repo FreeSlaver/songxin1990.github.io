@@ -9,7 +9,7 @@ description:
 
 
 <ul>
-<li><a href="#sec-1">1. 论凌波之死</a>
+<li>
 <ul>
 <li><a href="#sec-1-1">1.1. 楔子</a>
 <ul>
@@ -28,10 +28,6 @@ description:
 </ul>
 </li>
 </ul>
-
-
-
-# 论凌波之死<a id="sec-1" name="sec-1"></a>
 
 
 ## 楔子<a id="sec-1-1" name="sec-1-1"></a>

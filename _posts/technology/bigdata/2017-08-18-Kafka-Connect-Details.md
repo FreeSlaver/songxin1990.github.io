@@ -13,7 +13,7 @@ description: Kafka Connect技术详解，包含介绍，启动和配置，单机
 <h2>目录</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#sec-1">1. Kafka Connect教程详解</a>
+<li>
 <ul>
 <li><a href="#sec-1-1">1.1. 介绍</a></li>
 <li><a href="#sec-1-2">1.2. 启动和配置</a>
@@ -39,7 +39,7 @@ description: Kafka Connect技术详解，包含介绍，启动和配置，单机
 </div>
 </div>
 
-# Kafka Connect教程详解<a id="sec-1" name="sec-1"></a>
+
 
 ## 介绍<a id="sec-1-1" name="sec-1-1"></a>
 

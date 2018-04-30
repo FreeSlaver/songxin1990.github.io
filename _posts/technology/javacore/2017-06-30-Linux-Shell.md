@@ -84,7 +84,7 @@ description:
 </div>
 </div>
 
-# Linux Shell Linux脚本编程<a id="sec-1" name="sec-1"></a>
+
 
 首先各个命令要用的非常的熟练。
 

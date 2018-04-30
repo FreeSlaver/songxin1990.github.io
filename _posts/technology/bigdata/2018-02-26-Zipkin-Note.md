@@ -36,7 +36,7 @@ description:
 </div>
 </div>
 
-# Zipkin笔记<a id="sec-1" name="sec-1"></a>
+
 
 Zipkin是一个分布式追踪系统，根据Google的Dapper论文来的。主要用于分布式系统延时和故障追踪，分析。
 

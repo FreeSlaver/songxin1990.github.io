@@ -28,7 +28,7 @@ description: Kafka Connect部署详解，包括添加依赖，部署，打包，
 </div>
 </div>
 
-# Kafka Connect部署教程<a id="sec-1" name="sec-1"></a>
+
 
 阅读本文前，可以先看看关于Kafka Connect概念和开发的2篇文章：  
 [Kafka Connect教程详解](http://3gods.com/bigdata/Kafka-Connect-Details.html)  

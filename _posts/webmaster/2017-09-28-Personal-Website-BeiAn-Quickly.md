@@ -12,7 +12,7 @@ description: 本文将总结个人备案经验，详述备案流程，备案注�
 <h2>目录</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#sec-1">1. 个人网站快速备案</a>
+<li>
 <ul>
 <li><a href="#sec-1-1">1.1. 网站要不要备案</a>
 <ul>
@@ -39,7 +39,7 @@ description: 本文将总结个人备案经验，详述备案流程，备案注�
 </div>
 </div>
 
-# 个人网站快速备案<a id="sec-1" name="sec-1"></a>
+
 
 ## 网站要不要备案<a id="sec-1-1" name="sec-1-1"></a>
 

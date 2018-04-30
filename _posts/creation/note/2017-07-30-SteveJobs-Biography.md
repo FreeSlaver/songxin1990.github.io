@@ -24,7 +24,7 @@ description: 史蒂夫乔布斯传的读书笔记，摘录了书中的精华语�
 </div>
 </div>
 
-# 史蒂夫乔布斯传—读书笔记<a id="sec-1" name="sec-1"></a>
+
 
 ## 第一章<a id="sec-1-1" name="sec-1-1"></a>
 

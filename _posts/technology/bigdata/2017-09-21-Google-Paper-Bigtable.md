@@ -46,7 +46,7 @@ description:
 </div>
 </div>
 
-# 谷歌论文之Bigtable详解<a id="sec-1" name="sec-1"></a>
+
 
 ## Bigtable是什么<a id="sec-1-1" name="sec-1-1"></a>
 

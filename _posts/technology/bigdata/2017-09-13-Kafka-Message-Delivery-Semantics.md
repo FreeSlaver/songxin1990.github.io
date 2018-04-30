@@ -32,8 +32,6 @@ description: 本文将讲述kafka支持的3种消息投递语义，以及实现e
 </div>
 </div>
 
-# Kafka消息投递语义-消息不丢失，不重复，不丢不重<a id="sec-1" name="sec-1"></a>
-
 ## 介绍<a id="sec-1-1" name="sec-1-1"></a>
 
 kafka支持3种消息投递语义：  

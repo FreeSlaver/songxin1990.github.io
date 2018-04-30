@@ -25,7 +25,7 @@ description: 这篇文章我将讲述一下，程序员在信息时代的巨大�
 </div>
 </div>
 
-# 信息时代，程序员的优势<a id="sec-1" name="sec-1"></a>
+
 
 ## 引子<a id="sec-1-1" name="sec-1-1"></a>
 

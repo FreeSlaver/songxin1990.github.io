@@ -33,7 +33,7 @@ description: Kafka Connect开发详解，详细
 </div>
 </div>
 
-# Kafka Connect开发教程<a id="sec-1" name="sec-1"></a>
+
 
 不得不吐槽下Kafka的官方文档写的不够详细，可能他们需要干的事情太多了，无暇顾及。  
 看本文之前请先阅读：[Kafka Connect Details 详解](http://3gods.com/2017/08/18/Kafka-Connect-Details.html) 。  

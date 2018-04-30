@@ -38,7 +38,7 @@ description:
 </div>
 </div>
 
-# 规则引擎？看这篇就够了<a id="sec-1" name="sec-1"></a>
+
 
 ## 什么是规则引擎？<a id="sec-1-1" name="sec-1-1"></a>
 

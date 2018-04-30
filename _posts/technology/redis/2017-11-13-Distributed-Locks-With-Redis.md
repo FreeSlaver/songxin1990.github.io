@@ -38,7 +38,7 @@ description:
 </div>
 </div>
 
-# 使用Redis实现分布式锁<a id="sec-1" name="sec-1"></a>
+
 
 本文是看Reids官方文档之后所做的笔记，加上一点自己的想法和java实现Reids分布式锁的代码。  
 详细具体的代码，可以见github： [redis-distributed-lock](https://github.com/songxin1990/redis-distributed-lock)

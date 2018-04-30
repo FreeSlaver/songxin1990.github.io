@@ -32,7 +32,6 @@ description:
 </div>
 </div>
 
-# 不仅仅只是SEO，更是一种思考方式<a id="sec-1" name="sec-1"></a>
 
 这篇文章我想来谈谈SEO，但不仅仅只是SEO，更会说一种思考，探索事物的方式。  
 

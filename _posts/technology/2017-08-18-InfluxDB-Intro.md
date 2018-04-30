@@ -46,7 +46,7 @@ description: InfluxDB introduction
 </div>
 </div>
 
-# InfluxDB介绍<a id="sec-1" name="sec-1"></a>
+
 
 InfluxDB是一个时间序列的数据库，主要用来展示监控系统收集到的各种指标。
 

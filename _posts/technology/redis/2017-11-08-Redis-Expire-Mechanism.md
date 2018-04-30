@@ -25,7 +25,7 @@ description:
 </div>
 </div>
 
-# Redis Expire键值失效机制<a id="sec-1" name="sec-1"></a>
+
 
 ## 语法<a id="sec-1-1" name="sec-1-1"></a>
 

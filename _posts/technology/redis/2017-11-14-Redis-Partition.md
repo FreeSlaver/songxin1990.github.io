@@ -30,7 +30,7 @@ description:
 </div>
 </div>
 
-# Redis Partition分区-翻译<a id="sec-1" name="sec-1"></a>
+
 
 ## 为什么分区有用<a id="sec-1-1" name="sec-1-1"></a>
 
