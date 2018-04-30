@@ -113,7 +113,7 @@ body, html {
   font-size: 20px;
 }
 p {
-  margin: 0 0 16px;
+  margin: 0 0 24px;
   line-height: 1.6;
 }
 #content h2, h3 {
@@ -179,28 +179,6 @@ span.beian{
   margin: 18px 30px 10px 0px;
   border: solid 2px #16a085;
 }
-/*hr{
-  border: solid 1px;
-}*/
-
-/*comment*/
-#comment_post label {
-  font-size: 20px;
-  font-weight: normal;
-}
-#comment_post button{
-  float: right;
-}
-#comment_post h2{
-  margin-bottom: 22px;
-}
-#comment_post input{
-  height: 42px;
-}
-#comment_ico{
-  float: right;
-  display: block;
-}
 
 /*navbar*/
 .navbar .navbar-nav {
@@ -235,4 +213,53 @@ span.beian{
 }
 .dropdown-menu>li>a{
   font-size: 16px;
+}
+
+#notfound{
+  font-size: 320px;
+  font-weight: bold;
+  text-align: center;
+}
+
+/*comment*/
+#comment_post{
+  margin-top: 36px;
+}
+#comment_post label {
+  font-size: 20px;
+  font-weight: normal;
+}
+#comment_post button{
+  float: right;
+}
+#comment_post h2{
+  margin-bottom: 22px;
+}
+#comment_post input{
+  height: 42px;
+}
+#comment_ico{
+  float: right;
+  display: block;
+}
+
+#comment_list .comment{
+  border-bottom: 1px dotted #ccc;
+  border-top: 1px dotted #ccc;
+}
+#comment_list .comment_name{
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 24px;
+}
+#comment_list .comment_content{
+  text-indent: 36px;
+  font-size: 18px;
+  margin:0 0 0;
+}
+#comment_list .comment_footer{
+  margin-left:80%
+}
+#comment_list .comment_footer span{
+  padding: 0 12px;
 }

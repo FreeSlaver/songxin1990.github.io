@@ -3,7 +3,7 @@ layout: post
 title: 为什么公司不招聘大龄程序员？
 category: career
 tags: [programmer,fire,think]
-keywords: [programmer,fire,think]
+keywords: programmer,fire,think
 description: 
 ---
 
