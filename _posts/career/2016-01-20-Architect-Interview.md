@@ -2,6 +2,7 @@
 layout: post
 title: 架构师笔试面试准备
 category: career
+categoryStr: 职场 
 tags: 
 keywords: 
 description: 架构师笔试，面试题

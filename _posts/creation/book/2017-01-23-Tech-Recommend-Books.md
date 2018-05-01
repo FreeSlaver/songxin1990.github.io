@@ -2,6 +2,7 @@
 layout: post
 title: 大牛推荐技术书籍
 category: book
+categoryStr: 读书 
 tags: book
 keywords: 推荐 书籍
 description: 技术大牛推荐的经典技术书籍。

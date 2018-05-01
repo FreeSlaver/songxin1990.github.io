@@ -2,6 +2,7 @@
 layout: post
 title: 顶尖高手的修行秘笈
 category: stock
+categoryStr: 股票
 tags: 转载
 keywords: 
 description: 

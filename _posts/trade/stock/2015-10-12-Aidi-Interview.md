@@ -2,6 +2,7 @@
 layout: post
 title: 艾迪.塞柯塔访谈摘要
 category: stock
+categoryStr: 股票
 tags: 转载
 keywords: 
 description: 

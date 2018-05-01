@@ -2,6 +2,7 @@
 layout: post
 title: 随想-心情的只言片语
 category: essay
+categoryStr: 随笔
 tags: 
 keywords: 
 description: 这个是用来写写平时随思随想，心情的只言片语的

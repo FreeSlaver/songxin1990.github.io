@@ -2,6 +2,7 @@
 layout: post
 title: porkerstars鱼的特点
 category: porker
+categoryStr: 德州扑克
 tags: porker
 keywords: porker fish 鱼
 description: 

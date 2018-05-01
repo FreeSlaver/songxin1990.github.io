@@ -2,6 +2,7 @@
 layout: post
 title: 你的灯还亮着吗—读书笔记
 category: note
+categoryStr: 笔记
 tags: essence
 keywords: [阅读,书籍,笔记]
 description: 我们自身也是问题本身的一部分，因为我们的经验，能力和视野受到局限。有些人面临的问题可以转化为其他人的资源， 甚至两个问题可以进行抵消。并没有多少人希望解决他们的问题。

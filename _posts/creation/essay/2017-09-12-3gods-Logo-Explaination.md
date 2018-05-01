@@ -2,6 +2,7 @@
 layout: post
 title: 关于本网站logo的说明
 category: essay
+categoryStr: 随笔
 tags: logo,Ourboros
 keywords: logo,网站,科普,神话,Ourboros
 description: 本篇文章将解释说明下本网站logo的涵义以及Ouroboros的介绍，算是一篇大众科普文。

@@ -2,6 +2,7 @@
 layout: post
 title: 学习交易
 category: stock
+categoryStr: 股票
 tags: 
 keywords: 
 description: 

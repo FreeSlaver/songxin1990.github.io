@@ -2,6 +2,7 @@
 layout: post
 title: 读过的书
 category: book
+categoryStr: 读书 
 tags: book 书籍
 keywords: 书籍
 description: 我从大学毕业到目前为之读过或者正在读的书，都是非常经典，非常优秀的书籍。

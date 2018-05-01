@@ -2,6 +2,7 @@
 layout: post
 title: 捕捉市场偏见
 category: stock
+categoryStr: 股票
 tags: 
 keywords: 
 description: 

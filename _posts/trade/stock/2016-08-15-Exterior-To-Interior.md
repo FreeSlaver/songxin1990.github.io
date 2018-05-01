@@ -2,6 +2,7 @@
 layout: post
 title: 由表及里
 category: stock
+categoryStr: 股票
 tags: 
 keywords: 
 description: 

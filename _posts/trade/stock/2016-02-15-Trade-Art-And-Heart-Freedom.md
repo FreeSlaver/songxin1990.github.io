@@ -2,6 +2,7 @@
 layout: post
 title: 操作艺术与心灵自由
 category: stock
+categoryStr: 股票
 tags: 转载
 keywords: 
 description: 

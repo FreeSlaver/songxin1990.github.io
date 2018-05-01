@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 几个交易策略
-category: stock
+category: tradesystem
+categoryStr: 交易系统
 tags: 
 keywords: 股票 交易 策略
 description: 

@@ -2,6 +2,7 @@
 layout: post
 title: 我的大学
 category: essay
+categoryStr: 随笔
 tags:
 keywords:
 description:

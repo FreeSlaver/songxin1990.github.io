@@ -1,0 +1,24 @@
+---
+permalink: /opensource.html
+layout: page
+title: <i class="fa fa-archive fa-lg"></i>
+titlename: 开源项目
+comments: false
+---
+
+
+<h3 id="#opensource">开源项目</h3>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "opensource" %}
+    <li>
+        <h4>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h4>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+
+

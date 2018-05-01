@@ -2,6 +2,7 @@
 layout: post
 title: 摸到一点门路了
 category: stock
+categoryStr: 股票
 tags: 
 keywords: 
 description: 

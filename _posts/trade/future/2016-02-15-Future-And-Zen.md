@@ -2,6 +2,7 @@
 layout: post
 title: 期货与禅
 category: future
+categoryStr: 期货
 tags: 
 keywords: 
 description: 

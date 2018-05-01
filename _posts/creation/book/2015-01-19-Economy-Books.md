@@ -2,6 +2,7 @@
 layout: post
 title: 金融必读书籍
 category: book
+categoryStr: 读书 
 tags: book
 keywords: 书籍 economy
 description: 金融必读书籍，这个是摘抄之人大论坛，华尔街见闻等等网站的。

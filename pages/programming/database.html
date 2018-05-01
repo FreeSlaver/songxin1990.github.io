@@ -1,0 +1,24 @@
+---
+permalink: /database.html
+layout: page
+title: <i class="fa fa-archive fa-lg"></i>
+titlename: 数据库
+comments: false
+---
+
+
+<h3 id="#database">{{ site.locals.database }}</h3>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "database" %}
+    <li>
+        <h4>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h4>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+
+

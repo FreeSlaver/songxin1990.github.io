@@ -8,7 +8,7 @@
         </button>
         <a class="navbar-brand" href="/">
             <img alt="3gods.com logo" src="/public/img/fav.ico">
-            </a>
+        </a>
     </div>
 
     <div class="collapse navbar-collapse navbar-ex1-collapse">
@@ -16,9 +16,9 @@
             <li class="dropdown">
                 <a href="/tech.html" class="dropdown-toggle" data-toggle="dropdown">编程 <b class="caret"></b></a>
                 <ul class="dropdown-menu">
+                    <li><a href="/bigdata.html">大数据</a></li>
                     <li><a href="/redis.html">Redis</a></li>
                     <li><a href="/database.html">数据库</a></li>
-                    <li><a href="/bigdata.html">大数据</a></li>
                     <li><a href="/opensource.html">开源</a></li>
                     <li><a href="/project.html">项目总结</a></li>
                 </ul>
@@ -38,11 +38,11 @@
             <li class="dropdown">
                 <a href="/growing.html" class="dropdown-toggle" data-toggle="dropdown">成长 <b class="caret"></b></a>
                 <ul class="dropdown-menu">
+                    <li><a href="/method.html">方法论</a></li>
+                    <!--<li><a href="/mind.html">心态</a></li>-->
+                    <li><a href="/thinkask.html">思考与提问</a></li>
                     <li><a href="/tips.html">小贴士</a></li>
                     <li><a href="/zen.html">禅</a></li>
-                    <li><a href="/essay.html">感想</a></li>
-                    <li><a href="/trash.html">废弃</a></li>
-
                 </ul>
             </li>
 
@@ -53,18 +53,15 @@
                     <li><a href="/note.html">笔记</a></li>
                     <li><a href="/essay.html">感想</a></li>
                     <li><a href="/trash.html">废弃</a></li>
-
                 </ul>
             </li>
 
             <li class="dropdown">
                 <a href="/creation.html" class="dropdown-toggle" data-toggle="dropdown">生活 <b class="caret"></b></a>
                 <ul class="dropdown-menu">
-                    <li><a href="/book.html">旅行</a></li>
-                    <li><a href="/note.html">摄影</a></li>
-                    <li><a href="/essay.html"></a></li>
-                    <li><a href="/essay.html">感想</a></li>
-                    <li><a href="/trash.html">废弃</a></li>
+                    <li><a href="/travel.html">旅行</a></li>
+                    <li><a href="/photography.html">摄影</a></li>
+                    <li><a href="/film.html">影评</a></li>
 
                 </ul>
             </li>
@@ -72,13 +69,25 @@
             <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">站长 <b class="caret"></b></a>
                 <ul class="dropdown-menu">
-                    <li><a href="#">SEO</a></li>
-
+                    <li><a href="/seo.html">SEO</a></li>
+                    <li><a href="/webmaster.html">网站建设</a></li>
                 </ul>
             </li>
 
             <li><a href="/archive.html">归档</a></li>
             <li><a href="/about.html">关于</a></li>
+
+            <!-- ADD SEARCH FORM HERE -->
+            <script>
+                var domainroot="3gods.com"
+                function Gsitesearch(curobj){ curobj.q.value="site:"+domainroot+" "+curobj.qfront.value }
+            </script>
+            <form class="search navbar-form navbar-right" action="http://www.google.com/search" method="get" role="search" onSubmit="Gsitesearch(this)" target="_blank">
+                <div class="input-group"> <input name="q" type="hidden" />
+                    <input class="form-control" name="qfront" type="search" required class="searchField" placeholder="全站搜索" maxlength="50"/>
+                    <span class="input-group-btn"> <button type="submit" class="search-button btn btn-primary"> <i class="fa fa-search fa-lg"></i></button> </span>
+                </div>
+            </form>
         </ul>
     </div>
 </nav>

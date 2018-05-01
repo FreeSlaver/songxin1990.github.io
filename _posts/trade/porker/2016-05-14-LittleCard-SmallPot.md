@@ -2,6 +2,7 @@
 layout: post
 title: 小牌小底池
 category: porker
+categoryStr: 德州扑克
 tags: porker
 keywords: porker 德州扑克
 description: 

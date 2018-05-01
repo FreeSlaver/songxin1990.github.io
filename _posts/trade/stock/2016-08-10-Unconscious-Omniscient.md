@@ -2,6 +2,7 @@
 layout: post
 title: 无所知，无所不知
 category: stock
+categoryStr: 股票
 tags: 
 keywords: 
 description: 

@@ -2,6 +2,7 @@
 layout: post
 title: 陷阱的艺术
 category: tradesystem
+categoryStr: 交易系统
 tags: 
 keywords: 
 description: 

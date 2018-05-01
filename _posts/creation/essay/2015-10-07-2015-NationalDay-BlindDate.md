@@ -2,6 +2,7 @@
 layout: post
 title: 2015年国庆相亲记
 category: essay
+categoryStr: 随笔
 tags: 
 keywords: 
 description: 2015年国庆相亲记

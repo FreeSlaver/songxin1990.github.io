@@ -2,6 +2,7 @@
 layout: post
 title: 浓汤野人：交易中的机会-转载
 category: future
+categoryStr: 期货
 tags: 转载
 keywords: 
 description: 

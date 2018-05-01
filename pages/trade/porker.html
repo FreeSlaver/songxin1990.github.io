@@ -1,0 +1,24 @@
+---
+permalink: /porker.html
+layout: page
+title: <i class="fa fa-archive fa-lg"></i>
+titlename: 德州扑克
+comments: false
+---
+
+
+<h3 id="#porker">德州扑克</h3>
+<ul>
+    {% for post in site.posts %}
+    {% if post.category contains "porker" %}
+    <li>
+        <h4>
+            <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
+        </h4>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+
+
+

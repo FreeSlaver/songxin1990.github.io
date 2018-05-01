@@ -2,6 +2,7 @@
 layout: post
 title: 我的性格测试报告（有85分准）
 category: essay
+categoryStr: 随笔
 tags:
 keywords:
 description:

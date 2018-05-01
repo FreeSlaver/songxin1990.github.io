@@ -2,6 +2,7 @@
 layout: post
 title: 可惜不是你
 category: essay
+categoryStr: 随笔
 tags:
 keywords:
 description:

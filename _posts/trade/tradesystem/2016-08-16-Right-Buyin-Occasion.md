@@ -2,6 +2,7 @@
 layout: post
 title: 选股，买入的时机不对
 category: tradesystem
+categoryStr: 交易系统
 tags: 
 keywords: 
 description: 

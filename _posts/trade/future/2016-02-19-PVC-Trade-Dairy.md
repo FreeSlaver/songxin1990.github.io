@@ -2,6 +2,7 @@
 layout: post
 title: PVC交易日记
 category: future
+categoryStr: 期货
 tags: 
 keywords: 
 description: 

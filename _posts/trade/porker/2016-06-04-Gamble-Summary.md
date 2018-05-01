@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 赌博的一点浅见
-category: trade
+category: porker
+categoryStr: 德州扑克
 tags: porker
 keywords: 
 description: 

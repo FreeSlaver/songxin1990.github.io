@@ -2,6 +2,7 @@
 layout: post
 title: 2015中秋凤凰山
 category: essay
+categoryStr: 随笔
 tags: 
 keywords: 
 description: 

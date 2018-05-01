@@ -2,6 +2,7 @@
 layout: post
 title: 且战且退
 category: future
+categoryStr: 期货
 tags: 
 keywords: 
 description: 

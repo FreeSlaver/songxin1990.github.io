@@ -2,6 +2,7 @@
 layout: post
 title: 死亡笔记
 category: essay
+categoryStr: 随笔
 tags:
 keywords:
 description:

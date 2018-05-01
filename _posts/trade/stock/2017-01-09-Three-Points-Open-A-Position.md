@@ -2,6 +2,7 @@
 layout: post
 title: 空单的三个开仓点
 category: stock
+categoryStr: 股票
 tags: 
 keywords: 
 description: 

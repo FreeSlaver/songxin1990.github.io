@@ -2,6 +2,7 @@
 layout: post
 title: 逆思考
 category: stock
+categoryStr: 股票
 tags: 
 keywords: 
 description: 

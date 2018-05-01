@@ -2,6 +2,7 @@
 layout: post
 title: 黑色丝袜
 category: essay
+categoryStr: 随笔
 tags: 
 keywords:
 description: 

@@ -2,6 +2,7 @@
 layout: post
 title: 活着，真难
 category: essay
+categoryStr: 随笔
 tags: 
 keywords:
 description: 

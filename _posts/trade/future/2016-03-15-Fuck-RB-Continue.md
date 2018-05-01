@@ -2,6 +2,7 @@
 layout: post
 title: 今晚继续搞螺纹
 category: future
+categoryStr: 期货
 tags: 
 keywords: 
 description: 

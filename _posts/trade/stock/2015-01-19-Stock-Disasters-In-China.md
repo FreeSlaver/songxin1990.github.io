@@ -2,6 +2,7 @@
 layout: post
 title: 2015年1月19日中国股灾
 category: stock
+categoryStr: 股票
 tags: 
 keywords: 
 description: 

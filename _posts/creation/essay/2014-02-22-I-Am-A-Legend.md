@@ -2,6 +2,7 @@
 layout: post
 title: I Am Legend
 category: essay
+categoryStr: 随笔
 tags: plan
 keywords: 
 description: 

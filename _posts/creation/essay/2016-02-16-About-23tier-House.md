@@ -2,6 +2,7 @@
 layout: post
 title: 最近想到点事情
 category: essay
+categoryStr: 随笔
 tags: 
 keywords: 
 description: 

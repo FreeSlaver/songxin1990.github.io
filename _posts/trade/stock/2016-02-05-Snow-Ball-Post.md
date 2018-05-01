@@ -2,6 +2,7 @@
 layout: post
 title: 雪球好文集锦-转载
 category: stock
+categoryStr: 股票
 tags: 转载
 keywords: 雪球 stock
 description: 

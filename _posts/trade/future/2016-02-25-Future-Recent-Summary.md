@@ -2,6 +2,7 @@
 layout: post
 title: 最近操作小结Future
 category: future
+categoryStr: 期货
 tags: 
 keywords: 
 description: 

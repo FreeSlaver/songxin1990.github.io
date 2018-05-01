@@ -2,6 +2,7 @@
 layout: post
 title: 炒股笔记配图
 category: stock
+categoryStr: 股票
 tags: 
 keywords: 
 description: 

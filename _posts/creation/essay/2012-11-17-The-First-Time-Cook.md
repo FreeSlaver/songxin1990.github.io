@@ -2,6 +2,7 @@
 layout: post
 title: 第一次下厨小计
 category: essay
+categoryStr: 随笔
 tags:
 keywords:
 description:

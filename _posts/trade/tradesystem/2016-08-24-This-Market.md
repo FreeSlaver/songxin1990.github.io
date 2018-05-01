@@ -2,6 +2,7 @@
 layout: post
 title: 这个市场
 category: tradesystem
+categoryStr: 交易系统
 tags: 
 keywords: 
 description: 

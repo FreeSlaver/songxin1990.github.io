@@ -2,6 +2,7 @@
 layout: post
 title: 炒股打牛六式
 category: stock
+categoryStr: 股票
 tags: 
 keywords: 
 description: 

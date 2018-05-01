@@ -2,6 +2,7 @@
 layout: post
 title: 求势不求价
 category: stock
+categoryStr: 股票
 tags: 
 keywords: 
 description: 

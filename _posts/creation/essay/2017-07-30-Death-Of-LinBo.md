@@ -3,6 +3,7 @@ layout: post
 title: 论凌波之死
 category: essay
 tags: essence
+categoryStr: 随笔
 keywords: 贫穷 死亡 成长
 description: 
 ---

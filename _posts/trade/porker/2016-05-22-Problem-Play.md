@@ -2,6 +2,7 @@
 layout: post
 title: 玩的有问题的几手牌
 category: porker
+categoryStr: 德州扑克
 tags: porker
 keywords: 
 description: 

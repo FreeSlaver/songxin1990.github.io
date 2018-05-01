@@ -2,6 +2,7 @@
 layout: post
 title: 趋势的发展过程
 category: stock
+categoryStr: 股票
 tags: 
 keywords: 
 description: 

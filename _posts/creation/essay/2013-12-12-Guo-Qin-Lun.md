@@ -2,6 +2,7 @@
 layout: post
 title: 过秦论
 category: essay
+categoryStr: 随笔
 tags: 
 keywords: 
 description: 过秦论

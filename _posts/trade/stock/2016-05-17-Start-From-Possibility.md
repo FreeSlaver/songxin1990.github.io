@@ -2,6 +2,7 @@
 layout: post
 title: 从可能性出发
 category: stock
+categoryStr: 股票
 tags: 
 keywords: 
 description: 

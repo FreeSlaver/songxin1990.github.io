@@ -2,6 +2,7 @@
 layout: post
 title: 最完美的买点
 category: stock
+categoryStr: 股票
 tags: 
 keywords: 
 description: 

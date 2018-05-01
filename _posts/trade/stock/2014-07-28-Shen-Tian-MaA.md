@@ -2,6 +2,7 @@
 layout: post
 title: 20140728深天马A
 category: stock
+categoryStr: 股票
 tags: 
 keywords: 
 description: 

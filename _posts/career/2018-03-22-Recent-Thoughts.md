@@ -2,6 +2,7 @@
 layout: post
 title: 最近关于工作求职的一点感想
 category: career
+categoryStr: 职场 
 tags: [job,thoughts,fail]
 keywords: [job,thoughts,fail]
 description: 

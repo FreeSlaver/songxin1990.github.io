@@ -2,6 +2,7 @@
 layout: post
 title: 我遇到的笔试面试题
 category: career
+categoryStr: 职场 
 tags: 
 keywords: 
 description: 我去做java面试时，遇到的各种面试题。

@@ -2,6 +2,7 @@
 layout: post
 title: 开始写作
 category: essay
+categoryStr: 随笔
 tags: 
 keywords: 
 description: 

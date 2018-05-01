@@ -2,6 +2,7 @@
 layout: post
 title: 投机推理公式
 category: tradesystem
+categoryStr: 交易系统
 tags: 
 keywords: 
 description: 

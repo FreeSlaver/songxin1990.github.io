@@ -2,6 +2,7 @@
 layout: post
 title: 不行，我要开始做短线
 category: future
+categoryStr: 期货
 tags: 
 keywords: 
 description: 

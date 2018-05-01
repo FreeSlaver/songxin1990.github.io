@@ -2,6 +2,7 @@
 layout: post
 title: 成为成功的交易者
 category: stock
+categoryStr: 股票
 tags: 
 keywords: 
 description: 

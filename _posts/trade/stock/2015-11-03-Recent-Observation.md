@@ -2,6 +2,7 @@
 layout: post
 title: 最近观察
 category: stock
+categoryStr: 股票
 tags: 
 keywords: 
 description: 

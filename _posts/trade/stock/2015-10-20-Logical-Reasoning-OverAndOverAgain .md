@@ -2,6 +2,7 @@
 layout: post
 title: 不断的反复推理
 category: stock
+categoryStr: 股票
 tags: 
 keywords: 
 description: 

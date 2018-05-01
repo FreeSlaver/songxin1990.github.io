@@ -2,6 +2,7 @@
 layout: post
 title: 最美的句子
 category: essay
+categoryStr: 随笔
 tags: 
 keywords: 
 description: 最美丽的诗句。

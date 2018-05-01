@@ -2,6 +2,7 @@
 layout: post
 title: 投机还是工作
 category: career
+categoryStr: 职场 
 tags: 
 keywords: 
 description: 一些选择，观点，关于到底是选择投机还是工作。

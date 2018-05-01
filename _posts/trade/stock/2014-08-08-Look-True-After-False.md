@@ -2,6 +2,7 @@
 layout: post
 title: 寻找假后真的股票
 category: stock
+categoryStr: 股票
 tags: 
 keywords: 
 description: 

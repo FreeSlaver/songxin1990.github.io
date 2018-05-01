@@ -2,6 +2,7 @@
 layout: post
 title: 谈谈国产电视剧
 category: essay
+categoryStr: 随笔
 tags:
 keywords:
 description:

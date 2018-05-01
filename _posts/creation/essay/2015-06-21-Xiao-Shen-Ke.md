@@ -2,6 +2,7 @@
 layout: post
 title: 肖申克的救赎
 category: essay
+categoryStr: 随笔
 tags: 
 keywords: 
 description: 肖申克的救赎，一部IMDB长据第一名的电影。这是我看后的观后感。

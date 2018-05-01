@@ -2,6 +2,7 @@
 layout: post
 title: 股市金刚经
 category: stock
+categoryStr: 股票
 tags: 转载
 keywords: 
 description: 

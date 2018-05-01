@@ -2,6 +2,7 @@
 layout: post
 title: 工作无非拿钱干活，要不卖力学东西
 category: career
+categoryStr: 职场 
 tags: 
 keywords: 
 description: 工作无法干活拿钱，要不卖力学东西。很多东西都不是你一个人能决定的。

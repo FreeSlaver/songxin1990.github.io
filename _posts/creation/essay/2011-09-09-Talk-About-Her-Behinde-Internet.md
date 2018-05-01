@@ -2,6 +2,7 @@
 layout: post
 title: 谈网络对面的那个她
 category: essay
+categoryStr: 随笔
 tags: 
 keywords:
 description: 

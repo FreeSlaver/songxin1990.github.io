@@ -2,6 +2,7 @@
 layout: post
 title: 小王子-读后感
 category: note
+categoryStr: 笔记
 tags: 
 keywords: 
 description: 

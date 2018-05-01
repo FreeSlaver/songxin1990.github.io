@@ -2,6 +2,7 @@
 layout: post
 title: 建立一个正确交易模式的起点
 category: tradesystem
+categoryStr: 交易系统
 tags: 转载
 keywords: 
 description: 

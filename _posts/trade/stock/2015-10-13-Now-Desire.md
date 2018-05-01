@@ -2,6 +2,7 @@
 layout: post
 title: 现在缺乏的
 category: stock
+categoryStr: 股票
 tags: 
 keywords: 
 description: 

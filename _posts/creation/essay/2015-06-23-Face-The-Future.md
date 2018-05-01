@@ -2,6 +2,7 @@
 layout: post
 title: Face The Future And Your Destiny
 category: essay
+categoryStr: 随笔
 tags: 
 keywords: 
 description: face the future and your destiny.勇敢面对你的未来和你的命运。

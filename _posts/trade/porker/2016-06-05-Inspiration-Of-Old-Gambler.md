@@ -2,6 +2,7 @@
 layout: post
 title: 【转载】一个老赌徒对赌博的感悟
 category: porker
+categoryStr: 德州扑克
 tags: 
 keywords: 瘾 德州扑克 赌博
 description: 

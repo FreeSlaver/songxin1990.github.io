@@ -2,6 +2,7 @@
 layout: post
 title: 几个国外的交易网站
 category: stock
+categoryStr: 股票
 tags: 
 keywords: 
 description: 

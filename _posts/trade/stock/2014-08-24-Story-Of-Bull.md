@@ -2,6 +2,7 @@
 layout: post
 title: 牛的故事
 category: stock
+categoryStr: 股票
 tags: 
 keywords: 
 description: 

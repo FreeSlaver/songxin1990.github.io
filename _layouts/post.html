@@ -24,6 +24,14 @@ layout: base
             {{ content }}
         </div>
         <hr>
+        <!--bread-->
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">首页</a></li>
+                <li class="breadcrumb-item"><a href="/{{page.categories}}">{{page.categoryStr}}</a></li>
+                <li class="breadcrumb-item active" aria-current="page">{{page.title}}</li>
+            </ol>
+        </nav>
     </div>
     <!-- 文章评论 -->
     <div class="col-md-15 aside3-content col-md-10 col-lg-8 col-md-offset-1 col-lg-offset-2">

@@ -2,6 +2,7 @@
 layout: post
 title: 构建自己的交易系统
 category: tradesystem
+categoryStr: 交易系统
 tags: 
 keywords: 
 description: 这篇文章我将讲述如何构建自己的交易系统。

@@ -2,6 +2,7 @@
 layout: post
 title: 我喜爱的诗词
 category: essay
+categoryStr: 随笔
 tags: 
 keywords: 
 description: 我喜爱的诗词

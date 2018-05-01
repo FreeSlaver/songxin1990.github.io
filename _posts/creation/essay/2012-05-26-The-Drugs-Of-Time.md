@@ -2,6 +2,7 @@
 layout: post
 title: 时光之蛊
 category: essay
+categoryStr: 随笔
 tags:
 keywords:
 description:

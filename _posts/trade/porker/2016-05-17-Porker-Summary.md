@@ -2,6 +2,7 @@
 layout: post
 title: 德州扑克总结经验
 category: porker
+categoryStr: 德州扑克
 tags: porker
 keywords: porker 
 description: 

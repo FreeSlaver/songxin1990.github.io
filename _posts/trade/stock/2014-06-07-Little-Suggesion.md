@@ -2,6 +2,7 @@
 layout: post
 title: 一些小技巧
 category: stock
+categoryStr: 股票
 tags: 
 keywords: 
 description: 

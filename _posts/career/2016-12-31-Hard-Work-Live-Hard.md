@@ -2,6 +2,7 @@
 layout: post
 title: 工作不易，生活不易
 category: career
+categoryStr: 职场 
 tags: 
 keywords: 
 description: 工作不易，生活不易。前同事的坑爹遭遇，人都要不断强大起来，才能不被妥协。

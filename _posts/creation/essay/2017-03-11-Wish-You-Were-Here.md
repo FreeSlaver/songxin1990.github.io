@@ -2,6 +2,7 @@
 layout: post
 title: Wish you were here 翻译
 category: essay
+categoryStr: 随笔
 tags: 
 keywords: 
 description: wish you were here，巴尔特摩的夜晚乐队的一首歌曲。

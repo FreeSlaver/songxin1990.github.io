@@ -2,6 +2,7 @@
 layout: post
 title: SNG比赛记录一
 category: porker
+categoryStr: 德州扑克
 tags: porker
 keywords: 
 description: 
