@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 日志队列系统二 关于protobuf
-category: project
+category: opensource
 tags: 
 keywords: 
 description: 

@@ -14,29 +14,20 @@
     <div class="collapse navbar-collapse navbar-ex1-collapse">
         <ul class="nav navbar-nav ">
             <li class="dropdown">
-                <a href="/tech.html" class="dropdown-toggle" data-toggle="dropdown">编程 <b class="caret"></b></a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">编程 <b class="caret"></b></a>
                 <ul class="dropdown-menu">
                     <li><a href="/bigdata.html">大数据</a></li>
                     <li><a href="/redis.html">Redis</a></li>
                     <li><a href="/database.html">数据库</a></li>
-                    <li><a href="/opensource.html">开源</a></li>
-                    <li><a href="/project.html">项目总结</a></li>
+                    <li><a href="/opensource.html">开源框架</a></li>
+                    <li><a href="/ops.html">运维监控</a></li>
+                    <li><a href="/programdesign.html">程序设计</a></li>
+                    <li><a href="/javacore.html">java基础</a></li>
                 </ul>
             </li>
 
             <li class="dropdown">
-                <a href="/trade.html" class="dropdown-toggle" data-toggle="dropdown">交易 <b class="caret"></b></a>
-                <ul class="dropdown-menu">
-                    <li><a href="/stock.html">股票</a></li>
-                    <li><a href="/future.html">期货</a></li>
-                    <li><a href="/tradesystem.html">交易系统</a></li>
-                    <li><a href="/porker.html">德州扑克</a></li>
-                </ul>
-            </li>
-
-            <li><a href="/career.html">职场&nbsp;</a></li>
-            <li class="dropdown">
-                <a href="/growing.html" class="dropdown-toggle" data-toggle="dropdown">成长 <b class="caret"></b></a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">成长 <b class="caret"></b></a>
                 <ul class="dropdown-menu">
                     <li><a href="/method.html">方法论</a></li>
                     <!--<li><a href="/mind.html">心态</a></li>-->
@@ -46,8 +37,10 @@
                 </ul>
             </li>
 
+            <li><a href="/career.html">职场&nbsp;</a></li>
+
             <li class="dropdown">
-                <a href="/creation.html" class="dropdown-toggle" data-toggle="dropdown">创作 <b class="caret"></b></a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">创作 <b class="caret"></b></a>
                 <ul class="dropdown-menu">
                     <li><a href="/book.html">书单</a></li>
                     <li><a href="/note.html">笔记</a></li>
@@ -57,7 +50,17 @@
             </li>
 
             <li class="dropdown">
-                <a href="/creation.html" class="dropdown-toggle" data-toggle="dropdown">生活 <b class="caret"></b></a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">交易 <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                    <li><a href="/stock.html">股票</a></li>
+                    <li><a href="/future.html">期货</a></li>
+                    <li><a href="/tradesystem.html">交易系统</a></li>
+                    <li><a href="/porker.html">德州扑克</a></li>
+                </ul>
+            </li>
+
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">生活 <b class="caret"></b></a>
                 <ul class="dropdown-menu">
                     <li><a href="/travel.html">旅行</a></li>
                     <li><a href="/photography.html">摄影</a></li>
@@ -83,7 +86,8 @@
                 function Gsitesearch(curobj){ curobj.q.value="site:"+domainroot+" "+curobj.qfront.value }
             </script>
             <form class="search navbar-form navbar-right" action="http://www.google.com/search" method="get" role="search" onSubmit="Gsitesearch(this)" target="_blank">
-                <div class="input-group"> <input name="q" type="hidden" />
+                <div class="input-group">
+                    <input name="q" type="hidden" />
                     <input class="form-control" name="qfront" type="search" required class="searchField" placeholder="全站搜索" maxlength="50"/>
                     <span class="input-group-btn"> <button type="submit" class="search-button btn btn-primary"> <i class="fa fa-search fa-lg"></i></button> </span>
                 </div>

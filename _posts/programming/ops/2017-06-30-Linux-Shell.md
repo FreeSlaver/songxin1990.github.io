@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Linux脚本编程
-category: linux
+category: ops
 categoryStr: java基础
 tags: 
 keywords: 

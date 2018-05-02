@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 规则引擎？看这篇就够了
-category: project
+category: programDesign
 tags: [ruleengine]
 keywords: [规则引擎,方案,drools]
 description: 
