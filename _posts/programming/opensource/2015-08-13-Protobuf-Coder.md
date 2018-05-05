@@ -2,6 +2,7 @@
 layout: post
 title: protobuf编解码处理
 category: opensource
+categoryStr: 开源框架
 tags: 
 keywords: 
 description: 

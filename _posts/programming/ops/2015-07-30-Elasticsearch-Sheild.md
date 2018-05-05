@@ -2,6 +2,7 @@
 layout: post
 title: Elasticsearch  Shield安装部署 JAVA连接
 category: ops
+categoryStr: 运维监控
 tags: 
 keywords: 
 description: 

@@ -2,7 +2,7 @@
 layout: post
 title: 如何免费在线设计和制作一个logo
 category: webmaster
-categoryStr: 站长
+categoryStr: 网站建设
 tags: tips
 keywords: logo,设计,网站
 description: 本篇文章将讲述如何免费在线设计，制作一个logo，包括用到哪些网站，app，软件等。

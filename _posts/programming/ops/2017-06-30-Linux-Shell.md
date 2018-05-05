@@ -2,7 +2,7 @@
 layout: post
 title: Linux脚本编程
 category: ops
-categoryStr: java基础
+categoryStr: 运维监控
 tags: 
 keywords: 
 description: 

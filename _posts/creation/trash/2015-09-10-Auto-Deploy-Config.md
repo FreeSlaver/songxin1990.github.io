@@ -2,6 +2,7 @@
 layout: post
 title: 自动化部署配置文件
 category: trash
+categoryStr: 废弃
 tags: 
 keywords: 
 description: 

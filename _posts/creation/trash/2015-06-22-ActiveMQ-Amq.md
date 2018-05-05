@@ -2,6 +2,7 @@
 layout: post
 title: Activemq之Amq实现
 category: trash
+categoryStr: 废弃
 tags: MQ
 keywords: 
 description: 

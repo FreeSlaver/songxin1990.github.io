@@ -2,6 +2,7 @@
 layout: post
 title: 日志队列系统一：总体简介
 category: trash
+categoryStr: 废弃
 tags: 
 keywords: 
 description: 

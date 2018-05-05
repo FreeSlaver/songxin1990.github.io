@@ -2,6 +2,7 @@
 layout: post
 title: 听过的歌
 category: life
+categoryStr: 音乐
 tags: 
 keywords: 
 description: 

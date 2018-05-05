@@ -2,6 +2,7 @@
 layout: post
 title: 小对子的玩法
 category: trash
+categoryStr: 废弃
 tags: porker
 keywords: 
 description: 

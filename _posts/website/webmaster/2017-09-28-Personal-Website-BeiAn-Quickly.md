@@ -2,7 +2,7 @@
 permalink: /:categories/:title.html
 layout: post
 title: 个人网站快速备案
-categoryStr: 站长
+categoryStr: 网站建设
 category: webmaster
 tags: [备案]
 keywords: [网站备案,备案流程,个人快速备案,]

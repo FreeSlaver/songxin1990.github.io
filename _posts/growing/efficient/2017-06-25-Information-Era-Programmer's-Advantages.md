@@ -2,6 +2,7 @@
 layout: post
 title: 信息时代，程序员的优势
 category: efficient
+categoryStr: 高效
 tags: efficient
 keywords: efficient
 description: 这篇文章我将讲述一下，程序员在信息时代的巨大优势，如何发挥这些优势并产生价值

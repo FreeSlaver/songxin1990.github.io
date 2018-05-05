@@ -2,6 +2,7 @@
 layout: post
 title: 什么是CopyOnWrite容器
 category: trash
+categoryStr: 废弃
 tags: 
 keywords: 
 description: 

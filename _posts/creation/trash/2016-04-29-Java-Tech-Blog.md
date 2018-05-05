@@ -2,9 +2,11 @@
 layout: post
 title: 技术博客网站收藏
 category: trash
+categoryStr: 废弃
 tags: 
 keywords: 
 description: 
+published: false
 ---
 
 

@@ -2,6 +2,7 @@
 layout: post
 title: 只言片语
 category: trash
+categoryStr: 废弃
 tags: 
 keywords: 
 description: 

@@ -2,6 +2,7 @@
 layout: post
 title: 我的高效工具箱
 category: efficient
+categoryStr: 高效
 tags: efficient tool
 keywords: efficient tool
 description: 我的高效工具箱，高效的工具代表的就是高效的生产力。包括翻墙，搜索，浏览器，浏览器插件，工作开发，写作，网盘，获取资讯等。

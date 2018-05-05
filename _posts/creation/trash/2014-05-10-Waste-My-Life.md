@@ -2,6 +2,7 @@
 layout:  post
 title:  浪费自己的生命
 category: trash
+categoryStr: 废弃
 tags: 
 keywords: 
 description: 

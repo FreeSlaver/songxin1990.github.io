@@ -2,6 +2,7 @@
 layout: post
 title: Git常用命令 教程总结
 category: ops
+categoryStr: 运维监控
 tags: Git
 keywords: 
 description: Git常用命令，教程总结

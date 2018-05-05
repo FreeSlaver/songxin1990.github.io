@@ -2,6 +2,7 @@
 layout: post
 title: maven在pom文件里引用本地jar
 category: trash
+categoryStr: 废弃
 tags: 
 keywords: 
 description: 

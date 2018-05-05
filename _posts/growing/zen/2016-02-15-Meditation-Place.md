@@ -2,6 +2,7 @@
 layout: post
 title: 禅修的好地方
 category: zen
+categoryStr: 禅
 tags: 
 keywords: zen
 description: 

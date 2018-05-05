@@ -2,6 +2,7 @@
 layout: post
 title: 今天早上发生的一幕
 category: trash
+categoryStr: 废弃
 tags: 
 keywords: 
 description: 

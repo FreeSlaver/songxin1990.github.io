@@ -2,6 +2,7 @@
 layout: post
 title: Activemq之KahaDB实现
 category: opensource
+categoryStr: 开源框架
 tags: MQ
 keywords: 
 description: 

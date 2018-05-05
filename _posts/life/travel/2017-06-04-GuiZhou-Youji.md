@@ -2,6 +2,7 @@
 layout: post
 title: 贵州游记
 category: travel
+categoryStr: 旅行
 tags: 
 keywords: 
 description: 

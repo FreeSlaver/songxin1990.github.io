@@ -2,6 +2,7 @@
 layout: post
 title: JMX模块总结
 category: trash
+categoryStr: 废弃
 tags: JMX
 keywords: 
 description: 

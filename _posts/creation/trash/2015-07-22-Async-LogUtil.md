@@ -2,6 +2,7 @@
 layout: post
 title: 异步写日志工具类
 category: trash
+categoryStr: 废弃
 tags: 
 keywords: 
 description: 

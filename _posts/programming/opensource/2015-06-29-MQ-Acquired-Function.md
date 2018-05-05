@@ -2,6 +2,7 @@
 layout: post
 title: 一个消息队列应该具有的功能
 category: opensource
+categoryStr: 开源框架
 tags: MQ 原创
 keywords: 
 description: 

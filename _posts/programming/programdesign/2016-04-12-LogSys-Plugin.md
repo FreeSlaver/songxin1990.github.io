@@ -2,6 +2,7 @@
 layout: post
 title: 日志系统handler之日志清洗插件热插播的实现
 category: programDesign
+categoryStr: 程序设计
 tags: 
 keywords: 
 description: 

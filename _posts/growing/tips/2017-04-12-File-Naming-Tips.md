@@ -2,6 +2,7 @@
 layout: post
 title: 文件命名技巧
 category: tips
+categoryStr: 小贴士
 tags: 
 keywords:  
 description: 

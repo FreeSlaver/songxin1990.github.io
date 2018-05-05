@@ -2,6 +2,7 @@
 layout: post
 title: 妈的，昨晚棉花平早了
 category: trash
+categoryStr: 废弃
 tags: 
 keywords: 
 description: 

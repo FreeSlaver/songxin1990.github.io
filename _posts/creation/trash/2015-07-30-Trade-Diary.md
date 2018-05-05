@@ -2,6 +2,7 @@
 layout: post
 title: 交易日记20150730
 category: trash
+categoryStr: 废弃
 tags: 
 keywords: 
 description: 

@@ -2,6 +2,7 @@
 layout: post
 title: Netty实现HTTP服务器
 category: trash
+categoryStr: 废弃
 tags: Netty HTTP
 keywords: 
 description: 

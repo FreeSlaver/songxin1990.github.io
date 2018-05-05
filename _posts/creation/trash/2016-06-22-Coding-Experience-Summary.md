@@ -2,6 +2,7 @@
 layout: post
 title: 写代码经验的一些总结
 category: trash
+categoryStr: 废弃
 tags: 
 keywords: 
 description: 

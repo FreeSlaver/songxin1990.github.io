@@ -2,6 +2,7 @@
 layout: post
 title: Netty两个使用问题
 category: opensource
+categoryStr: 开源框架
 tags: Netty Problem
 keywords: 
 description: 

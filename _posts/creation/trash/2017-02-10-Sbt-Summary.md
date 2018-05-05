@@ -2,6 +2,7 @@
 layout: post
 title: sbt总结
 category: trash
+categoryStr: 废弃
 tags: sbt
 keywords: 
 description: 

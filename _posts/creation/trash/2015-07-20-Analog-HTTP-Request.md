@@ -2,6 +2,7 @@
 layout: post
 title: 模拟HTTP请求
 category: trash
+categoryStr: 废弃
 tags: HTTP
 keywords: 
 description: 

@@ -1,4 +1,5 @@
 ---
+permalink: /ana.html
 layout: post
 title: 个人语录
 category: essay

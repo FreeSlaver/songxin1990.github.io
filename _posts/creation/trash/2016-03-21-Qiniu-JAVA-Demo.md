@@ -2,6 +2,7 @@
 layout: post
 title: 七牛云存储图片JAVA DEMO
 category: trash
+categoryStr: 废弃
 tags: 
 keywords: 
 description: 

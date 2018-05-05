@@ -2,6 +2,7 @@
 layout: post
 title: 自动化，智能化运维笔记
 category: ops
+categoryStr: 运维监控
 tags: ops
 keywords: 
 description: 

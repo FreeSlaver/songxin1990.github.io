@@ -2,6 +2,7 @@
 layout: post
 title: 暂停一切交易相关事务
 category: trash
+categoryStr: 废弃
 tags: stock
 keywords: stock 交易
 description: 

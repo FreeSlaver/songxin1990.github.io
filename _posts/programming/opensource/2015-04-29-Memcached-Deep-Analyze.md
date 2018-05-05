@@ -2,7 +2,7 @@
 layout: post
 title: Memcached深度分析-转载
 category: opensource
-categoryStr: java基础
+categoryStr: 开源框架
 tags: cache
 keywords: 
 description: 

@@ -2,6 +2,7 @@
 layout: post
 title: Maven assembly打包报错
 category: ops
+categoryStr: 运维监控
 tags: projectbuild
 keywords: 
 description: 

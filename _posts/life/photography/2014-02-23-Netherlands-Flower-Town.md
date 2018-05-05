@@ -2,6 +2,7 @@
 layout: post
 title: 荷兰花卉小镇
 category: photography
+categoryStr: 摄影
 tags: 
 keywords: 
 description: 

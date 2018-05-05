@@ -2,7 +2,7 @@
 layout: post
 title: 如何快速掌握一门编程语言
 category: method
-categoryStr: java基础
+categoryStr: 方法论
 tags: 
 keywords: 
 description: 

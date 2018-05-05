@@ -2,6 +2,7 @@
 layout: post
 title: 2014深圳Cosplay
 category: photography
+categoryStr: 摄影
 tags:  
 keywords: 
 description: 

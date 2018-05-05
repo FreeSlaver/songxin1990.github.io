@@ -2,6 +2,7 @@
 layout: post
 title: 德州扑克资源
 category: trash
+categoryStr: 废弃
 tags: poker
 keywords: 
 description: 

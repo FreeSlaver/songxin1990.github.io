@@ -2,6 +2,7 @@
 layout: post
 title: InfluxDB介绍
 category: ops
+categoryStr: 运维监控
 tags: 
 keywords: InfluxDB monitor introduction
 description: InfluxDB introduction
