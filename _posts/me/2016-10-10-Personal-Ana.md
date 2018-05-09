@@ -2,7 +2,7 @@
 permalink: /ana.html
 layout: post
 title: 个人语录
-category: essay
+category: me
 categoryStr: 随笔
 tags: 
 keywords: 

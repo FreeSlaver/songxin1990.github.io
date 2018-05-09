@@ -2,7 +2,7 @@
 permalink: /moodwords.html
 layout: post
 title: 随想-心情的只言片语
-category: essay
+category: me
 categoryStr: 随笔
 tags: 
 keywords: 
