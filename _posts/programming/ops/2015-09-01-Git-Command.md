@@ -3,8 +3,8 @@ layout: post
 title: Git常用命令 教程总结
 category: ops
 categoryStr: 运维监控
-tags: Git
-keywords: 
+tags: [git,command]
+keywords: git,command,命令,教程
 description: Git常用命令，教程总结
 ---
 
