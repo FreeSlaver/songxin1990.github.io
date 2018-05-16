@@ -23,13 +23,13 @@ Js8h
 
 <p>
 
-<a class="fancybox-buttons" data-fancybox-group="button" href="http://7xtttt.com1.z0.glb.clouddn.com/2016-05-21-Problem-Play-T1564751891.png"><img src="http://7xtttt.com1.z0.glb.clouddn.com/porkerbg.jpg" alt="" hidden/></a>
+<a class="fancybox-buttons" data-fancybox-group="button" href="/public/img/life/2016-05-21-Problem-Play-T1564751891.png"><img src="/public/img/life/porkerbg.jpg" alt="" hidden/></a>
 
-<a class="fancybox-buttons" data-fancybox-group="button" href="http://7xtttt.com1.z0.glb.clouddn.com/2016-05-21-Problem-Play-T1564751891-2.png"></a>
+<a class="fancybox-buttons" data-fancybox-group="button" href="/public/img/life/2016-05-21-Problem-Play-T1564751891-2.png"></a>
 
-<a class="fancybox-buttons" data-fancybox-group="button" href="http://7xtttt.com1.z0.glb.clouddn.com/2016-05-21-Problem-Play-T1564751891-3.png"></a>
+<a class="fancybox-buttons" data-fancybox-group="button" href="/public/img/life/2016-05-21-Problem-Play-T1564751891-3.png"></a>
 
-<a class="fancybox-buttons" data-fancybox-group="button" href="http://7xtttt.com1.z0.glb.clouddn.com/2016-05-21-Problem-Play-T1564751891-4.png"></a>
+<a class="fancybox-buttons" data-fancybox-group="button" href="/public/img/life/2016-05-21-Problem-Play-T1564751891-4.png"></a>
 
 </p>
 
@@ -40,13 +40,13 @@ A10
 
 <p>
 
-<a class="fancybox-buttons" data-fancybox-group="button" href="http://7xtttt.com1.z0.glb.clouddn.com/2016-05-21-Problem-Play-T1564751891-A10.png"><img src="http://7xtttt.com1.z0.glb.clouddn.com/porkerbg.jpg" alt="" hidden/></a>
+<a class="fancybox-buttons" data-fancybox-group="button" href="/public/img/life/2016-05-21-Problem-Play-T1564751891-A10.png"><img src="/public/img/life/porkerbg.jpg" alt="" hidden/></a>
 
-<a class="fancybox-buttons" data-fancybox-group="button" href="http://7xtttt.com1.z0.glb.clouddn.com/2016-05-21-Problem-Play-T1564751891-A10-2.png"></a>
+<a class="fancybox-buttons" data-fancybox-group="button" href="/public/img/life/2016-05-21-Problem-Play-T1564751891-A10-2.png"></a>
 
-<a class="fancybox-buttons" data-fancybox-group="button" href="http://7xtttt.com1.z0.glb.clouddn.com/2016-05-21-Problem-Play-T1564751891-A10-3.png"></a>
+<a class="fancybox-buttons" data-fancybox-group="button" href="/public/img/life/2016-05-21-Problem-Play-T1564751891-A10-3.png"></a>
 
-<a class="fancybox-buttons" data-fancybox-group="button" href="http://7xtttt.com1.z0.glb.clouddn.com/2016-05-21-Problem-Play-T1564751891-A10-4.png"></a>
+<a class="fancybox-buttons" data-fancybox-group="button" href="/public/img/life/2016-05-21-Problem-Play-T1564751891-A10-4.png"></a>
 
 </p>
 
@@ -58,11 +58,11 @@ A10
 
 <p>
 
-<a class="fancybox-buttons" data-fancybox-group="button" href="http://7xtttt.com1.z0.glb.clouddn.com/2016-05-21-Problem-Play-T1564751891-104.png"><img src="http://7xtttt.com1.z0.glb.clouddn.com/porkerbg.jpg" alt="" hidden/></a>
+<a class="fancybox-buttons" data-fancybox-group="button" href="/public/img/life/2016-05-21-Problem-Play-T1564751891-104.png"><img src="/public/img/life/porkerbg.jpg" alt="" hidden/></a>
 
-<a class="fancybox-buttons" data-fancybox-group="button" href="http://7xtttt.com1.z0.glb.clouddn.com/2016-05-21-Problem-Play-T1564751891-104.png"></a>
+<a class="fancybox-buttons" data-fancybox-group="button" href="/public/img/life/2016-05-21-Problem-Play-T1564751891-104.png"></a>
 
-<a class="fancybox-buttons" data-fancybox-group="button" href="http://7xtttt.com1.z0.glb.clouddn.com/2016-05-21-Problem-Play-T1564751891-104.png"></a>
+<a class="fancybox-buttons" data-fancybox-group="button" href="/public/img/life/2016-05-21-Problem-Play-T1564751891-104.png"></a>
 
 </p>
 
@@ -73,8 +73,8 @@ Q10
 
 <p>
 
-<a class="fancybox-buttons" data-fancybox-group="button" href="http://7xtttt.com1.z0.glb.clouddn.com/2016-05-21-Problem-Play-T1564751891-Q10.png"><img src="http://7xtttt.com1.z0.glb.clouddn.com/porkerbg.jpg" alt="" hidden/></a>
+<a class="fancybox-buttons" data-fancybox-group="button" href="/public/img/life/2016-05-21-Problem-Play-T1564751891-Q10.png"><img src="/public/img/life/porkerbg.jpg" alt="" hidden/></a>
 
-<a class="fancybox-buttons" data-fancybox-group="button" href="http://7xtttt.com1.z0.glb.clouddn.com/2016-05-21-Problem-Play-T1564751891-Q10-2.png"></a>
+<a class="fancybox-buttons" data-fancybox-group="button" href="/public/img/life/2016-05-21-Problem-Play-T1564751891-Q10-2.png"></a>
 
 </p>

@@ -73,7 +73,7 @@ Github项目地址见：[maxwell-sink](https://github.com/songxin1990/maxwell-si
 
 ## mysql数据同步架构图<a id="sec-1-4" name="sec-1-4"></a>
 
-![MySqlSync-Maxwell-Kafka-MaxwellSink](http://img.3gods.com/mysqlSync-maxwell-kafka-maxwellsink.jpg) 
+![MySqlSync-Maxwell-Kafka-MaxwellSink](/public/img/life/mysqlSync-maxwell-kafka-maxwellsink.jpg) 
 
 ## mysql数据同步后结果校验<a id="sec-1-5" name="sec-1-5"></a>
 

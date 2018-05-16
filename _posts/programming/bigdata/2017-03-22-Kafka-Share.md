@@ -14,7 +14,7 @@ Kafka是由LinkedIn公司用Scala语言开发的，一个分布式、分区的�
 主要初衷目标是构建一个用来处理海量日志，用户行为和网站运营统计等的数据流处理框架。  
 
 ### Kafka的特性及优势
-![kafka_features](http://img.3gods.com/kafka_features.png)  
+![kafka_features](/public/img/life/kafka_features.png)  
 1. 高吞吐率，kafka的高吞吐率是秒杀其他消息系统的，原因在批处理，压缩，多分区等。
 2. 高性能，MQ系统的性能瓶颈主要在于持久化和对消息消费的ack。  
 kafka的持久化策略采用文件系统以及page cache，消息直接从内核到page cache，顺序写磁盘。消费的ack只需更新offset。
@@ -30,7 +30,7 @@ kafka的持久化策略采用文件系统以及page cache，消息直接从内�
 2. kafka消息byte结构，批处理,走page cache;activemq消息java序列化对象，单条处理，走JVM内存。  
 3. kafka并没有实现JMS规范，除了MQ还有很多其他功能；activemq是JMS的规范实现。  
 4. kafka的一些高可用，高吞吐率远超activemq，因为kafka是多topic，多分区，多副本的。相互之间影响很小，而activemq一个节点挂了，发送到上面的消息需要重启才能消费。  
-![kafka_vs](http://img.3gods.com/kafka_vs.png)  
+![kafka_vs](/public/img/life/kafka_vs.png)  
 
 ### Kafka应用领域
 1. 日志聚合，收集各个平台的日志
@@ -61,15 +61,15 @@ kafka的持久化策略采用文件系统以及page cache，消息直接从内�
 - **ISR** : in sync replica,同步副本列表，判断标准是：1.可以从leader partition中拉取数据；2.消息没有落后太多。  
 - **Segment** : 段，由成对的.index和.log文件组成，多个Segment组成一个Partition。 
  
-![kafka_consumer_group](http://img.3gods.com/kafka_consumer_group.png)  
+![kafka_consumer_group](/public/img/life/kafka_consumer_group.png)  
 
 **下图是一个我们线上的estation-parcel的topic描述结果**
 
 bin/kafka-topics.sh --describe --zookeeper 10.33.2.228:2181,10.33.2.91:2181,10.33.2.63:2181 --topic estation-parcel
 
-![kafka_topic_describe](http://img.3gods.com/kafka_topic_desc.png)   
+![kafka_topic_describe](/public/img/life/kafka_topic_desc.png)   
 
-![kafka_failover](http://img.3gods.com/kafka_failover.png)  
+![kafka_failover](/public/img/life/kafka_failover.png)  
 
 ### Kafka配置
 kafka的配置非常的多，Broker，Producer,Consumer每一个都不止3屏。下面是一份我们生产Broker用的配置：  
@@ -130,7 +130,7 @@ enable.auto.commit=false需要手动提交offset，我们采取的这种方式�
 earliest：就是此partition保存的最老的offset信息。latest：可以认为就是CG启动后，开始消费刚写入的消息。none:会抛异常。  
 
 ### Kafka和Zookeeper关系
-![kafka_zookeeper](http://img.3gods.com/kafka_zookeeper.png)  
+![kafka_zookeeper](/public/img/life/kafka_zookeeper.png)  
 1. 主要记录broker，topic，controller等的注册信息和数据描述结构。  
 2. Topic的描述信息，存在哪些topic，有哪些partition，replica以及leader partition在那个broker上。  
 3. 0.9以前，保存了consumer的一些元数据信息，哪些consumer消费到那个topic的那个partition的offset了。  
@@ -138,10 +138,10 @@ earliest：就是此partition保存的最老的offset信息。latest：可以认
 5. broker状态和ISR列表信息。  
 
 ### Kafka架构
-![kafka_architecture](http://img.3gods.com/kafka_architecture.jpg)  
+![kafka_architecture](/public/img/life/kafka_architecture.jpg)  
 
 **kafka消息流**
-![kakfka_message_stream](http://img.3gods.com/kakfka_message_stream.png)  
+![kakfka_message_stream](/public/img/life/kakfka_message_stream.png)  
 
 ### Kafka消息投递语义
 1. At most once-消息可能会丢失但至多被消费一次，不会被重复消费  
@@ -181,7 +181,7 @@ kafka消息不丢失的语义前提是partition的ISR永远至少有一个。
 
 ##### 对Consumer的影响  
 消费者消费完消息后的offset commit和生产者写消息的commit都是要得到ISR中的replica确认的。所以，只有当ISR中所有replica确认收到消息后，才会将commited offset后移，这条消息才会对consumer可见。  
-![kafka_failover_consumer](http://img.3gods.com/kafka_failover_consumer.png)  
+![kafka_failover_consumer](/public/img/life/kafka_failover_consumer.png)  
 
 #### Producer发送
 1. dataserver发送包裹变跟到ESB_Producer，会被放到Kafka的estation-parcel这个Topic中。  
@@ -217,7 +217,7 @@ consumer.commitSync();
 3. Kafka Manager  
 我们目前正在使用的，Yahoo出品，但是也有bug。之前遇到的一个就是集群环境连接不上，会疯狂刷日志到application.log中，日志大小达到37G。  
 控制台进行的topic删除也会触发一个bug，所以尽量在kafka-server.sh等中操作。  
-![kafka_manager](http://img.3gods.com/kafka_manager.png)
+![kafka_manager](/public/img/life/kafka_manager.png)
 http://139.199.204.237:9000/clusters/ez_esb/brokers
 
 

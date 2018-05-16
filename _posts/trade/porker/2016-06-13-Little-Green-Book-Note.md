@@ -9,7 +9,7 @@ description:
 ---
 
 
-<img src="http://7xtttt.com1.z0.glb.clouddn.com/Little-Green-Book-Note.jpg"/>
+<img src="/public/img/life/Little-Green-Book-Note.jpg"/>
 
 
 1. 成功的打法取决于你是否做出正确的决定，与盈利无关。

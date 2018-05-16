@@ -14,13 +14,13 @@ description:
 
 <p>
 
-<a class="fancybox-buttons" data-fancybox-group="button" href="http://7xtttt.com1.z0.glb.clouddn.com/2016-05-14-Small-Pocket-1.png"><img src="http://7xtttt.com1.z0.glb.clouddn.com/porkerbg.jpg" alt="" hidden/></a>
+<a class="fancybox-buttons" data-fancybox-group="button" href="/public/img/life/2016-05-14-Small-Pocket-1.png"><img src="/public/img/life/porkerbg.jpg" alt="" hidden/></a>
 
-<a class="fancybox-buttons" data-fancybox-group="button" href="http://7xtttt.com1.z0.glb.clouddn.com/2016-05-14-Small-Pocket-2.png"></a>
+<a class="fancybox-buttons" data-fancybox-group="button" href="/public/img/life/2016-05-14-Small-Pocket-2.png"></a>
 
-<a class="fancybox-buttons" data-fancybox-group="button" href="http://7xtttt.com1.z0.glb.clouddn.com/2016-05-14-Small-Pocket-3.png"></a>
+<a class="fancybox-buttons" data-fancybox-group="button" href="/public/img/life/2016-05-14-Small-Pocket-3.png"></a>
 
-<a class="fancybox-buttons" data-fancybox-group="button" href="http://7xtttt.com1.z0.glb.clouddn.com/2016-05-14-Small-Pocket-4.png"></a>
+<a class="fancybox-buttons" data-fancybox-group="button" href="/public/img/life/2016-05-14-Small-Pocket-4.png"></a>
 
 </p>
 

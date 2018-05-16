@@ -40,17 +40,17 @@ JDK1.5到1.6对锁进行了大量优化，适应性自旋（Adaptive Spinning）
 
 另外一部分用于存储只想方法去对象类型数据的指针，如果是数组，会额外存数组长度。
 
-![1]( http://img.3gods.com/Locks-Noun_1.jpg )
+![1]( /public/img/life/Locks-Noun_1.jpg )
 
 
 原理：在代码进入同步块的时候，如果此同步对象没有被锁定（锁标志为“01”），虚拟机首先将当前线程的栈帧中建立一个名为锁记录（Lock Record）的空间，用于存储锁对象目前的Mark Word的拷贝（会加Displaced前缀），这时候线程栈帧和对象头如图所示。
 
-![2]( http://img.3gods.com/Locks-Noun_2.jpg )
+![2]( /public/img/life/Locks-Noun_2.jpg )
 
 
 然后虚拟将使用CAS操作尝试将对象的Mark Word更新为指向Lock Record的指针。如果成功，这个线程就拥有了该对象的锁，并且对象Mark Word的锁标志位（最后2bit）将变为“00”，即表示此对象处于轻量级锁定状态，这个时候如图所示：
 
-![3]( http://img.3gods.com/Locks-Noun_3.jpg )
+![3]( /public/img/life/Locks-Noun_3.jpg )
 
 如果更新操作失败，虚拟机首先检查对象的Mark Word是否指向当前线程的栈帧，如果当前线程已经拥有了这个对象的锁，那就可以直接进入同步块继续执行，否则，说明这个锁对象已经被其他线程抢占了。
 
@@ -61,7 +61,7 @@ JDK1.5到1.6对锁进行了大量优化，适应性自旋（Adaptive Spinning）
 
 为了能直观的理解lock，unlock与mark word之间的联系，我画了一张流程图：
 
-![4]( http://img.3gods.com/Locks-Noun_4.jpg )
+![4]( /public/img/life/Locks-Noun_4.jpg )
 
 
 ### 偏向锁

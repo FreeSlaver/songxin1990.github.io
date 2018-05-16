@@ -113,11 +113,11 @@ description:
 
 
 
-![2014-07-28-Shen-Tian-MaA-1](http://img.3gods.com/2014-07-28-Shen-Tian-MaA-1.jpg)  
+![2014-07-28-Shen-Tian-MaA-1](/public/img/life/2014-07-28-Shen-Tian-MaA-1.jpg)  
  
-![2014-07-28-Shen-Tian-MaA-2](http://img.3gods.com/2014-07-28-Shen-Tian-MaA-2.jpg)  
+![2014-07-28-Shen-Tian-MaA-2](/public/img/life/2014-07-28-Shen-Tian-MaA-2.jpg)  
   
-![2014-07-28-Shen-Tian-MaA-3](http://img.3gods.com/2014-07-28-Shen-Tian-MaA-3.jpg)  
+![2014-07-28-Shen-Tian-MaA-3](/public/img/life/2014-07-28-Shen-Tian-MaA-3.jpg)  
 
 
  

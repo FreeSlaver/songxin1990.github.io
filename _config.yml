@@ -19,7 +19,7 @@ title: 宋鑫的官方网站
 description: 编程，写作，思考，实践，得道
 url: http://3gods.com
 rss_url: /atom.xml
-img_url: http://img.3gods.com
+img_url: /public/img/life
 
 # gavatar头像及Favicon
 gavatar: /public/img/fav.ico

@@ -25,7 +25,7 @@ description:
 
 The best way to learn Scala depends on what you know already and the way you prefer to learn things.
 
-![1]( http://img.3gods.com/2017-02-06-How2-Fast-Learn-language.png )
+![1]( /public/img/life/2017-02-06-How2-Fast-Learn-language.png )
 
 ### 建议阅读 
 
