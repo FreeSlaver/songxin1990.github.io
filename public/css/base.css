@@ -285,3 +285,6 @@ ul.post_list{
   margin: 0;
   padding: 0;
 }
+.post-img{
+  width: 85%;
+}

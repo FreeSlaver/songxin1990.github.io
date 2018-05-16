@@ -332,8 +332,8 @@ description:
 记录下学习的过程，坚持写一句话日志，用一两句话记下你的体会和感受，有助于你坚持下来和解决练习中的各种问题。
 
 **没有任何方法，技巧，技术，诀窍能代替动机，兴趣和热情。**
-最后幅上思维导图：
-![如何高效学习思维导图](/public/img/life/2018-03-31-Learn-More-Study-Less.jpg)
+最后幅上思维导图：  
+<img src="/public/img/life/2018-03-31-Learn-More-Study-Less.jpg" class="post-img" alt="如何高效学习思维导图">
 
 ## 我的一点感想<a id="sec-1-6" name="sec-1-6"></a>
 
