@@ -60,8 +60,8 @@ description: 本篇文章将讲述如何免费在线设计，制作一个logo，
 
 [pixlr](https://pixlr.com/editor/)  
 这个在线ps网站相当好用，只需要上传图片，然后添加文字，用PS的图层就能搞定了。  
-我这个[网站](http://3gods.com) 的logo就是google到的图片，然后配上文字生成的。当然，你得先想好创意。  
-具体的：如何思考过程，以及本站logo的涵义，请阅读：[关于本网站logo的说明](http://3gods.com/3gods-Logo-Explaination)。  
+我这个网站的logo就是google到的图片，然后配上文字生成的。当然，你得先想好创意。  
+具体的：如何思考过程，以及本站logo的涵义，请阅读：[关于本网站logo的说明](https://3gods.com/3gods-Logo-Explaination)。  
 
 logo有了，但是不能直接作为favicon使用，必须的压缩。  
 [ICO converter](https://www.icoconverter.com/)  

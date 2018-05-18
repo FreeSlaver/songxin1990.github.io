@@ -146,4 +146,4 @@ producer挂掉后跨session的问题，应该是将之前PID的TransactionalId�
 
 [Message Delivery Semantics](https://kafka.apache.org/documentation/#semantics)  
 [KIP-98 - Exactly Once Delivery and Transactional Messaging](https://cwiki.apache.org/confluence/display/KAFKA/KIP-98+-+Exactly+Once+Delivery+and+Transactional+Messaging#KIP-98-ExactlyOnceDeliveryandTransactionalMessaging-ProposedChanges)  
-[Kafka Connect Details 详解](http://3gods.com/Kafka-Connect-Details)  
+[Kafka Connect Details 详解](https://3gods.com/Kafka-Connect-Details)  

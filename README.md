@@ -1,1 +1,1 @@
-## [宋鑫的官方网站](http://3gods.com)
+## [宋鑫的官方网站](https://3gods.com)

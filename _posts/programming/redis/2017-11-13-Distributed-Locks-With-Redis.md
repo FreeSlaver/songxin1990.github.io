@@ -96,7 +96,7 @@ my_random_value:
 设置的时间太长，会阻塞其他请求锁的客户端，性能降低。  
 还有就是不同客户端的操作，耗时可能都不一样，甚至同一个客户端同一个操作，耗时都不一样，比如定时任务。  
 
-这里就要用到租约机制，我看了[Google Paper](http://3gods.com/bigdata/Google-Paper-GFS.html)，大概实现是：  
+这里就要用到租约机制，我看了[Google Paper](https://3gods.com/bigdata/Google-Paper-GFS.html)，大概实现是：  
 当过了50%的超时时间，客户端再次请求刷新失效时间，如果失败，在80%的时候，再次续约。  
 
 ### 唯一值的生成<a id="sec-1-2-2" name="sec-1-2-2"></a>
