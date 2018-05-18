@@ -107,5 +107,5 @@ description: 翻译自stack overflow上的一个问答：MySQL sharding approach
 Booking.com在过去几年进行过几次业务功能上的分库分表，并且一直工作的很好。  
 
 ### 相关阅读
-[数据库分库分表](https://3gods.com/2017/08/02/MySQL-Sharding.html)   
-[使用Maxwell Kafka和Maxwell-Sink进行MySql数据同步](https://3gods.com/MySql-ETL-Using-Maxwell-Kafka-MaxwellSink)   
+[数据库分库分表](/database/MySQL-Sharding.html)   
+[使用Maxwell Kafka和Maxwell-Sink进行MySql数据同步](/MySql-ETL-Using-Maxwell-Kafka-MaxwellSink)   

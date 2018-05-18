@@ -252,7 +252,7 @@ https://issues.apache.org/jira/browse/KAFKA-4477
 4. Google+Github+Stackoverflow  
 
 ### 相关资料和扩展阅读
-[Kafka Connect详解](https://3gods.com/bigdata/Kafka-Connect-Details.html)  
-[Kafka Connect开发详解](https://3gods.com/bigdata/Kafka-Connect-Develop-Details.html)  
-[Kafka消息投递语义-消息不丢失，不重复，不丢不重](https://3gods.com/bigdata/Kafka-Message-Delivery-Semantics.html)  
+[Kafka Connect详解](/bigdata/Kafka-Connect-Details.html)  
+[Kafka Connect开发详解](/bigdata/Kafka-Connect-Develop-Details.html)  
+[Kafka消息投递语义-消息不丢失，不重复，不丢不重](/bigdata/Kafka-Message-Delivery-Semantics.html)  
 

@@ -90,7 +90,7 @@ bin/connect-distributed.sh config/connect-distributed.properties
 但配置中不需要配置保存offset的文件，因为分布式下，都是将offsets，configs和status保存到相应的topics中的。  
 然后由Worker决定如何存储配置，分配工作，存储offsets和task的状态信息。  
 **切记，为了程序的高可用，这3个topics最好手动创建。**    
-具体命令，请看另外一篇博客：[Kafka命令](https://3gods.com/2017/02/25/Kafka-Command.html) 。
+具体命令，请看另外一篇博客：[Kafka命令](/bigdata/Kafka-Command.html) 。
 
 group.id：  
 也就是connect-cluster的group id，这个不能和consumer的goup id冲突。  
@@ -182,7 +182,7 @@ Kafka Connect是不提供关闭Connector的REST API，可以直接kill -9或者�
 
 ## Kafka Connect 开发详解<a id="sec-1-5" name="sec-1-5"></a>
 
-详见我的另外一篇博客：[Kafka Connect 开发详解](https://3gods.com/bigdata/Kafka-Connect-Develop-Details.html) 。
+详见我的另外一篇博客：[Kafka Connect 开发详解](/bigdata/Kafka-Connect-Develop-Details.html) 。
 
 ## Kafka Connect VS Producer Consumer<a id="sec-1-6" name="sec-1-6"></a>
 
@@ -207,9 +207,9 @@ Source Connector对应Producer，Sink Connector对应Consumer。
 来判断数据是否更新，这样的话应用范围非常受局限。  
 
 ## 相关推荐文章
-[Apache Kafka技术分享](https://3gods.com/bigdata/Kafka-Share.html)  
-[使用Maxwell Kafka和Maxwell-Sink进行MySql数据同步](https://3gods.com/bigdata/MySql-ETL-Using-Maxwell-Kafka-MaxwellSink.html)   
-[Kafka消息投递语义-消息不丢失，不重复，不丢不重](https://3gods.com/bigdata/Kafka-Message-Delivery-Semantics.html)  
+[Apache Kafka技术分享](/bigdata/Kafka-Share.html)  
+[使用Maxwell Kafka和Maxwell-Sink进行MySql数据同步](/bigdata/MySql-ETL-Using-Maxwell-Kafka-MaxwellSink.html)   
+[Kafka消息投递语义-消息不丢失，不重复，不丢不重](/bigdata/Kafka-Message-Delivery-Semantics.html)  
 
 ## 参考<a id="sec-1-8" name="sec-1-8"></a>
 

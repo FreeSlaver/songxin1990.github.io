@@ -32,8 +32,8 @@ description: Kafka Connect部署详解，包括添加依赖，部署，打包，
 
 
 阅读本文前，可以先看看关于Kafka Connect概念和开发的2篇文章：  
-[Kafka Connect教程详解](https://3gods.com/bigdata/Kafka-Connect-Details.html)  
-[Kafka Connect开发教程](https://3gods.com/bigdata/Kafka-Connect-Develop-Details.html)
+[Kafka Connect教程详解](/bigdata/Kafka-Connect-Details.html)  
+[Kafka Connect开发教程](/bigdata/Kafka-Connect-Develop-Details.html)
 
 ## 编译，部署<a id="sec-1-1" name="sec-1-1"></a>
 
@@ -127,6 +127,6 @@ Landoop也出了个UI，但是界面比较粗糙，想了解的见[Github项目�
 我们现在的做法是写个定时程序，循环查询connectors和tasks的状态，出现异常了告警。
 
 ## 相关推荐文章
-[Apache Kafka技术分享](https://3gods.com/bigdata/Kafka-Share.html)  
-[使用Maxwell Kafka和Maxwell-Sink进行MySql数据同步](https://3gods.com/bigdata/MySql-ETL-Using-Maxwell-Kafka-MaxwellSink.html)   
-[Kafka消息投递语义-消息不丢失，不重复，不丢不重](https://3gods.com/bigdata/Kafka-Message-Delivery-Semantics.html)  
+[Apache Kafka技术分享](/bigdata/Kafka-Share.html)  
+[使用Maxwell Kafka和Maxwell-Sink进行MySql数据同步](/bigdata/MySql-ETL-Using-Maxwell-Kafka-MaxwellSink.html)   
+[Kafka消息投递语义-消息不丢失，不重复，不丢不重](/bigdata/Kafka-Message-Delivery-Semantics.html)  

@@ -58,14 +58,14 @@ Google依然很吃力。比如我想知道：深圳各地区的房价走势，�
 但是互联网本身有一个海量信息的宝库，可以通过分析数据的一些规律性推论出一些结论。  
 这就是大数据的部分作用。  
 
-详细的文章见:[Google搜索技巧](https://3gods.com/2017/04/11/Google-Tips.html) 。  
+详细的文章见:[Google搜索技巧](/tips/Google-Tips.html) 。  
 
 ## 高效的工具箱<a id="sec-1-3" name="sec-1-3"></a>
 
 Github，Emacs，Org Mode这些神器，都是需要一点点编程基础的，  
 我现在用的是Github+Emacs+OrgMode做笔记，排版很漂亮，  
 像网站一样可以访问，链接也可以随意分享给别人，而印象笔记还要输入对方邮箱。  
-具体的使用那些工具见：[我的高效工具箱](https://3gods.com/2017/08/27/My-Efficient-Tool-Box.html) 。
+具体的使用那些工具见：[我的高效工具箱](/efficient/My-Efficient-Tool-Box.html) 。
 
 还有markdown（目前使用<https://stackedit.io>） 写文章，  
 写完可以直接贴到微信公众号编辑器里面，简单的进行下修改就行。  

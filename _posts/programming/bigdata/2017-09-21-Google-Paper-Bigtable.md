@@ -233,7 +233,7 @@ SSTable是一个不可变的，持久化的，有序的Map，Key和Value都是�
 
 ### Chubby<a id="sec-1-7-2" name="sec-1-7-2"></a>
 
-请参看我的另外一篇文章：  [Google论文之Chubby](https://3gods.com/bigdata/Google-Paper-Chubby.html)
+请参看我的另外一篇文章：  [Google论文之Chubby](/bigdata/Google-Paper-Chubby.html)
 
 ## 参考资料和扩展阅读<a id="sec-1-8" name="sec-1-8"></a>
 

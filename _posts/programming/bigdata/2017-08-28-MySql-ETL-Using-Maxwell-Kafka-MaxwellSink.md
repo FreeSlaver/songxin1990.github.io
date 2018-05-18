@@ -57,7 +57,7 @@ Kafka是Linkedin开发的一个分布式，多分区，多副本的的海量日�
 
 ## Maxwell-Sink介绍<a id="sec-1-3" name="sec-1-3"></a>
 
-Maxwell-Sink是我基于[Kafka Connect](https://3gods.com/Kafka-Connect-Details.html)写的一个支持mysql jdbc的Sinker。  
+Maxwell-Sink是我基于[Kafka Connect](/Kafka-Connect-Details.html)写的一个支持mysql jdbc的Sinker。  
 除了写入到mysql当然你也可以加个Adapter，将数据同步到其他数据仓库，比如HDFS，ES等。其实这整个就是一个ETL。  
 
 Maxwell-Sink的功能是将Kafka中的JSON数据进行过滤，转换成SQL语句，然后使用JDBC，沉淀到指定的目标mysql实例中。  
@@ -156,7 +156,7 @@ String strVal = String.valueOf(map.get(sn));//这种null的会转成"null"字符
 这个东西最后的语义也转成上面一条了，效果是一样的  。
 
 ## 相关推荐文章
-[Apache Kafka技术分享](https://3gods.com/bigdata/Kafka-Share.html)  
-[Kafka消息投递语义-消息不丢失，不重复，不丢不重](https://3gods.com/bigdata/Kafka-Message-Delivery-Semantics.html)  
-[Kafka Connect教程详解](https://3gods.com/bigdata/Kafka-Connect-Details.html)
-[Kafka Connect开发教程](https://3gods.com/bigdata/Kafka-Connect-Develope-Details.html)
+[Apache Kafka技术分享](/bigdata/Kafka-Share.html)  
+[Kafka消息投递语义-消息不丢失，不重复，不丢不重](/bigdata/Kafka-Message-Delivery-Semantics.html)  
+[Kafka Connect教程详解](/bigdata/Kafka-Connect-Details.html)
+[Kafka Connect开发教程](/bigdata/Kafka-Connect-Develope-Details.html)
