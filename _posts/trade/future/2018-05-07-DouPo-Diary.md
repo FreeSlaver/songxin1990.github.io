@@ -3,10 +3,10 @@ layout: post
 title: 豆粕1809日记
 category: future
 categoryStr: 期货
-tags: [豆粕,essence]
+tags: [豆粕]
 keywords: 
-description:
-
+description:  
+published: false
 ---
 
 
