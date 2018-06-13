@@ -5,7 +5,7 @@ category: opensource
 categoryStr: 开源框架
 tags: [dubbo,opensource]
 keywords: dubbo,动态
-description: 
+description: 如何动态的从Dubbo中获取指定接口的，不同业务系统的实现实例，并进行调用。
 ---
 <div id="table-of-contents">
 <h2>目录</h2>
