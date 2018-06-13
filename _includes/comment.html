@@ -1,8 +1,41 @@
-<div id="SOHUCS" sid="{{page.url}}"></div>
-<script charset="utf-8" type="text/javascript" src="https://changyan.sohu.com/upload/changyan.js" ></script>
-<script type="text/javascript">
-    window.changyan.api.config({
-        appid: 'cytyWKilS',
-        conf: 'prod_e27ec97ca6abc4e47b22e4d15680ba3d'
-    });
-</script>
+<!--list comments-->
+<div id="comment_list">
+</div>
+
+<!--post comment-->
+<div id="comment_post">
+    <a href="#" id="comment_ico">
+        <i class="fa fa-edit fa-lg" style="color:#16a095;"> 我来说两句</i>
+    </a><br>
+    <form style="display: none;">
+        <div class="form-group row">
+            <label for="exampleInputName" class="col-sm-2 col-form-label">您的大名:</label>
+            <div class="col-sm-4">
+                <input type="text" class="form-control input-lg" id="exampleInputName" name="name">
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label for="exampleInputEmail1" class="col-sm-2 col-form-label">邮件地址:</label>
+            <div class="col-sm-4">
+                <input type="email" class="form-control input-lg" id="exampleInputEmail1" name="email">
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label for="exampleInputWebsite" class="col-sm-2 col-form-label">个人主页:</label>
+            <div class="col-sm-4">
+                <input type="url" class="form-control input-lg" id="exampleInputWebsite" name="website">
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label for="exampleFormControlTextarea1" class="col-sm-2 col-form-label">输入评论:</label>
+            <div class="col-sm-10">
+                <textarea class="form-control input-lg" id="exampleFormControlTextarea1" rows="6"
+                          name="content"></textarea>
+            </div>
+        </div>
+        <button type="submit" class="btn btn-primary col-sm-2 btn-lg">提交</button>
+    </form>
+</div>
