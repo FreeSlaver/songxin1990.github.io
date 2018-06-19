@@ -3,10 +3,9 @@ layout: post
 title: Github Pages百度索引收录
 category: webmaster
 categoryStr: 网站建设
-tags: [jgit,twitter]
-keywords: jgit,
+tags: [github pages,baidu]
+keywords: github pages,百度收录
 description: 
-published:false
 ---
 <div id="table-of-contents">
 <h2>目录</h2>
