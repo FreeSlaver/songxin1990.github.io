@@ -66,6 +66,26 @@ $(document).ready(function () {
     });
 
     contentEffects();
+    //baiduIndexAdd
+    var frm = $('#baiduIndexAdd');
+    frm.submit(function (e) {
+        e.preventDefault();
+        $.ajax({
+            type: frm.attr('method'),
+            url: frm.attr('action'),
+            data: frm.serialize(),
+            success: function (data) {
+                console.log('Submission was successful.');
+                console.log(data);
+                alert("添加成功。");
+            },
+            error: function (data) {
+                console.log('An error occurred.');
+                console.log(data);
+                alert("添加失败。");
+            },
+        });
+    });
 });
 function contentEffects() {
     //remove the asidebar
