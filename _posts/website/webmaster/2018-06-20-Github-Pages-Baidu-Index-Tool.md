@@ -3,7 +3,6 @@ permalink: /baiduindex.html
 layout: page
 title: <i class="fa fa-archive fa-lg"></i>
 titlename: Github Pages百度索引收录工具
-comments: false
 description:
 ---
 
