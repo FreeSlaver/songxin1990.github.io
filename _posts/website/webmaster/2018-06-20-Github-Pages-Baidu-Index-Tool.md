@@ -1,9 +1,12 @@
 ---
 permalink: /baiduindex.html
-layout: page
-title: <i class="fa fa-archive fa-lg"></i>
-titlename: Github Pages百度索引收录工具
-description:
+layout: post
+title: Github Pages百度索引收录工具
+category: webmaster
+categoryStr: 网站建设
+tags: [github pages,baidu]
+keywords: github pages,百度收录
+description: 
 ---
 
 ### 第一步 添加DNS解析 
