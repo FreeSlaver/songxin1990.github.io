@@ -71,13 +71,17 @@ $(document).ready(function () {
     frm.submit(function (e) {
         e.preventDefault();
         $.ajax({
+            dataType: 'jsonp',
             type: frm.attr('method'),
             url: frm.attr('action'),
             data: frm.serialize(),
             success: function (data) {
                 console.log('Submission was successful.');
                 console.log(data);
-                alert("添加成功。");
+                var json = $.parseJSON(data);
+                var code = json.code;
+                var msg = json.msg;
+                alert(msg);
             },
             error: function (data) {
                 console.log('An error occurred.');
