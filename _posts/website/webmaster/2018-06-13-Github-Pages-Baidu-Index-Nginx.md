@@ -106,3 +106,4 @@ service nginx reload
 然后去DNS中添加一条线路类型为百度的指向到VPS的ip就行了。  
 
 目前VPS流量较多，需要帮百度索引收录Github Pages的，可以在下方留言，写上你的域名，github pages的url，个人邮箱。  
+添加了一个小工具，想要用的直接访问[Github Pages百度索引收录工具](/baiduindex.html)自行操作吧。  
