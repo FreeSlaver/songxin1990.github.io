@@ -5,7 +5,6 @@ category: career
 categoryStr: 职场
 tags: [programmer,fire,think]
 keywords: programmer,fire,think
-coverImg: /public/img/test.jpg
 description: 
 ---
 
