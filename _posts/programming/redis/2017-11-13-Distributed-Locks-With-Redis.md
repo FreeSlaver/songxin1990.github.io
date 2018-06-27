@@ -2,6 +2,7 @@
 layout: post
 title: 使用Redis实现分布式锁
 category: redis
+categoryStr: redis
 tags: [redis,distributed,lock,DLM]
 keywords: [redis,distributed,lock,Redlock,DLM]
 description: 

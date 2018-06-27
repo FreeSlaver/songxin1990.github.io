@@ -2,6 +2,7 @@
 layout: post
 title: 关于Redis keys命令
 category: redis
+categoryStr: redis
 tags: [redis,redis keys,command]
 keywords: [redis,redis keys,command]
 description: 

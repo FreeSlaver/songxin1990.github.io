@@ -2,6 +2,7 @@
 layout: post
 title: Redis Partition分区-翻译
 category: redis
+categoryStr: redis
 tags: [redis,partition,consistent hash,翻译]
 keywords: [redis,partition,consistent hash,分区,翻译]
 description: 

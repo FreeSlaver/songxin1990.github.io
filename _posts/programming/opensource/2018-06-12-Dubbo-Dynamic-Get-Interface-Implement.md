@@ -106,6 +106,7 @@ public class RealReference {
 
 referenceBean.get()是一个非常重的操作，所以不要每次都通过get来获取，最好是能缓存起来，然后通过定时任务来无脑刷新。  
 因为可能会遇到一种情况：就是Provider掉线，又上线，而这边的Bean还没刷新，调用的时候就会出错。  
+（文章这个地方有问题，不能无脑刷新，这样的话会导致com.alibaba.dubbo.rpc.RpcException: Forbid consumer。  
 
 还有就是实现类的接口路径，包名要保持一致。  
 调试时还发现个问题，就是Provider注册的时候设置了group，那么通过url拿的时候也必须要设置group。  

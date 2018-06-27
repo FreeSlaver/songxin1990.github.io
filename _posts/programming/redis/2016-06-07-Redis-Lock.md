@@ -2,6 +2,7 @@
 layout: post
 title: Redis实现锁-废弃
 category: redis
+categoryStr: redis
 tags: [redis,lock]
 keywords: [redis,lock]
 description: 

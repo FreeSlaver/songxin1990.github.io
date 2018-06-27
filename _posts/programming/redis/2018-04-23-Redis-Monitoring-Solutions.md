@@ -2,6 +2,7 @@
 layout: post
 title: Redis监控解决方案
 category: redis
+categoryStr: redis
 tags: [monitoring,solution]
 keywords: 
 description: 

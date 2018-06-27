@@ -2,6 +2,7 @@
 layout: post
 title: Redis Expire键值失效机制
 category: redis
+categoryStr: redis
 tags: [redis,expire,机制]
 keywords: [redis,expire,机制]
 description: 
