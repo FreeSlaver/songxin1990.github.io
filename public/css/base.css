@@ -90,7 +90,7 @@ body, html {
 }
 
 .aside3-title {
-  background-color: #f5f5f5;
+  /*background-color: #f5f5f5;*/
   /*background-image: url(/public/img/bg_grid.jpg);*/
   border-bottom: 1px solid #f5f5f5;
   padding-left: 30px;
@@ -108,10 +108,10 @@ body, html {
   line-height: 1.42857143;
 }
 #content {
-  font-size: 20px;
+  font-size: 1.5rem;
 }
 p {
-  margin: 0 0 24px;
+  margin: 0 0 2.4rem;
   line-height: 1.6;
 }
 #content h2, h3 {
@@ -190,17 +190,7 @@ span.beian{
   text-align: left;
 }
 
-@media (min-width: 768px) {
-  .navbar .navbar-nav {
-    display: inline-block;
-    float: none;
-    vertical-align: top;
-  }
 
-  .navbar .navbar-collapse {
-    text-align: center;
-  }
-}
 .navbar-nav>li>a{
   font-size: 24px;
 }
@@ -288,3 +278,23 @@ ul.post_list{
 .post-img{
   width: 85%;
 }
+
+/*pc适配*/
+@media (min-width: 768px) {
+  .navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+  }
+
+  .navbar .navbar-collapse {
+    text-align: center;
+  }
+  #content{
+    font-size: 2rem;
+  }
+}
+/*ipad适配*/
+
+
+/*手机适配*/
