@@ -15,8 +15,8 @@ author:
   zhihu: https://www.zhihu.com/people/zenhacker
 
 # 站点信息
-title: 宋鑫
-description: 敬畏时间与空间，用实践出真知
+title: 编程_写作_市场交易_职场_教程_思考_成长_创造_宋鑫的官网
+description: 编程写作,扩展思维边界;市场交易,磨炼心性智慧;思考创造,追求人生自由
 url: https://3gods.com
 rss_url: /atom.xml
 img_url: /public/img/life
@@ -24,6 +24,8 @@ img_url: /public/img/life
 # gavatar头像及Favicon
 gavatar: /public/img/fav.ico
 favicon: /public/img/fav.ico
+faviconSvg: /public/img/fav.svg
+faviconImg: /public/img/fav.jpg
 
 # google analytics 设置
 ga:

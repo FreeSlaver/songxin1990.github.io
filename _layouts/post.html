@@ -13,7 +13,7 @@ layout: base
             {{ page.title }}
             {% endif %}
         </h2>
-        {{ site.author.name }} &nbsp;&nbsp; {{ page.date | date:"%Y-%m-%d" }}
+        <h3 class="aside3-time">{{ page.date | date:"%Y-%m-%d" }}</h3>
     </div>
 
     <!-- 文章内容 -->
@@ -28,7 +28,7 @@ layout: base
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="/">首页</a></li>
                 <li class="breadcrumb-item"><a href="/{{page.categories}}">{{page.categoryStr}}</a></li>
-                <li class="breadcrumb-item active" aria-current="page"><a href="/{{page.url}}">{{page.title}}</a></li>
+                <li class="breadcrumb-item active" aria-current="page"><a href="{{page.url}}">{{page.title}}</a></li>
             </ol>
         </nav>
     </div>

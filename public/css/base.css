@@ -107,6 +107,11 @@ body, html {
   color: #656565;
   line-height: 1.42857143;
 }
+.aside3-time{
+  font-size: 1.5rem;
+  display: inline;
+  padding: 0rem 0.5rem;
+}
 #content {
   font-size: 1.5rem;
 }
