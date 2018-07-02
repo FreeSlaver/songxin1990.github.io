@@ -11,8 +11,6 @@ description: kafka教程之Kafka安装与运行，如何在Centos和Windows上�
 <div id="table-of-contents">
 <div id="text-table-of-contents">
 <ul>
-<li>
-<ul>
 <li><a href="#sec-1-1">1.1. 1. 下载安装</a></li>
 <li><a href="#sec-1-2">1.2. 2. 启动Zookeeper</a></li>
 <li><a href="#sec-1-3">1.3. 3. 启动Kafka</a></li>
@@ -21,8 +19,6 @@ description: kafka教程之Kafka安装与运行，如何在Centos和Windows上�
 <li><a href="#sec-1-6">1.6. 6. 使用生产者产生消息</a></li>
 <li><a href="#sec-1-7">1.7. 单机伪集群搭建</a></li>
 <li><a href="#sec-1-8">1.8. Windows上的搭建和问题</a></li>
-</ul>
-</li>
 </ul>
 </div>
 </div>
