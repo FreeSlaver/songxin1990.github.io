@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Kafka教程之Kafka安装与运行
+title: Kafka教程1:Kafka安装运行与伪集群环境搭建
 category: kafka
 categoryStr: Kafka
 tags: kafka
 keywords: kafka教程,kafka安装,kafka
-description: kafka教程之Kafka安装与运行，如何在Centos和Windows上搭建Kafka运行环境和伪集群搭建，及相关环境问题解决。
+description: Kafka教程1:Kafka安装运行与伪集群环境搭建，如何在Centos和Windows上搭建Kafka运行环境和伪集群搭建，及Windows环境问题解决。
 ---
 
 <div id="table-of-contents">
