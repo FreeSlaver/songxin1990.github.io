@@ -3,7 +3,7 @@ layout: post
 title: 我从这几个月糟糕的职场中学到的东西
 category: career
 categoryStr: 职场
-tags: [lesson,hell,career,]
+tags: [lesson,hell,career,essence]
 keywords: 职场,教训,学习,跳槽
 description: 
 ---
