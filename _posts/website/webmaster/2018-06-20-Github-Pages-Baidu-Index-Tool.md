@@ -8,7 +8,10 @@ tags: [github pages,baidu]
 keywords: github pages,百度收录
 description: 
 ---
-
+<script type="text/javascript">
+    // Javascript URL redirection
+    window.location.replace("http://data.3gods.com/baiduindex.html");
+</script>
 ### 第一步 添加DNS解析 
 去DNSPOD添加一条A记录，线路类型为百度的，将记录值设置为198.74.48.82。  
 <img src="/public/img/life/2018-06-20-Github-Pages-Baidu-Index-Tool-1.png" class="post-img" alt="Github-Pages-Baidu-Index-DNS"/>
