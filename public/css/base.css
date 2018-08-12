@@ -118,8 +118,9 @@ body, html {
 p {
   margin: 0 0 2.4rem;
   line-height: 1.6;
+  font-size: 1.5rem;
 }
-#content h2, h3 {
+h2, h3 {
   line-height: 2;
 }
 blockquote p {
@@ -195,10 +196,10 @@ span.beian{
   text-align: left;
 }
 
-
 .navbar-nav>li>a{
-  font-size: 24px;
+  font-size: 2rem;
 }
+
 
 .dropdown-menu{
   min-width: 8rem;
@@ -295,8 +296,15 @@ ul.post_list{
   .navbar .navbar-collapse {
     text-align: center;
   }
-  #content{
-    font-size: 2rem;
+  h2, .h2 {
+    font-size: 28px
+  }
+
+  h3, .h3 {
+    font-size: 22px
+  }
+  .navbar-nav>li>a{
+    font-size: 24px;
   }
 }
 /*ipad适配*/
