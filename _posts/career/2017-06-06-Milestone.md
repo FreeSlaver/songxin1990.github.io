@@ -1,6 +1,7 @@
 ---
 permalink: /state.html
-layout: post
+layout: page
+breadcrumb: true
 title: 我的近况
 category: career
 categoryStr: 职场 

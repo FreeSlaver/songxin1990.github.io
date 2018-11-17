@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 德州扑克资源
 category: trash
 categoryStr: 废弃

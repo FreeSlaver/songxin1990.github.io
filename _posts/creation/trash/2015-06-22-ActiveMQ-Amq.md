@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: Activemq之Amq实现
 category: trash
 categoryStr: 废弃

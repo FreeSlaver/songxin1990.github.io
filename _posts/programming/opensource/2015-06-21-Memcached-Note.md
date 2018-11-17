@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: Memcached学习笔记
 category: opensource
 categoryStr: 开源框架

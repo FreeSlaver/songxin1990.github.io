@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 摸到一点门路了
 category: stock
 categoryStr: 股票

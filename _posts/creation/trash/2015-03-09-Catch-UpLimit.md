@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 哦， 我终于懂了什么样的涨停板能够追
 category: trash
 categoryStr: 废弃

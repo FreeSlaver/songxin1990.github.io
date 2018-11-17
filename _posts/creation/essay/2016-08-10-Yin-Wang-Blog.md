@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 看王垠的博客感想
 category: essay
 categoryStr: 随笔

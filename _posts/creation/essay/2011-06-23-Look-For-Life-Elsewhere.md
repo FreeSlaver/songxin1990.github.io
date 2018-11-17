@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 寻找别处的生活
 category: essay
 categoryStr: 随笔

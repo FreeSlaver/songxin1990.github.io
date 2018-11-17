@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: Zipkin面试题
 category: bigdata
 categoryStr: 大数据

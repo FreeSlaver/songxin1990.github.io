@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: Github Pages百度索引收录
 category: webmaster
 categoryStr: 网站建设

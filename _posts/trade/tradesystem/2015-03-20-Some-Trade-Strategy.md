@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 几个交易策略
 category: tradesystem
 categoryStr: 交易系统

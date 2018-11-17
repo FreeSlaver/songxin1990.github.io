@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: JMX模块总结
 category: trash
 categoryStr: 废弃

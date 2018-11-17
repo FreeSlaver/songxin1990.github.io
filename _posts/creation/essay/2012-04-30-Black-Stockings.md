@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 黑色丝袜
 category: essay
 categoryStr: 随笔

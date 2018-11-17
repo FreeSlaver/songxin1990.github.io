@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: Face The Future And Your Destiny
 category: essay
 categoryStr: 随笔

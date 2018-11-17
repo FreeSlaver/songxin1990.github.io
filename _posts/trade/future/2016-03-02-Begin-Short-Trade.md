@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 不行，我要开始做短线
 category: future
 categoryStr: 期货

@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 禅修的好地方
 category: zen
 categoryStr: 禅

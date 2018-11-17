@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: MySQL存储引擎及区别
 category: database
 categoryStr: 数据库

@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 异步写日志工具类
 category: trash
 categoryStr: 废弃

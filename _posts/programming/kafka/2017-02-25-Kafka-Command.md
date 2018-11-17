@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: Kafka命令
 category: bigdata
 categoryStr: 大数据

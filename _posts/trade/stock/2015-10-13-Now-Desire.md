@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 现在缺乏的
 category: stock
 categoryStr: 股票

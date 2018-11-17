@@ -1,0 +1,85 @@
+- title: 首页
+  url: "/"
+  side: left
+
+- title: "交易"
+  url: "#"
+  side: left
+  dropdown:
+  - title: "股票"
+    url: "/stock/"
+  - title: "期货"
+    url: "/future/"
+  - title: "交易系统"
+    url: "/tradesystem/"
+  - title: "德州扑克"
+    url: "/porker/"
+
+- title: "成长"
+  url: "#"
+  side: left
+  dropdown:
+  - title: "书单"
+    url: "/book/"
+  - title: "笔记"
+    url: "/note/"
+  - title: "方法论"
+    url: "/method/"
+  - title: "小贴士"
+    url: "/tips/"
+  - title: "禅"
+    url: "/zen/"
+
+
+- title: "站长"
+  url: "#"
+  side: left
+  dropdown:
+  - title: "SEO"
+    url: "/seo/"
+  - title: "网站建设"
+    url: "/webmaster/"
+
+- title: 职场
+  url: "/career/"
+  side: left
+
+- title: "生活"
+  url: "#"
+  side: left
+  dropdown:
+  - title: "旅行"
+    url: "/travel/"
+  - title: "摄影"
+    url: "/photography/"
+  - title: "影评"
+    url: "/film/"
+  - title: "感想"
+    url: "/essay/"
+  - title: "废弃"
+    url: "/trash/"
+
+- title: "关于"
+  url: "#"
+  side: left
+  dropdown:
+  - title: "心情"
+    url: "/moodwords.html"
+  - title: "语录"
+    url: "/quote.html"
+  - title: "我"
+    url: "/me/"
+  - title: "里程碑"
+    url: "/milestone.html"
+
+- title: 目录
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "归档"
+    url: "/blog/archive/"
+
+- title: "搜索"
+  url: "/search/"
+  side: right
+

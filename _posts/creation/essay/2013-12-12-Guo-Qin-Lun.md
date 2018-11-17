@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 过秦论
 category: essay
 categoryStr: 随笔

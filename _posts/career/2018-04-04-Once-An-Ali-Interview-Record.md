@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 记一次阿里面试
 category: career
 categoryStr: 职场 
@@ -8,7 +9,7 @@ keywords: interview,ali
 description: 
 ---
 
-<img src="/public/img/life/2018-04-04-Once-An-Ali-Interview-Record.jpg" class="post-img" alt="Once-An-Ali-Interview-Record">
+<img src="/img/life/2018-04-04-Once-An-Ali-Interview-Record.jpg" class="post-img" alt="Once-An-Ali-Interview-Record">
 
 本来也不想去的，BAT压榨人压榨的厉害，当然可能有些人是说我吃不到葡萄说葡萄酸，你要这样想也行。    
 是在拉钩上面投递的蚂蚁金服的高级开发岗位，    

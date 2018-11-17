@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 牛股：什么样的股票涨的快
 category: stock
 categoryStr: 股票

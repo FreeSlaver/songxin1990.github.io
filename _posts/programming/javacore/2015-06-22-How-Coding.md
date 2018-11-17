@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 如何书写简洁优雅的代码
 category: javacore
 categoryStr: java基础

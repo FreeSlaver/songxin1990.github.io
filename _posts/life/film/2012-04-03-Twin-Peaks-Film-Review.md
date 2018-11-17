@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 《双峰镇》影评
 category: film
 categoryStr: 影评

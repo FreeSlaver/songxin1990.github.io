@@ -1,7 +1,3 @@
 _site/
-_drafts/
+.sass-cache/
 .DS_Store
-.idea/
-songxin1990.github.io.iml
-demo/
-/CategoriesTags.txt

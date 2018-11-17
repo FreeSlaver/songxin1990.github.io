@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: Memcached深度分析-转载
 category: opensource
 categoryStr: 开源框架

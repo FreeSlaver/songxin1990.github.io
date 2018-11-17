@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 炒了这么多年，还是这么点水平
 category: stock
 categoryStr: 股票

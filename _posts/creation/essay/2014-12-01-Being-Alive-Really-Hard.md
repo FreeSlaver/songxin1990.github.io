@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 活着，真难
 category: essay
 categoryStr: 随笔

@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 日志队列系统二 关于protobuf
 category: opensource
 categoryStr: 开源框架

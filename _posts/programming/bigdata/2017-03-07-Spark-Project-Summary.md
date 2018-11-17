@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: Spark项目总结
 category: bigdata
 categoryStr: 大数据

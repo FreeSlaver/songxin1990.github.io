@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 工作不易，生活不易
 category: career
 categoryStr: 职场 
@@ -21,9 +22,9 @@ description: 工作不易，生活不易。前同事的坑爹遭遇，人都要�
 昨天问了下之前公司同事的现状：截个图：<br>
 
 
-![1](/public/img/life/2016-12-31-Hard-Work-Live-Hard-1.png )
+![1](/img/life/2016-12-31-Hard-Work-Live-Hard-1.png )
 
-![2](/public/img/life/2016-12-31-Hard-Work-Live-Hard-2.png )
+![2](/img/life/2016-12-31-Hard-Work-Live-Hard-2.png )
 
 
 

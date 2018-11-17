@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 关于Redis keys命令
 category: redis
 categoryStr: redis

@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: Google论文之Google File System笔记
 category: bigdata
 categoryStr: 大数据
@@ -23,7 +24,7 @@ GFS需要满足性能，可伸缩，可靠性和可用性。
 ### 2.3架构<a id="sec-1-2-1" name="sec-1-2-1"></a>
 
 GFS集群是由一个master和多个chunkserver组成，并同时供多个客户端访问。  
-![GFS-Architecture](/public/img/life/2017-10-25-Google-Paper-GFS-1.png)  
+![GFS-Architecture](/img/life/2017-10-25-Google-Paper-GFS-1.png)  
 
 #### master作用  
 在每个数据块生成的时候，master都会分配一个全局唯一不可变的64位ID，来进行标识。  
@@ -114,7 +115,7 @@ master授予租约给一个副本，我们称它为主副本。
 
 主副本其实是一种代理机制，为了减少master的管理介入，租约失效后，由主副本续租。  
 当然master也可能在失效前撤回租约。  
-![GFS-Interactive-Process](/public/img/life/2017-10-25-Google-Paper-GFS-1.png)  
+![GFS-Interactive-Process](/img/life/2017-10-25-Google-Paper-GFS-1.png)  
 
 #### 客户端，chunkserver，master的交互流程  
 1. 客户端询问master，目前哪个chunkserver持有指定数据块的租约，以及其他副本的位置信息。  

@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: Redis监控解决方案
 category: redis
 categoryStr: redis
@@ -105,15 +106,15 @@ commandstats
 cluster
 keyspace
 下面是个截图，可以看看大概的内容：  
-![redis info](/public/img/life/2018-04-23-Redis-Monitoring-Solutions-info1.png)    
-![redis info](/public/img/life/2018-04-23-Redis-Monitoring-Solutions-info2.png)    
+![redis info](/img/life/2018-04-23-Redis-Monitoring-Solutions-info1.png)    
+![redis info](/img/life/2018-04-23-Redis-Monitoring-Solutions-info2.png)    
 
 ### MONITOR<a id="sec-1-3-2" name="sec-1-3-2"></a>
 
 MONITOR命令可以回溯每一个被Redis服务器执行的命令，帮助理解在此期间发生了什么，   
 主要用于诊断Redis服务或数据错误时的故障原因，对性能有一定影响。  
 
-![redis monitor](/public/img/life/2018-04-23-Redis-Monitoring-Solutions-monitor.png)  
+![redis monitor](/img/life/2018-04-23-Redis-Monitoring-Solutions-monitor.png)  
 ## 可选方案<a id="sec-1-4" name="sec-1-4"></a>
 
 其实这些所有方案都是通过Redis自身提供的INFO和MONITOR2个命令，然后用脚本定时去  
@@ -124,22 +125,22 @@ MONITOR命令可以回溯每一个被Redis服务器执行的命令，帮助理�
 使用Redis的INFO命令，不影响性能，有Web UI界面但也可以命令行使用，Ruby写的。  
 可以展示CPU，内存使用，命令，缓存击中率，逾期和被驱逐的Key。
 最大的缺陷是：不在维护了。  
-![redis-state cmd](/public/img/life/2018-04-23-Redis-Monitoring-Solutions-state-cmd.png)  
-![redis-state web](/public/img/life/2018-04-23-Redis-Monitoring-Solutions-state-web.png)  
+![redis-state cmd](/img/life/2018-04-23-Redis-Monitoring-Solutions-state-cmd.png)  
+![redis-state web](/img/life/2018-04-23-Redis-Monitoring-Solutions-state-web.png)  
 ### Redmon<a id="sec-1-4-2" name="sec-1-4-2"></a>
 
 也有Web页面，但展示的监控指标较少，除此之外还提供cli命令行，更新redis server配置等功能。  
-![redmon web](/public/img/life/2018-04-23-Redis-Monitoring-Solutions-redmon.png)
+![redmon web](/img/life/2018-04-23-Redis-Monitoring-Solutions-redmon.png)
 ### RedisLive<a id="sec-1-4-3" name="sec-1-4-3"></a>
 
 使用的Monitor命令，有Web界面。  
-![redis-live web](/public/img/life/2018-04-23-Redis-Monitoring-Solutions-live.png)
+![redis-live web](/img/life/2018-04-23-Redis-Monitoring-Solutions-live.png)
 ### Redis-Faina<a id="sec-1-4-4" name="sec-1-4-4"></a>
 
 使用的Redis的MONITOR命令，然后对执行的命令次数，耗时进行统计，    
 能够看到经常使用的命令，最重的操作，最慢的调用等。    
 Python编写，命令行操作，无Web界面，下面是一张执行后输出的结果截图：    
-![redis-state web](/public/img/life/2018-04-23-Redis-Monitoring-Solutions-fiana.png)  
+![redis-state web](/img/life/2018-04-23-Redis-Monitoring-Solutions-fiana.png)  
 
 ## 我们期望的效果<a id="sec-1-5" name="sec-1-5"></a>
 

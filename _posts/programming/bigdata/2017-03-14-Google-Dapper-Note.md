@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: Google Dapper 论文笔记
 category: bigdata
 categoryStr: 大数据
@@ -53,14 +54,14 @@ description:
 ## 例子：<a id="sec-1-3" name="sec-1-3"></a>
 
 搜索服务，对结果耗时敏感，因此我们想要定位出哪个环节耗时最多。
-![img](/public/img/life/2017-03-14-Google-Dapper-1.png)  
+![img](/img/life/2017-03-14-Google-Dapper-1.png)  
 图1：这个路径由用户的X请求发起，穿过一个简单的服务系统。用字母标识的节点代表分布式系统中的不同处理过程。
 
-![img](/public/img/life/2017-03-14-Google-Dapper-2.png)  
+![img](/img/life/2017-03-14-Google-Dapper-2.png)  
 图2：5个span在Dapper跟踪树中短暂的关联关系
 
 在图2中说明了span在一个大的跟踪过程中是什么样的。Dapper记录了span名称，以及每个span的ID和父ID，以重建在一次追踪过程中不同span之间的关系。如果一个span没有父ID被称为root span。所有span都挂在一个特定的跟踪上，也共用一个跟踪id（在图中未示出）。所有这些ID用全局唯一的64位整数标示。在一个典型的Dapper跟踪中，我们希望为每一个RPC对应到一个单一的span上，而且每一个额外的组件层都对应一个跟踪树型结构的层级。
-![img](/public/img/life/2017-03-14-Google-Dapper-3.png)  
+![img](/img/life/2017-03-14-Google-Dapper-3.png)  
 图3：在图3中所示的一个单独的span的细节图
 
 记住，任何一个span可以包含来自不同的主机信息，这些也要记录下来。事实上，每一个RPC span可以包含客户端和服务器两个过程的注释，使得链接两个主机的span会成为模型中所说的span。
@@ -78,7 +79,7 @@ description:
 ## 采样率：<a id="sec-1-6" name="sec-1-6"></a>
 
 因此，除了把Dapper的收集工作对基本组件的性能损耗限制的尽可能小之外，我们还有进一步控制损耗的办法，那就是遇到大量请求时只记录其中的一小部分。
-![img](/public/img/life/2017-03-14-Google-Dapper-5.png)
+![img](/img/life/2017-03-14-Google-Dapper-5.png)
 图5：Dapper收集管道的总览
 
 ## 跟踪收集<a id="sec-1-7" name="sec-1-7"></a>

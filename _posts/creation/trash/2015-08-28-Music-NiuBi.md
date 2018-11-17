@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 听歌变的牛逼的几个标志
 category: trash
 categoryStr: 废弃

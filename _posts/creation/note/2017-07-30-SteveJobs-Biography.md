@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 史蒂夫乔布斯传—读书笔记
 category: note
 categoryStr: 笔记

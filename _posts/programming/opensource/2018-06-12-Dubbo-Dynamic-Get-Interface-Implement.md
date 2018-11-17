@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: Dubbo动态获取接口实现
 category: opensource
 categoryStr: 开源框架

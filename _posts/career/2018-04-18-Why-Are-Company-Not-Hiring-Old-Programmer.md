@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 为什么公司不招聘大龄程序员？
 category: career
 categoryStr: 职场

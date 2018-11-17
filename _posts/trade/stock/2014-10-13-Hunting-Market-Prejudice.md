@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 捕捉市场偏见
 category: stock
 categoryStr: 股票

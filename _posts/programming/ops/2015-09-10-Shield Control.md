@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: Shield权限控制
 category: ops
 categoryStr: 运维监控

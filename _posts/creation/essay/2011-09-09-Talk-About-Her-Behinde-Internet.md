@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 谈网络对面的那个她
 category: essay
 categoryStr: 随笔

@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: ActiveMQ in Action读书笔记
 category: opensource
 categoryStr: 开源框架

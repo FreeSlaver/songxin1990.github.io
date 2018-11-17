@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: Reactor之我见
 category: concurrent
 categoryStr: 并发

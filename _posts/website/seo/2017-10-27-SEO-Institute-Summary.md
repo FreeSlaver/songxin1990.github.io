@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 公司SEO讲座总结
 category: seo
 categoryStr: SEO

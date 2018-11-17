@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 金融必读书籍
 category: book
 categoryStr: 读书 

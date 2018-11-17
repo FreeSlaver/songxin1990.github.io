@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 小绿皮书读书笔记
 category: porker
 categoryStr: 德州扑克
@@ -9,7 +10,7 @@ description:
 ---
 
 
-<img src="/public/img/life/Little-Green-Book-Note.jpg"/>
+<img src="/img/life/Little-Green-Book-Note.jpg"/>
 
 
 1. 成功的打法取决于你是否做出正确的决定，与盈利无关。

@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 一场战役-性命相搏
 category: trash
 categoryStr: 废弃

@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 计算机网络 
 category: javacore
 categoryStr: java基础

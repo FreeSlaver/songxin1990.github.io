@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: linux
 category: programDesign
 categoryStr: 程序设计

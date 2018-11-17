@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: Emacs 常用命令
 category: ops
 categoryStr: 运维监控

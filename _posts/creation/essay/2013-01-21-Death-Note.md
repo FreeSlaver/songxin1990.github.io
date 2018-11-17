@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 死亡笔记
 category: essay
 categoryStr: 随笔

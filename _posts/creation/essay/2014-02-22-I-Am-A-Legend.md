@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: I Am Legend
 category: essay
 categoryStr: 随笔

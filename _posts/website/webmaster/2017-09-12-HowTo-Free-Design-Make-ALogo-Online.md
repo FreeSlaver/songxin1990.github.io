@@ -1,5 +1,6 @@
 __---
-layout: post
+layout: page
+breadcrumb: true
 title: 如何免费在线设计和制作一个logo
 category: webmaster
 categoryStr: 网站建设

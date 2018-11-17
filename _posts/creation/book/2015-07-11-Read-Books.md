@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 读过的书
 category: book
 categoryStr: 读书 

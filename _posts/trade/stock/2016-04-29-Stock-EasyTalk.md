@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 炒股简单说就是
 category: stock
 categoryStr: 股票

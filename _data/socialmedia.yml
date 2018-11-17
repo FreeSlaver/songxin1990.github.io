@@ -1,0 +1,31 @@
+- name: GitHub
+  url: http://github.com/songxin1990
+  class: icon-github
+  title: Code for fun
+
+- name: Zhihu
+  url: https://www.zhihu.com/people/zenhacker
+  class: icon-z
+  title: 知乎
+
+- name: Linkedin
+  url: http://linkedin.com/songxin1990
+  class: icon-linkedin
+  title: look for a job
+
+- name: Twitter
+  url: http://twitter.com/songxin1990
+  class: icon-twitter
+  title: "nothing more"
+
+- name: Google+
+  url: https://plus.google.com/110973279070546034423
+  class: icon-googleplus
+  title: "Google+"
+
+- name: Facebook
+  url: http://www.facebook.com/profile.php?id=100018273099120
+  class: icon-facebook
+  title: "nothing more"
+
+

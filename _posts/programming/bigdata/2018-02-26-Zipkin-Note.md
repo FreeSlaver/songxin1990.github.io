@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: Zipkin笔记
 category: bigdata
 categoryStr: 大数据
@@ -63,11 +64,11 @@ identifiers are sent in-band and details are sent out-of-band to Zipkin.（标�
 
 Zipkin由4个组件构成：Collector，Storage，Search（QueryService），WebUI。  
 存储使用Cassandra，但是是可插播的，也支持ES,MySQL。  
-![img](/public/img/life/2018-02-26-Zipkin-Note-1.png)  
+![img](/img/life/2018-02-26-Zipkin-Note-1.png)  
 
 ### 工作例子流<a id="sec-1-2-2" name="sec-1-2-2"></a>
 
-![img](/public/img/life/2018-02-26-Zipkin-Note-2.png)
+![img](/img/life/2018-02-26-Zipkin-Note-2.png)
 
 ## 数据模型<a id="sec-1-3" name="sec-1-3"></a>
 

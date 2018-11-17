@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 青春的岁月
 category: essay
 categoryStr: 随笔

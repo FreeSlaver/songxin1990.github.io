@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: Redis实现锁-废弃
 category: redis
 categoryStr: redis

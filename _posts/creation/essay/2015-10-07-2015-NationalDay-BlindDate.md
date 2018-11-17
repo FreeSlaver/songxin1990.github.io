@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 2015年国庆相亲记
 category: essay
 categoryStr: 随笔

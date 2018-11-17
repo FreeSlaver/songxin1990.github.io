@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 反突破系统
 category: tradesystem
 categoryStr: 交易系统

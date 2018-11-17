@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 15个多线程面试题
 category: concurrent
 categoryStr: 并发

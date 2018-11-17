@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 写代码经验的一些总结
 category: trash
 categoryStr: 废弃

@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 我的大学
 category: essay
 categoryStr: 随笔

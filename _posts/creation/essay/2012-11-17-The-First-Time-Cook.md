@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 第一次下厨小计
 category: essay
 categoryStr: 随笔
@@ -16,9 +17,9 @@ description:
 接着炒了个红辣椒炒鸡蛋。炒辣椒的时候熏得我眼里都快流出来了，不停的打喷嚏。坚持炒下去，尝了以后，熟了，加了盐，鸡精，酱油。添起来，又吃了一口。哇，味道刚好符合我，不咸不淡，而且辣椒很嫩，我是手撕的哦，很大块的。吃到口里会有甜甜的那中菜汁冒出来，很爽。图片
 
 
-![2012-11-17-The-First-Time-Cook-1](/public/img/life/2012-11-17-The-First-Time-Cook-1.jpg)
+![2012-11-17-The-First-Time-Cook-1](/img/life/2012-11-17-The-First-Time-Cook-1.jpg)
 可惜筷子多拿了一双。 
-![2012-11-17-The-First-Time-Cook-2](/public/img/life/2012-11-17-The-First-Time-Cook-2.jpg)
+![2012-11-17-The-First-Time-Cook-2](/img/life/2012-11-17-The-First-Time-Cook-2.jpg)
 
 
 
@@ -29,5 +30,5 @@ description:
 生活，其实本该如此。
 最近在看《麦田里的守望者》，主人公和我蛮像，最后的一部分写的很好对每个人。特别是高中生应该最有帮助吧。
 有时候望着天花板想想如果再多点时间去旅行，估计神仙都要羡煞我了吧！不过太过完美了就不叫生活了，叫白日梦。
-![2012-11-17-The-First-Time-Cook-3](/public/img/life/2012-11-17-The-First-Time-Cook-3.jpg)
+![2012-11-17-The-First-Time-Cook-3](/img/life/2012-11-17-The-First-Time-Cook-3.jpg)
 一个人，好好过。

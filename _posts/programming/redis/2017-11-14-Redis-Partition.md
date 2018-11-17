@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: Redis Partition分区-翻译
 category: redis
 categoryStr: redis

@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 20140728深天马A
 category: stock
 categoryStr: 股票
@@ -113,11 +114,11 @@ description:
 
 
 
-![2014-07-28-Shen-Tian-MaA-1](/public/img/life/2014-07-28-Shen-Tian-MaA-1.jpg)  
+![2014-07-28-Shen-Tian-MaA-1](/img/life/2014-07-28-Shen-Tian-MaA-1.jpg)  
  
-![2014-07-28-Shen-Tian-MaA-2](/public/img/life/2014-07-28-Shen-Tian-MaA-2.jpg)  
+![2014-07-28-Shen-Tian-MaA-2](/img/life/2014-07-28-Shen-Tian-MaA-2.jpg)  
   
-![2014-07-28-Shen-Tian-MaA-3](/public/img/life/2014-07-28-Shen-Tian-MaA-3.jpg)  
+![2014-07-28-Shen-Tian-MaA-3](/img/life/2014-07-28-Shen-Tian-MaA-3.jpg)  
 
 
  

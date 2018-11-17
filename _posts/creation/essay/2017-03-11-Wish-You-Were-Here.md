@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: Wish you were here 翻译
 category: essay
 categoryStr: 随笔

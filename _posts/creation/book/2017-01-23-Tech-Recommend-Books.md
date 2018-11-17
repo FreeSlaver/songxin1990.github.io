@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 大牛推荐技术书籍
 category: book
 categoryStr: 读书 

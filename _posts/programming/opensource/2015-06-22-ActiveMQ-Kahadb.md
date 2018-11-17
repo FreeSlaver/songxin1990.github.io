@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: Activemq之KahaDB实现
 category: opensource
 categoryStr: 开源框架

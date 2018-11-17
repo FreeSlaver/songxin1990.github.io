@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 学习交易
 category: stock
 categoryStr: 股票

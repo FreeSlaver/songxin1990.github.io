@@ -1,6 +1,7 @@
 ---
 permalink: /milestone.html
-layout: post
+layout: page
+breadcrumb: true
 title: 里程碑
 category: me
 categoryStr: 关于

@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 麦田里的守望者-读后感
 category: note
 categoryStr: 笔记

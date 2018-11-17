@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 期货与禅
 category: future
 categoryStr: 期货

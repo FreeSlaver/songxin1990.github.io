@@ -1,6 +1,7 @@
 ---
 permalink: /baiduindex.html
-layout: post
+layout: page
+breadcrumb: true
 title: Github Pages百度索引收录工具
 category: webmaster
 categoryStr: 网站建设
@@ -10,15 +11,15 @@ description:
 ---
 <script type="text/javascript">
     // Javascript URL redirection
-    window.location.replace("http://data.3gods.com/baiduindex.html");
+    //window.location.replace("http://data.3gods.com/baiduindex.html");
 </script>
 ### 第一步 添加DNS解析 
 去DNSPOD添加一条A记录，线路类型为百度的，将记录值设置为198.74.48.82。  
-<img src="/public/img/life/2018-06-20-Github-Pages-Baidu-Index-Tool-1.png" class="post-img" alt="Github-Pages-Baidu-Index-DNS"/>
+<img src="/img/life/2018-06-20-Github-Pages-Baidu-Index-Tool-1.png" class="post-img" alt="Github-Pages-Baidu-Index-DNS"/>
 <hr>
 
 ### 第二步 填写Github Pages Url和域名  
- <form id="baiduIndexAdd" action="https://data.3gods.com/index/add" method="get">
+ <form id="baiduIndexAdd" action="https://3gods.com/index/add" method="get">
    <!--<form action="http://localhost:4567/index/add" method="get">-->
     <div class="form-group">
         <label for="gitPagesUrl">Github Pages访问地址</label>
@@ -38,10 +39,10 @@ description:
 
 
 ### 第三步 去百度站长管理后台验证域名所有权   
-<img src="/public/img/life/2018-06-20-Github-Pages-Baidu-Index-Tool-2.png" class="post-img" alt="Github-Pages-Baidu-Index-Add-Domain"/>
+<img src="/img/life/2018-06-20-Github-Pages-Baidu-Index-Tool-2.png" class="post-img" alt="Github-Pages-Baidu-Index-Add-Domain"/>
 
 ### 第四步 使用百度抓取诊断进行爬取校验  
-<img src="/public/img/life/2018-06-20-Github-Pages-Baidu-Index-Tool-3.png" class="post-img" alt="Github-Pages-Baidu-Index-Verify"/>
+<img src="/img/life/2018-06-20-Github-Pages-Baidu-Index-Tool-3.png" class="post-img" alt="Github-Pages-Baidu-Index-Verify"/>
 
 如图显示，网站可被百度爬虫访问并成功抓取，后续百度就会进行收录工作，新站可能比较慢，但是可以手动提交sitemap.xml。  
 <hr>

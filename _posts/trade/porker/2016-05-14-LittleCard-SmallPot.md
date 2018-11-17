@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 小牌小底池
 category: porker
 categoryStr: 德州扑克
@@ -29,17 +30,17 @@ description:
 
 <p>
 
-<a class="fancybox-buttons" data-fancybox-group="button" href="/public/img/life/2016-05-14-LittleCard-SmallPot-1.png"><img src="/public/img/life/porkerbg.jpg" alt="" hidden/></a>
+<a class="fancybox-buttons" data-fancybox-group="button" href="/img/life/2016-05-14-LittleCard-SmallPot-1.png"><img src="/img/life/porkerbg.jpg" alt="" hidden/></a>
 
-<a class="fancybox-buttons" data-fancybox-group="button" href="/public/img/life/2016-05-14-LittleCard-SmallPot-2.png"></a>
+<a class="fancybox-buttons" data-fancybox-group="button" href="/img/life/2016-05-14-LittleCard-SmallPot-2.png"></a>
 
-<a class="fancybox-buttons" data-fancybox-group="button" href="/public/img/life/2016-05-14-LittleCard-SmallPot-3.png"></a>
+<a class="fancybox-buttons" data-fancybox-group="button" href="/img/life/2016-05-14-LittleCard-SmallPot-3.png"></a>
 
-<a class="fancybox-buttons" data-fancybox-group="button" href="/public/img/life/2016-05-14-LittleCard-SmallPot-4.png"></a>
+<a class="fancybox-buttons" data-fancybox-group="button" href="/img/life/2016-05-14-LittleCard-SmallPot-4.png"></a>
 
-<a class="fancybox-buttons" data-fancybox-group="button" href="/public/img/life/2016-05-14-LittleCard-SmallPot-5.png"></a>
+<a class="fancybox-buttons" data-fancybox-group="button" href="/img/life/2016-05-14-LittleCard-SmallPot-5.png"></a>
 
-<a class="fancybox-buttons" data-fancybox-group="button" href="/public/img/life/2016-05-14-LittleCard-SmallPot-6.png"></a>
+<a class="fancybox-buttons" data-fancybox-group="button" href="/img/life/2016-05-14-LittleCard-SmallPot-6.png"></a>
 
 </p>
 

@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 听过的歌
 category: life
 categoryStr: 音乐

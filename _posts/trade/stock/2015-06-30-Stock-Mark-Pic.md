@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 炒股笔记配图
 category: stock
 categoryStr: 股票
@@ -9,8 +10,8 @@ description:
 ---
 
 
-![1](/public/img/life/20150630-000797.jpg)
-![2](/public/img/life/20150630-002280.jpg)
-![3](/public/img/life/20150630-60159.jpg)
+![1](/img/life/20150630-000797.jpg)
+![2](/img/life/20150630-002280.jpg)
+![3](/img/life/20150630-60159.jpg)
 
 

@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 我的高效工具箱
 category: efficient
 categoryStr: 高效

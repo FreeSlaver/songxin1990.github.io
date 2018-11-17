@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 建立一个正确交易模式的起点
 category: tradesystem
 categoryStr: 交易系统

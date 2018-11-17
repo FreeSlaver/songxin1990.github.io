@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 【转载】一个老赌徒对赌博的感悟
 category: porker
 categoryStr: 德州扑克

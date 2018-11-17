@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: Maven assembly打包报错
 category: ops
 categoryStr: 运维监控

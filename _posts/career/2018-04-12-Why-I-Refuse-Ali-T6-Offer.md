@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 为什么我拒掉了阿里P6的offer
 category: career
 categoryStr: 职场 
@@ -8,7 +9,7 @@ keywords: why,ali,offer
 description: 
 ---
 
-<img src="/public/img/life/2018-04-12-Why-I-Refuse-Ali-T6-Offer.jpg" class="post-img" alt="2018-04-12-Why-I-Refuse-Ali-T6-Offer">
+<img src="/img/life/2018-04-12-Why-I-Refuse-Ali-T6-Offer.jpg" class="post-img" alt="2018-04-12-Why-I-Refuse-Ali-T6-Offer">
 
 首先P6的offer并不是很高，社招的最低标准就是P6，但是也要看给到的人是谁。   
 对于那些计算机大神，常青藤名校的毕业生，可能不屑一顾，但是中国这么多的程序员，并不是每个人都有机会进入BAT的，  

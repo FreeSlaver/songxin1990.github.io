@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 文件命名技巧
 category: tips
 categoryStr: 小贴士

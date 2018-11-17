@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 最完美的买点
 category: stock
 categoryStr: 股票
@@ -33,7 +34,7 @@ description:
 之后等待价格再次向上突破之前60日时候形成的高点，之后再次回踩。
 
 
-![螺纹1610](/public/img/life/20160429-rb1610.png "螺纹1610")
+![螺纹1610](/img/life/20160429-rb1610.png "螺纹1610")
 
 
 这是螺纹1610的走势图。在A点收到60日线压制，在B点突破60日线，然后C点回踩60日线站稳，之后在D点突破了前期突破60日线形成的最高点，然后小幅回踩确认。

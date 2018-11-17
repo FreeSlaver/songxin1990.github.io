@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 小对子的玩法
 category: trash
 categoryStr: 废弃
@@ -14,13 +15,13 @@ description:
 
 <p>
 
-<a class="fancybox-buttons" data-fancybox-group="button" href="/public/img/life/2016-05-14-Small-Pocket-1.png"><img src="/public/img/life/porkerbg.jpg" alt="" hidden/></a>
+<a class="fancybox-buttons" data-fancybox-group="button" href="/img/life/2016-05-14-Small-Pocket-1.png"><img src="/img/life/porkerbg.jpg" alt="" hidden/></a>
 
-<a class="fancybox-buttons" data-fancybox-group="button" href="/public/img/life/2016-05-14-Small-Pocket-2.png"></a>
+<a class="fancybox-buttons" data-fancybox-group="button" href="/img/life/2016-05-14-Small-Pocket-2.png"></a>
 
-<a class="fancybox-buttons" data-fancybox-group="button" href="/public/img/life/2016-05-14-Small-Pocket-3.png"></a>
+<a class="fancybox-buttons" data-fancybox-group="button" href="/img/life/2016-05-14-Small-Pocket-3.png"></a>
 
-<a class="fancybox-buttons" data-fancybox-group="button" href="/public/img/life/2016-05-14-Small-Pocket-4.png"></a>
+<a class="fancybox-buttons" data-fancybox-group="button" href="/img/life/2016-05-14-Small-Pocket-4.png"></a>
 
 </p>
 

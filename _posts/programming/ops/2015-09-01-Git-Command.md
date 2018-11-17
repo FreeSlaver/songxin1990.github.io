@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: Git常用命令 教程总结
 category: ops
 categoryStr: 运维监控

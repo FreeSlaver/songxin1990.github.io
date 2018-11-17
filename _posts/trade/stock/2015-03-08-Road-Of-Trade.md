@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 交易之路-转载
 category: stock
 categoryStr: 股票

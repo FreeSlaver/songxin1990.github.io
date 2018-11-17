@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 股市金刚经
 category: stock
 categoryStr: 股票

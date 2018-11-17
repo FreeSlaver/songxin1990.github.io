@@ -1,0 +1,11 @@
+- menu_name: "Dankeschön"
+
+- name: "Themes by phlow"
+  url: "http://pholow.de/"
+  class: "network-entypo"
+  title: "Icons by Daniel Bruce"
+
+- name: "Built on Foundation"
+  url: "http://foundation.zurb.com/"
+  class: "services-newsletter"
+  title: "Built on Foundation"

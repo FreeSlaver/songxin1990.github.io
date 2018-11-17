@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 炒股打牛六式
 category: stock
 categoryStr: 股票

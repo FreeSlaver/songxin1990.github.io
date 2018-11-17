@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 穆斯林的葬礼读后感
 category: note
 categoryStr: 笔记

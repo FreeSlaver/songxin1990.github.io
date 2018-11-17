@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 模拟HTTP请求
 category: trash
 categoryStr: 废弃

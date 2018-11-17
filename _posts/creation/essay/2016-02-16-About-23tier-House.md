@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 最近想到点事情
 category: essay
 categoryStr: 随笔

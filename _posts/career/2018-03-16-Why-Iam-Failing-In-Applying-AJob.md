@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 为什么我会在求职这件事上遇到这么大的挫败？
 category: career
 categoryStr: 职场 

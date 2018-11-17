@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 如何高效学习—读书笔记
 category: note
 categoryStr: 笔记
@@ -333,7 +334,7 @@ description:
 
 **没有任何方法，技巧，技术，诀窍能代替动机，兴趣和热情。**
 最后幅上思维导图：  
-<img src="/public/img/life/2018-03-31-Learn-More-Study-Less.jpg" class="post-img" alt="如何高效学习思维导图">
+<img src="/img/life/2018-03-31-Learn-More-Study-Less.jpg" class="post-img" alt="如何高效学习思维导图">
 
 ## 我的一点感想<a id="sec-1-6" name="sec-1-6"></a>
 

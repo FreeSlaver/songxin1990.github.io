@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 牛的故事
 category: stock
 categoryStr: 股票

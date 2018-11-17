@@ -1,5 +1,6 @@
 ---
-layout:  post
+layout: page
+breadcrumb: true
 title:  你怎么能像她个傻B那样
 category: trash
 categoryStr: 废弃

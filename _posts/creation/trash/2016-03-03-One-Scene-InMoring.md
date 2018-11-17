@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 今天早上发生的一幕
 category: trash
 categoryStr: 废弃

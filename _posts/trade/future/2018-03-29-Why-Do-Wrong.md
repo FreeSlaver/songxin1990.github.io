@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 为什么一做就错
 category: future
 categoryStr: 期货

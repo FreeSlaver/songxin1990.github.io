@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: sbt总结
 category: trash
 categoryStr: 废弃

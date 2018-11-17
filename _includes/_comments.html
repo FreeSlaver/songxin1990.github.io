@@ -1,0 +1,13 @@
+{% if page.comments %}
+<h3 id="comments" class="t60">{{ site.data.language.comments_headline }}</h3>
+
+<div id="container"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<style>
+    .gitment-comments-empty, .gitment-comments-error, .gitment-footer-container {
+        display: none;
+    }
+</style>
+{% endif %}
+
+

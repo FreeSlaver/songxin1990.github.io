@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: Google论文之MapReduce详解
 category: bigdata
 categoryStr: 大数据

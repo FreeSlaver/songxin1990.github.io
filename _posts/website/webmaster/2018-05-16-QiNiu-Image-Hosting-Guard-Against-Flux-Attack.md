@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 用七牛做图床谨防被流量攻击
 category: webmaster
 categoryStr: 网站建设

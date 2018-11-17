@@ -1,0 +1,21 @@
+# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+# Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+songxin: # replace this with your info
+  name: "宋鑫"
+  siterole: "投机家, 软件开发"
+  uri: https://3gods.com/
+  email: songxin@3gods.com
+  twitter: "@songxin1990"
+  qq: 504252262
+  github: http://github.com/songxin1990
+  linkedin: https://www.linkedin.com/in/song-xin/
+  facebook: https://www.facebook.com/profile.php?id=100018273099120
+  twitter: https://twitter.com/songxin1990
+  googleplus: https://plus.google.com/110973279070546034423
+  zhihu: https://www.zhihu.com/people/zenhacker
+# you can add more authors here

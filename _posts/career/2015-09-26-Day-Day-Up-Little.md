@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 程序员，你要每天进步一点点-转载
 category: career
 categoryStr: 职场 

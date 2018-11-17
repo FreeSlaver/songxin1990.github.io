@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 压力 支撑 阻挡 二次确认 假突破
 category: stock
 categoryStr: 股票
@@ -8,7 +9,7 @@ keywords:
 description: 
 ---
 
-![1]( /public/img/life/2015-09-10-Pressure-Support-Resist-2Confirm-FlaseBreakout.png )
+![1]( /img/life/2015-09-10-Pressure-Support-Resist-2Confirm-FlaseBreakout.png )
 
 我发现我开始慢慢读懂盘面的语言。根据上面的4个单词。
 

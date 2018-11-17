@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 规则引擎？看这篇就够了
 category: programDesign
 categoryStr: 程序设计

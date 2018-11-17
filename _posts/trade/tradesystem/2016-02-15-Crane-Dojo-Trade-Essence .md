@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 野鹤道场之———交易系统的本质-转载
 category: tradesystem
 categoryStr: 交易系统

@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: Redis与数据库数据同步解决方案
 category: redis
 categoryStr: redis

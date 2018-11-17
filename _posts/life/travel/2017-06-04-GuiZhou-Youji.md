@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 贵州游记
 category: travel
 categoryStr: 旅行

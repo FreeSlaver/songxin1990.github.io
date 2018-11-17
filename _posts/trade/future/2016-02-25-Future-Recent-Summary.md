@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 最近操作小结Future
 category: future
 categoryStr: 期货

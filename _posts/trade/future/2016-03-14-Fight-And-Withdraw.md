@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 且战且退
 category: future
 categoryStr: 期货

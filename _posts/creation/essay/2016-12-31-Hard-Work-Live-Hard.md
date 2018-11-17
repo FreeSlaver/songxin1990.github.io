@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 工作不易，生活不易
 category: essay
 categoryStr: 随笔
@@ -18,9 +19,9 @@ description:
 先截个图，问了下之前公司同事的现状：
 
 
-![1](/public/img/life/2016-12-31-Hard-Work-Live-Hard-1.png )
+![1](/img/life/2016-12-31-Hard-Work-Live-Hard-1.png )
 
-![2](/public/img/life/2016-12-31-Hard-Work-Live-Hard-2.png )
+![2](/img/life/2016-12-31-Hard-Work-Live-Hard-2.png )
 
 
 

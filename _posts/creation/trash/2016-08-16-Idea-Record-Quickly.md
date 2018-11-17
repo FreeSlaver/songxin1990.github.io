@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 想法，点子，思考马上记录
 category: trash
 categoryStr: 废弃

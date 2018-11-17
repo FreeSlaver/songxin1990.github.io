@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 暂停一切交易相关事务
 category: trash
 categoryStr: 废弃

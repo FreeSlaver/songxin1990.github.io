@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 预约箱格请求排队
 category: javacore
 categoryStr: 并发

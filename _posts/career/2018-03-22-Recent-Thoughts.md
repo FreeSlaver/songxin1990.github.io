@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 最近关于工作求职的一点感想
 category: career
 categoryStr: 职场 

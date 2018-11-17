@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 赌博的一点浅见
 category: porker
 categoryStr: 德州扑克

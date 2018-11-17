@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 自动化部署配置文件
 category: trash
 categoryStr: 废弃

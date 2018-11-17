@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 秒杀系统设计 总结
 category: career
 categoryStr: 职场 

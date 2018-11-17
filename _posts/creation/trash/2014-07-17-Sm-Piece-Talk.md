@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 只言片语
 category: trash
 categoryStr: 废弃

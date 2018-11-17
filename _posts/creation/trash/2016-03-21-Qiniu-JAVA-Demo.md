@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 七牛云存储图片JAVA DEMO
 category: trash
 categoryStr: 废弃

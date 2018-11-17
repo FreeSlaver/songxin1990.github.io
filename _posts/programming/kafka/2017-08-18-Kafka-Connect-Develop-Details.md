@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: Kafka Connect开发教程
 category: bigdata
 categoryStr: 大数据

@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 使用Redis实现分布式锁
 category: redis
 categoryStr: redis

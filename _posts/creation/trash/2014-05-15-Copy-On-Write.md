@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 什么是CopyOnWrite容器
 category: trash
 categoryStr: 废弃

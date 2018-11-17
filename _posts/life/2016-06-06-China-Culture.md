@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 中国文化
 category: life
 categoryStr: 文化

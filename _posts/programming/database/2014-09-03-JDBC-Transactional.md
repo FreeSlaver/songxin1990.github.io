@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: JAVA的JDBC事务详解-转载
 category: database
 categoryStr: 数据库

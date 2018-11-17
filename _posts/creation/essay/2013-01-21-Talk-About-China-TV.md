@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 谈谈国产电视剧
 category: essay
 categoryStr: 随笔

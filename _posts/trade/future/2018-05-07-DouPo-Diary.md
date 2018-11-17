@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 豆粕1809日记
 category: future
 categoryStr: 期货

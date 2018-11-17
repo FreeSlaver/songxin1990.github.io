@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 20160626下午5/10打的几手牌
 category: porker
 categoryStr: 德州扑克

@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: Kafka教程1:Kafka安装运行与伪集群环境搭建
 category: kafka
 categoryStr: Kafka

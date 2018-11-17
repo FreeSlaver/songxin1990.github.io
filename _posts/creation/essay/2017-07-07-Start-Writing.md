@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 开始写作
 category: essay
 categoryStr: 随笔

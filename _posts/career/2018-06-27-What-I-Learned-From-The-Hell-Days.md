@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 我从这几个月糟糕的职场中学到的东西
 category: career
 categoryStr: 职场

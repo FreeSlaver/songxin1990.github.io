@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 日志系统总结
 category: trash
 categoryStr: 废弃

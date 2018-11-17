@@ -1,0 +1,79 @@
+{% comment %}
+#
+#   Liquid variables are created at the top to keep the source DRY and clean.
+#   Idea by ericcarlisle.com
+#
+#   Variables › {{ url }} › site.url + site.baseurl
+#   Variables › {{ description }} › excerpt, page.meta_description, or site.description
+#   Variables › {{ title }} › page.title
+#
+{% endcomment %}{% capture ignore %}
+
+{% assign url = site.baseurl | prepend: site.url %}
+
+{% capture description %}{% if page.meta_description %}{{ page.meta_description }}{% elsif page.teaser %}{{ page.teaser }}{% elsif page.excerpt %}{{ page.excerpt }}{% elsif site.description %}{{ site.description }}{% endif %}{% endcapture %}
+{% assign description = description | strip_html | escape | strip %}
+
+{% capture title %}{% if page.meta_title %}{{ page.meta_title}}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title | strip_html | strip }}{% endif %}{% endcapture %}
+
+{% assign title = title | strip_html | escape | strip_newlines %}
+
+{% endcapture %}
+    <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% seo %}
+	{% if page.keywords %}
+	<meta name="keywords" content="{{ page.keywords }}">
+	{% endif %}
+	<title>{{ title }}</title>
+
+    <link rel="stylesheet" type="text/css" href="{{ url }}/assets/css/styles_feeling_responsive.css">
+
+  {% if site.asciidoctor-enabled == true %}
+    <link rel="stylesheet" href="{{ url }}/assets/css/font-awesome.min.css">
+  {% endif %}
+
+	<script src="{{ url }}/assets/js/modernizr.min.js"></script>
+
+	<!--<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>-->
+	<!--<script>-->
+		<!--WebFont.load({-->
+			<!--google: {-->
+				<!--families: [ 'Lato:400,700,400italic:latin', 'Volkhov::latin' ]-->
+			<!--}-->
+		<!--});-->
+	<!--</script>-->
+
+	<noscript>
+		<!--<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic%7CVolkhov' rel='stylesheet' type='text/css'>-->
+		<link href='{{ url }}/assets/css/webfont.css' rel='stylesheet' type='text/css'>
+	</noscript>
+
+
+	<!-- Search Engine Optimization -->
+	{% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification}}">{% endif %}
+	{% if site.bing_webmastertools_id %}<meta name="msvalidate.01" content="{{ site.bing_webmastertools_id }}" >{% endif %}
+	{% if site.yandex_site_verification %}<meta name="yandex-verification" content="{{ site.yandex_site_verification }}">{% endif %}
+	{% if site.google_author %}<link rel="author" href="{{ site.google_author }}">{% endif %}
+	{% if site.alexa_verify_id %}<meta name="alexaVerifyID" content="{{ site.alexa_verify_id }}">{% endif %}
+	{% if page.noindex == true or layout.noindex == true %}<meta name="robots" content="noindex">{% endif %}
+	<link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon-32x32 }}"/>
+	<link rel="mask-icon" href="{{site.favicon-32x32}}" color="#000000">
+	<link rel="fluid-icon" href="{{site.favicon-32x32}}" title="3gods.com">
+	<meta name="msvalidate.01" content="76B177235172097DAFF78A0C750658B1" />
+	<meta name="sogou_site_verification" content="0g3QdKGMGK"/>
+	<meta name="360-site-verification" content="c94e3336c2f515d0285f3d18312ab981" />
+	<meta name="baidu-site-verification" content="gP0ZZIXso0" />
+
+
+	{% if page.mediaplayer == true %}
+		<link rel="stylesheet" href="{{ url }}/assets/mediaelement_js/mediaelementplayer.min.css">
+	{% endif %}
+
+	{% include _favicon.html %}
+
+	{% unless page.style == NULL %}
+	<style type="text/css">{{ page.style }}</style>
+	{% endunless %}
+
+    {% include _baiduanalytics.html %}

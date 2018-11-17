@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 你的灯还亮着吗—读书笔记
 category: note
 categoryStr: 笔记

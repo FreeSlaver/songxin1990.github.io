@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 学习的艺术—读书笔记
 category: note
 categoryStr: 笔记

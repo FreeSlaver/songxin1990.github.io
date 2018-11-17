@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+breadcrumb: true
 title: 空单的三个开仓点
 category: stock
 categoryStr: 股票
