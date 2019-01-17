@@ -2,823 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4eed65b-f1a2-498b-8aa7-7b3126d005e3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header/archive.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header/book.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header/career.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header/default.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header/default2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header/default3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header/default5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header/default6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header/default7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header/default8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header/essay.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header/life.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header/note.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header/photography.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header/porker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header/seo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header/tips.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header/webmaster.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header/zen.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/_baiduanalytics.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/_share.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/photography/guizhou.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/baiduanalytics.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/beian.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/comment.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/comment_new.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/googleanalytics.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/header_title.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/navside.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/share.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/base.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/archive.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/atom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/business.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/career.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/creation/book.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/creation/essay.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/creation/note.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/creation/trash.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/growing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/growing/efficient.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/growing/method.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/growing/mind.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/growing/thinkask.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/growing/tips.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/growing/zen.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/life/film.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/life/photography.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/life/travel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/me.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/programming/bigdata.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/programming/database.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/programming/javacore.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/programming/opensource.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/programming/ops.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/programming/programdesign.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/programming/redis.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/trade/future.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/trade/porker.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/trade/stock.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/trade/tradesystem.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/webmaster/seo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/webmaster/webbuild.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/highlight.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/jquery.fancybox.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/appreciate_alI.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/appreciate_wx.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/fav.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/fav.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/fav.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2012-11-17-The-First-Time-Cook-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2012-11-17-The-First-Time-Cook-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2012-11-17-The-First-Time-Cook-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/20130304_sunflower.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-24.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-25.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-26.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-27.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-28.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-29.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-30.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-02-23-Netherlands-flower-town-9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-20-ShenZhen-Cosplay-1.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-20-ShenZhen-Cosplay-10.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-20-ShenZhen-Cosplay-11.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-20-ShenZhen-Cosplay-12.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-20-ShenZhen-Cosplay-13.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-20-ShenZhen-Cosplay-14.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-20-ShenZhen-Cosplay-15.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-20-ShenZhen-Cosplay-16.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-20-ShenZhen-Cosplay-17.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-20-ShenZhen-Cosplay-18.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-20-ShenZhen-Cosplay-19.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-20-ShenZhen-Cosplay-2.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-20-ShenZhen-Cosplay-20.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-20-ShenZhen-Cosplay-21.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-20-ShenZhen-Cosplay-22.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-20-ShenZhen-Cosplay-23.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-20-ShenZhen-Cosplay-24.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-20-ShenZhen-Cosplay-25.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-20-ShenZhen-Cosplay-26.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-20-ShenZhen-Cosplay-3.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-20-ShenZhen-Cosplay-4.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-20-ShenZhen-Cosplay-5.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-20-ShenZhen-Cosplay-6.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-20-ShenZhen-Cosplay-7.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-20-ShenZhen-Cosplay-8.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-20-ShenZhen-Cosplay-9.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-28-Shen-Tian-MaA-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-28-Shen-Tian-MaA-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2014-07-28-Shen-Tian-MaA-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2015-05-31-Guang-Zhou-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2015-05-31-Guang-Zhou-10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2015-05-31-Guang-Zhou-11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2015-05-31-Guang-Zhou-12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2015-05-31-Guang-Zhou-13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2015-05-31-Guang-Zhou-14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2015-05-31-Guang-Zhou-15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2015-05-31-Guang-Zhou-16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2015-05-31-Guang-Zhou-17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2015-05-31-Guang-Zhou-18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2015-05-31-Guang-Zhou-19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2015-05-31-Guang-Zhou-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2015-05-31-Guang-Zhou-20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2015-05-31-Guang-Zhou-21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2015-05-31-Guang-Zhou-22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2015-05-31-Guang-Zhou-23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2015-05-31-Guang-Zhou-24.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2015-05-31-Guang-Zhou-25.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2015-05-31-Guang-Zhou-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2015-05-31-Guang-Zhou-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2015-05-31-Guang-Zhou-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2015-05-31-Guang-Zhou-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2015-05-31-Guang-Zhou-7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2015-05-31-Guang-Zhou-8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2015-05-31-Guang-Zhou-9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2015-09-10-Pressure-Support-Resist-2Confirm-FlaseBreakout.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/20150630-000797.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/20150630-002280.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/20150630-60159.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-03-15-Fuck-RB-Continue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-05-14-LittleCard-SmallPot-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-05-14-LittleCard-SmallPot-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-05-14-LittleCard-SmallPot-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-05-14-LittleCard-SmallPot-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-05-14-LittleCard-SmallPot-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-05-14-LittleCard-SmallPot-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-05-14-Small-Pocket-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-05-14-Small-Pocket-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-05-14-Small-Pocket-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-05-14-Small-Pocket-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-05-21-Problem-Play-T1564751891-104-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-05-21-Problem-Play-T1564751891-104-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-05-21-Problem-Play-T1564751891-104.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-05-21-Problem-Play-T1564751891-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-05-21-Problem-Play-T1564751891-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-05-21-Problem-Play-T1564751891-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-05-21-Problem-Play-T1564751891-A10-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-05-21-Problem-Play-T1564751891-A10-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-05-21-Problem-Play-T1564751891-A10-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-05-21-Problem-Play-T1564751891-A10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-05-21-Problem-Play-T1564751891-Q10-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-05-21-Problem-Play-T1564751891-Q10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-05-21-Problem-Play-T1564751891.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-05-21-Problem-Play-T15647518915.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-05-21-Problem-Play-T1564752828.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-12-31-Hard-Work-Live-Hard-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2016-12-31-Hard-Work-Live-Hard-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/20160429-rb1610.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2017-02-03-Sense-After-Funeral-Of-Muslim.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2017-02-06-How2-Fast-Learn-language.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2017-03-14-Google-Dapper-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2017-03-14-Google-Dapper-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2017-03-14-Google-Dapper-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2017-03-14-Google-Dapper-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2017-09-21-Google-Paper-Bigtable1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2017-09-21-Google-Paper-Bigtable2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2017-09-21-Google-Paper-Bigtable3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2017-10-25-Google-Paper-GFS-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2017-10-25-Google-Paper-GFS-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2018-02-23-Zookeeper-Interview-Questions-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2018-02-26-Zipkin-Note-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2018-02-26-Zipkin-Note-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2018-03-31-Learn-More-Study-Less.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2018-04-04-Once-An-Ali-Interview-Record.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2018-04-12-Why-I-Refuse-Ali-T6-Offer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2018-04-23-Redis-Monitoring-Solutions-fiana.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2018-04-23-Redis-Monitoring-Solutions-info1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2018-04-23-Redis-Monitoring-Solutions-info2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2018-04-23-Redis-Monitoring-Solutions-live.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2018-04-23-Redis-Monitoring-Solutions-monitor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2018-04-23-Redis-Monitoring-Solutions-redmon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2018-04-23-Redis-Monitoring-Solutions-state-cmd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2018-04-23-Redis-Monitoring-Solutions-state-web.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2018-05-18-Github-Pages-Custom-Domain-HTTPS.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2018-06-20-Github-Pages-Baidu-Index-Tool-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2018-06-20-Github-Pages-Baidu-Index-Tool-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/2018-06-20-Github-Pages-Baidu-Index-Tool-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/3gods-intro-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/3gods-intro-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/3gods-intro-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/5fdf8db1cb13495400444bda574e9258d1094a31.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Air_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Air_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Air_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0021.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0034.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0045.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0049.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0060.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0061.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0063.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0067.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0075.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0078.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0093.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0094.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0096.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0105.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0111.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0118.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0133.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0147.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0152.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0156.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0157.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0159.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0162.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0165.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0168.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0172.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0178.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0181.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0187.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0189.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0203.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0214.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0220.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0221.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0222.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0223.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0230.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0239.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0244.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0258.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0260.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0261.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0262.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0272.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0280.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0286.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0296.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0302.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0307.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0310.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0316.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0326.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0333.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0338.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0343.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0376.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0381.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0404.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0414.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0430.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0431.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0444.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0504.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0509.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0534.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0553.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0558.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0579.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0592.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0600.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0629.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0634.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0640.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0660.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0676.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0678.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0685.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0697.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0701.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0710.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0712.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0715.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0717.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0724.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0736.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0739.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0748.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0757.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0780.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0814.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0823.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0828.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0838.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0840.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0849.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0854.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0864.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0888.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0897.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/DSC_0911.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/ElDorado.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Little-Green-Book-Note.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Locks-Noun_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Locks-Noun_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Locks-Noun_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Locks-Noun_4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Lost.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Perfect.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/PerfectCircle.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/SNG5-20160506-T1558534022-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/SNG5-20160506-T1558534022-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/SNG5-20160506-T1558534022-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/SNG5-20160506-T1558534022-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/SNG5-20160506-T1558570535-luck.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/SNG5-20160506-T1559016462-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/SNG5-20160506-T1559016462-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/SNG5-20160506-T1559038840-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/SNG5-20160506-T1559038840-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/SNG5-20160506-T1559042268-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/SNG5-20160506-T1559042268-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/SNG5-20160506-T1559042268-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/SNG5-20160506-T1559042268-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/SNG5-20160506-T1559078271-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/SNG5-20160506-T1559078271-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/SNG5-20160506-T1559078271-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/SNG5-20160506-T1559080081-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/SNG5-20160506-T1559080081-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/SNG5-20160506-T1559121553-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/SNG5-20160506-T1559121553-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/SNG5-20160506-T1559121553-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/SNG5-20160506-T1559269108-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/SNG5-20160506-T1559269108-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/SNG5-20160506-T1559269108-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Serpiente_alquimica.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Sunrise.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0006.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0010.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0016.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0020.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0026.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0036.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0050.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0067.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0071.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0074.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0079.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0099.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0106.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0115.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0118.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0167.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0177.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0179.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0191.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0197.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0202.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0219.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0223.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0226.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0227.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0237.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0240.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0254.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0257.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0263.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0271.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0275.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0280.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0287.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0298.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0302.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0307.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0311.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0312.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0319.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0324.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0326.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0329.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0341.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0346.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0350.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0351.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0355.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0366.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0379.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0381.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0393.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0395.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0407.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0416.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0417.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0418.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/Taiwan_0421.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/TheosophicalSocietyBudapest.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/ViolinConcerto.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/atRiver.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/ca40d0b70035fa8aeece2180e00ad853.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/fav.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/kafka_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/kafka_architecture.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/kafka_architecture2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/kafka_consumer_group.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/kafka_failover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/kafka_failover_consumer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/kafka_features.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/kafka_manager.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/kafka_topic_desc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/kafka_vs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/kafka_zookeeper.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/kakfka_message_stream.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/looksky.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/macau.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/mysqlSync-maxwell-kafka-maxwellsink.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/o_music_note_big.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/ourboros-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/ourboros-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/ourboros-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/ourboros-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/ouroboros logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/porkerbg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/smile.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/sucks_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/life/wechat.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/me.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/qqgroup.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/share/Facebook.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/share/Google+.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/share/LinkedIn.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/share/Reddit.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/share/Twitter.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/share/WeChat.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/share/Weibo.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/wechat.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/base.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/comment.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/jquery.pjax.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/jquery.qrcode.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-apollo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-basic.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-clj.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-css.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-dart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-erlang.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-go.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-hs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-lisp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-llvm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-lua.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-matlab.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-ml.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-mumps.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-n.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-pascal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-proto.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-r.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-rd.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-scala.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-sql.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-tcl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-tex.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-vb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-vhdl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-wiki.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-xq.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/lang-yaml.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/prettify.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/prettify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/prettify/run_prettify.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="$PROJECT_DIR$/_layouts/page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/redirect.html" afterPath="$PROJECT_DIR$/_layouts/redirect.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/career/2015-03-04-Some-Suggestions.md" afterPath="$PROJECT_DIR$/_posts/career/2015-03-04-Some-Suggestions.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/career/2015-09-26-Day-Day-Up-Little.md" afterPath="$PROJECT_DIR$/_posts/career/2015-09-26-Day-Day-Up-Little.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/career/2016-01-20-12-Suggestion-For-Java-Interview.md" afterPath="$PROJECT_DIR$/_posts/career/2016-01-20-12-Suggestion-For-Java-Interview.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/career/2016-01-20-Architect-Interview.md" afterPath="$PROJECT_DIR$/_posts/career/2016-01-20-Architect-Interview.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/career/2016-05-04-Seckill-System-Design.md" afterPath="$PROJECT_DIR$/_posts/career/2016-05-04-Seckill-System-Design.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/career/2016-05-06-My-Interview-Question.md" afterPath="$PROJECT_DIR$/_posts/career/2016-05-06-My-Interview-Question.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/career/2016-08-18-Job-Salary-Learn.md" afterPath="$PROJECT_DIR$/_posts/career/2016-08-18-Job-Salary-Learn.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/career/2016-12-31-Hard-Work-Live-Hard.md" afterPath="$PROJECT_DIR$/_posts/career/2016-12-31-Hard-Work-Live-Hard.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/career/2017-01-12-Some-Point.md" afterPath="$PROJECT_DIR$/_posts/career/2017-01-12-Some-Point.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/career/2017-02-03-Summarize2016-Outlook2017.md" afterPath="$PROJECT_DIR$/_posts/career/2017-02-03-Summarize2016-Outlook2017.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/career/2017-02-14-Business-Or-Job-One-Life-One-Choice.md" afterPath="$PROJECT_DIR$/_posts/career/2017-02-14-Business-Or-Job-One-Life-One-Choice.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/career/2017-06-06-Milestone.md" afterPath="$PROJECT_DIR$/_posts/career/2017-06-06-Milestone.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/career/2017-06-06-Resume.md" afterPath="$PROJECT_DIR$/_posts/career/2017-06-06-Resume.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/career/2017-12-29-Summary-2017-Outlook-2018.md" afterPath="$PROJECT_DIR$/_posts/career/2017-12-29-Summary-2017-Outlook-2018.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/career/2018-03-16-Why-Iam-Failing-In-Applying-AJob.md" afterPath="$PROJECT_DIR$/_posts/career/2018-03-16-Why-Iam-Failing-In-Applying-AJob.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/career/2018-03-22-Recent-Thoughts.md" afterPath="$PROJECT_DIR$/_posts/career/2018-03-22-Recent-Thoughts.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/career/2018-04-04-Once-An-Ali-Interview-Record.md" afterPath="$PROJECT_DIR$/_posts/career/2018-04-04-Once-An-Ali-Interview-Record.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/career/2018-04-12-Why-I-Refuse-Ali-T6-Offer.md" afterPath="$PROJECT_DIR$/_posts/career/2018-04-12-Why-I-Refuse-Ali-T6-Offer.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/career/2018-04-16-Should-Boss-Fire-A-Programmer-Who-Automated-His-Job.md" afterPath="$PROJECT_DIR$/_posts/career/2018-04-16-Should-Boss-Fire-A-Programmer-Who-Automated-His-Job.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/career/2018-04-18-Why-Are-Company-Not-Hiring-Old-Programmer.md" afterPath="$PROJECT_DIR$/_posts/career/2018-04-18-Why-Are-Company-Not-Hiring-Old-Programmer.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/career/2018-05-22-Resume-Fuck.md" afterPath="$PROJECT_DIR$/_posts/career/2018-05-22-Resume-Fuck.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/career/2018-06-27-What-I-Learned-From-The-Hell-Days.md" afterPath="$PROJECT_DIR$/_posts/career/2018-06-27-What-I-Learned-From-The-Hell-Days.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/book/2015-01-19-Economy-Books.md" afterPath="$PROJECT_DIR$/_posts/creation/book/2015-01-19-Economy-Books.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/book/2015-07-11-Read-Books.md" afterPath="$PROJECT_DIR$/_posts/creation/book/2015-07-11-Read-Books.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/book/2015-07-22-Charlie-Munger-Books.md" afterPath="$PROJECT_DIR$/_posts/creation/book/2015-07-22-Charlie-Munger-Books.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/book/2016-03-25-IT-BookList.md" afterPath="$PROJECT_DIR$/_posts/creation/book/2016-03-25-IT-BookList.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/book/2017-01-23-Tech-Recommend-Books.md" afterPath="$PROJECT_DIR$/_posts/creation/book/2017-01-23-Tech-Recommend-Books.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/book/2017-02-03-Book-List.md" afterPath="$PROJECT_DIR$/_posts/creation/book/2017-02-03-Book-List.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2011-02-10-Where-Are-You.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2011-02-10-Where-Are-You.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2011-02-15-The-Valentine's-Day-Without-ALover.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2011-02-15-The-Valentine's-Day-Without-ALover.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2011-05-16-The-Green-Years.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2011-05-16-The-Green-Years.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2011-06-23-Look-For-Life-Elsewhere.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2011-06-23-Look-For-Life-Elsewhere.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2011-09-09-Talk-About-Her-Behinde-Internet.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2011-09-09-Talk-About-Her-Behinde-Internet.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2012-04-30-Black-Stockings.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2012-04-30-Black-Stockings.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2012-04-30-Flower-Moon-Underwater.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2012-04-30-Flower-Moon-Underwater.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2012-05-26-The-Drugs-Of-Time.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2012-05-26-The-Drugs-Of-Time.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2012-06-19-Gossip.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2012-06-19-Gossip.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2012-08-09-How-To-Pursue-Woman.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2012-08-09-How-To-Pursue-Woman.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2012-11-17-The-First-Time-Cook.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2012-11-17-The-First-Time-Cook.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2013-01-21-Death-Note.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2013-01-21-Death-Note.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2013-01-21-Talk-About-China-TV.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2013-01-21-Talk-About-China-TV.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2013-04-02-Cloud-And-Lake.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2013-04-02-Cloud-And-Lake.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2013-04-02-First-Snow.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2013-04-02-First-Snow.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2013-04-02-Sadly-It's-Not-You.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2013-04-02-Sadly-It's-Not-You.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2013-04-11-My-Collegue.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2013-04-11-My-Collegue.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2013-07-02-Forecast-Of-2018.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2013-07-02-Forecast-Of-2018.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2013-11-13-Character-Test-Report.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2013-11-13-Character-Test-Report.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2013-12-11-Beauty-Sequence.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2013-12-11-Beauty-Sequence.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2013-12-12-Guo-Qin-Lun.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2013-12-12-Guo-Qin-Lun.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2013-12-12-My-Favourite -Poems.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2013-12-12-My-Favourite -Poems.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2014-02-22-I-Am-A-Legend.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2014-02-22-I-Am-A-Legend.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2014-02-22-Plan-Of-2014.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2014-02-22-Plan-Of-2014.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2014-02-23-Inside-Outside-Wall.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2014-02-23-Inside-Outside-Wall.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2014-05-02-Black-White.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2014-05-02-Black-White.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2014-08-15-2014ShenZhen-Cosplay.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2014-08-15-2014ShenZhen-Cosplay.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2014-12-01-Being-Alive-Really-Hard.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2014-12-01-Being-Alive-Really-Hard.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2015-06-21-Acknowledge.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2015-06-21-Acknowledge.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2015-06-21-Xiao-Shen-Ke.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2015-06-21-Xiao-Shen-Ke.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2015-06-23-Face-The-Future.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2015-06-23-Face-The-Future.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2015-09-27-2015-MidAutumn-Phoenix-Mountain.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2015-09-27-2015-MidAutumn-Phoenix-Mountain.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2015-10-07-2015-NationalDay-BlindDate.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2015-10-07-2015-NationalDay-BlindDate.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2016-02-16-About-23tier-House.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2016-02-16-About-23tier-House.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2016-08-10-Yin-Wang-Blog.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2016-08-10-Yin-Wang-Blog.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2016-12-31-Hard-Work-Live-Hard.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2016-12-31-Hard-Work-Live-Hard.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2017-03-11-Wish-You-Were-Here.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2017-03-11-Wish-You-Were-Here.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2017-07-07-Start-Writing.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2017-07-07-Start-Writing.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2017-07-30-Death-Of-LinBo.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2017-07-30-Death-Of-LinBo.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/essay/2017-09-12-3gods-Logo-Explaination.md" afterPath="$PROJECT_DIR$/_posts/creation/essay/2017-09-12-3gods-Logo-Explaination.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/note/2012-12-12-The-Catcher-In-The-Rye.md" afterPath="$PROJECT_DIR$/_posts/creation/note/2012-12-12-The-Catcher-In-The-Rye.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/note/2014-09-07-Orange-Girl.md" afterPath="$PROJECT_DIR$/_posts/creation/note/2014-09-07-Orange-Girl.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/note/2014-09-19-The-Little-Prince.md" afterPath="$PROJECT_DIR$/_posts/creation/note/2014-09-19-The-Little-Prince.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/note/2017-02-03-Sense-After-Funeral-Of-Muslim.md" afterPath="$PROJECT_DIR$/_posts/creation/note/2017-02-03-Sense-After-Funeral-Of-Muslim.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/note/2017-04-27-Open-Wechat-Official-Account.md" afterPath="$PROJECT_DIR$/_posts/creation/note/2017-04-27-Open-Wechat-Official-Account.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/note/2017-04-30-Art-Of-Learn-Note.md" afterPath="$PROJECT_DIR$/_posts/creation/note/2017-04-30-Art-Of-Learn-Note.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/note/2017-07-30-SteveJobs-Biography.md" afterPath="$PROJECT_DIR$/_posts/creation/note/2017-07-30-SteveJobs-Biography.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/note/2017-08-26-HowTo-Read-ABook-Note.md" afterPath="$PROJECT_DIR$/_posts/creation/note/2017-08-26-HowTo-Read-ABook-Note.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/note/2017-09-05-Are-Your-Lights-On-Note.md" afterPath="$PROJECT_DIR$/_posts/creation/note/2017-09-05-Are-Your-Lights-On-Note.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/note/2018-03-31-Learn-More-Study-Less-Note.md" afterPath="$PROJECT_DIR$/_posts/creation/note/2018-03-31-Learn-More-Study-Less-Note.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2014-05-09-How-Can-You-Like-Her-ABitch.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2014-05-09-How-Can-You-Like-Her-ABitch.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2014-05-10-Waste-My-Life.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2014-05-10-Waste-My-Life.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2014-05-15-Copy-On-Write.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2014-05-15-Copy-On-Write.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2014-05-21-Log-Series-One.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2014-05-21-Log-Series-One.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2014-06-16-What-To-Do.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2014-06-16-What-To-Do.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2014-07-17-Sm-Piece-Talk.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2014-07-17-Sm-Piece-Talk.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2014-09-13-My-Dreams.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2014-09-13-My-Dreams.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2014-09-14-8264.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2014-09-14-8264.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2014-12-19-Aim-Zhihu.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2014-12-19-Aim-Zhihu.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2015-03-09-Catch-UpLimit.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2015-03-09-Catch-UpLimit.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2015-06-22-ActiveMQ-Amq.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2015-06-22-ActiveMQ-Amq.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2015-06-22-Maven-LocalJar.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2015-06-22-Maven-LocalJar.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2015-07-20-Analog-HTTP-Request.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2015-07-20-Analog-HTTP-Request.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2015-07-22-Async-LogUtil.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2015-07-22-Async-LogUtil.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2015-07-22-One-Battle.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2015-07-22-One-Battle.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2015-07-25-Netty-HTTP-Server.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2015-07-25-Netty-HTTP-Server.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2015-07-30-Trade-Diary.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2015-07-30-Trade-Diary.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2015-08-28-Music-NiuBi.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2015-08-28-Music-NiuBi.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2015-08-29-Trade-Diary20150829.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2015-08-29-Trade-Diary20150829.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2015-09-01-JMX-Summary.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2015-09-01-JMX-Summary.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2015-09-10-Auto-Deploy-Config.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2015-09-10-Auto-Deploy-Config.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2015-10-18-Over-Work.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2015-10-18-Over-Work.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2016-03-03-One-Scene-InMoring.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2016-03-03-One-Scene-InMoring.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2016-03-09-Cutton-Close-Early.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2016-03-09-Cutton-Close-Early.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2016-03-21-Qiniu-JAVA-Demo.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2016-03-21-Qiniu-JAVA-Demo.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2016-04-11-LogSys-Summary.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2016-04-11-LogSys-Summary.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2016-04-11-Porker-Resource.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2016-04-11-Porker-Resource.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2016-04-27-ShenZhen-Top-ITCompany.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2016-04-27-ShenZhen-Top-ITCompany.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2016-04-29-Java-Tech-Blog.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2016-04-29-Java-Tech-Blog.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2016-05-14-Small-Pocket.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2016-05-14-Small-Pocket.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2016-06-19-Air.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2016-06-19-Air.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2016-06-19-Sucks.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2016-06-19-Sucks.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2016-06-22-Coding-Experience-Summary.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2016-06-22-Coding-Experience-Summary.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2016-08-16-Idea-Record-Quickly.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2016-08-16-Idea-Record-Quickly.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2017-01-12-Suspend-Trade.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2017-01-12-Suspend-Trade.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/creation/trash/2017-02-10-Sbt-Summary.md" afterPath="$PROJECT_DIR$/_posts/creation/trash/2017-02-10-Sbt-Summary.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/growing/efficient/2017-05-01-Importance-Of-English.md" afterPath="$PROJECT_DIR$/_posts/growing/efficient/2017-05-01-Importance-Of-English.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/growing/efficient/2017-06-25-Information-Era-Programmer's-Advantages.md" afterPath="$PROJECT_DIR$/_posts/growing/efficient/2017-06-25-Information-Era-Programmer's-Advantages.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/growing/efficient/2017-08-27-My-Efficient-Tool-Box.md" afterPath="$PROJECT_DIR$/_posts/growing/efficient/2017-08-27-My-Efficient-Tool-Box.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/growing/method/2017-02-06-How2-Fast-Learn-language.md" afterPath="$PROJECT_DIR$/_posts/growing/method/2017-02-06-How2-Fast-Learn-language.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/growing/method/2017-05-18-Learn-Method-Postgraduate-Summary.md" afterPath="$PROJECT_DIR$/_posts/growing/method/2017-05-18-Learn-Method-Postgraduate-Summary.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/growing/method/2017-09-02-Life-IsLike-Playing-Dota.md" afterPath="$PROJECT_DIR$/_posts/growing/method/2017-09-02-Life-IsLike-Playing-Dota.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/growing/tips/2017-04-11-Google-Tips.md" afterPath="$PROJECT_DIR$/_posts/growing/tips/2017-04-11-Google-Tips.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/growing/tips/2017-04-12-File-Naming-Tips.md" afterPath="$PROJECT_DIR$/_posts/growing/tips/2017-04-12-File-Naming-Tips.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/growing/tips/2018-07-25-Doing-Planed-Things.md" afterPath="$PROJECT_DIR$/_posts/growing/tips/2018-07-25-Doing-Planed-Things.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/growing/zen/2016-02-14-Wu-Dao.md" afterPath="$PROJECT_DIR$/_posts/growing/zen/2016-02-14-Wu-Dao.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/growing/zen/2016-02-15-Meditation-Place.md" afterPath="$PROJECT_DIR$/_posts/growing/zen/2016-02-15-Meditation-Place.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/growing/zen/2016-04-30-Learn-Lotus-Position.md" afterPath="$PROJECT_DIR$/_posts/growing/zen/2016-04-30-Learn-Lotus-Position.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/life/2014-09-13-Listened-Music.md" afterPath="$PROJECT_DIR$/_posts/life/2014-09-13-Listened-Music.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/life/2016-06-06-China-Culture.md" afterPath="$PROJECT_DIR$/_posts/life/2016-06-06-China-Culture.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/life/film/2012-04-03-Twin-Peaks-Film-Review.md" afterPath="$PROJECT_DIR$/_posts/life/film/2012-04-03-Twin-Peaks-Film-Review.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/life/photography/2014-02-23-Netherlands-Flower-Town.md" afterPath="$PROJECT_DIR$/_posts/life/photography/2014-02-23-Netherlands-Flower-Town.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/life/photography/2014-07-20-ShenZhen-Cosplay.md" afterPath="$PROJECT_DIR$/_posts/life/photography/2014-07-20-ShenZhen-Cosplay.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/life/photography/2015-05-31-Guang-Zhou.md" afterPath="$PROJECT_DIR$/_posts/life/photography/2015-05-31-Guang-Zhou.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/life/photography/2017-06-10-Gui-Zhou.md" afterPath="$PROJECT_DIR$/_posts/life/photography/2017-06-10-Gui-Zhou.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/life/photography/2017-10-01-Tai-Wan.md" afterPath="$PROJECT_DIR$/_posts/life/photography/2017-10-01-Tai-Wan.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/life/travel/2017-06-04-GuiZhou-Youji.md" afterPath="$PROJECT_DIR$/_posts/life/travel/2017-06-04-GuiZhou-Youji.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/life/travel/2017-10-10-Best-Travel-Tips.md" afterPath="$PROJECT_DIR$/_posts/life/travel/2017-10-10-Best-Travel-Tips.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/me/2016-01-01-Moods.md" afterPath="$PROJECT_DIR$/_posts/me/2016-01-01-Moods.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/me/2016-10-10-Quote.md" afterPath="$PROJECT_DIR$/_posts/me/2016-10-10-Quote.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/me/2018-06-06-Milestone.md" afterPath="$PROJECT_DIR$/_posts/me/2018-06-06-Milestone.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/bigdata/2017-03-07-Spark-Project-Summary.md" afterPath="$PROJECT_DIR$/_posts/programming/bigdata/2017-03-07-Spark-Project-Summary.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/bigdata/2017-03-14-Google-Dapper-Note.md" afterPath="$PROJECT_DIR$/_posts/programming/bigdata/2017-03-14-Google-Dapper-Note.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/bigdata/2017-07-31-Google-Paper-MapReduce.md" afterPath="$PROJECT_DIR$/_posts/programming/bigdata/2017-07-31-Google-Paper-MapReduce.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/bigdata/2017-09-21-Google-Paper-Bigtable.md" afterPath="$PROJECT_DIR$/_posts/programming/bigdata/2017-09-21-Google-Paper-Bigtable.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/bigdata/2017-10-25-Google-Paper-GFS.md" afterPath="$PROJECT_DIR$/_posts/programming/bigdata/2017-10-25-Google-Paper-GFS.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/bigdata/2018-02-26-Zipkin-Interview-Questions.md" afterPath="$PROJECT_DIR$/_posts/programming/bigdata/2018-02-26-Zipkin-Interview-Questions.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/bigdata/2018-02-26-Zipkin-Note.md" afterPath="$PROJECT_DIR$/_posts/programming/bigdata/2018-02-26-Zipkin-Note.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/concurrent/2014-06-10-BIO-NIO-BLOCK.md" afterPath="$PROJECT_DIR$/_posts/programming/concurrent/2014-06-10-BIO-NIO-BLOCK.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/concurrent/2014-06-13-Lower-Locker-Scope.md" afterPath="$PROJECT_DIR$/_posts/programming/concurrent/2014-06-13-Lower-Locker-Scope.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/concurrent/2014-07-21-Fast-Fail.md" afterPath="$PROJECT_DIR$/_posts/programming/concurrent/2014-07-21-Fast-Fail.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/concurrent/2015-06-22-JAVA-Performance-Problem.md" afterPath="$PROJECT_DIR$/_posts/programming/concurrent/2015-06-22-JAVA-Performance-Problem.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/concurrent/2015-07-15-15-Thread-Problem.md" afterPath="$PROJECT_DIR$/_posts/programming/concurrent/2015-07-15-15-Thread-Problem.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/concurrent/2015-07-22-Reactor-MyView.md" afterPath="$PROJECT_DIR$/_posts/programming/concurrent/2015-07-22-Reactor-MyView.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/concurrent/2016-06-19-Locks-Noun.md" afterPath="$PROJECT_DIR$/_posts/programming/concurrent/2016-06-19-Locks-Noun.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/concurrent/2016-07-21-Book-Box-Queue.md" afterPath="$PROJECT_DIR$/_posts/programming/concurrent/2016-07-21-Book-Box-Queue.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/database/2014-09-03-JDBC-Transactional.md" afterPath="$PROJECT_DIR$/_posts/programming/database/2014-09-03-JDBC-Transactional.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/database/2016-03-06-MySQL-Engine.md" afterPath="$PROJECT_DIR$/_posts/programming/database/2016-03-06-MySQL-Engine.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/database/2017-08-02-MySQL-Sharding.md" afterPath="$PROJECT_DIR$/_posts/programming/database/2017-08-02-MySQL-Sharding.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/database/2017-08-05-MySQL-Sharding-Approaches.md" afterPath="$PROJECT_DIR$/_posts/programming/database/2017-08-05-MySQL-Sharding-Approaches.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/javacore/2015-06-22-How-Coding.md" afterPath="$PROJECT_DIR$/_posts/programming/javacore/2015-06-22-How-Coding.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/javacore/2015-06-22-Socket-Commuicate.md" afterPath="$PROJECT_DIR$/_posts/programming/javacore/2015-06-22-Socket-Commuicate.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/javacore/2016-05-15-Computer-Networks.md" afterPath="$PROJECT_DIR$/_posts/programming/javacore/2016-05-15-Computer-Networks.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/javacore/2017-11-08-Randomly-Pickup-Elements-From-Collection.md" afterPath="$PROJECT_DIR$/_posts/programming/javacore/2017-11-08-Randomly-Pickup-Elements-From-Collection.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/kafka/2017-02-25-Kafka-Command.md" afterPath="$PROJECT_DIR$/_posts/programming/kafka/2017-02-25-Kafka-Command.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/kafka/2017-03-22-Kafka-Share.md" afterPath="$PROJECT_DIR$/_posts/programming/kafka/2017-03-22-Kafka-Share.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/kafka/2017-08-18-Kafka-Connect-Deploy.md" afterPath="$PROJECT_DIR$/_posts/programming/kafka/2017-08-18-Kafka-Connect-Deploy.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/kafka/2017-08-18-Kafka-Connect-Details.md" afterPath="$PROJECT_DIR$/_posts/programming/kafka/2017-08-18-Kafka-Connect-Details.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/kafka/2017-08-18-Kafka-Connect-Develop-Details.md" afterPath="$PROJECT_DIR$/_posts/programming/kafka/2017-08-18-Kafka-Connect-Develop-Details.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/kafka/2017-08-28-MySql-ETL-Using-Maxwell-Kafka-MaxwellSink.md" afterPath="$PROJECT_DIR$/_posts/programming/kafka/2017-08-28-MySql-ETL-Using-Maxwell-Kafka-MaxwellSink.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/kafka/2017-09-13-Kafka-Message-Delivery-Semantics.md" afterPath="$PROJECT_DIR$/_posts/programming/kafka/2017-09-13-Kafka-Message-Delivery-Semantics.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/kafka/2018-07-02-Kafka-Tutorial-Kafka-Install-Run-Pseudo-Cluster .md" afterPath="$PROJECT_DIR$/_posts/programming/kafka/2018-07-02-Kafka-Tutorial-Kafka-Install-Run-Pseudo-Cluster .md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/opensource/2014-06-17-Log-Series-Two.md" afterPath="$PROJECT_DIR$/_posts/programming/opensource/2014-06-17-Log-Series-Two.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/opensource/2014-06-21-Log-Series-Three.md" afterPath="$PROJECT_DIR$/_posts/programming/opensource/2014-06-21-Log-Series-Three.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/opensource/2015-04-29-Memcached-Deep-Analyze.md" afterPath="$PROJECT_DIR$/_posts/programming/opensource/2015-04-29-Memcached-Deep-Analyze.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/opensource/2015-06-21-Memcached-Note.md" afterPath="$PROJECT_DIR$/_posts/programming/opensource/2015-06-21-Memcached-Note.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/opensource/2015-06-22-ActiveMQ-Kahadb.md" afterPath="$PROJECT_DIR$/_posts/programming/opensource/2015-06-22-ActiveMQ-Kahadb.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/opensource/2015-06-29-MQ-Acquired-Function.md" afterPath="$PROJECT_DIR$/_posts/programming/opensource/2015-06-29-MQ-Acquired-Function.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/opensource/2015-08-13-Protobuf-Coder.md" afterPath="$PROJECT_DIR$/_posts/programming/opensource/2015-08-13-Protobuf-Coder.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/opensource/2015-09-10-Netty-2Question.md" afterPath="$PROJECT_DIR$/_posts/programming/opensource/2015-09-10-Netty-2Question.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/opensource/2015-09-21-ActiveMQInAction-Note.md" afterPath="$PROJECT_DIR$/_posts/programming/opensource/2015-09-21-ActiveMQInAction-Note.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/opensource/2016-05-29-Java-Spring-Properties.md" afterPath="$PROJECT_DIR$/_posts/programming/opensource/2016-05-29-Java-Spring-Properties.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/opensource/2018-06-12-Dubbo-Dynamic-Get-Interface-Implement.md" afterPath="$PROJECT_DIR$/_posts/programming/opensource/2018-06-12-Dubbo-Dynamic-Get-Interface-Implement.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/ops/2015-07-21-About-JMX.md" afterPath="$PROJECT_DIR$/_posts/programming/ops/2015-07-21-About-JMX.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/ops/2015-07-30-Elasticsearch-Sheild.md" afterPath="$PROJECT_DIR$/_posts/programming/ops/2015-07-30-Elasticsearch-Sheild.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/ops/2015-09-01-Git-Command.md" afterPath="$PROJECT_DIR$/_posts/programming/ops/2015-09-01-Git-Command.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/ops/2015-09-10-Shield Control.md" afterPath="$PROJECT_DIR$/_posts/programming/ops/2015-09-10-Shield Control.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/ops/2016-06-20-Maven-Assembly-Problem.md" afterPath="$PROJECT_DIR$/_posts/programming/ops/2016-06-20-Maven-Assembly-Problem.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/ops/2017-04-07-Intelligent-Automate-Ops.md" afterPath="$PROJECT_DIR$/_posts/programming/ops/2017-04-07-Intelligent-Automate-Ops.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/ops/2017-04-20-Emacs-Command.md" afterPath="$PROJECT_DIR$/_posts/programming/ops/2017-04-20-Emacs-Command.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/ops/2017-06-30-Linux-Shell.md" afterPath="$PROJECT_DIR$/_posts/programming/ops/2017-06-30-Linux-Shell.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/ops/2017-08-18-InfluxDB-Intro.md" afterPath="$PROJECT_DIR$/_posts/programming/ops/2017-08-18-InfluxDB-Intro.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/programdesign/2016-04-12-LogSys-Plugin.md" afterPath="$PROJECT_DIR$/_posts/programming/programdesign/2016-04-12-LogSys-Plugin.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/programdesign/2016-07-21-Book-Box-Queue.md" afterPath="$PROJECT_DIR$/_posts/programming/programdesign/2016-07-21-Book-Box-Queue.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/programdesign/2017-06-16-Unix-Design-Philosophy.md" afterPath="$PROJECT_DIR$/_posts/programming/programdesign/2017-06-16-Unix-Design-Philosophy.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/programdesign/2017-09-21-Rule-Engine-That's-Enough.md" afterPath="$PROJECT_DIR$/_posts/programming/programdesign/2017-09-21-Rule-Engine-That's-Enough.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/redis/2015-09-16-Redis-Distribute-MQ.md" afterPath="$PROJECT_DIR$/_posts/programming/redis/2015-09-16-Redis-Distribute-MQ.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/redis/2016-06-07-Redis-Lock.md" afterPath="$PROJECT_DIR$/_posts/programming/redis/2016-06-07-Redis-Lock.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/redis/2016-06-17-Redis-Keys.md" afterPath="$PROJECT_DIR$/_posts/programming/redis/2016-06-17-Redis-Keys.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/redis/2016-06-23-Redis-Sync-DB.md" afterPath="$PROJECT_DIR$/_posts/programming/redis/2016-06-23-Redis-Sync-DB.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/redis/2016-07-21-Spring-Redis-Pipeline.md" afterPath="$PROJECT_DIR$/_posts/programming/redis/2016-07-21-Spring-Redis-Pipeline.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/redis/2017-11-08-Redis-Expire-Mechanism.md" afterPath="$PROJECT_DIR$/_posts/programming/redis/2017-11-08-Redis-Expire-Mechanism.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/redis/2017-11-13-Distributed-Locks-With-Redis.md" afterPath="$PROJECT_DIR$/_posts/programming/redis/2017-11-13-Distributed-Locks-With-Redis.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/redis/2017-11-14-Redis-Partition.md" afterPath="$PROJECT_DIR$/_posts/programming/redis/2017-11-14-Redis-Partition.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/programming/redis/2018-04-23-Redis-Monitoring-Solutions.md" afterPath="$PROJECT_DIR$/_posts/programming/redis/2018-04-23-Redis-Monitoring-Solutions.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/economy/2015-01-26-Dollar-Blade.md" afterPath="$PROJECT_DIR$/_posts/trade/economy/2015-01-26-Dollar-Blade.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/future/2016-02-15-Future-And-Zen.md" afterPath="$PROJECT_DIR$/_posts/trade/future/2016-02-15-Future-And-Zen.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/future/2016-02-15-Pottage-Geek-Opportunity.md" afterPath="$PROJECT_DIR$/_posts/trade/future/2016-02-15-Pottage-Geek-Opportunity.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/future/2016-02-19-PVC-Trade-Dairy.md" afterPath="$PROJECT_DIR$/_posts/trade/future/2016-02-19-PVC-Trade-Dairy.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/future/2016-02-25-Future-Recent-Summary.md" afterPath="$PROJECT_DIR$/_posts/trade/future/2016-02-25-Future-Recent-Summary.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/future/2016-03-02-Begin-Short-Trade.md" afterPath="$PROJECT_DIR$/_posts/trade/future/2016-03-02-Begin-Short-Trade.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/future/2016-03-14-Fight-And-Withdraw.md" afterPath="$PROJECT_DIR$/_posts/trade/future/2016-03-14-Fight-And-Withdraw.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/future/2016-03-15-Fuck-RB-Continue.md" afterPath="$PROJECT_DIR$/_posts/trade/future/2016-03-15-Fuck-RB-Continue.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/future/2016-03-15-Future-Profit.md" afterPath="$PROJECT_DIR$/_posts/trade/future/2016-03-15-Future-Profit.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/future/2016-03-17-RB-Fucked.md" afterPath="$PROJECT_DIR$/_posts/trade/future/2016-03-17-RB-Fucked.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/future/2018-03-29-Why-Do-Wrong.md" afterPath="$PROJECT_DIR$/_posts/trade/future/2018-03-29-Why-Do-Wrong.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/future/2018-05-07-DouPo-Diary.md" afterPath="$PROJECT_DIR$/_posts/trade/future/2018-05-07-DouPo-Diary.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/porker/2015-05-11-SNG-Game-Record-One.md" afterPath="$PROJECT_DIR$/_posts/trade/porker/2015-05-11-SNG-Game-Record-One.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/porker/2016-05-05-Texas-Holdem-Poker-Term.md" afterPath="$PROJECT_DIR$/_posts/trade/porker/2016-05-05-Texas-Holdem-Poker-Term.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/porker/2016-05-14-LittleCard-SmallPot.md" afterPath="$PROJECT_DIR$/_posts/trade/porker/2016-05-14-LittleCard-SmallPot.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/porker/2016-05-15-Porker-Fish.md" afterPath="$PROJECT_DIR$/_posts/trade/porker/2016-05-15-Porker-Fish.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/porker/2016-05-17-Porker-Summary.md" afterPath="$PROJECT_DIR$/_posts/trade/porker/2016-05-17-Porker-Summary.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/porker/2016-05-22-Problem-Play.md" afterPath="$PROJECT_DIR$/_posts/trade/porker/2016-05-22-Problem-Play.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/porker/2016-06-04-Gamble-Summary.md" afterPath="$PROJECT_DIR$/_posts/trade/porker/2016-06-04-Gamble-Summary.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/porker/2016-06-05-Inspiration-Of-Old-Gambler.md" afterPath="$PROJECT_DIR$/_posts/trade/porker/2016-06-05-Inspiration-Of-Old-Gambler.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/porker/2016-06-13-Little-Green-Book-Note.md" afterPath="$PROJECT_DIR$/_posts/trade/porker/2016-06-13-Little-Green-Book-Note.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/porker/2016-06-19-SNG-5-7.md" afterPath="$PROJECT_DIR$/_posts/trade/porker/2016-06-19-SNG-5-7.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/porker/2016-06-26-Serveral-Hands.md" afterPath="$PROJECT_DIR$/_posts/trade/porker/2016-06-26-Serveral-Hands.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2013-07-11-Ten-Bubble.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2013-07-11-Ten-Bubble.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2014-06-07-Little-Suggesion.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2014-06-07-Little-Suggesion.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2014-07-28-Shen-Tian-MaA.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2014-07-28-Shen-Tian-MaA.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2014-08-08-Look-True-After-False.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2014-08-08-Look-True-After-False.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2014-08-24-Story-Of-Bull.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2014-08-24-Story-Of-Bull.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2014-10-13-Hunting-Market-Prejudice.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2014-10-13-Hunting-Market-Prejudice.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-01-19-Stock-Disasters-In-China.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2015-01-19-Stock-Disasters-In-China.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-02-21-FireStock-SixCheats.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2015-02-21-FireStock-SixCheats.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-03-08-Road-Of-Trade.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2015-03-08-Road-Of-Trade.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-03-27-Speculator.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2015-03-27-Speculator.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-04-05-Bull-Stock-How-Fast.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2015-04-05-Bull-Stock-How-Fast.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-06-30-Stock-Mark-Pic.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2015-06-30-Stock-Mark-Pic.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-07-16-Spec-Train-Methon.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2015-07-16-Spec-Train-Methon.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-08-29-Little-Trader.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2015-08-29-Little-Trader.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-09-10-Pressure-Support-Resist-2Confirm-FlaseBreakout.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2015-09-10-Pressure-Support-Resist-2Confirm-FlaseBreakout.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-09-30-Pretty-Bitch-Characteristic.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2015-09-30-Pretty-Bitch-Characteristic.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-10-12-Aidi-Interview.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2015-10-12-Aidi-Interview.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-10-13-Now-Desire.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2015-10-13-Now-Desire.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-10-20-Logical-Reasoning-OverAndOverAgain .md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2015-10-20-Logical-Reasoning-OverAndOverAgain .md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-11-03-Recent-Observation.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2015-11-03-Recent-Observation.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-12-02-Trade-Diary20151202.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2015-12-02-Trade-Diary20151202.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-12-03-Differ-Think.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2015-12-03-Differ-Think.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-12-08-GerErSx.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2015-12-08-GerErSx.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-02-04-Trade-Foreign-Website.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2016-02-04-Trade-Foreign-Website.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-02-05-Snow-Ball-Post.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2016-02-05-Snow-Ball-Post.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-02-14-Become2-Sucessful-Trade.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2016-02-14-Become2-Sucessful-Trade.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-02-15-Top-Trader-Road.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2016-02-15-Top-Trader-Road.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-02-15-Trade-Art-And-Heart-Freedom.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2016-02-15-Trade-Art-And-Heart-Freedom.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-03-09-Stock-Diamond-Sutra.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2016-03-09-Stock-Diamond-Sutra.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-03-10-Recent-Trade-Summary.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2016-03-10-Recent-Trade-Summary.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-03-15-TianYa-Great-Post.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2016-03-15-TianYa-Great-Post.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-04-29-Stock-EasyTalk.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2016-04-29-Stock-EasyTalk.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-04-29-Zhen-Dang.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2016-04-29-Zhen-Dang.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-04-30-Perfect-Buy-Point.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2016-04-30-Perfect-Buy-Point.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-05-05-Shen-Gong.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2016-05-05-Shen-Gong.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-05-17-Start-From-Possibility.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2016-05-17-Start-From-Possibility.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-08-10-Unconscious-Omniscient.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2016-08-10-Unconscious-Omniscient.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-08-15-Exterior-To-Interior.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2016-08-15-Exterior-To-Interior.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-08-16-Power-Not-Price.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2016-08-16-Power-Not-Price.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-08-18-Little-Egg-Pain.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2016-08-18-Little-Egg-Pain.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-08-31-Know-Pathway.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2016-08-31-Know-Pathway.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-09-23-About-Wanke-Recent.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2016-09-23-About-Wanke-Recent.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-12-10-Learn-Trade.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2016-12-10-Learn-Trade.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-12-23-Process-Of-Trend.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2016-12-23-Process-Of-Trend.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2017-01-09-Three-Points-Open-A-Position.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2017-01-09-Three-Points-Open-A-Position.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/stock/2018-07-24-Speculate-These-Years-This-Low-Level.md" afterPath="$PROJECT_DIR$/_posts/trade/stock/2018-07-24-Speculate-These-Years-This-Low-Level.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2013-11-13-Trade-Idea.md" afterPath="$PROJECT_DIR$/_posts/trade/tradesystem/2013-11-13-Trade-Idea.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2014-08-20-Againt-Breakout-System.md" afterPath="$PROJECT_DIR$/_posts/trade/tradesystem/2014-08-20-Againt-Breakout-System.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2015-03-01-Sky-Ladder-Strategy.md" afterPath="$PROJECT_DIR$/_posts/trade/tradesystem/2015-03-01-Sky-Ladder-Strategy.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2015-03-06-Three-Level-Risk.md" afterPath="$PROJECT_DIR$/_posts/trade/tradesystem/2015-03-06-Three-Level-Risk.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2015-03-11-Construct-Your-Own-TradeSystem.md" afterPath="$PROJECT_DIR$/_posts/trade/tradesystem/2015-03-11-Construct-Your-Own-TradeSystem.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2015-03-20-Some-Trade-Strategy.md" afterPath="$PROJECT_DIR$/_posts/trade/tradesystem/2015-03-20-Some-Trade-Strategy.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2015-09-02-Machine-Trade-System.md" afterPath="$PROJECT_DIR$/_posts/trade/tradesystem/2015-09-02-Machine-Trade-System.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2016-02-15-Crane-Dojo-Trade-Essence .md" afterPath="$PROJECT_DIR$/_posts/trade/tradesystem/2016-02-15-Crane-Dojo-Trade-Essence .md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2016-02-15-Trade-Correct-Start.md" afterPath="$PROJECT_DIR$/_posts/trade/tradesystem/2016-02-15-Trade-Correct-Start.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2016-04-31-Art-Of-Trap.md" afterPath="$PROJECT_DIR$/_posts/trade/tradesystem/2016-04-31-Art-Of-Trap.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2016-08-16-Right-Buyin-Occasion.md" afterPath="$PROJECT_DIR$/_posts/trade/tradesystem/2016-08-16-Right-Buyin-Occasion.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2016-08-24-This-Market.md" afterPath="$PROJECT_DIR$/_posts/trade/tradesystem/2016-08-24-This-Market.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2017-02-10-Speculate-Rational-Formula.md" afterPath="$PROJECT_DIR$/_posts/trade/tradesystem/2017-02-10-Speculate-Rational-Formula.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/website/seo/2017-08-25-NotOnly-SEO-But-HowTo-Think.md" afterPath="$PROJECT_DIR$/_posts/website/seo/2017-08-25-NotOnly-SEO-But-HowTo-Think.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/website/seo/2017-10-27-SEO-Institute-Summary.md" afterPath="$PROJECT_DIR$/_posts/website/seo/2017-10-27-SEO-Institute-Summary.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/website/webmaster/2017-09-12-HowTo-Free-Design-Make-ALogo-Online.md" afterPath="$PROJECT_DIR$/_posts/website/webmaster/2017-09-12-HowTo-Free-Design-Make-ALogo-Online.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/website/webmaster/2017-09-28-Personal-Website-BeiAn-Quickly.md" afterPath="$PROJECT_DIR$/_posts/website/webmaster/2017-09-28-Personal-Website-BeiAn-Quickly.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/website/webmaster/2017-10-13-Virtual-Host-301Redirect-Jekyll-Using-Htaccess.md" afterPath="$PROJECT_DIR$/_posts/website/webmaster/2017-10-13-Virtual-Host-301Redirect-Jekyll-Using-Htaccess.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/website/webmaster/2018-05-01-Free-HTTPS-SSL-Certification.md" afterPath="$PROJECT_DIR$/_posts/website/webmaster/2018-05-01-Free-HTTPS-SSL-Certification.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/website/webmaster/2018-05-16-QiNiu-Image-Hosting-Guard-Against-Flux-Attack.md" afterPath="$PROJECT_DIR$/_posts/website/webmaster/2018-05-16-QiNiu-Image-Hosting-Guard-Against-Flux-Attack.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/website/webmaster/2018-05-18-Github-Pages-Custom-Domain-HTTPS.md" afterPath="$PROJECT_DIR$/_posts/website/webmaster/2018-05-18-Github-Pages-Custom-Domain-HTTPS.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/website/webmaster/2018-05-18-Jgit-Realize-Twitter.md" afterPath="$PROJECT_DIR$/_posts/website/webmaster/2018-05-18-Jgit-Realize-Twitter.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/website/webmaster/2018-06-13-Github-Pages-Baidu-Index-Nginx.md" afterPath="$PROJECT_DIR$/_posts/website/webmaster/2018-06-13-Github-Pages-Baidu-Index-Nginx.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/website/webmaster/2018-06-20-Github-Pages-Baidu-Index-Tool.md" afterPath="$PROJECT_DIR$/_posts/website/webmaster/2018-06-20-Github-Pages-Baidu-Index-Tool.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/trade/stock.md" afterPath="$PROJECT_DIR$/pages/trade/stock.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -833,7 +17,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="photography.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/life/photography.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -913,12 +97,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="porker.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="porker.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/trade/porker.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stock.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/trade/stock.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -928,13 +125,6 @@
       </file>
       <file leaf-file-name="photography.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/img/header/photography.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default5.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/header/default5.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -1013,7 +203,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pages/trade/tradesystem.md" />
-        <option value="$PROJECT_DIR$/pages/trade/stock.md" />
         <option value="$PROJECT_DIR$/pages/growing/method.md" />
         <option value="$PROJECT_DIR$/_site/milestone.html" />
         <option value="$PROJECT_DIR$/assets/js/webfont.js" />
@@ -1063,6 +252,7 @@
         <option value="$PROJECT_DIR$/pages/creation/essay.md" />
         <option value="$PROJECT_DIR$/pages/growing/zen.md" />
         <option value="$PROJECT_DIR$/pages/trade/porker.md" />
+        <option value="$PROJECT_DIR$/pages/trade/stock.md" />
       </list>
     </option>
   </component>
@@ -1106,9 +296,9 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1398,6 +588,7 @@
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -1619,6 +810,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -1778,15 +975,16 @@
       <option name="presentableId" value="Default" />
       <updated>1541151240784</updated>
       <workItem from="1541151242211" duration="41057000" />
+      <workItem from="1542447390361" duration="725000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41057000" />
+    <option name="totallyTimeSpent" value="41782000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -1802,9 +1000,8 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.253125" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.253125" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33864543" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1812,10 +1009,11 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33864543" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1833,161 +1031,39 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/unsplash_9.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/typewriter-thumb.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/start-video-feeling-responsive-302x182.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/promo-video-start.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/presentation-feeling-responsive.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/pattern_concrete.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/mediaplayer_js-title.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/mediaplayer_js-thumb.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/mediaplayer_js-home.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/index.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/homepage_typography-thumb.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/homepage_typography.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/header_unsplash_leaf.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/header_unsplash_12.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/header_unsplash_9.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/header_unsplash_8.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/header_unsplash_7.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/header_unsplash_5.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/header_unsplash_4.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/header_unsplash_2-970x.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/header_unsplash_2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/header_unsplash_1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/header_typewriter.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/header_unsplash_6.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/header_homepage_13.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/header_roadmap_2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/header_roadmap_3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/header_drop.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/header-bus-thumb.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/header-bus.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/img/typewriter-thumb.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/start-video-feeling-responsive-302x182.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/promo-video-start.png" />
+    <entry file="file://$PROJECT_DIR$/img/presentation-feeling-responsive.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/pattern_concrete.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/mediaplayer_js-title.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/mediaplayer_js-thumb.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/mediaplayer_js-home.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/index.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/homepage_typography-thumb.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/homepage_typography.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/header_unsplash_leaf.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/header_unsplash_12.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/header_unsplash_9.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/header_unsplash_8.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/header_unsplash_7.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/header_unsplash_5.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/header_unsplash_4.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/header_unsplash_2-970x.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/header_unsplash_2.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/header_unsplash_1.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/header_typewriter.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/header_unsplash_6.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/header_homepage_13.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/header_roadmap_2.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/header_roadmap_3.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/header_drop.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/header-bus-thumb.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/header-bus.jpg" />
     <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
           <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1995,10 +1071,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
           <caret line="57" column="57" lean-forward="false" selection-start-line="57" selection-start-column="57" selection-end-line="57" selection-end-column="57" />
-          <folding>
-            <element signature="n#style#0;n#p#1;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#2;n#div#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2007,7 +1079,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="105">
             <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -2018,7 +1089,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="105">
             <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -2029,7 +1099,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="105">
             <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -2040,7 +1109,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="105">
             <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -2056,7 +1124,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="135">
             <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -2067,7 +1134,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="105">
             <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -2160,9 +1226,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/trade/porker.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/trade/stock.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
             <folding />
           </first_editor>
           <second_editor />

@@ -5,7 +5,7 @@ show_meta: false
 title: "股票"
 subheadline: ""
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "header/stock.jpg"
 permalink: "/stock/"
 ---
 <ul>
