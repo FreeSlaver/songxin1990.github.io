@@ -72,12 +72,9 @@
   - title: "里程碑"
     url: "/milestone.html"
 
-- title: 目录
+- title: "归档"
   url: "/blog/"
   side: left
-  dropdown:
-  - title: "归档"
-    url: "/blog/archive/"
 
 - title: "搜索"
   url: "/search/"

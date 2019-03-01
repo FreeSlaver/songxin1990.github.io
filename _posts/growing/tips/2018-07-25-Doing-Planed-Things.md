@@ -1,20 +1,17 @@
 ---
 layout: page
 breadcrumb: true
+published: false
 title: 做事要有规划性
 category: tips
 categoryStr: 小贴士
 tags: 公积金
 keywords:  公积金,商转公,公积金全额提取,规划性
-teaser: "This is a example of page/post with a sidebar on the left."
 breadcrumb: true
 description: 
 image:
     title: mediaplayer_js-title.jpg
-    thumb: mediaplayer_js-title.jpg
-    homepage: mediaplayer_js-title.jpg
-    caption: Photo by Corey Blaz
-    caption_url: https://blaz.photography/
+    thumb: header-bus-thumb.jpg
 ---
 
 
