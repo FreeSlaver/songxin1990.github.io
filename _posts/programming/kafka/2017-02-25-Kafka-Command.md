@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: Kafka命令
-category: bigdata
+category: kafka
 categoryStr: 大数据
 tags: kafka
 keywords: kafka command

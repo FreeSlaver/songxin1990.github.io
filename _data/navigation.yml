@@ -2,6 +2,29 @@
   url: "/"
   side: left
 
+- title: "编程"
+  url: "#"
+  side: left
+  dropdown:
+  - title: "Kafka"
+    url: "/kafka/"
+  - title: "开源"
+    url: "/opensource/"
+  - title: "大数据"
+    url: "/bigdata/"
+  - title: "数据库"
+    url: "/database/"
+  - title: "Redis"
+    url: "/redis/"
+  - title: "运维"
+    url: "/ops/"
+  - title: "Java基础"
+    url: "/javacore/"
+
+- title: 职场
+  url: "/career/"
+  side: left
+
 - title: "交易"
   url: "#"
   side: left
@@ -40,9 +63,7 @@
   - title: "网站建设"
     url: "/webmaster/"
 
-- title: 职场
-  url: "/career/"
-  side: left
+
 
 - title: "生活"
   url: "#"
@@ -68,9 +89,7 @@
   - title: "语录"
     url: "/quote.html"
   - title: "我"
-    url: "/me/"
-  - title: "里程碑"
-    url: "/milestone.html"
+    url: "/me.html"
 
 - title: "归档"
   url: "/blog/"

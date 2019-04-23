@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: 使用Maxwell Kafka做ETL同步Mysql
-category: bigdata
+category: kafka
 categoryStr: 大数据
 tags: kafka
 keywords: [maxwell,kafka,maxwell-sink,mysql,ETL,数据同步,教程]

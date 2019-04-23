@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: Apache Kafka技术分享
-category: bigdata
+category: kafka
 categoryStr: 大数据
 tags: kafka
 keywords: [kafka]

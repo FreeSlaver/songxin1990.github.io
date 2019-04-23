@@ -4,7 +4,7 @@ breadcrumb: true
 title: Kafka Connect教程详解
 redirect_from:
   - /2017/08/18/Kafka-Connect-Details.html
-category: bigdata
+category: kafka
 categoryStr: 大数据
 tags: kafka
 keywords: [kafka connect,kafka,教程]

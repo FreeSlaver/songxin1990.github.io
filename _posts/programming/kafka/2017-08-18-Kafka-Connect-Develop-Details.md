@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: Kafka Connect开发教程
-category: bigdata
+category: kafka
 categoryStr: 大数据
 tags: kafka
 keywords: [kafka connect,kafka,教程]
