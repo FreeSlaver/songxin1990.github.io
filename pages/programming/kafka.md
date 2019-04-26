@@ -5,7 +5,7 @@ show_meta: false
 title: "kafka"
 subheadline: ""
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "header/kafka.jpg"
 permalink: "/kafka/"
 ---
 <ul>
