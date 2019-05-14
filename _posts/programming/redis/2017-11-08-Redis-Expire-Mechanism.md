@@ -18,7 +18,7 @@ description:
 <li><a href="#sec-1-2">1.2. Redis键值2种失效方式</a></li>
 <li><a href="#sec-1-3">1.3. 应用场景</a></li>
 <li><a href="#sec-1-4">1.4. 失效后副本处理</a></li>
-<li><a href="#sec-1-5">1.5. Java实现Redis失效</a></li>
+<li><a href="#sec-1-5">1.5. 如何用Java实现类似Redis的失效机制</a></li>
 <li><a href="#sec-1-6">1.6. Redis Expire源码解读 TODO</a></li>
 <li><a href="#sec-1-7">1.7. 参考资料和扩展阅读</a></li>
 </ul>
@@ -38,8 +38,8 @@ EXPIRE mykey 10
 
 使用PERSIST命令去掉失效设置。  
 
-使用DEL,SET,GETSET,*STORE，那么失效时间会被清楚。    
-就是所有对值的修改动作，比如INCR,LPUSH.HSET等。  
+使用DEL,SET,GETSET,*STORE，那么失效时间会被清除。    
+就是所有对value的修改动作，比如INCR,LPUSH.HSET等，都会导致expire命令的失效。  
 
 ## Redis键值2种失效方式<a id="sec-1-2" name="sec-1-2"></a>
 
@@ -66,9 +66,9 @@ EXEC
 ```
 ## 失效后副本处理<a id="sec-1-4" name="sec-1-4"></a>
 
-当一个key失效后，一个DEL命令操作会被合成，并应用到AOF文件和所有的slaves上。
+当一个key失效后，一个DEL命令操作会被合成，并应用到AOF文件和所有的slavers上。
 
-## Java实现Redis失效<a id="sec-1-5" name="sec-1-5"></a>
+## 如何用Java实现类似Redis的失效机制<a id="sec-1-5" name="sec-1-5"></a>
 
     package com.song.saber.redis;
     
