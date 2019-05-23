@@ -12,14 +12,14 @@ permalink: "/archive/"
 		{% if page.teaser %}<p class="teaser">{{ page.teaser }}</p>{% endif %}
 
 		<dl class="accordion" data-accordion>
-			{% assign counter = 1 %}
+
 			{% for post in site.posts limit:1000 %}
 			<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
 			<dd class="accordion-navigation">
-				<span class="iconfont"></span> {% if post.subheadline %}{{ post.subheadline }} › {% endif %}<strong>{{ post.title }}</strong>
+				<span class="iconfont"></span> {% if post.subheadline %}{{ post.subheadline }} › {% endif %}
+				<strong>{{ post.title }}</strong>
 			</dd>
 			</a>
-			{% assign counter=counter | plus:1 %}
 			{% endfor %}
 		</dl>
 	</div><!-- /.small-12.columns -->
