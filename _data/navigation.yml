@@ -92,7 +92,7 @@
     url: "/me.html"
 
 - title: "归档"
-  url: "/blog/"
+  url: "/archive/"
   side: left
 
 - title: "搜索"
