@@ -4,14 +4,14 @@
 #   Idea by ericcarlisle.com
 #
 #   Variables › {{ url }} › site.url + site.baseurl
-#   Variables › {{ description }} › excerpt, page.meta_description, or site.description
+#   Variables › {{ description }} › excerpt, page.description, or site.description
 #   Variables › {{ title }} › page.title
 #
 {% endcomment %}{% capture ignore %}
 
 {% assign url = site.baseurl | prepend: site.url %}
 
-{% capture description %}{% if page.meta_description %}{{ page.meta_description }}{% elsif page.teaser %}{{ page.teaser }}{% elsif page.excerpt %}{{ page.excerpt }}{% elsif site.description %}{{ site.description }}{% endif %}{% endcapture %}
+{% capture description %}{% if page.description %}{{ page.description }}{% elsif page.teaser %}{{ page.teaser }}{% elsif page.excerpt %}{{ page.excerpt }}{% elsif site.description %}{{ site.description }}{% endif %}{% endcapture %}
 {% assign description = description | strip_html | escape | strip %}
 
 {% capture title %}{% if page.meta_title %}{{ page.meta_title}}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title | strip_html | strip }}{% endif %}{% endcapture %}

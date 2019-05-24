@@ -1,5 +1,5 @@
 ---
-permalink: /:categories/:title.html
+
 layout: page
 breadcrumb: true
 title: 个人网站快速备案

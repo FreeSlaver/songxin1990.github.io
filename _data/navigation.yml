@@ -29,6 +29,10 @@
   url: "#"
   side: left
   dropdown:
+  - title: "道"
+    url: "/tao/"
+  - title: "禅"
+    url: "/zen/"
   - title: "股票"
     url: "/stock/"
   - title: "期货"
@@ -50,8 +54,7 @@
     url: "/method/"
   - title: "小贴士"
     url: "/tips/"
-  - title: "禅"
-    url: "/zen/"
+
 
 
 - title: "站长"

@@ -6,7 +6,7 @@ category: javacore
 categoryStr: java基础
 tags: 
 keywords: 
-description: 
+description: 开放定址法，线性探测发，平行探测法，双散列函数探查法，链地址法等 
 ---
 
 ### 2.1 开放定址法
