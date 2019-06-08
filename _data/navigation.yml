@@ -2,6 +2,23 @@
   url: "/"
   side: left
 
+- title: "交易"
+  url: "#"
+  side: left
+  dropdown:
+  - title: "道"
+    url: "/tao/"
+  - title: "禅"
+    url: "/zen/"
+  - title: "股票"
+    url: "/stock/"
+  - title: "期货"
+    url: "/future/"
+  - title: "交易系统"
+    url: "/tradesystem/"
+  - title: "德州扑克"
+    url: "/porker/"
+
 - title: "编程"
   url: "#"
   side: left
@@ -25,22 +42,11 @@
   url: "/career/"
   side: left
 
-- title: "交易"
-  url: "#"
+- title: 读书
+  url: "/note/"
   side: left
-  dropdown:
-  - title: "道"
-    url: "/tao/"
-  - title: "禅"
-    url: "/zen/"
-  - title: "股票"
-    url: "/stock/"
-  - title: "期货"
-    url: "/future/"
-  - title: "交易系统"
-    url: "/tradesystem/"
-  - title: "德州扑克"
-    url: "/porker/"
+
+
 
 - title: "成长"
   url: "#"
@@ -48,8 +54,6 @@
   dropdown:
   - title: "书单"
     url: "/book/"
-  - title: "笔记"
-    url: "/note/"
   - title: "方法论"
     url: "/method/"
   - title: "小贴士"
@@ -57,31 +61,22 @@
 
 
 
-- title: "站长"
-  url: "#"
-  side: left
-  dropdown:
-  - title: "SEO"
-    url: "/seo/"
-  - title: "网站建设"
-    url: "/webmaster/"
-
-
-
 - title: "生活"
-  url: "#"
+  url: ""
   side: left
   dropdown:
   - title: "旅行"
-    url: "/travel/"
-  - title: "摄影"
     url: "/photography/"
-  - title: "影评"
-    url: "/film/"
+  - title: "生活"
+    url: "/life/"
   - title: "感想"
     url: "/essay/"
   - title: "废弃"
     url: "/trash/"
+
+- title: "站长"
+  url: "/webmaster/"
+  side: left
 
 - title: "关于"
   url: "#"

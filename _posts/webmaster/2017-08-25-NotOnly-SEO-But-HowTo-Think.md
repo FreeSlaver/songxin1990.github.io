@@ -2,8 +2,8 @@
 layout: page
 breadcrumb: true
 title: 不仅仅只是SEO，更是一种思考方式
-category: seo
-categoryStr: SEO
+category: webmaster
+categoryStr: 网站建设
 tags: [seo,think]
 keywords: seo
 description: 

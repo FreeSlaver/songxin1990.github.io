@@ -2,8 +2,8 @@
 layout: page
 breadcrumb: true
 title: 公司SEO讲座总结
-category: seo
-categoryStr: SEO
+category: webmaster
+categoryStr: 网站建设
 tags: [seo,summary]
 keywords: [seo]
 description: 

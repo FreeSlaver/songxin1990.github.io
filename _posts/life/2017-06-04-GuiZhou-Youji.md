@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: 贵州游记
-category: travel
+category: life
 categoryStr: 旅行
 tags: 
 keywords: 

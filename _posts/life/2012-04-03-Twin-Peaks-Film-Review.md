@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: 《双峰镇》影评
-category: film
+category: life
 categoryStr: 影评
 tags: [film review]
 keywords:
