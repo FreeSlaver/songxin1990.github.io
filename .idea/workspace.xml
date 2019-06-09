@@ -2,39 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcfb83da-d797-40ac-acb8-e73099aef821" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/career/2016-02-13-2015-Year-Summary.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/creation/note/2012-12-12-The-Catcher-In-The-Rye.md" afterPath="$PROJECT_DIR$/_posts/note/2012-12-12-The-Catcher-In-The-Rye.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/creation/note/2014-09-07-Orange-Girl.md" afterPath="$PROJECT_DIR$/_posts/note/2014-09-07-Orange-Girl.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/creation/note/2014-09-19-The-Little-Prince.md" afterPath="$PROJECT_DIR$/_posts/note/2014-09-19-The-Little-Prince.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/creation/note/2017-02-03-Sense-After-Funeral-Of-Muslim.md" afterPath="$PROJECT_DIR$/_posts/note/2017-02-03-Sense-After-Funeral-Of-Muslim.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/creation/note/2017-04-27-Open-Wechat-Official-Account.md" afterPath="$PROJECT_DIR$/_posts/note/2017-04-27-Open-Wechat-Official-Account.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/creation/note/2017-04-30-Art-Of-Learn-Note.md" afterPath="$PROJECT_DIR$/_posts/note/2017-04-30-Art-Of-Learn-Note.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/creation/note/2017-07-30-SteveJobs-Biography.md" afterPath="$PROJECT_DIR$/_posts/note/2017-07-30-SteveJobs-Biography.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/creation/note/2017-08-26-HowTo-Read-ABook-Note.md" afterPath="$PROJECT_DIR$/_posts/note/2017-08-26-HowTo-Read-ABook-Note.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/creation/note/2017-09-05-Are-Your-Lights-On-Note.md" afterPath="$PROJECT_DIR$/_posts/note/2017-09-05-Are-Your-Lights-On-Note.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/creation/note/2018-03-31-Learn-More-Study-Less-Note.md" afterPath="$PROJECT_DIR$/_posts/note/2018-03-31-Learn-More-Study-Less-Note.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/life/film/2012-04-03-Twin-Peaks-Film-Review.md" afterPath="$PROJECT_DIR$/_posts/life/2012-04-03-Twin-Peaks-Film-Review.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/life/travel/2017-06-04-GuiZhou-Youji.md" afterPath="$PROJECT_DIR$/_posts/life/2017-06-04-GuiZhou-Youji.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/life/travel/2017-10-10-Best-Travel-Tips.md" afterPath="$PROJECT_DIR$/_posts/life/2017-10-10-Best-Travel-Tips.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/website/seo/2017-08-25-NotOnly-SEO-But-HowTo-Think.md" afterPath="$PROJECT_DIR$/_posts/webmaster/2017-08-25-NotOnly-SEO-But-HowTo-Think.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/website/seo/2017-10-27-SEO-Institute-Summary.md" afterPath="$PROJECT_DIR$/_posts/webmaster/2017-10-27-SEO-Institute-Summary.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/website/webmaster/2017-09-12-HowTo-Free-Design-Make-ALogo-Online.md" afterPath="$PROJECT_DIR$/_posts/webmaster/2017-09-12-HowTo-Free-Design-Make-ALogo-Online.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/website/webmaster/2017-09-28-Personal-Website-BeiAn-Quickly.md" afterPath="$PROJECT_DIR$/_posts/webmaster/2017-09-28-Personal-Website-BeiAn-Quickly.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/website/webmaster/2017-10-13-Virtual-Host-301Redirect-Jekyll-Using-Htaccess.md" afterPath="$PROJECT_DIR$/_posts/webmaster/2017-10-13-Virtual-Host-301Redirect-Jekyll-Using-Htaccess.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/website/webmaster/2018-05-01-Free-HTTPS-SSL-Certification.md" afterPath="$PROJECT_DIR$/_posts/webmaster/2018-05-01-Free-HTTPS-SSL-Certification.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/website/webmaster/2018-05-16-QiNiu-Image-Hosting-Guard-Against-Flux-Attack.md" afterPath="$PROJECT_DIR$/_posts/webmaster/2018-05-16-QiNiu-Image-Hosting-Guard-Against-Flux-Attack.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/website/webmaster/2018-05-18-Github-Pages-Custom-Domain-HTTPS.md" afterPath="$PROJECT_DIR$/_posts/webmaster/2018-05-18-Github-Pages-Custom-Domain-HTTPS.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/website/webmaster/2018-05-18-Jgit-Realize-Twitter.md" afterPath="$PROJECT_DIR$/_posts/webmaster/2018-05-18-Jgit-Realize-Twitter.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/website/webmaster/2018-06-13-Github-Pages-Baidu-Index-Nginx.md" afterPath="$PROJECT_DIR$/_posts/webmaster/2018-06-13-Github-Pages-Baidu-Index-Nginx.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/website/webmaster/2018-06-20-Github-Pages-Baidu-Index-Tool.md" afterPath="$PROJECT_DIR$/_posts/webmaster/2018-06-20-Github-Pages-Baidu-Index-Tool.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/website/webmaster/2019-05-25-ShadowSocks-Install-Command.md" afterPath="$PROJECT_DIR$/_posts/webmaster/2019-05-25-ShadowSocks-Install-Command.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/header/seo.jpg" afterPath="$PROJECT_DIR$/img/header/webmaster.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/header/webmaster.jpg" afterPath="$PROJECT_DIR$/img/header/ana.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/career/2015-05-09-Plan-Of-Life-In-2015.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/career/2015-05-10-Hard-Choice.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/trade/stock/2015-06-06-Tao-Of-Firing-Stocks.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/share.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/social-share.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/navigation.yml" afterPath="$PROJECT_DIR$/_data/navigation.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/_footer.html" afterPath="$PROJECT_DIR$/_includes/_footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/_head.html" afterPath="$PROJECT_DIR$/_includes/_head.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/socialmedia.yml" afterPath="$PROJECT_DIR$/_data/socialmedia.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/_footer_scripts.html" afterPath="$PROJECT_DIR$/_includes/_footer_scripts.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/_share.html" afterPath="$PROJECT_DIR$/_includes/_share.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/_sidebar.html" afterPath="$PROJECT_DIR$/_includes/_sidebar.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="$PROJECT_DIR$/_layouts/page.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/assets/css/font-awesome.min.css" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,25 +29,22 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-06-25-Information-Era-Programmer's-Advantages.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/growing/efficient/2017-06-25-Information-Era-Programmer's-Advantages.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="page.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-05-01-Importance-Of-English.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/growing/efficient/2017-05-01-Importance-Of-English.md">
+      <file leaf-file-name="2015-06-06-Tao-Of-Firing-Stocks.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/trade/stock/2015-06-06-Tao-Of-Firing-Stocks.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor relative-caret-position="195">
+                <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -76,25 +52,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/pages-root-folder/index.md">
+      <file leaf-file-name="socialmedia.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_data/socialmedia.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2015-06-30-Stock-Mark-Pic.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/trade/stock/2015-06-30-Stock-Mark-Pic.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="frontpage.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/frontpage.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-177">
-              <caret line="76" column="23" lean-forward="false" selection-start-line="76" selection-start-column="23" selection-end-line="76" selection-end-column="23" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -102,32 +78,35 @@
       <file leaf-file-name="_footer.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/_footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="56" column="16" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="56" selection-end-column="16" />
+            <state relative-caret-position="446">
+              <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="navigation.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
+      <file leaf-file-name="_footer_scripts.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/_footer_scripts.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+            <state relative-caret-position="30">
+              <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="webmaster.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/header/webmaster.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="_share.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/_share.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="network.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_data/network.yml">
+      <file leaf-file-name="iconfont.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/fonts/iconfont.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -136,21 +115,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="socialmedia.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_data/socialmedia.yml">
+      <file leaf-file-name="iconfont.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/fonts/iconfont.svg">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+            <state relative-caret-position="-360">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/index.html">
+      <file leaf-file-name="iconfont.woff" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/fonts/iconfont.woff">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -172,6 +151,9 @@
       <find>counter</find>
       <find>comment</find>
       <find>meta_description</find>
+      <find>zhihu</find>
+      <find>github</find>
+      <find>stack-overflow</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -214,7 +196,6 @@
         <option value="$PROJECT_DIR$/blog/index.html" />
         <option value="$PROJECT_DIR$/pages/programming/kafka.md" />
         <option value="$PROJECT_DIR$/_posts/programming/javacore/2019-03-01-Java-HashMap-Mechanism.md" />
-        <option value="$PROJECT_DIR$/_includes/_footer_scripts.html" />
         <option value="$PROJECT_DIR$/_posts/website/webmaster/2017-09-28-Personal-Website-BeiAn-Quickly.md" />
         <option value="$PROJECT_DIR$/_posts/website/webmaster/2019-05-25-ShadowSocks-Install-Command.md" />
         <option value="$PROJECT_DIR$/_posts/programming/javacore/2019-03-15-Methods-To-Solve-Hash-Conflict.md" />
@@ -226,7 +207,6 @@
         <option value="$PROJECT_DIR$/pages/trade/zen.md" />
         <option value="$PROJECT_DIR$/pages/trade/tao.md" />
         <option value="$PROJECT_DIR$/_includes/_head.html" />
-        <option value="$PROJECT_DIR$/_layouts/page.html" />
         <option value="$PROJECT_DIR$/_posts/career/2016-02-13-2015-Year-Summary.md" />
         <option value="$PROJECT_DIR$/_posts/website/seo/2017-08-25-NotOnly-SEO-But-HowTo-Think.md" />
         <option value="$PROJECT_DIR$/_posts/website/seo/2017-10-27-SEO-Institute-Summary.md" />
@@ -235,6 +215,14 @@
         <option value="$PROJECT_DIR$/_posts/life/2017-10-10-Best-Travel-Tips.md" />
         <option value="$PROJECT_DIR$/_includes/_footer.html" />
         <option value="$PROJECT_DIR$/_data/navigation.yml" />
+        <option value="$PROJECT_DIR$/_posts/career/2015-05-09-Plan-Of-Life-In-2015.md" />
+        <option value="$PROJECT_DIR$/_posts/career/2015-05-10-Hard-Choice.md" />
+        <option value="$PROJECT_DIR$/assets/css/font-awesome.min.css" />
+        <option value="$PROJECT_DIR$/_data/socialmedia.yml" />
+        <option value="$PROJECT_DIR$/_includes/_footer_scripts.html" />
+        <option value="$PROJECT_DIR$/_includes/_share.html" />
+        <option value="$PROJECT_DIR$/_layouts/page.html" />
+        <option value="$PROJECT_DIR$/_posts/trade/stock/2015-06-06-Tao-Of-Firing-Stocks.md" />
       </list>
     </option>
   </component>
@@ -289,67 +277,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="songxin1990.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="songxin1990.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages-root-folder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="songxin1990.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="songxin1990.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="songxin1990.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="songxin1990.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_includes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="songxin1990.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="songxin1990.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_data" />
+              <option name="myItemId" value="_posts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -381,11 +309,11 @@
       <recent name="$PROJECT_DIR$/pages/trade" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts/trade/stock" />
+      <recent name="$PROJECT_DIR$/assets/js" />
+      <recent name="$PROJECT_DIR$/assets/css" />
       <recent name="$PROJECT_DIR$/_posts/career" />
       <recent name="$PROJECT_DIR$/img/header" />
-      <recent name="$PROJECT_DIR$/pages/trade" />
-      <recent name="$PROJECT_DIR$/_posts/trade/tao" />
-      <recent name="$PROJECT_DIR$/_posts/website/webmaster" />
     </key>
   </component>
   <component name="RunManager">
@@ -1168,12 +1096,12 @@
       <workItem from="1558596178106" duration="494000" />
       <workItem from="1558670170160" duration="31000" />
       <workItem from="1558672152494" duration="766000" />
-      <workItem from="1558684967861" duration="4932000" />
+      <workItem from="1558684967861" duration="7364000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18982000" />
+    <option name="totallyTimeSpent" value="21414000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -1196,7 +1124,7 @@
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2390625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1225,179 +1153,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/webmaster/2017-09-28-Personal-Website-BeiAn-Quickly.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/_navigation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/programming/javacore/2019-03-15-Methods-To-Solve-Hash-Conflict.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="69">
-            <caret line="8" column="45" lean-forward="false" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/archive.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/pages-root-folder/index.md.old">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/_pagination.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/trade/zen/2016-02-14-Wu-Dao.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/header/zen.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/header/tao.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/trade/tao.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/trade/zen.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/trade/tao/2019-05-24-Understand-Of-Dao-One-Two-Three.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="54">
-            <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/_head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="74" column="19" lean-forward="false" selection-start-line="74" selection-start-column="19" selection-end-line="74" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/compress.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/career/2017-02-03-Summarize2016-Outlook2017.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/career/2016-02-13-2015-Year-Summary.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="870">
-            <caret line="58" column="2" lean-forward="false" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/webmaster/2017-09-12-HowTo-Free-Design-Make-ALogo-Online.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/webmaster/2017-10-27-SEO-Institute-Summary.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1645,17 +1400,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/growing/efficient/2017-05-01-Importance-Of-English.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1683,6 +1427,11 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/header/webmaster.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_data/network.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1691,17 +1440,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/_footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="56" column="16" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="56" selection-end-column="16" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/_posts/growing/efficient/2017-05-01-Importance-Of-English.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/header/webmaster.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/_posts/career/2015-09-26-Day-Day-Up-Little.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/career/2016-01-20-Architect-Interview.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/career/2016-02-13-2015-Year-Summary.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/career/2015-05-09-Plan-Of-Life-In-2015.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/career/2015-05-10-Hard-Choice.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
@@ -1712,10 +1514,136 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1924">
+          <caret line="3" column="16168" lean-forward="false" selection-start-line="3" selection-start-column="16154" selection-end-line="3" selection-end-column="16168" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/_share.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="68" lean-forward="false" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/_sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/share.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/social-share.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/_share.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/fonts/iconfont.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/fonts/iconfont.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/fonts/iconfont.woff">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/_footer_scripts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/_footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/trade/stock/2015-06-30-Stock-Mark-Pic.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/trade/stock/2015-06-06-Tao-Of-Firing-Stocks.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="195">
+            <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_data/socialmedia.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        <state relative-caret-position="180">
+          <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
           <folding />
         </state>
       </provider>
