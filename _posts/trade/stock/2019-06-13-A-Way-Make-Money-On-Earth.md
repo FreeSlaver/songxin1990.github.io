@@ -2,12 +2,12 @@
 layout: page
 breadcrumb: true
 title: 到底有没一种赚钱的方法？
-category: stock
-categoryStr: 股票
-tags: stock,book
-keywords: 交易,stock,赚钱
-description: 我本应该放弃的，为什么却没有放弃？！在这个市场上，我赔赚的金额加起来都超过百万了。
-本来我来的时候只是想赚个几百万，还清一些债务，然后留个100万，去环游世界，最后找个地方度过余生， 
+category: stock 
+categoryStr: 股票 
+tags: stock,book 
+keywords: 交易,stock,赚钱 
+description: 我本应该放弃的，为什么却没有放弃？！在这个市场上，我赔赚的金额加起来都超过百万了。本来我来的时候只是想赚个几百万，还清一些债务，然后  留个100万，去环游世界，最后找个地方度过余生，   
+
 ---
 
 
