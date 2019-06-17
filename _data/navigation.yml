@@ -23,6 +23,8 @@
   url: "#"
   side: left
   dropdown:
+  - title: "架构设计"
+    url: "/programdesign/"
   - title: "Kafka"
     url: "/kafka/"
   - title: "开源"
