@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: 规则引擎？看这篇就够了
-category: programDesign
+category: programdesign
 categoryStr: 程序设计
 tags: [ruleengine]
 keywords: [规则引擎,方案,drools]
