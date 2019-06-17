@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: linux
-category: programDesign
+category: programdesign
 categoryStr: 程序设计
 tags: unix design
 keywords: 
