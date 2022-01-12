@@ -6,7 +6,7 @@
   url: "#"
   side: left
   dropdown:
-  - title: "道"
+  - title: "以股入道"
     url: "/tao/"
   - title: "禅"
     url: "/zen/"

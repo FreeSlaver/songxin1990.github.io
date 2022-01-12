@@ -2,22 +2,393 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcfb83da-d797-40ac-acb8-e73099aef821" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/career/2015-05-09-Plan-Of-Life-In-2015.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/career/2015-05-10-Hard-Choice.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/trade/stock/2015-06-06-Tao-Of-Firing-Stocks.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/share.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/social-share.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/socialmedia.yml" afterPath="$PROJECT_DIR$/_data/socialmedia.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/_footer_scripts.html" afterPath="$PROJECT_DIR$/_includes/_footer_scripts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/_share.html" afterPath="$PROJECT_DIR$/_includes/_share.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/_sidebar.html" afterPath="$PROJECT_DIR$/_includes/_sidebar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="$PROJECT_DIR$/_layouts/page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/assets/css/font-awesome.min.css" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/tao/2022-01-12-Stock-With-Tao-First.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/tao/2019-05-24-Understand-Of-Dao-One-Two-Three.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock/2019-05-24-Understand-Of-Dao-One-Two-Three.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2012-11-17-The-First-Time-Cook-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2012-11-17-The-First-Time-Cook-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2012-11-17-The-First-Time-Cook-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/20130304_sunflower.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-1.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-10.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-11.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-12.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-13.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-14.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-15.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-16.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-17.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-18.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-19.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-20.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-21.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-22.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-23.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-24.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-25.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-26.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-3.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-4.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-5.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-6.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-7.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-8.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-9.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-28-Shen-Tian-MaA-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-28-Shen-Tian-MaA-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2014-07-28-Shen-Tian-MaA-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2015-09-10-Pressure-Support-Resist-2Confirm-FlaseBreakout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/20150630-000797.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/20150630-002280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/20150630-60159.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-03-15-Fuck-RB-Continue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-05-14-LittleCard-SmallPot-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-05-14-LittleCard-SmallPot-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-05-14-LittleCard-SmallPot-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-05-14-LittleCard-SmallPot-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-05-14-LittleCard-SmallPot-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-05-14-LittleCard-SmallPot-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-05-14-Small-Pocket-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-05-14-Small-Pocket-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-05-14-Small-Pocket-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-05-14-Small-Pocket-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564751891-104-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564751891-104-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564751891-104.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564751891-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564751891-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564751891-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564751891-A10-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564751891-A10-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564751891-A10-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564751891-A10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564751891-Q10-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564751891-Q10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564751891.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T15647518915.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564752828.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-12-31-Hard-Work-Live-Hard-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2016-12-31-Hard-Work-Live-Hard-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/20160429-rb1610.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2017-02-03-Sense-After-Funeral-Of-Muslim.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2017-02-06-How2-Fast-Learn-language.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2017-03-14-Google-Dapper-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2017-03-14-Google-Dapper-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2017-03-14-Google-Dapper-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2017-03-14-Google-Dapper-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2017-09-21-Google-Paper-Bigtable1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2017-09-21-Google-Paper-Bigtable2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2017-09-21-Google-Paper-Bigtable3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2017-10-25-Google-Paper-GFS-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2017-10-25-Google-Paper-GFS-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2018-02-23-Zookeeper-Interview-Questions-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2018-02-26-Zipkin-Note-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2018-02-26-Zipkin-Note-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2018-03-31-Learn-More-Study-Less.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2018-04-04-Once-An-Ali-Interview-Record.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2018-04-12-Why-I-Refuse-Ali-T6-Offer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2018-04-23-Redis-Monitoring-Solutions-fiana.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2018-04-23-Redis-Monitoring-Solutions-info1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2018-04-23-Redis-Monitoring-Solutions-info2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2018-04-23-Redis-Monitoring-Solutions-live.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2018-04-23-Redis-Monitoring-Solutions-monitor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2018-04-23-Redis-Monitoring-Solutions-redmon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2018-04-23-Redis-Monitoring-Solutions-state-cmd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2018-04-23-Redis-Monitoring-Solutions-state-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2018-05-18-Github-Pages-Custom-Domain-HTTPS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2018-06-20-Github-Pages-Baidu-Index-Tool-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2018-06-20-Github-Pages-Baidu-Index-Tool-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/2018-06-20-Github-Pages-Baidu-Index-Tool-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/3gods-intro-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/3gods-intro-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/3gods-intro-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/5fdf8db1cb13495400444bda574e9258d1094a31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Air_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Air_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Air_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0060.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0061.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0063.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0067.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0075.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0078.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0093.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0094.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0096.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0105.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0118.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0133.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0147.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0152.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0156.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0157.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0159.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0162.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0165.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0168.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0172.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0178.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0181.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0187.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0189.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0203.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0214.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0220.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0221.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0222.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0223.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0230.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0239.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0244.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0258.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0260.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0261.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0262.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0272.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0286.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0296.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0302.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0307.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0310.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0316.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0326.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0333.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0338.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0343.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0376.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0381.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0404.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0414.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0430.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0431.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0444.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0504.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0509.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0534.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0553.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0558.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0579.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0592.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0629.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0634.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0640.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0660.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0676.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0678.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0685.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0697.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0701.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0710.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0712.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0715.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0717.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0724.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0736.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0739.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0748.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0757.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0780.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0814.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0823.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0828.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0838.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0840.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0849.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0854.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0864.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0888.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0897.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/DSC_0911.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/ElDorado.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Little-Green-Book-Note.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Locks-Noun_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Locks-Noun_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Locks-Noun_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Locks-Noun_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Lost.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Perfect.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/PerfectCircle.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1558534022-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1558534022-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1558534022-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1558534022-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1558570535-luck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559016462-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559016462-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559038840-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559038840-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559042268-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559042268-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559042268-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559042268-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559078271-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559078271-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559078271-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559080081-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559080081-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559121553-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559121553-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559121553-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559269108-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559269108-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559269108-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Serpiente_alquimica.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Sunrise.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0050.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0067.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0071.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0074.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0079.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0099.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0106.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0115.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0118.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0167.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0177.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0179.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0191.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0197.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0202.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0219.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0223.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0226.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0227.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0237.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0240.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0254.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0257.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0263.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0271.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0275.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0287.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0298.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0302.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0307.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0311.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0312.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0319.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0324.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0326.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0329.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0341.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0346.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0350.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0351.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0355.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0366.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0379.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0381.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0393.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0395.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0407.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0416.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0417.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0418.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0421.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/TheosophicalSocietyBudapest.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/ViolinConcerto.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/atRiver.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/ca40d0b70035fa8aeece2180e00ad853.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/fav.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/kafka_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/kafka_architecture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/kafka_architecture2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/kafka_consumer_group.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/kafka_failover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/kafka_failover_consumer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/kafka_features.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/kafka_manager.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/kafka_topic_desc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/kafka_vs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/kafka_zookeeper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/kakfka_message_stream.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/looksky.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/macau.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/mysqlSync-maxwell-kafka-maxwellsink.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/o_music_note_big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/ourboros-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/ourboros-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/ourboros-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/ourboros-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/ouroboros logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/porkerbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/smile.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/sucks_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/life/wechat.jpg" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,117 +396,6 @@
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="page.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2015-06-06-Tao-Of-Firing-Stocks.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/trade/stock/2015-06-06-Tao-Of-Firing-Stocks.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="195">
-                <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="socialmedia.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_data/socialmedia.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2015-06-30-Stock-Mark-Pic.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/trade/stock/2015-06-30-Stock-Mark-Pic.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="3" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_footer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/_footer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_footer_scripts.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/_footer_scripts.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_share.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/_share.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="iconfont.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/fonts/iconfont.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="iconfont.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/fonts/iconfont.svg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-360">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="iconfont.woff" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/fonts/iconfont.woff">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -237,6 +497,7 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
+  <component name="ProjectId" id="23aSTjTEKvFT23o8y5MC2b0YMBF" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -288,70 +549,41 @@
       <pane id="Scratches" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="FullScreen" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/trade/tao" />
+    <property name="nodejs_interpreter_path" value="node" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
-    <property name="js.eslint.eslintPackage" value="" />
-    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="FullScreen" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
-      <recent name="$PROJECT_DIR$/_posts/life" />
-      <recent name="$PROJECT_DIR$/_posts/webmaster" />
-      <recent name="$PROJECT_DIR$/_posts/website/webmaster" />
-      <recent name="$PROJECT_DIR$/pages/trade" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\songxin1990.github.io\_posts\trade\tao" />
       <recent name="$PROJECT_DIR$/_posts/trade/stock" />
       <recent name="$PROJECT_DIR$/assets/js" />
       <recent name="$PROJECT_DIR$/assets/css" />
       <recent name="$PROJECT_DIR$/_posts/career" />
-      <recent name="$PROJECT_DIR$/img/header" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\songxin1990.github.io\_posts\trade\stock" />
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/_posts/life" />
+      <recent name="$PROJECT_DIR$/_posts/webmaster" />
+      <recent name="$PROJECT_DIR$/_posts/website/webmaster" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <method />
-    </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -387,100 +619,7 @@
       <module />
       <method />
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
     <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
@@ -586,31 +725,6 @@
       <option name="trusted" value="true" />
       <method />
     </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
-      <setting name="vmparams" value="" />
-      <setting name="cmdLine" value="run-app" />
-      <setting name="passParentEnv" value="true" />
-      <setting name="launchBrowser" value="true" />
-      <setting name="launchBrowserUrl" value="" />
-      <setting name="depsClasspath" value="false" />
-      <method />
-    </configuration>
     <configuration default="true" type="JRubyCucumberRunConfigurationType" factoryName="JRuby Cucumber">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -640,82 +754,6 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="songxin1990.github.io" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -802,14 +840,6 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
     <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -842,40 +872,6 @@
       <classRegexps />
       <testRegexps />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
       <method />
     </configuration>
     <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
@@ -916,22 +912,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <module name="songxin1990.github.io" />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
@@ -1067,15 +1047,130 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SbtLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="dcfb83da-d797-40ac-acb8-e73099aef821" name="Default" comment="" />
@@ -1097,6 +1192,7 @@
       <workItem from="1558670170160" duration="31000" />
       <workItem from="1558672152494" duration="766000" />
       <workItem from="1558684967861" duration="7364000" />
+      <workItem from="1641970717440" duration="388000" />
     </task>
     <servers />
   </component>
@@ -1139,14 +1235,18 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="3" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
