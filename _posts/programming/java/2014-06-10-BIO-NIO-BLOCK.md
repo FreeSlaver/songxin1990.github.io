@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: 同步，异步，阻塞，非阻塞
-category: concurrent
+category: java
 categoryStr: 并发
 tags: 
 keywords: 

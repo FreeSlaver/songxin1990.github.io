@@ -2,8 +2,8 @@
 layout: page
 breadcrumb: true
 title: 日志系统handler之日志清洗插件热插播的实现
-category: programdesign
-categoryStr: 程序设计
+category: java
+categoryStr: java
 tags: 
 keywords: 
 description: 

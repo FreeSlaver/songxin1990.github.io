@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: Reactor之我见
-category: concurrent
+category: java
 categoryStr: 并发
 tags: 
 keywords: 

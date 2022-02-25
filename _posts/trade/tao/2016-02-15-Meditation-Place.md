@@ -2,10 +2,10 @@
 layout: page
 breadcrumb: true
 title: 禅修的好地方
-category: zen
+category: tao
 categoryStr: 禅
 tags: 
-keywords: zen
+keywords: tao
 description: 
 ---
 

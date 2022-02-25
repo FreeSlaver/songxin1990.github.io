@@ -2,392 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcfb83da-d797-40ac-acb8-e73099aef821" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/trade/tao/2022-01-12-Stock-With-Tao-First.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/career/interview/2022-02-01-Redis-Interview-QandA.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock/2022-02-06-Stock-Essence-Ten-Lecture-One.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock/2022-02-07-Stock-Essence-Ten-Lecture-Two.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock/2022-02-08-Stock-Essence-Ten-Lecture-Three.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock/2022-02-08-Stock-Newbee-Defence-Three-Tricks-Method.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock/2022-02-09-Stock-Newbee-Defence-Three-Tricks-StopLose.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/tao/2019-05-24-Understand-Of-Dao-One-Two-Three.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock/2019-05-24-Understand-Of-Dao-One-Two-Three.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2012-11-17-The-First-Time-Cook-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2012-11-17-The-First-Time-Cook-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2012-11-17-The-First-Time-Cook-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/20130304_sunflower.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-02-23-Netherlands-flower-town-9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-1.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-10.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-11.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-12.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-13.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-14.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-15.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-16.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-17.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-18.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-19.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-2.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-20.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-21.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-22.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-23.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-24.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-25.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-26.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-3.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-4.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-5.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-6.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-7.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-8.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-20-ShenZhen-Cosplay-9.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-28-Shen-Tian-MaA-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-28-Shen-Tian-MaA-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2014-07-28-Shen-Tian-MaA-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2015-05-31-Guang-Zhou-9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2015-09-10-Pressure-Support-Resist-2Confirm-FlaseBreakout.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/20150630-000797.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/20150630-002280.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/20150630-60159.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-03-15-Fuck-RB-Continue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-05-14-LittleCard-SmallPot-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-05-14-LittleCard-SmallPot-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-05-14-LittleCard-SmallPot-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-05-14-LittleCard-SmallPot-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-05-14-LittleCard-SmallPot-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-05-14-LittleCard-SmallPot-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-05-14-Small-Pocket-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-05-14-Small-Pocket-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-05-14-Small-Pocket-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-05-14-Small-Pocket-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564751891-104-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564751891-104-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564751891-104.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564751891-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564751891-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564751891-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564751891-A10-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564751891-A10-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564751891-A10-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564751891-A10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564751891-Q10-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564751891-Q10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564751891.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T15647518915.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-05-21-Problem-Play-T1564752828.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-12-31-Hard-Work-Live-Hard-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2016-12-31-Hard-Work-Live-Hard-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/20160429-rb1610.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2017-02-03-Sense-After-Funeral-Of-Muslim.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2017-02-06-How2-Fast-Learn-language.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2017-03-14-Google-Dapper-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2017-03-14-Google-Dapper-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2017-03-14-Google-Dapper-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2017-03-14-Google-Dapper-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2017-09-21-Google-Paper-Bigtable1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2017-09-21-Google-Paper-Bigtable2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2017-09-21-Google-Paper-Bigtable3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2017-10-25-Google-Paper-GFS-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2017-10-25-Google-Paper-GFS-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2018-02-23-Zookeeper-Interview-Questions-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2018-02-26-Zipkin-Note-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2018-02-26-Zipkin-Note-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2018-03-31-Learn-More-Study-Less.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2018-04-04-Once-An-Ali-Interview-Record.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2018-04-12-Why-I-Refuse-Ali-T6-Offer.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2018-04-23-Redis-Monitoring-Solutions-fiana.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2018-04-23-Redis-Monitoring-Solutions-info1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2018-04-23-Redis-Monitoring-Solutions-info2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2018-04-23-Redis-Monitoring-Solutions-live.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2018-04-23-Redis-Monitoring-Solutions-monitor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2018-04-23-Redis-Monitoring-Solutions-redmon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2018-04-23-Redis-Monitoring-Solutions-state-cmd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2018-04-23-Redis-Monitoring-Solutions-state-web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2018-05-18-Github-Pages-Custom-Domain-HTTPS.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2018-06-20-Github-Pages-Baidu-Index-Tool-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2018-06-20-Github-Pages-Baidu-Index-Tool-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/2018-06-20-Github-Pages-Baidu-Index-Tool-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/3gods-intro-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/3gods-intro-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/3gods-intro-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/5fdf8db1cb13495400444bda574e9258d1094a31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Air_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Air_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Air_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0021.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0034.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0045.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0049.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0060.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0061.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0063.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0067.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0075.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0078.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0093.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0094.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0096.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0100.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0105.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0111.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0118.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0133.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0147.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0152.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0156.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0157.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0159.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0162.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0165.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0168.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0172.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0178.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0181.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0187.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0189.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0203.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0214.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0220.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0221.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0222.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0223.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0230.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0239.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0244.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0258.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0260.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0261.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0262.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0272.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0280.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0286.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0296.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0302.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0307.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0310.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0316.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0326.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0333.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0338.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0343.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0376.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0381.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0404.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0414.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0430.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0431.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0444.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0504.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0509.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0534.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0553.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0558.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0579.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0592.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0600.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0629.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0634.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0640.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0660.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0676.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0678.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0685.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0697.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0701.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0710.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0712.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0715.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0717.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0724.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0736.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0739.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0748.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0757.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0780.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0814.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0823.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0828.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0838.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0840.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0849.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0854.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0864.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0888.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0897.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/DSC_0911.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/ElDorado.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Little-Green-Book-Note.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Locks-Noun_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Locks-Noun_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Locks-Noun_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Locks-Noun_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Lost.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Perfect.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/PerfectCircle.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1558534022-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1558534022-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1558534022-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1558534022-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1558570535-luck.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559016462-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559016462-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559038840-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559038840-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559042268-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559042268-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559042268-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559042268-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559078271-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559078271-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559078271-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559080081-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559080081-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559121553-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559121553-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559121553-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559269108-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559269108-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/SNG5-20160506-T1559269108-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Serpiente_alquimica.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Sunrise.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0006.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0010.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0016.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0020.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0026.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0036.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0050.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0067.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0071.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0074.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0079.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0099.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0106.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0115.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0118.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0167.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0177.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0179.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0191.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0197.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0202.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0219.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0223.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0226.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0227.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0237.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0240.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0254.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0257.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0263.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0271.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0275.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0280.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0287.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0298.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0302.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0307.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0311.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0312.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0319.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0324.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0326.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0329.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0341.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0346.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0350.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0351.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0355.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0366.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0379.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0381.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0393.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0395.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0407.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0416.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0417.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0418.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/Taiwan_0421.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/TheosophicalSocietyBudapest.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/ViolinConcerto.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/atRiver.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/ca40d0b70035fa8aeece2180e00ad853.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/fav.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/kafka_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/kafka_architecture.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/kafka_architecture2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/kafka_consumer_group.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/kafka_failover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/kafka_failover_consumer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/kafka_features.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/kafka_manager.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/kafka_topic_desc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/kafka_vs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/kafka_zookeeper.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/kakfka_message_stream.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/looksky.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/macau.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/mysqlSync-maxwell-kafka-maxwellsink.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/o_music_note_big.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/ourboros-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/ourboros-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/ourboros-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/ourboros-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/ouroboros logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/porkerbg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/smile.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/sucks_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/life/wechat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/me/1989-04-02-me.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/1989-04-02-me.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/me/2016-01-01-Moods.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/2016-01-01-Moods.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/me/2016-10-10-Quote.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/2016-10-10-Quote.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/programming/concurrent/2014-06-10-BIO-NIO-BLOCK.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2014-06-10-BIO-NIO-BLOCK.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/programming/concurrent/2014-06-13-Lower-Locker-Scope.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2014-06-13-Lower-Locker-Scope.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/programming/concurrent/2014-07-21-Fast-Fail.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2014-07-21-Fast-Fail.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/programming/concurrent/2015-06-22-JAVA-Performance-Problem.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2015-06-22-JAVA-Performance-Problem.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/programming/concurrent/2015-07-15-15-Thread-Problem.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2015-07-15-15-Thread-Problem.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/programming/concurrent/2015-07-22-Reactor-MyView.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2015-07-22-Reactor-MyView.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/programming/concurrent/2016-06-19-Locks-Noun.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2016-06-19-Locks-Noun.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/programming/concurrent/2016-07-21-Book-Box-Queue.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/programming/javacore/2015-06-22-How-Coding.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2015-06-22-How-Coding.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/programming/javacore/2015-06-22-Socket-Commuicate.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2015-06-22-Socket-Commuicate.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/programming/javacore/2016-05-15-Computer-Networks.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2016-05-15-Computer-Networks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/programming/javacore/2017-11-08-Randomly-Pickup-Elements-From-Collection.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2017-11-08-Randomly-Pickup-Elements-From-Collection.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/programming/javacore/2019-03-01-Java-HashMap-Mechanism.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2019-03-01-Java-HashMap-Mechanism.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/programming/javacore/2019-03-15-Methods-To-Solve-Hash-Conflict.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2019-03-15-Methods-To-Solve-Hash-Conflict.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/programming/programdesign/2016-04-12-LogSys-Plugin.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2016-04-12-LogSys-Plugin.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/programming/programdesign/2016-07-21-Book-Box-Queue.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2016-07-21-Book-Box-Queue.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/programming/programdesign/2017-06-16-Unix-Design-Philosophy.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2017-06-16-Unix-Design-Philosophy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/programming/programdesign/2017-09-21-Rule-Engine-That's-Enough.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2017-09-21-Rule-Engine-That's-Enough.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/programming/programdesign/2019-06-08-Delay-Queue-Retry-Design.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2019-06-08-Delay-Queue-Retry-Design.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/economy/2015-01-26-Dollar-Blade.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/future/2015-01-26-Dollar-Blade.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/zen/2016-02-14-Wu-Dao.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/tao/2016-02-14-Wu-Dao.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/zen/2016-02-15-Meditation-Place.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/tao/2016-02-15-Meditation-Place.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/zen/2016-04-30-Learn-Lotus-Position.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/tao/2016-04-30-Learn-Lotus-Position.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2017-08-25-NotOnly-SEO-But-HowTo-Think.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/webmaster/2017-08-25-NotOnly-SEO-But-HowTo-Think.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2017-09-12-HowTo-Free-Design-Make-ALogo-Online.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/webmaster/2017-09-12-HowTo-Free-Design-Make-ALogo-Online.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2017-09-28-Personal-Website-BeiAn-Quickly.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/webmaster/2017-09-28-Personal-Website-BeiAn-Quickly.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2017-10-13-Virtual-Host-301Redirect-Jekyll-Using-Htaccess.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/webmaster/2017-10-13-Virtual-Host-301Redirect-Jekyll-Using-Htaccess.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2017-10-27-SEO-Institute-Summary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/webmaster/2017-10-27-SEO-Institute-Summary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2018-05-01-Free-HTTPS-SSL-Certification.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/webmaster/2018-05-01-Free-HTTPS-SSL-Certification.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2018-05-16-QiNiu-Image-Hosting-Guard-Against-Flux-Attack.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/webmaster/2018-05-16-QiNiu-Image-Hosting-Guard-Against-Flux-Attack.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2018-05-18-Github-Pages-Custom-Domain-HTTPS.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/webmaster/2018-05-18-Github-Pages-Custom-Domain-HTTPS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2018-05-18-Jgit-Realize-Twitter.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/webmaster/2018-05-18-Jgit-Realize-Twitter.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2018-06-13-Github-Pages-Baidu-Index-Nginx.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/webmaster/2018-06-13-Github-Pages-Baidu-Index-Nginx.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2018-06-20-Github-Pages-Baidu-Index-Tool.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/webmaster/2018-06-20-Github-Pages-Baidu-Index-Tool.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2019-05-25-ShadowSocks-Install-Command.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/webmaster/2019-05-25-ShadowSocks-Install-Command.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -560,7 +220,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/trade/tao" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/trade/stock" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -569,18 +229,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\songxin1990.github.io\_posts\trade\stock" />
       <recent name="D:\songxin1990.github.io\_posts\trade\tao" />
       <recent name="$PROJECT_DIR$/_posts/trade/stock" />
       <recent name="$PROJECT_DIR$/assets/js" />
       <recent name="$PROJECT_DIR$/assets/css" />
-      <recent name="$PROJECT_DIR$/_posts/career" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\songxin1990.github.io\_posts\trade\stock" />
-      <recent name="$PROJECT_DIR$/_posts" />
-      <recent name="$PROJECT_DIR$/_posts/life" />
-      <recent name="$PROJECT_DIR$/_posts/webmaster" />
-      <recent name="$PROJECT_DIR$/_posts/website/webmaster" />
+      <recent name="D:\songxin1990.github.io\_posts\life" />
+      <recent name="D:\songxin1990.github.io\_posts\programming\java" />
+      <recent name="D:\songxin1990.github.io\_posts\programming\javacore" />
+      <recent name="D:\songxin1990.github.io\_posts\trade\future" />
+      <recent name="D:\songxin1990.github.io\_posts\trade\tao" />
     </key>
   </component>
   <component name="RunManager">
@@ -1192,7 +852,16 @@
       <workItem from="1558670170160" duration="31000" />
       <workItem from="1558672152494" duration="766000" />
       <workItem from="1558684967861" duration="7364000" />
-      <workItem from="1641970717440" duration="388000" />
+      <workItem from="1641970717440" duration="983000" />
+      <workItem from="1642405127135" duration="599000" />
+      <workItem from="1642584059201" duration="147000" />
+      <workItem from="1644150774637" duration="5391000" />
+      <workItem from="1644280164795" duration="1175000" />
+      <workItem from="1644301613749" duration="123000" />
+      <workItem from="1644303544621" duration="10547000" />
+      <workItem from="1644585321405" duration="637000" />
+      <workItem from="1645512781127" duration="7000" />
+      <workItem from="1645772613154" duration="2965000" />
     </task>
     <servers />
   </component>
@@ -1247,6 +916,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

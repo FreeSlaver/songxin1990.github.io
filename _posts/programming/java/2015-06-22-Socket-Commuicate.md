@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: 通信框架两种消息发送方式
-category: javacore
+category: java
 categoryStr: java基础
 tags: 
 keywords: 

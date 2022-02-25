@@ -8,8 +8,6 @@
   dropdown:
   - title: "以股入道"
     url: "/tao/"
-  - title: "禅"
-    url: "/zen/"
   - title: "股票"
     url: "/stock/"
   - title: "期货"
@@ -23,10 +21,10 @@
   url: "#"
   side: left
   dropdown:
+  - title: "面试"
+    url: "/interview/"
   - title: "Kafka"
     url: "/kafka/"
-  - title: "程序设计"
-    url: "/programdesign/"  
   - title: "开源"
     url: "/opensource/"
   - title: "大数据"
@@ -37,12 +35,13 @@
     url: "/redis/"
   - title: "运维"
     url: "/ops/"
-  - title: "Java基础"
-    url: "/javacore/"
+  - title: "Java"
+    url: "/java/"
 
 - title: 职场
   url: "/career/"
   side: left
+
 
 - title: 读书
   url: "/note/"
@@ -64,7 +63,7 @@
 
 
 - title: "生活"
-  url: ""
+  url: "/life/"
   side: left
   dropdown:
   - title: "旅行"
@@ -79,17 +78,6 @@
 - title: "站长"
   url: "/webmaster/"
   side: left
-
-- title: "关于"
-  url: "#"
-  side: left
-  dropdown:
-  - title: "心情"
-    url: "/moodwords.html"
-  - title: "语录"
-    url: "/quote.html"
-  - title: "我"
-    url: "/me.html"
 
 - title: "归档"
   url: "/archive/"

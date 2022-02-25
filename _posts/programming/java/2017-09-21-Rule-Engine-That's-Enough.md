@@ -2,8 +2,8 @@
 layout: page
 breadcrumb: true
 title: 规则引擎？看这篇就够了
-category: programdesign
-categoryStr: 程序设计
+category: java
+categoryStr: java
 tags: [ruleengine]
 keywords: [规则引擎,方案,drools]
 description: 

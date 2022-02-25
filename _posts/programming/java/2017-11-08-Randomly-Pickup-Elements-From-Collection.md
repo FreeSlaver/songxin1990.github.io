@@ -2,8 +2,8 @@
 layout: page
 breadcrumb: true
 title: 随机地从集合中取元素
-category: javacore
-categoryStr: java基础
+category: java
+categoryStr: java
 tags: 
 keywords: 
 description: 

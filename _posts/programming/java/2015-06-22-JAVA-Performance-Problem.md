@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: 10个常见性能优化问题
-category: concurrent
+category: java
 categoryStr: 并发
 tags: 
 keywords: 

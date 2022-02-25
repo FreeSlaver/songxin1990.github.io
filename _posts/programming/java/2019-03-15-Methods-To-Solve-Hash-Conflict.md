@@ -2,8 +2,8 @@
 layout: page
 breadcrumb: true
 title: 解决hash冲突的方法
-category: javacore
-categoryStr: java基础
+category: java
+categoryStr: java
 tags: 
 keywords: 
 description: 开放定址法，线性探测发，平行探测法，双散列函数探查法，链地址法等 

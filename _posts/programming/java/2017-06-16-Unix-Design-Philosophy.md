@@ -2,8 +2,8 @@
 layout: page
 breadcrumb: true
 title: linux
-category: programdesign
-categoryStr: 程序设计
+category: java
+categoryStr: java
 tags: unix design
 keywords: 
 description: Unix的设计哲学，摘录自维基百科，他人博客。

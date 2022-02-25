@@ -2,8 +2,8 @@
 layout: page
 breadcrumb: true
 title: Java HashMap实现机制原理-转载
-category: javacore
-categoryStr: java基础
+category: java
+categoryStr: java
 tags: 
 keywords: 
 description: 
