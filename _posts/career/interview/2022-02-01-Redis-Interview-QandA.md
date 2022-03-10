@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: Redis常见高频面试题及答案
-category: interview
+category: career
 categoryStr: java面试
 tags: book
 keywords: java面试 redis

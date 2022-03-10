@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcfb83da-d797-40ac-acb8-e73099aef821" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/career/interview/2022-02-10-Distribute-Lock.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/java/2022-02-10-Distribute-Lock-Summary.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/java/2022-02-10-Distribute-Lock-Zookeeper-Impl.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/interview/2022-02-01-Redis-Interview-QandA.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/career/interview/2022-02-01-Redis-Interview-QandA.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/interview/2022-02-10-Distribute-Lock.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/career/interview/2022-02-10-Distribute-Lock.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -822,7 +820,7 @@
       <workItem from="1645772613154" duration="2965000" />
       <workItem from="1645935176691" duration="746000" />
       <workItem from="1646020942779" duration="181000" />
-      <workItem from="1646888522910" duration="357000" />
+      <workItem from="1646888522910" duration="681000" />
     </task>
     <servers />
   </component>

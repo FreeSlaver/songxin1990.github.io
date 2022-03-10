@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: 分布式锁面试题及解决方案
-category: interview
+category: career
 categoryStr: java面试
 tags: book
 keywords: java面试 redis
