@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: 最棒的旅游技巧总结
-category: life
+category: travel
 categoryStr: 旅行
 tags: [essence,travel]
 keywords: [旅游,技巧,攻略,总结]

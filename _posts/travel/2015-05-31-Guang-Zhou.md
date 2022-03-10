@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: 广州
-category: photography
+category: travel
 categoryStr: 摄影
 tags:  
 keywords: 

@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: 听过的歌
-category: life
+category: essay
 categoryStr: 音乐
 tags: 
 keywords: 

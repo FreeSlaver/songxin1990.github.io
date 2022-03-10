@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: 荷兰花卉小镇
-category: photography
+category: travel
 categoryStr: 摄影
 tags: 
 keywords: 

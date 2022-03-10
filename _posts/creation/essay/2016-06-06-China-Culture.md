@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: 中国文化
-category: life
+category: essay
 categoryStr: 文化
 tags: 
 keywords: culture

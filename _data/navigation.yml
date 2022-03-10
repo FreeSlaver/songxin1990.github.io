@@ -49,7 +49,7 @@
 
 
 
-- title: "成长"
+- title: "创作"
   url: "#"
   side: left
   dropdown:
@@ -59,24 +59,18 @@
     url: "/method/"
   - title: "小贴士"
     url: "/tips/"
-
-
-
-- title: "生活"
-  url: "/life/"
-  side: left
-  dropdown:
-  - title: "旅行"
-    url: "/photography/"
-  - title: "生活"
-    url: "/life/"
   - title: "感想"
     url: "/essay/"
   - title: "废弃"
     url: "/trash/"
 
+
 - title: "站长"
   url: "/webmaster/"
+  side: left
+
+- title: "旅行摄影"
+  url: "/travel/"
   side: left
 
 - title: "归档"

@@ -2,8 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcfb83da-d797-40ac-acb8-e73099aef821" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview/2022-02-01-Redis-Interview-QandA.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/career/interview/2022-02-01-Redis-Interview-QandA.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview/2022-02-10-Distribute-Lock.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/career/interview/2022-02-10-Distribute-Lock.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/programming/project/2022-12-10-ECommerce-Order-Design-OrderNo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/java/2022-12-10-ECommerce-Order-Design-OrderNo-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/java/2022-12-10-ECommerce-Order-Design-OrderNo-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/life/1989-04-02-me.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/creation/essay/1989-04-02-me.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/life/2012-04-03-Twin-Peaks-Film-Review.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/creation/essay/2012-04-03-Twin-Peaks-Film-Review.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/life/2014-09-13-Listened-Music.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/creation/essay/2014-09-13-Listened-Music.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/life/2016-01-01-Moods.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/me/2016-01-01-Moods.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/life/2016-06-06-China-Culture.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/creation/essay/2016-06-06-China-Culture.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/life/2016-10-10-Quote.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/me/2016-10-10-Quote.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/life/2017-06-04-GuiZhou-Youji.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/travel/2017-06-04-GuiZhou-Youji.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/life/2017-10-10-Best-Travel-Tips.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/travel/2017-10-10-Best-Travel-Tips.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/life/2019-12-01-YuNan-Travel-Tips.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/travel/2019-12-01-YuNan-Travel-Tips.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/life/photography/2014-02-23-Netherlands-Flower-Town.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/travel/2014-02-23-Netherlands-Flower-Town.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/life/photography/2014-07-20-ShenZhen-Cosplay.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/travel/2014-07-20-ShenZhen-Cosplay.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/life/photography/2015-05-31-Guang-Zhou.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/travel/2015-05-31-Guang-Zhou.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/life/photography/2017-06-10-Gui-Zhou.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/travel/2017-06-10-Gui-Zhou.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/life/photography/2017-10-01-Tai-Wan.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/travel/2017-10-01-Tai-Wan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/life/webmaster/2017-08-25-NotOnly-SEO-But-HowTo-Think.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/webmaster/2017-08-25-NotOnly-SEO-But-HowTo-Think.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/life/webmaster/2017-09-12-HowTo-Free-Design-Make-ALogo-Online.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/webmaster/2017-09-12-HowTo-Free-Design-Make-ALogo-Online.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/life/webmaster/2017-09-28-Personal-Website-BeiAn-Quickly.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/webmaster/2017-09-28-Personal-Website-BeiAn-Quickly.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/life/webmaster/2017-10-13-Virtual-Host-301Redirect-Jekyll-Using-Htaccess.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/webmaster/2017-10-13-Virtual-Host-301Redirect-Jekyll-Using-Htaccess.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/life/webmaster/2017-10-27-SEO-Institute-Summary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/webmaster/2017-10-27-SEO-Institute-Summary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/life/webmaster/2018-05-01-Free-HTTPS-SSL-Certification.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/webmaster/2018-05-01-Free-HTTPS-SSL-Certification.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/life/webmaster/2018-05-16-QiNiu-Image-Hosting-Guard-Against-Flux-Attack.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/webmaster/2018-05-16-QiNiu-Image-Hosting-Guard-Against-Flux-Attack.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/life/webmaster/2018-05-18-Github-Pages-Custom-Domain-HTTPS.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/webmaster/2018-05-18-Github-Pages-Custom-Domain-HTTPS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/life/webmaster/2018-05-18-Jgit-Realize-Twitter.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/webmaster/2018-05-18-Jgit-Realize-Twitter.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/life/webmaster/2018-06-13-Github-Pages-Baidu-Index-Nginx.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/webmaster/2018-06-13-Github-Pages-Baidu-Index-Nginx.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/life/webmaster/2018-06-20-Github-Pages-Baidu-Index-Tool.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/webmaster/2018-06-20-Github-Pages-Baidu-Index-Tool.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/life/webmaster/2019-05-25-ShadowSocks-Install-Command.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/webmaster/2019-05-25-ShadowSocks-Install-Command.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/note/2012-12-12-The-Catcher-In-The-Rye.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/creation/note/2012-12-12-The-Catcher-In-The-Rye.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/note/2014-09-07-Orange-Girl.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/creation/note/2014-09-07-Orange-Girl.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/note/2014-09-19-The-Little-Prince.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/creation/note/2014-09-19-The-Little-Prince.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/note/2017-02-03-Sense-After-Funeral-Of-Muslim.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/creation/note/2017-02-03-Sense-After-Funeral-Of-Muslim.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/note/2017-04-27-Open-Wechat-Official-Account.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/creation/note/2017-04-27-Open-Wechat-Official-Account.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/note/2017-04-30-Art-Of-Learn-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/creation/note/2017-04-30-Art-Of-Learn-Note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/note/2017-07-30-SteveJobs-Biography.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/creation/note/2017-07-30-SteveJobs-Biography.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/note/2017-08-26-HowTo-Read-ABook-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/creation/note/2017-08-26-HowTo-Read-ABook-Note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/note/2017-09-05-Are-Your-Lights-On-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/creation/note/2017-09-05-Are-Your-Lights-On-Note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/note/2018-03-31-Learn-More-Study-Less-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/creation/note/2018-03-31-Learn-More-Study-Less-Note.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,17 +226,17 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\songxin1990.github.io\img\java" />
+      <recent name="D:\songxin1990.github.io\_posts\programming\project" />
       <recent name="D:\songxin1990.github.io\_posts\career\interview" />
       <recent name="D:\songxin1990.github.io\_posts\trade\stock" />
       <recent name="D:\songxin1990.github.io\_posts\trade\tao" />
-      <recent name="$PROJECT_DIR$/_posts/trade/stock" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\songxin1990.github.io\_posts\creation" />
+      <recent name="D:\songxin1990.github.io\_posts\creation\essay" />
+      <recent name="D:\songxin1990.github.io\_posts" />
+      <recent name="D:\songxin1990.github.io\_posts\life\travel" />
       <recent name="D:\songxin1990.github.io\img\java" />
-      <recent name="D:\songxin1990.github.io\_posts\life" />
-      <recent name="D:\songxin1990.github.io\_posts\programming\java" />
-      <recent name="D:\songxin1990.github.io\_posts\programming\javacore" />
-      <recent name="D:\songxin1990.github.io\_posts\trade\future" />
     </key>
   </component>
   <component name="RunManager">
@@ -820,7 +860,7 @@
       <workItem from="1645772613154" duration="2965000" />
       <workItem from="1645935176691" duration="746000" />
       <workItem from="1646020942779" duration="181000" />
-      <workItem from="1646888522910" duration="681000" />
+      <workItem from="1646888522910" duration="2294000" />
     </task>
     <servers />
   </component>

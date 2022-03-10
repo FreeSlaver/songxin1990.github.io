@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: 2014深圳Cosplay
-category: photography
+category: travel
 categoryStr: 摄影
 tags:  
 keywords: 

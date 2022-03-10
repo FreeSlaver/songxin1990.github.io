@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: 云南旅行攻略
-category: life
+category: travel
 categoryStr: 旅行
 tags: 
 keywords: 
