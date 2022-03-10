@@ -2,52 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcfb83da-d797-40ac-acb8-e73099aef821" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/career/interview/2022-02-01-Redis-Interview-QandA.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock/2022-02-06-Stock-Essence-Ten-Lecture-One.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock/2022-02-07-Stock-Essence-Ten-Lecture-Two.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock/2022-02-08-Stock-Essence-Ten-Lecture-Three.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock/2022-02-08-Stock-Newbee-Defence-Three-Tricks-Method.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock/2022-02-09-Stock-Newbee-Defence-Three-Tricks-StopLose.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/career/interview/2022-02-10-Distribute-Lock.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/java/2022-02-10-Distribute-Lock-Summary.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/java/2022-02-10-Distribute-Lock-Zookeeper-Impl.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/me/1989-04-02-me.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/1989-04-02-me.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/me/2016-01-01-Moods.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/2016-01-01-Moods.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/me/2016-10-10-Quote.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/2016-10-10-Quote.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/concurrent/2014-06-10-BIO-NIO-BLOCK.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2014-06-10-BIO-NIO-BLOCK.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/concurrent/2014-06-13-Lower-Locker-Scope.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2014-06-13-Lower-Locker-Scope.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/concurrent/2014-07-21-Fast-Fail.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2014-07-21-Fast-Fail.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/concurrent/2015-06-22-JAVA-Performance-Problem.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2015-06-22-JAVA-Performance-Problem.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/concurrent/2015-07-15-15-Thread-Problem.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2015-07-15-15-Thread-Problem.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/concurrent/2015-07-22-Reactor-MyView.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2015-07-22-Reactor-MyView.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/concurrent/2016-06-19-Locks-Noun.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2016-06-19-Locks-Noun.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/concurrent/2016-07-21-Book-Box-Queue.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/javacore/2015-06-22-How-Coding.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2015-06-22-How-Coding.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/javacore/2015-06-22-Socket-Commuicate.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2015-06-22-Socket-Commuicate.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/javacore/2016-05-15-Computer-Networks.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2016-05-15-Computer-Networks.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/javacore/2017-11-08-Randomly-Pickup-Elements-From-Collection.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2017-11-08-Randomly-Pickup-Elements-From-Collection.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/javacore/2019-03-01-Java-HashMap-Mechanism.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2019-03-01-Java-HashMap-Mechanism.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/javacore/2019-03-15-Methods-To-Solve-Hash-Conflict.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2019-03-15-Methods-To-Solve-Hash-Conflict.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/programdesign/2016-04-12-LogSys-Plugin.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2016-04-12-LogSys-Plugin.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/programdesign/2016-07-21-Book-Box-Queue.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2016-07-21-Book-Box-Queue.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/programdesign/2017-06-16-Unix-Design-Philosophy.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2017-06-16-Unix-Design-Philosophy.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/programdesign/2017-09-21-Rule-Engine-That's-Enough.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2017-09-21-Rule-Engine-That's-Enough.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/programdesign/2019-06-08-Delay-Queue-Retry-Design.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2019-06-08-Delay-Queue-Retry-Design.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/economy/2015-01-26-Dollar-Blade.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/future/2015-01-26-Dollar-Blade.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/zen/2016-02-14-Wu-Dao.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/tao/2016-02-14-Wu-Dao.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/zen/2016-02-15-Meditation-Place.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/tao/2016-02-15-Meditation-Place.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/zen/2016-04-30-Learn-Lotus-Position.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/tao/2016-04-30-Learn-Lotus-Position.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2017-08-25-NotOnly-SEO-But-HowTo-Think.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/webmaster/2017-08-25-NotOnly-SEO-But-HowTo-Think.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2017-09-12-HowTo-Free-Design-Make-ALogo-Online.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/webmaster/2017-09-12-HowTo-Free-Design-Make-ALogo-Online.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2017-09-28-Personal-Website-BeiAn-Quickly.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/webmaster/2017-09-28-Personal-Website-BeiAn-Quickly.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2017-10-13-Virtual-Host-301Redirect-Jekyll-Using-Htaccess.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/webmaster/2017-10-13-Virtual-Host-301Redirect-Jekyll-Using-Htaccess.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2017-10-27-SEO-Institute-Summary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/webmaster/2017-10-27-SEO-Institute-Summary.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2018-05-01-Free-HTTPS-SSL-Certification.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/webmaster/2018-05-01-Free-HTTPS-SSL-Certification.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2018-05-16-QiNiu-Image-Hosting-Guard-Against-Flux-Attack.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/webmaster/2018-05-16-QiNiu-Image-Hosting-Guard-Against-Flux-Attack.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2018-05-18-Github-Pages-Custom-Domain-HTTPS.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/webmaster/2018-05-18-Github-Pages-Custom-Domain-HTTPS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2018-05-18-Jgit-Realize-Twitter.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/webmaster/2018-05-18-Jgit-Realize-Twitter.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2018-06-13-Github-Pages-Baidu-Index-Nginx.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/webmaster/2018-06-13-Github-Pages-Baidu-Index-Nginx.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2018-06-20-Github-Pages-Baidu-Index-Tool.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/webmaster/2018-06-20-Github-Pages-Baidu-Index-Tool.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2019-05-25-ShadowSocks-Install-Command.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/life/webmaster/2019-05-25-ShadowSocks-Install-Command.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +178,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/trade/stock" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/java" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -229,18 +187,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\songxin1990.github.io\img\java" />
+      <recent name="D:\songxin1990.github.io\_posts\career\interview" />
       <recent name="D:\songxin1990.github.io\_posts\trade\stock" />
       <recent name="D:\songxin1990.github.io\_posts\trade\tao" />
       <recent name="$PROJECT_DIR$/_posts/trade/stock" />
-      <recent name="$PROJECT_DIR$/assets/js" />
-      <recent name="$PROJECT_DIR$/assets/css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\songxin1990.github.io\img\java" />
       <recent name="D:\songxin1990.github.io\_posts\life" />
       <recent name="D:\songxin1990.github.io\_posts\programming\java" />
       <recent name="D:\songxin1990.github.io\_posts\programming\javacore" />
       <recent name="D:\songxin1990.github.io\_posts\trade\future" />
-      <recent name="D:\songxin1990.github.io\_posts\trade\tao" />
     </key>
   </component>
   <component name="RunManager">
@@ -862,6 +820,9 @@
       <workItem from="1644585321405" duration="637000" />
       <workItem from="1645512781127" duration="7000" />
       <workItem from="1645772613154" duration="2965000" />
+      <workItem from="1645935176691" duration="746000" />
+      <workItem from="1646020942779" duration="181000" />
+      <workItem from="1646888522910" duration="357000" />
     </task>
     <servers />
   </component>
