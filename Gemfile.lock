@@ -1,17 +1,17 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.5.0)
+    addressable (2.8.0)
       public_suffix (~> 2.0, >= 2.0.2)
     asciidoctor (1.5.5)
     coderay (1.1.1)
     colorator (1.1.0)
     faraday (0.10.0)
       multipart-post (>= 1.2, < 3)
-    ffi (1.9.14)
+    ffi (1.15.5)
     forwardable-extended (2.6.0)
     jekyll (4.2.2)
-      addressable (~> 2.4)
+      addressable (~> 2.8)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
       jekyll-watch (~> 1.1)
@@ -49,12 +49,12 @@ GEM
     public_suffix (2.0.4)
     rb-fsevent (0.9.8)
     rb-inotify (0.9.7)
-      ffi (>= 0.5.0)
+      ffi (>= 1.10.0)
     rouge (1.11.1)
     safe_yaml (1.0.4)
     sass (3.4.22)
     sawyer (0.8.1)
-      addressable (>= 2.3.5, < 2.6)
+      addressable (>= 2.8, < 3.0)
       faraday (~> 0.8, < 1.0)
 
 PLATFORMS
