@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcfb83da-d797-40ac-acb8-e73099aef821" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/programming/java/2022-02-01-RabbitMQ-Note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/life/index.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pages-root-folder/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pages-root-folder/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +39,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
@@ -176,7 +185,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/programming/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pages/life" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -185,11 +194,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\songxin1990.github.io\pages\life" />
       <recent name="D:\songxin1990.github.io\_posts\programming\java" />
       <recent name="D:\songxin1990.github.io" />
       <recent name="D:\songxin1990.github.io\img\java" />
       <recent name="D:\songxin1990.github.io\_posts\programming\project" />
-      <recent name="D:\songxin1990.github.io\_posts\career\interview" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\songxin1990.github.io\_posts\creation" />
@@ -826,7 +835,7 @@
       <workItem from="1647143939307" duration="2959000" />
       <workItem from="1647180644404" duration="599000" />
       <workItem from="1647245823376" duration="1238000" />
-      <workItem from="1647501209912" duration="409000" />
+      <workItem from="1647501209912" duration="1370000" />
     </task>
     <servers />
   </component>
