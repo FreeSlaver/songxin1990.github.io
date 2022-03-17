@@ -56,6 +56,12 @@
     - title: "废弃"
       url: "/trash/"
 
+
+
+- title: 搞钱
+  url: "/makemoney/"
+  side: left
+
 - title: 职场
   url: "/career/"
   side: left

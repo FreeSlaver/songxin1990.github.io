@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcfb83da-d797-40ac-acb8-e73099aef821" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/makemoney/2022-03-15-Make-Money.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pages/life/index.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/life/makemoney.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/pages-root-folder/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pages-root-folder/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -835,7 +838,7 @@
       <workItem from="1647143939307" duration="2959000" />
       <workItem from="1647180644404" duration="599000" />
       <workItem from="1647245823376" duration="1238000" />
-      <workItem from="1647501209912" duration="1370000" />
+      <workItem from="1647501209912" duration="2636000" />
     </task>
     <servers />
   </component>
