@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcfb83da-d797-40ac-acb8-e73099aef821" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/programming/opensource/2020-04-05-K8S-Learn-Note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/java/2020-04-05-K8S-Learn-Note-1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/java/2020-04-05-K8S-Learn-Note-2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/java/2020-05-08-Mybatis-Cache.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2020-05-08-Mybatis-Cache.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/makemoney.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/makemoney.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -839,6 +835,7 @@
       <workItem from="1647180644404" duration="599000" />
       <workItem from="1647245823376" duration="1238000" />
       <workItem from="1647501209912" duration="6139000" />
+      <workItem from="1647527922341" duration="594000" />
     </task>
     <servers />
   </component>
