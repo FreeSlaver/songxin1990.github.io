@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcfb83da-d797-40ac-acb8-e73099aef821" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/programming/java/2020-05-08-Mybatis-Cache.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/programming/java/2022-02-01-RabbitMQ-Note.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -176,7 +176,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/programming/java" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -185,11 +185,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\songxin1990.github.io" />
       <recent name="D:\songxin1990.github.io\img\java" />
       <recent name="D:\songxin1990.github.io\_posts\programming\project" />
       <recent name="D:\songxin1990.github.io\_posts\career\interview" />
       <recent name="D:\songxin1990.github.io\_posts\trade\stock" />
-      <recent name="D:\songxin1990.github.io\_posts\trade\tao" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\songxin1990.github.io\_posts\creation" />
@@ -823,6 +823,10 @@
       <workItem from="1646888522910" duration="5220000" />
       <workItem from="1647071048150" duration="33000" />
       <workItem from="1647077816914" duration="417000" />
+      <workItem from="1647143939307" duration="2959000" />
+      <workItem from="1647180644404" duration="599000" />
+      <workItem from="1647245823376" duration="1238000" />
+      <workItem from="1647501209912" duration="409000" />
     </task>
     <servers />
   </component>
