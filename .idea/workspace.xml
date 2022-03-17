@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcfb83da-d797-40ac-acb8-e73099aef821" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/makemoney.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/programming/opensource/2020-03-01-Docker-Learn-Note.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/authors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/authors.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/language.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/language.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/makemoney/2022-03-15-Make-Money.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/makemoney/2022-03-15-Make-Money.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/life/index.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/header/index.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/life/makemoney.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/makemoney/makemoney.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/pages-root-folder/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pages-root-folder/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/pages-root-folder/index.md.old" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pages-root-folder/index.md.old" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,8 +200,8 @@
       <recent name="D:\songxin1990.github.io\img\java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\songxin1990.github.io\img\makemoney" />
       <recent name="D:\songxin1990.github.io\img\header" />
+      <recent name="D:\songxin1990.github.io\img\makemoney" />
       <recent name="D:\songxin1990.github.io\img\life" />
       <recent name="D:\songxin1990.github.io\_posts\creation" />
       <recent name="D:\songxin1990.github.io\_posts\creation\essay" />
@@ -841,7 +834,7 @@
       <workItem from="1647143939307" duration="2959000" />
       <workItem from="1647180644404" duration="599000" />
       <workItem from="1647245823376" duration="1238000" />
-      <workItem from="1647501209912" duration="3959000" />
+      <workItem from="1647501209912" duration="5018000" />
     </task>
     <servers />
   </component>
