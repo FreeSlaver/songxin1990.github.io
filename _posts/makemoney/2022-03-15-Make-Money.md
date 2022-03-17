@@ -9,7 +9,7 @@ keywords: 搞钱
 description:
 ---
 
-<img src="/img/life/makemoney.jpg" class="post-img" alt="makeymoney">
+<img src="/img/header/makemoney.jpg" class="post-img" alt="makeymoney">
 
 这篇文章价值多少，就看你能领悟多少，执行到何种程度。用你们的打赏淹没我吧。
 

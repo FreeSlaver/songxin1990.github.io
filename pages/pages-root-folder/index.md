@@ -2,6 +2,6 @@
 layout: frontpage
 permalink: /index.html
 header:
-  image_fullwidth: life/index.jpg
+  image_fullwidth: header/index.jpg
 homepage: true
 ---
