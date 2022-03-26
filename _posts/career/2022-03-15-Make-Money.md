@@ -2,12 +2,13 @@
 layout: page
 breadcrumb: true
 title: 搞钱
-category: makemoney
-categoryStr: 搞钱
+category: career
+categoryStr: 职场
 tags: [makemoney]
 keywords: 搞钱
 description:
 ---
+
 
 <img src="/img/header/makemoney.jpg" class="post-img" alt="makeymoney">
 
