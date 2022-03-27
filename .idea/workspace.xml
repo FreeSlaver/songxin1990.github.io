@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcfb83da-d797-40ac-acb8-e73099aef821" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/programming/redis/2022-03-26-Cache-Local-Distribute-DB-Consistency.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/programming/database/2022-03-26-MySQL-Manual-InnoDB-Locks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/essence.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/makemoney/2022-03-15-Make-Money.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/career/2022-03-15-Make-Money.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/makemoney.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/programming/java/2016-05-15-Computer-Networks.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2016-05-15-Computer-Networks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/programming/javacore.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/programming/java.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -841,7 +843,8 @@
       <workItem from="1647529594184" duration="425000" />
       <workItem from="1647592266266" duration="713000" />
       <workItem from="1647610836952" duration="175000" />
-      <workItem from="1648258065150" duration="1553000" />
+      <workItem from="1648258065150" duration="2223000" />
+      <workItem from="1648390856640" duration="855000" />
     </task>
     <servers />
   </component>

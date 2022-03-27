@@ -2,8 +2,8 @@
   url: "/"
   side: left
 
-- title: "编程"
-  url: "#"
+- title: "Java"
+  url: "/java/"
   side: left
   dropdown:
     - title: "面试"
@@ -20,23 +20,19 @@
       url: "/redis/"
     - title: "运维"
       url: "/ops/"
-    - title: "Java"
-      url: "/java/"
 
-- title: "交易"
-  url: "#"
+- title: "股票"
+  url: "/stock/"
   side: left
   dropdown:
-  - title: "以股入道"
-    url: "/tao/"
-  - title: "股票"
-    url: "/stock/"
   - title: "期货"
     url: "/future/"
   - title: "交易系统"
     url: "/tradesystem/"
   - title: "德州扑克"
     url: "/porker/"
+  - title: "以股入道"
+    url: "/tao/"
 
 - title: "创作"
   url: "#"
@@ -57,9 +53,12 @@
       url: "/trash/"
 
 
+- title: 精华
+  url: "/essence/"
+  side: left
 
-- title: 搞钱
-  url: "/makemoney/"
+- title: 商业价值
+  url: "/money/"
   side: left
 
 - title: 职场

@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: 计算机网络 
-category: javacore
+category: java
 categoryStr: java
 tags: network
 keywords: 
