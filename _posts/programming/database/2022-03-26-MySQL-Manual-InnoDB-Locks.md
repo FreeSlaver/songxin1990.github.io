@@ -1,7 +1,7 @@
 ---
 layout: page
 breadcrumb: true
-title: Windows上Mysql 8.0 的安装
+title: MySQL官方文档学习笔记-InnoDB锁机制
 category: database
 categoryStr: 数据库
 tags:

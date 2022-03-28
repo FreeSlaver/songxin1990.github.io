@@ -6,8 +6,6 @@
   url: "/java/"
   side: left
   dropdown:
-    - title: "面试"
-      url: "/interview/"
     - title: "Kafka"
       url: "/kafka/"
     - title: "开源"
@@ -57,7 +55,7 @@
   url: "/essence/"
   side: left
 
-- title: 商业价值
+- title: 商业
   url: "/money/"
   side: left
 
