@@ -7,6 +7,7 @@ categoryStr: 股票
 tags: 股票,交易,投机
 keywords: 股票,交易,投机
 description:
+published: false
 ---
 
 我不得不说炒股是一个极具艰辛且孤独的修罗之路，关键是不论你投入多少年时间，多大的精力，金钱进来，可能最终还是一无所获，甚至负债累累，家破人亡，  

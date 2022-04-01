@@ -9,7 +9,7 @@ image_fullwidth: "header/career.jpg"
 permalink: "/essence/"
 ---
 <ul>
-    {% for post in site.tags.redis %}
+    {% for post in site.tags.essence %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>

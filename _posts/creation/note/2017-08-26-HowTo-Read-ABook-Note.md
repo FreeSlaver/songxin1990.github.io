@@ -4,7 +4,7 @@ breadcrumb: true
 title: 如何阅读一本书—读书笔记
 category: note
 categoryStr: 笔记
-tags: essence
+tags: [essence]
 keywords: 阅读,书籍,笔记
 description: How to Read a Book Note 如何阅读一本书—读书笔记。这是我个人精心做的读书笔记。
 ---

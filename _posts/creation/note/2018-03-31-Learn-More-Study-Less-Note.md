@@ -4,7 +4,7 @@ breadcrumb: true
 title: 如何高效学习—读书笔记
 category: note
 categoryStr: 笔记
-tags: essence
+tags: [essence]
 keywords: [高效,学习,笔记]
 description: 
 ---

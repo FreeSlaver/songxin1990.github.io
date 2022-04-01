@@ -4,7 +4,7 @@ breadcrumb: true
 title: 搞钱
 category: career
 categoryStr: 职场
-tags: [makemoney]
+tags: [essence,makemoney]
 keywords: 搞钱
 description:
 ---

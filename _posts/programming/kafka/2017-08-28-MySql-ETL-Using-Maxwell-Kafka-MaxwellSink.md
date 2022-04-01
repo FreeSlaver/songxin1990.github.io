@@ -4,7 +4,7 @@ breadcrumb: true
 title: 使用Maxwell Kafka做ETL同步Mysql
 category: kafka
 categoryStr: 大数据
-tags: kafka
+tags: [essence kafka]
 keywords: [maxwell,kafka,maxwell-sink,mysql,ETL,数据同步,教程]
 description: 使用Maxwell，Kafka和Maxwell-Sink做ETL进行MySql数据同步，也可同步到其他数据仓库（如HDFS，ES等）。Maxwell-Sink功能包括：按DML操作过滤，按各种字段条件过滤，数据的转换处理等。
 ---

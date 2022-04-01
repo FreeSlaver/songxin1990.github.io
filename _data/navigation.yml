@@ -45,8 +45,10 @@
       url: "/method/"
     - title: "小贴士"
       url: "/tips/"
-    - title: "感想"
+    - title: "杂文"
       url: "/essay/"
+    - title: "感想语录"
+      url: "/quote.html"
     - title: "废弃"
       url: "/trash/"
 

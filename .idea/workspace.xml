@@ -2,12 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcfb83da-d797-40ac-acb8-e73099aef821" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/programming/java/2022-03-28-Interview-Project-DeadLock.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/programming/opensource/2021-05-06-Java-Snow-Crash-Solution.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock/2022-04-01-Fed-Rate-Fise-Stock-Bull-Market.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/language.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/language.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/frontpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/frontpage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/database/2022-03-26-MySQL-Manual-InnoDB-Locks.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/database/2022-03-26-MySQL-Manual-InnoDB-Locks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2019-07-15-Fire-The-Boss-Experience.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/career/2019-07-15-Fire-The-Boss-Experience.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2022-03-15-Make-Money.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/career/2022-03-15-Make-Money.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/note/2017-04-30-Art-Of-Learn-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/creation/note/2017-04-30-Art-Of-Learn-Note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/note/2017-08-26-HowTo-Read-ABook-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/creation/note/2017-08-26-HowTo-Read-ABook-Note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/note/2017-09-05-Are-Your-Lights-On-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/creation/note/2017-09-05-Are-Your-Lights-On-Note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/note/2018-03-31-Learn-More-Study-Less-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/creation/note/2018-03-31-Learn-More-Study-Less-Note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/me/2016-10-10-Quote.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/me/2016-10-10-Quote.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/programming/java/2022-03-28-Interview-Project-DeadLock.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/java/2022-03-28-Interview-Project-DeadLock.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/programming/kafka/2017-03-22-Kafka-Share.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/kafka/2017-03-22-Kafka-Share.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/programming/kafka/2017-08-28-MySql-ETL-Using-Maxwell-Kafka-MaxwellSink.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming/kafka/2017-08-28-MySql-ETL-Using-Maxwell-Kafka-MaxwellSink.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2019-06-17-Why-Making-Money-By-Speculating-Is-Almost-Impossible.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock/2019-06-17-Why-Making-Money-By-Speculating-Is-Almost-Impossible.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2022-02-06-Stock-Essence-Ten-Lecture-One.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock/2022-02-06-Stock-Essence-Ten-Lecture-One.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2022-02-07-Stock-Essence-Ten-Lecture-Two.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock/2022-02-07-Stock-Essence-Ten-Lecture-Two.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2022-02-08-Stock-Essence-Ten-Lecture-Three.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock/2022-02-08-Stock-Essence-Ten-Lecture-Three.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2022-02-08-Stock-Newbee-Defence-Three-Tricks-Method.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock/2022-02-08-Stock-Newbee-Defence-Three-Tricks-Method.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2022-02-09-Stock-Newbee-Defence-Three-Tricks-StopLose.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock/2022-02-09-Stock-Newbee-Defence-Three-Tricks-StopLose.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/essence.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/essence.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -845,7 +860,12 @@
       <workItem from="1647610836952" duration="175000" />
       <workItem from="1648258065150" duration="2223000" />
       <workItem from="1648390856640" duration="3703000" />
-      <workItem from="1648447974229" duration="704000" />
+      <workItem from="1648447974229" duration="2518000" />
+      <workItem from="1648524905128" duration="2006000" />
+      <workItem from="1648595149966" duration="1188000" />
+      <workItem from="1648609300267" duration="1008000" />
+      <workItem from="1648689464461" duration="1427000" />
+      <workItem from="1648775097782" duration="1891000" />
     </task>
     <servers />
   </component>

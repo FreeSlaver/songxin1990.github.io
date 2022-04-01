@@ -4,8 +4,8 @@ breadcrumb: true
 title: Apache Kafka技术分享
 category: kafka
 categoryStr: 大数据
-tags: kafka
-keywords: [kafka]
+tags: [essence kafka]
+keywords: [essence kafka]
 description: 这篇文章是我在在公司做的技术分享，包括了：Kafka是什么，Kafka的特性及优势，Kafka应用领域，Kafka配置，Kafka核心概念，Kafka架构，Kafka集群监控等等各个方面。
 ---
 
