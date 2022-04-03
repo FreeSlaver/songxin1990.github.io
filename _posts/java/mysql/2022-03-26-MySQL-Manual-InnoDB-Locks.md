@@ -2,8 +2,8 @@
 layout: page
 breadcrumb: true
 title: MySQL官方文档学习笔记-InnoDB锁机制
-category: database
-categoryStr: 数据库
+category: mysql
+categoryStr: MySQL
 tags:
 keywords:
 description:

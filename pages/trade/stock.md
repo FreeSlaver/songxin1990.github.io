@@ -3,7 +3,7 @@ layout: page
 breadcrumb: true
 show_meta: false
 title: "股票"
-subheadline: ""
+subheadline: "不炒为赢"
 header:
    image_fullwidth: "header/stock.jpg"
 permalink: "/stock/"

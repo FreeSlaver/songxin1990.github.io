@@ -2,8 +2,8 @@
 layout: page
 breadcrumb: true
 title: Windows上Mysql 8.0 的安装
-category: database
-categoryStr: 数据库
+category: mysql
+categoryStr: MySQL
 tags: 
 keywords: 
 description: 

@@ -4,8 +4,8 @@ breadcrumb: true
 title: MySQL分库分表方案
 redirect_from:
   - /2017/08/05/MySQL-Sharding-Approaches.html
-category: database
-categoryStr: 数据库
+category: mysql
+categoryStr: MySQL
 tags: MySQL sharding
 keywords: MySQL sharding stackoverflow
 description: 翻译自stack overflow上的一个问答：MySQL sharding approaches，觉得写的非常的好，说的是：为什么不建议做MySql分库分表。

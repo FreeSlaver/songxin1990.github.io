@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 show_meta: false
-title: "数据库"
+title: "MySQL"
 subheadline: ""
 header:
    image_fullwidth: "header_unsplash_5.jpg"
