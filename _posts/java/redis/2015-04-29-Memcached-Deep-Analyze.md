@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: Memcached深度分析-转载
-category: opensource
+category: redis
 categoryStr: 开源框架
 tags: cache
 keywords: 

@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: ActiveMQ in Action读书笔记
-category: opensource
+category: kafka
 categoryStr: 开源框架
 tags: MQ Note
 keywords: 

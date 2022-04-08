@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: 日志队列系统三 protobuf编解码处理
-category: opensource
+category: trash
 categoryStr: 开源框架
 tags: 
 keywords: 

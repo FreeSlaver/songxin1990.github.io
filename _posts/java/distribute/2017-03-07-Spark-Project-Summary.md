@@ -2,8 +2,8 @@
 layout: page
 breadcrumb: true
 title: Spark项目总结
-category: bigdata
-categoryStr: 大数据
+category: distribute
+categoryStr: 分布式
 tags: spark kafka
 keywords: spark kafka 大数据
 description: spark和kafka stream的项目demo总。

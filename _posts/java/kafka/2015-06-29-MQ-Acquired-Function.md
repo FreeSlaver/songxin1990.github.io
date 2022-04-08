@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: 一个消息队列应该具有的功能
-category: opensource
+category: distribute
 categoryStr: 开源框架
 tags: MQ 原创
 keywords: 

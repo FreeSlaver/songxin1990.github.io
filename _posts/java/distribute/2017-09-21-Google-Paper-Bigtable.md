@@ -2,8 +2,8 @@
 layout: page
 breadcrumb: true
 title: Google论文之Bigtable详解
-category: bigdata
-categoryStr: 大数据
+category: distribute
+categoryStr: 分布式
 tags: [paper,bigtable,google,bigdata]
 keywords: 
 description: 

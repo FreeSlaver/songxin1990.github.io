@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: Activemq之KahaDB实现
-category: opensource
+category: distribute
 categoryStr: 开源框架
 tags: MQ
 keywords: 

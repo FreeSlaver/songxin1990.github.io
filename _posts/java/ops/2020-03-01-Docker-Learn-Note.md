@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: Docker学习笔记总结
-category: opensource
+category: distribute
 categoryStr: 开源框架
 tags:
 keywords:

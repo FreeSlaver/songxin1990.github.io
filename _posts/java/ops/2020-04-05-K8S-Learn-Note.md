@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: K8S学习笔记总结
-category: opensource
+category: ops
 categoryStr: 开源框架
 tags:
 keywords:

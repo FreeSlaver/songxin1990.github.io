@@ -2,8 +2,8 @@
 layout: page
 breadcrumb: true
 title: Google论文之MapReduce详解
-category: bigdata
-categoryStr: 大数据
+category: distribute
+categoryStr: 分布式
 tags: paper 大数据
 keywords: MapReduce google 大数据
 description: Google的MapReduce论文，赶里面重点地方做个翻译，做些笔记。

@@ -2,8 +2,8 @@
 layout: page
 breadcrumb: true
 title: Google Dapper 论文笔记
-category: bigdata
-categoryStr: 大数据
+category: distribute
+categoryStr: 分布式
 tags: [dapper,zipkin,open-tracing]
 keywords: [zipkin,dapper]
 description: 

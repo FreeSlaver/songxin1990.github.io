@@ -2,8 +2,8 @@
 layout: page
 breadcrumb: true
 title: Zipkin面试题
-category: bigdata
-categoryStr: 大数据
+category: distribute
+categoryStr: 分布式
 tags: [dapper,zipkin,brave,interview]
 keywords: [dapper,zipkn,brave,interview]
 description: 

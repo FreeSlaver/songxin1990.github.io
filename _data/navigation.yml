@@ -6,39 +6,24 @@
   url: "/java/"
   side: left
   dropdown:
+    - title: "分布式"
+      url: "/distribute/"
     - title: "Kafka"
       url: "/kafka/"
-    - title: "项目总结"
-      url: "/project/"
-    - title: "开源"
-      url: "/opensource/"
-    - title: "大数据"
-      url: "/bigdata/"
-    - title: "MySQL"
-      url: "/mysql/"
     - title: "Redis"
       url: "/redis/"
+    - title: "项目总结"
+      url: "/project/"
+    - title: "MySQL"
+      url: "/mysql/"
     - title: "运维"
       url: "/ops/"
-
-- title: "股票"
-  url: "/stock/"
-  side: left
-  dropdown:
-  - title: "期货"
-    url: "/future/"
-  - title: "交易系统"
-    url: "/tradesystem/"
-  - title: "德州扑克"
-    url: "/porker/"
-  - title: "以股入道"
-    url: "/tao/"
 
 - title: "创作"
   url: "#"
   side: left
   dropdown:
-    - title: 读书
+    - title: "笔记"
       url: "/note/"
       side: left
     - title: "书单"
@@ -53,6 +38,22 @@
       url: "/quote.html"
     - title: "废弃"
       url: "/trash/"
+
+
+- title: "股票"
+  url: "/stock/"
+  side: left
+  dropdown:
+  - title: "期货"
+    url: "/future/"
+  - title: "交易系统"
+    url: "/tradesystem/"
+  - title: "德州扑克"
+    url: "/porker/"
+  - title: "以股入道"
+    url: "/tao/"
+
+
 
 
 - title: 精华

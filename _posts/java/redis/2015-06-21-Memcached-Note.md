@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: Memcached学习笔记
-category: opensource
+category: redis
 categoryStr: 开源框架
 tags: chache
 keywords: 

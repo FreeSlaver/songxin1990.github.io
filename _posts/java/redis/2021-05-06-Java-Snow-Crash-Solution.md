@@ -1,8 +1,8 @@
 ---
 layout: page
 breadcrumb: true
-title: Java雪崩场景和解决方案-转载
-category: opensource
+title: Java缓存雪崩场景和解决方案-转载
+category: redis
 categoryStr: 开源框架
 tags:
 keywords:

@@ -3,7 +3,7 @@ layout: page
 breadcrumb: true
 title: Netty两个使用问题
 category: opensource
-categoryStr: 开源框架
+categoryStr: distribute
 tags: Netty Problem
 keywords: 
 description: 

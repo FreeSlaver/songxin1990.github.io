@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: Dubbo动态获取接口实现
-category: opensource
+category: distribute
 categoryStr: 开源框架
 tags: [dubbo,opensource]
 keywords: dubbo,动态

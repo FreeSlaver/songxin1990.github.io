@@ -2,8 +2,8 @@
 layout: page
 breadcrumb: true
 title: Google论文之Google File System笔记
-category: bigdata
-categoryStr: 大数据
+category: distribute
+categoryStr: 分布式
 tags: [paper,gfs,google,bigdata]
 keywords: [google,paper,GFS,bigdata]
 description: 

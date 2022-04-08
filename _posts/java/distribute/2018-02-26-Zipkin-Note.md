@@ -2,8 +2,8 @@
 layout: page
 breadcrumb: true
 title: Zipkin笔记
-category: bigdata
-categoryStr: 大数据
+category: distribute
+categoryStr: 分布式
 tags: [dapper,zipkin,brave,note]
 keywords: [dapper,zipkn,brave]
 description: 

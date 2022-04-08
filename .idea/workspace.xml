@@ -2,109 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcfb83da-d797-40ac-acb8-e73099aef821" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/java/mysql/2020-03-06-MySQL-MVCC.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/java/redis/2019-08-11-Redis-Slow-Solution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/java/spring/2022-06-08-Spring-Bean-LifeCycle.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/java/2019-08-11-Redis-Slow-Solution-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/java/2019-08-11-Redis-Slow-Solution-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/java/2019-08-11-Redis-Slow-Solution-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/java/2022-05-15-Order-System-Refactor-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/java/2022-05-15-Order-System-Refactor-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/java/2022-06-08-Spring-Bean-LifeCycle-1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/java/2022-06-08-Spring-Bean-LifeCycle-2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/mysql/2021-11-11-HowTo-Design-Database.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/java/mysql/2021-11-11-HowTo-Design-Database-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/java/mysql/2021-11-11-HowTo-Design-Database-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/java/mysql/2021-11-11-HowTo-Design-Database-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/java/mysql/2021-11-11-HowTo-Design-Database-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/java/mysql/2021-11-11-HowTo-Design-Database-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/java/mysql/2021-11-11-HowTo-Design-Database-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/java/mysql/2021-11-11-HowTo-Design-Database-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/java/mysql/2021-11-11-HowTo-Design-Database-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/java/mysql/2021-11-11-HowTo-Design-Database-9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview/2022-02-01-Redis-Interview-QandA.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/redis/2022-02-01-Redis-Interview-QandA.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview/2022-02-10-Distribute-Lock.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2022-02-10-Distribute-Lock.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/bigdata/2017-03-07-Spark-Project-Summary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/bigdata/2017-03-07-Spark-Project-Summary.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/bigdata/2017-03-14-Google-Dapper-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/bigdata/2017-03-14-Google-Dapper-Note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/bigdata/2017-07-31-Google-Paper-MapReduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/bigdata/2017-07-31-Google-Paper-MapReduce.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/bigdata/2017-09-21-Google-Paper-Bigtable.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/bigdata/2017-09-21-Google-Paper-Bigtable.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/bigdata/2017-10-25-Google-Paper-GFS.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/bigdata/2017-10-25-Google-Paper-GFS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/bigdata/2018-02-26-Zipkin-Interview-Questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/bigdata/2018-02-26-Zipkin-Interview-Questions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/bigdata/2018-02-26-Zipkin-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/bigdata/2018-02-26-Zipkin-Note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/database/2014-09-03-JDBC-Transactional.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/mysql/2014-09-03-JDBC-Transactional.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/database/2016-03-06-MySQL-Engine.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/mysql/2016-03-06-MySQL-Engine.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/database/2017-08-02-MySQL-Sharding.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/mysql/2017-08-02-MySQL-Sharding.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/database/2017-08-05-MySQL-Sharding-Approaches.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/mysql/2017-08-05-MySQL-Sharding-Approaches.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/database/2019-06-04-Windows-Mysql-Install.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/mysql/2019-06-04-Windows-Mysql-Install.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/database/2022-03-26-MySQL-Manual-InnoDB-Locks.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/mysql/2022-03-26-MySQL-Manual-InnoDB-Locks.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/java/2014-06-10-BIO-NIO-BLOCK.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2014-06-10-BIO-NIO-BLOCK.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/java/2014-06-13-Lower-Locker-Scope.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2014-06-13-Lower-Locker-Scope.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/java/2014-07-21-Fast-Fail.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2014-07-21-Fast-Fail.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/java/2015-06-22-How-Coding.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2015-06-22-How-Coding.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/java/2015-06-22-JAVA-Performance-Problem.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2015-06-22-JAVA-Performance-Problem.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/java/2015-06-22-Socket-Commuicate.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2015-06-22-Socket-Commuicate.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/java/2015-07-15-15-Thread-Problem.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2015-07-15-15-Thread-Problem.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/java/2015-07-22-Reactor-MyView.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2015-07-22-Reactor-MyView.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/java/2016-04-12-LogSys-Plugin.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2016-04-12-LogSys-Plugin.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/java/2016-05-15-Computer-Networks.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2016-05-15-Computer-Networks.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/java/2016-06-19-Locks-Noun.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2016-06-19-Locks-Noun.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/java/2016-07-21-Book-Box-Queue.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2016-07-21-Book-Box-Queue.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/java/2017-06-16-Unix-Design-Philosophy.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2017-06-16-Unix-Design-Philosophy.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/java/2017-09-21-Rule-Engine-That's-Enough.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2017-09-21-Rule-Engine-That's-Enough.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/java/2017-11-08-Randomly-Pickup-Elements-From-Collection.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2017-11-08-Randomly-Pickup-Elements-From-Collection.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/java/2019-03-01-Java-HashMap-Mechanism.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2019-03-01-Java-HashMap-Mechanism.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/java/2019-03-15-Methods-To-Solve-Hash-Conflict.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2019-03-15-Methods-To-Solve-Hash-Conflict.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/java/2019-06-08-Delay-Queue-Retry-Design.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2019-06-08-Delay-Queue-Retry-Design.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/java/2020-05-08-Mybatis-Cache.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2020-05-08-Mybatis-Cache.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/java/2022-02-01-RabbitMQ-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2022-02-01-RabbitMQ-Note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/java/2022-03-28-Interview-Project-DeadLock.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2022-03-28-Interview-Project-DeadLock.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/kafka/2017-02-25-Kafka-Command.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/kafka/2017-02-25-Kafka-Command.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/kafka/2017-03-22-Kafka-Share.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/kafka/2017-03-22-Kafka-Share.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/kafka/2017-08-18-Kafka-Connect-Deploy.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/kafka/2017-08-18-Kafka-Connect-Deploy.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/kafka/2017-08-18-Kafka-Connect-Details.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/kafka/2017-08-18-Kafka-Connect-Details.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/kafka/2017-08-18-Kafka-Connect-Develop-Details.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/kafka/2017-08-18-Kafka-Connect-Develop-Details.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/kafka/2017-08-28-MySql-ETL-Using-Maxwell-Kafka-MaxwellSink.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/kafka/2017-08-28-MySql-ETL-Using-Maxwell-Kafka-MaxwellSink.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/kafka/2017-09-13-Kafka-Message-Delivery-Semantics.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/kafka/2017-09-13-Kafka-Message-Delivery-Semantics.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/kafka/2018-07-02-Kafka-Tutorial-Kafka-Install-Run-Pseudo-Cluster .md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/kafka/2018-07-02-Kafka-Tutorial-Kafka-Install-Run-Pseudo-Cluster .md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/opensource/2014-06-17-Log-Series-Two.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/opensource/2014-06-17-Log-Series-Two.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/opensource/2014-06-21-Log-Series-Three.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/opensource/2014-06-21-Log-Series-Three.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/opensource/2015-04-29-Memcached-Deep-Analyze.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/opensource/2015-04-29-Memcached-Deep-Analyze.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/opensource/2015-06-21-Memcached-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/opensource/2015-06-21-Memcached-Note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/opensource/2015-06-22-ActiveMQ-Kahadb.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/opensource/2015-06-22-ActiveMQ-Kahadb.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/opensource/2015-06-29-MQ-Acquired-Function.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/opensource/2015-06-29-MQ-Acquired-Function.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/opensource/2015-08-13-Protobuf-Coder.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/opensource/2015-08-13-Protobuf-Coder.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/opensource/2015-09-10-Netty-2Question.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/opensource/2015-09-10-Netty-2Question.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/opensource/2015-09-21-ActiveMQInAction-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/opensource/2015-09-21-ActiveMQInAction-Note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/opensource/2016-05-29-Java-Spring-Properties.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/opensource/2016-05-29-Java-Spring-Properties.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/opensource/2018-06-12-Dubbo-Dynamic-Get-Interface-Implement.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/opensource/2018-06-12-Dubbo-Dynamic-Get-Interface-Implement.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/opensource/2020-03-01-Docker-Learn-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/opensource/2020-03-01-Docker-Learn-Note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/opensource/2020-04-05-K8S-Learn-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/opensource/2020-04-05-K8S-Learn-Note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/opensource/2021-05-06-Java-Snow-Crash-Solution.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/opensource/2021-05-06-Java-Snow-Crash-Solution.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/ops/2015-07-21-About-JMX.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/ops/2015-07-21-About-JMX.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/ops/2015-07-30-Elasticsearch-Sheild.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/ops/2015-07-30-Elasticsearch-Sheild.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/ops/2015-09-01-Git-Command.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/ops/2015-09-01-Git-Command.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/ops/2015-09-10-Shield Control.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/ops/2015-09-10-Shield Control.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/ops/2016-06-20-Maven-Assembly-Problem.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/ops/2016-06-20-Maven-Assembly-Problem.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/ops/2017-04-07-Intelligent-Automate-Ops.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/ops/2017-04-07-Intelligent-Automate-Ops.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/ops/2017-04-20-Emacs-Command.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/ops/2017-04-20-Emacs-Command.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/ops/2017-06-30-Linux-Shell.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/ops/2017-06-30-Linux-Shell.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/ops/2017-08-18-InfluxDB-Intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/ops/2017-08-18-InfluxDB-Intro.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/project/2022-12-10-ECommerce-Order-Design-OrderNo.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/project/2022-12-10-ECommerce-Order-Design-OrderNo.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/redis/2015-09-16-Redis-Distribute-MQ.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/redis/2015-09-16-Redis-Distribute-MQ.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/redis/2016-06-07-Redis-Lock.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/redis/2016-06-07-Redis-Lock.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/redis/2016-06-17-Redis-Keys.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/redis/2016-06-17-Redis-Keys.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/redis/2016-06-23-Redis-Sync-DB.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/redis/2016-06-23-Redis-Sync-DB.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/redis/2016-07-21-Spring-Redis-Pipeline.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/redis/2016-07-21-Spring-Redis-Pipeline.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/redis/2017-11-08-Redis-Expire-Mechanism.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/redis/2017-11-08-Redis-Expire-Mechanism.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/redis/2017-11-13-Distributed-Locks-With-Redis.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/redis/2017-11-13-Distributed-Locks-With-Redis.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/redis/2017-11-14-Redis-Partition.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/redis/2017-11-14-Redis-Partition.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/redis/2018-04-23-Redis-Monitoring-Solutions.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/redis/2018-04-23-Redis-Monitoring-Solutions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/redis/2021-12-01-Redis-ProductEnv-Problems.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/redis/2021-12-01-Redis-ProductEnv-Problems.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming/redis/2022-03-26-Cache-Local-Distribute-DB-Consistency.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/redis/2022-03-26-Cache-Local-Distribute-DB-Consistency.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/programming/bigdata.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/java/bigdata.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/programming/concurrent.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/java/spring.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/programming/database.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/java/mysql.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/programming/java.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/java/java.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/programming/kafka.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/java/kafka.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/programming/opensource.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/java/opensource.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/programming/ops.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/java/ops.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/programming/programdesign.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/java/project.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/programming/redis.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/java/redis.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/trade/future.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/trade/future.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/trade/porker.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/trade/porker.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/trade/stock.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/trade/stock.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/bigdata/2017-03-07-Spark-Project-Summary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/distribute/2017-03-07-Spark-Project-Summary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/bigdata/2017-03-14-Google-Dapper-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/distribute/2017-03-14-Google-Dapper-Note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/bigdata/2017-07-31-Google-Paper-MapReduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/distribute/2017-07-31-Google-Paper-MapReduce.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/bigdata/2017-09-21-Google-Paper-Bigtable.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/distribute/2017-09-21-Google-Paper-Bigtable.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/bigdata/2017-10-25-Google-Paper-GFS.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/distribute/2017-10-25-Google-Paper-GFS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/bigdata/2018-02-26-Zipkin-Interview-Questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/distribute/2018-02-26-Zipkin-Interview-Questions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/bigdata/2018-02-26-Zipkin-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/distribute/2018-02-26-Zipkin-Note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2014-06-17-Log-Series-Two.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2014-06-17-Log-Series-Two.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2014-06-21-Log-Series-Three.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2014-06-21-Log-Series-Three.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2015-04-29-Memcached-Deep-Analyze.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/redis/2015-04-29-Memcached-Deep-Analyze.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2015-06-21-Memcached-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/redis/2015-06-21-Memcached-Note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2015-06-22-ActiveMQ-Kahadb.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/kafka/2015-06-22-ActiveMQ-Kahadb.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2015-06-29-MQ-Acquired-Function.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/kafka/2015-06-29-MQ-Acquired-Function.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2015-08-13-Protobuf-Coder.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2015-08-13-Protobuf-Coder.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2015-09-10-Netty-2Question.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/distribute/2015-09-10-Netty-2Question.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2015-09-21-ActiveMQInAction-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/kafka/2015-09-21-ActiveMQInAction-Note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2016-05-29-Java-Spring-Properties.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/spring/2016-05-29-Java-Spring-Properties.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2018-06-12-Dubbo-Dynamic-Get-Interface-Implement.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/distribute/2018-06-12-Dubbo-Dynamic-Get-Interface-Implement.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2020-03-01-Docker-Learn-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/ops/2020-03-01-Docker-Learn-Note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2020-04-05-K8S-Learn-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/ops/2020-04-05-K8S-Learn-Note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2021-05-06-Java-Snow-Crash-Solution.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/redis/2021-05-06-Java-Snow-Crash-Solution.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/java/bigdata.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/java/distribute.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/java/mysql.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/java/mysql.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -301,11 +233,11 @@
       <recent name="D:\songxin1990.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\songxin1990.github.io\_posts\java\spring" />
+      <recent name="D:\songxin1990.github.io\_posts\java\kafka" />
       <recent name="D:\songxin1990.github.io\_posts\java\java" />
       <recent name="D:\songxin1990.github.io\_posts\java\redis" />
-      <recent name="D:\songxin1990.github.io\_posts\java" />
-      <recent name="D:\songxin1990.github.io\_posts\career" />
-      <recent name="D:\songxin1990.github.io\img\header" />
+      <recent name="D:\songxin1990.github.io\_posts\java\project" />
     </key>
   </component>
   <component name="RunManager">
@@ -949,6 +881,11 @@
       <workItem from="1648689464461" duration="1427000" />
       <workItem from="1648775097782" duration="2502000" />
       <workItem from="1648948472855" duration="6882000" />
+      <workItem from="1649071014485" duration="31000" />
+      <workItem from="1649117695726" duration="1529000" />
+      <workItem from="1649204532106" duration="588000" />
+      <workItem from="1649339892636" duration="1182000" />
+      <workItem from="1649379005107" duration="2316000" />
     </task>
     <servers />
   </component>
