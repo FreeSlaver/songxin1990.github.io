@@ -2,41 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcfb83da-d797-40ac-acb8-e73099aef821" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/java/mysql/2021-11-11-HowTo-Design-Database.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/java/mysql/2021-11-11-HowTo-Design-Database-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/java/mysql/2021-11-11-HowTo-Design-Database-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/java/mysql/2021-11-11-HowTo-Design-Database-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/java/mysql/2021-11-11-HowTo-Design-Database-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/java/mysql/2021-11-11-HowTo-Design-Database-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/java/mysql/2021-11-11-HowTo-Design-Database-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/java/mysql/2021-11-11-HowTo-Design-Database-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/java/mysql/2021-11-11-HowTo-Design-Database-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/java/mysql/2021-11-11-HowTo-Design-Database-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/mysql/2019-09-10-Database-Practice-Questions.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/bigdata/2017-03-07-Spark-Project-Summary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/distribute/2017-03-07-Spark-Project-Summary.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/bigdata/2017-03-14-Google-Dapper-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/distribute/2017-03-14-Google-Dapper-Note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/bigdata/2017-07-31-Google-Paper-MapReduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/distribute/2017-07-31-Google-Paper-MapReduce.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/bigdata/2017-09-21-Google-Paper-Bigtable.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/distribute/2017-09-21-Google-Paper-Bigtable.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/bigdata/2017-10-25-Google-Paper-GFS.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/distribute/2017-10-25-Google-Paper-GFS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/bigdata/2018-02-26-Zipkin-Interview-Questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/distribute/2018-02-26-Zipkin-Interview-Questions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/bigdata/2018-02-26-Zipkin-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/distribute/2018-02-26-Zipkin-Note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2014-06-17-Log-Series-Two.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2014-06-17-Log-Series-Two.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2014-06-21-Log-Series-Three.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2014-06-21-Log-Series-Three.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2015-04-29-Memcached-Deep-Analyze.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/redis/2015-04-29-Memcached-Deep-Analyze.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2015-06-21-Memcached-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/redis/2015-06-21-Memcached-Note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2015-06-22-ActiveMQ-Kahadb.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/kafka/2015-06-22-ActiveMQ-Kahadb.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2015-06-29-MQ-Acquired-Function.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/kafka/2015-06-29-MQ-Acquired-Function.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2015-08-13-Protobuf-Coder.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2015-08-13-Protobuf-Coder.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2015-09-10-Netty-2Question.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/distribute/2015-09-10-Netty-2Question.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2015-09-21-ActiveMQInAction-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/kafka/2015-09-21-ActiveMQInAction-Note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2016-05-29-Java-Spring-Properties.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/spring/2016-05-29-Java-Spring-Properties.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2018-06-12-Dubbo-Dynamic-Get-Interface-Implement.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/distribute/2018-06-12-Dubbo-Dynamic-Get-Interface-Implement.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2020-03-01-Docker-Learn-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/ops/2020-03-01-Docker-Learn-Note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2020-04-05-K8S-Learn-Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/ops/2020-04-05-K8S-Learn-Note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/opensource/2021-05-06-Java-Snow-Crash-Solution.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/redis/2021-05-06-Java-Snow-Crash-Solution.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/java/bigdata.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/java/distribute.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/java/mysql.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/java/mysql.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/java/2022-02-10-Distribute-Lock.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/distribute/2022-02-10-Distribute-Lock.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/java/distribute.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/java/distribute.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/java/project.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/java/project.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,11 +203,11 @@
       <recent name="D:\songxin1990.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\songxin1990.github.io\_posts\java\distribute" />
       <recent name="D:\songxin1990.github.io\_posts\java\spring" />
       <recent name="D:\songxin1990.github.io\_posts\java\kafka" />
       <recent name="D:\songxin1990.github.io\_posts\java\java" />
       <recent name="D:\songxin1990.github.io\_posts\java\redis" />
-      <recent name="D:\songxin1990.github.io\_posts\java\project" />
     </key>
   </component>
   <component name="RunManager">
@@ -885,7 +855,13 @@
       <workItem from="1649117695726" duration="1529000" />
       <workItem from="1649204532106" duration="588000" />
       <workItem from="1649339892636" duration="1182000" />
-      <workItem from="1649379005107" duration="2316000" />
+      <workItem from="1649379005107" duration="5762000" />
+      <workItem from="1649497270480" duration="35000" />
+      <workItem from="1649512906490" duration="47000" />
+      <workItem from="1649548352517" duration="400000" />
+      <workItem from="1649652948577" duration="1618000" />
+      <workItem from="1649762708338" duration="263000" />
+      <workItem from="1649765060820" duration="3000" />
     </task>
     <servers />
   </component>

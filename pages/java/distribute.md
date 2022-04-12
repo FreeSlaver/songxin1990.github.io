@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 show_meta: false
-title: "大数据"
+title: "分布式"
 subheadline: ""
 header:
    image_fullwidth: "header_unsplash_5.jpg"

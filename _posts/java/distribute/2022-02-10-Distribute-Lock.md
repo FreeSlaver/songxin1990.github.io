@@ -2,8 +2,8 @@
 layout: page
 breadcrumb: true
 title: 分布式锁面试题及解决方案
-category: career
-categoryStr: java面试
+category: distribute
+categoryStr: 分布式
 tags: book
 keywords: java面试 redis
 description: 
