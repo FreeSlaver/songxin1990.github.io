@@ -8,23 +8,23 @@
 #                                                 /____/
 #
 # Title of your website
-title: '交易_编程_写作_宋鑫的官网'
+title: '自由的奴隶->主'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: '市场交易,磨炼心性智慧;编程写作,扩展思维边界;思考创造,追求人生自由'
+slogan: '交易,编程，写作'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '市场交易,磨炼心性智慧;编程写作,扩展思维边界;思考创造,追求人生自由'
+description: '交易,磨炼心性智慧;编程写作,扩展思维边界;思考创造,追求人生自由'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p> <a href="/">3gods.com</a> Created with &hearts; by <a href="/me.html">宋鑫</a> &copy; 2013-2999 <a href="http://www.miitbeian.gov.cn" target="_blank" rel="nofollow">粤ICP备17122701号</a>.</p>'
+credits: '<p> <a href="/">freeslaver.com</a> Created with &hearts; by <a href="/me.html">宋鑫</a> &copy; 2013-2999 <a href="http://www.miitbeian.gov.cn" target="_blank" rel="nofollow">粤ICP备17122701号</a>.</p>'
 
 # Main author of the website
 author: songxin
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://3gods.com'
+url: 'https://freeslaver.com'
 #baseurl: '/feeling-responsive'
 
 # This is for the editing function in _/includes/improve_content
@@ -37,7 +37,7 @@ improve_content: https://github.com/songxin1990/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://3gods.com/img/'
+urlimg: '${url}/img/'
 #urlimg: 'http://localhost:4000/img/'
 
 # Logo size is 600x80 pixels
@@ -230,7 +230,7 @@ sass:
 
 ga:
   id: UA-49965095-1
-  url: 3gods.com
+  url: ${url}
 
 
 #   _                 _     _

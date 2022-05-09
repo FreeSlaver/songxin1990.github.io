@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcfb83da-d797-40ac-acb8-e73099aef821" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/java/mysql/2019-09-10-Database-Practice-Questions.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/java/2022-02-10-Distribute-Lock.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/distribute/2022-02-10-Distribute-Lock.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/java/distribute.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/java/distribute.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/java/project.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/java/project.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/authors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/authors.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -862,6 +860,9 @@
       <workItem from="1649652948577" duration="1618000" />
       <workItem from="1649762708338" duration="263000" />
       <workItem from="1649765060820" duration="3000" />
+      <workItem from="1650011455544" duration="1077000" />
+      <workItem from="1650013516509" duration="103000" />
+      <workItem from="1652105018973" duration="1019000" />
     </task>
     <servers />
   </component>
