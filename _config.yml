@@ -37,8 +37,9 @@ improve_content: https://github.com/songxin1990/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: '${url}/img/'
+#urlimg: '${url}/img/'
 #urlimg: 'http://localhost:4000/img/'
+urlimg: '/img/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
