@@ -8,16 +8,16 @@
 #                                                 /____/
 #
 # Title of your website
-title: '自由的奴隶->主'
+title: '自由的奴隶'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: '交易,编程，写作'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '交易,磨炼心性智慧;编程写作,扩展思维边界;思考创造,追求人生自由'
+description: '交易,编程，写作'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p> <a href="/">freeslaver.com</a> Created with &hearts; by <a href="/me.html">宋鑫</a> &copy; 2013-2999 <a href="http://www.miitbeian.gov.cn" target="_blank" rel="nofollow">粤ICP备17122701号</a>.</p>'
+credits: '<p> <a href="/">freeslaver.com</a> Created with &hearts; by <a href="/me.html">自由的奴隶</a> &copy; 2013-2999 <a href="http://www.miitbeian.gov.cn" target="_blank" rel="nofollow">粤ICP备17122701号</a>.</p>'
 
 # Main author of the website
 author: songxin
