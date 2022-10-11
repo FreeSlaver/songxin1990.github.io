@@ -1,2 +1,2 @@
-## [宋鑫的官方网站](https://3gods.com)
+## [个人网站](https://freeslaver.com)
 关于交易，编程，写作，人生
