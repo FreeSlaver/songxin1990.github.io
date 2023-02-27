@@ -780,9 +780,9 @@ public class TestMain {
           try {
               TestThread t = new TestThread();
               ExecutorService exec = Executors.newCachedThreadPool();
-              Future future = exec.submit(t);
+              stock stock = exec.submit(t);
               exec.shutdown();
-              future.get();//主要是这句话起了作用，调用get()方法，异常重抛出，包装在ExecutorException
+              stock.get();//主要是这句话起了作用，调用get()方法，异常重抛出，包装在ExecutorException
           } catch (Exception e) {//这里可以把线程的异常继续抛出去
               System.out.println("Exception Throw:" + e.getMessage());
           }

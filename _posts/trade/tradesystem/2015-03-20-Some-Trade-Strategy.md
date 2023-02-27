@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: 几个交易策略
-category: tradesystem
+category: stock
 categoryStr: 交易系统
 tags: 
 keywords: 股票 交易 策略

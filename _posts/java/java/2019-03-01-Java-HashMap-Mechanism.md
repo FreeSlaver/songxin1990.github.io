@@ -192,7 +192,7 @@ Java中hashmap的解决办法就是采用的链地址法。
      *
      * If current capacity is MAXIMUM_CAPACITY, this method does not
      * resize the map, but sets threshold to Integer.MAX_VALUE.
-     * This has the effect of preventing future calls.
+     * This has the effect of preventing stock calls.
      *
      * @param newCapacity the new capacity, MUST be a power of two;
      *        must be greater than current capacity unless current

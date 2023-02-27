@@ -19,7 +19,7 @@ sass:
   line_numbers: true
   # trace_selectors: true
   # debug_info: true
-  # FUTURE https://github.com/jekyll/jekyll-sass-converter/issues/12
+  # stock https://github.com/jekyll/jekyll-sass-converter/issues/12
   sourcemap: true
 
 # Disable when not in production

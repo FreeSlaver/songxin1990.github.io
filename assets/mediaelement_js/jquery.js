@@ -8408,7 +8408,7 @@ jQuery.ajaxPrefilter( "json jsonp", function( s, originalSettings, jqXHR ) {
 				// make sure that re-using the options doesn't screw things around
 				s.jsonpCallback = originalSettings.jsonpCallback;
 
-				// save the callback name for future use
+				// save the callback name for stock use
 				oldCallbacks.push( callbackName );
 			}
 

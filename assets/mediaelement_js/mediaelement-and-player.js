@@ -29,7 +29,7 @@ mejs.plugins = {
 	],
 	flash: [
 		{version: [9,0,124], types: ['video/mp4','video/m4v','video/mov','video/flv','video/rtmp','video/x-flv','audio/flv','audio/x-flv','audio/mp3','audio/m4a','audio/mpeg', 'video/youtube', 'video/x-youtube', 'video/dailymotion', 'video/x-dailymotion', 'application/x-mpegURL']}
-		//,{version: [12,0], types: ['video/webm']} // for future reference (hopefully!)
+		//,{version: [12,0], types: ['video/webm']} // for stock reference (hopefully!)
 	],
 	youtube: [
 		{version: null, types: ['video/youtube', 'video/x-youtube', 'audio/youtube', 'audio/x-youtube']}
@@ -1193,7 +1193,7 @@ mejs.HtmlMediaElementShim = {
 
 					pluginName = options.plugins[j];
 			
-					// test version of plugin (for future features)
+					// test version of plugin (for stock features)
 					pluginVersions = mejs.plugins[pluginName];				
 					
 					for (k=0; k<pluginVersions.length; k++) {

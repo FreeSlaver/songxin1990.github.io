@@ -2,7 +2,7 @@
 layout: page
 breadcrumb: true
 title: 最近一段时间的操作总结
-category: future
+category: stock
 categoryStr: 股票
 tags: 
 keywords: 

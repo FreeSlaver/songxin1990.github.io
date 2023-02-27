@@ -3,7 +3,7 @@ layout: page
 breadcrumb: true
 title: 禅修的好地方
 category: tao
-categoryStr: 禅
+categoryStr: 道
 tags: 
 keywords: tao
 description: 

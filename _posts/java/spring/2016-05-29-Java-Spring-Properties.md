@@ -2,8 +2,8 @@
 layout: page
 breadcrumb: true
 title: java中获取spring配置的properties文件属性
-category: opensource
-categoryStr: 开源框架
+category: spring
+categoryStr: Spring
 tags: 
 keywords: 
 description: 

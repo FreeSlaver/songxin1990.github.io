@@ -1,12 +1,12 @@
 ---
 layout: page
 breadcrumb: true
-title: Face The Future And Your Destiny
+title: Face The stock And Your Destiny
 category: essay
 categoryStr: 随笔
 tags: 
 keywords: 
-description: face the future and your destiny.勇敢面对你的未来和你的命运。
+description: face the stock and your destiny.勇敢面对你的未来和你的命运。
 ---
 
 
@@ -20,7 +20,7 @@ Recently,thest days i use about 30Minutes to look at the index of ShangHai and t
 These days i finished reading How I Made $2,000,000 In the Stock Market By Nicolas Darvas.It's really a interesting book that u will laugh out in the library.Beacuase in this book u can see yourself who behaviors  the same way when trading in the market.Every mistake u made is in this book.I will read it twice or three times ,maybe more. Now i am reading the book named Trading your way to Financial Freedom. I have Finished about two hundred pages .It's about four hundred pages.This book i regard it as the Holly Bibble In Market.I really appreciate it .
 
 
-Today i cram onto a bus.Unfortunately,it happens to be the time of after working.The bus is so crowded and I pack a big bag and seize a heavy expresess.I feel so uncomfotable.I see so many people.I asked myself why i am in this place ,on this crowed bus full of strange smells and people pushed me round and round.This is not what i excepted before,now ,neither future.Why i should tolerate this situation.And my father told me that all the people are the same,they always crame onto a bus.Fuck it to death.They are the same,Not Me.I am the Excellent,not Good.
+Today i cram onto a bus.Unfortunately,it happens to be the time of after working.The bus is so crowded and I pack a big bag and seize a heavy expresess.I feel so uncomfotable.I see so many people.I asked myself why i am in this place ,on this crowed bus full of strange smells and people pushed me round and round.This is not what i excepted before,now ,neither stock.Why i should tolerate this situation.And my father told me that all the people are the same,they always crame onto a bus.Fuck it to death.They are the same,Not Me.I am the Excellent,not Good.
 
 
 It's all about the Money.I will work harder and harder ,read more and more books ,practice and practice until I find the Holy Grail in the market.

@@ -298,7 +298,7 @@ $menu-slide: "transform 500ms ease" !default;
     .tab-bar-section { @include tab-bar-section; }
 
     // MENU BUTTON
-    // This is a little bonus. You don't need it for off canvas to work. Mixins to be written in the future.
+    // This is a little bonus. You don't need it for off canvas to work. Mixins to be written in the stock.
     .tab-bar .menu-icon {
       text-indent: $tabbar-menu-icon-text-indent;
       width: $tabbar-menu-icon-width;

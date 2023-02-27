@@ -24,4 +24,4 @@ description:
 第二：带你环游全世界啊，如果不行的话，一家人在午后的花园晒晒太阳啊
 第三：做一个快乐的人并带给其他人快乐 
 
-Regret for the past,Afraid of the future,waste now
+Regret for the past,Afraid of the stock,waste now

@@ -2,78 +2,51 @@
   url: "/"
   side: left
 
+
 - title: "Java"
   url: "/java/"
   side: left
-  dropdown:
-    - title: "分布式"
-      url: "/distribute/"
-    - title: "Kafka"
-      url: "/kafka/"
-    - title: "Redis"
-      url: "/redis/"
-    - title: "项目总结"
-      url: "/project/"
-    - title: "MySQL"
-      url: "/mysql/"
-    - title: "运维"
-      url: "/ops/"
 
-- title: "创作"
-  url: "#"
+- title: "Kafka"
+  url: "/kafka/"
+  side: left
+
+- title: "Redis"
+  url: "/redis/"
+  side: left
+
+- title: "MySQL"
+  url: "/mysql/"
+  side: left
+
+- title: "项目总结"
+  url: "/project/"
+  side: left
+
+- title: "分布式"
+  url: "/distribute/"
+  side: left
+
+- title: "运维"
+  url: "/ops/"
+  side: left
+
+- title: "职场"
+  url: "/career/"
+  side: left
+
+- title: "写作"
+  url: "/writing"
   side: left
   dropdown:
     - title: "笔记"
       url: "/note/"
       side: left
-    - title: "书单"
-      url: "/book/"
-    - title: "方法论"
-      url: "/method/"
-    - title: "小贴士"
-      url: "/tips/"
     - title: "杂文"
       url: "/essay/"
-    - title: "感想语录"
-      url: "/quote.html"
-    - title: "废弃"
-      url: "/trash/"
 
-
-- title: "股票"
-  url: "/stock/"
-  side: left
-  dropdown:
-  - title: "期货"
-    url: "/future/"
-  - title: "交易系统"
-    url: "/tradesystem/"
-  - title: "德州扑克"
-    url: "/porker/"
-  - title: "以股入道"
-    url: "/tao/"
-
-
-
-
-- title: 精华
+- title: "精华"
   url: "/essence/"
-  side: left
-
-- title: 商业
-  url: "/money/"
-  side: left
-
-- title: 职场
-  url: "/career/"
-  side: left
-
-- title: "站长"
-  url: "/webmaster/"
-  side: left
-
-- title: "旅行摄影"
-  url: "/travel/"
   side: left
 
 - title: "归档"

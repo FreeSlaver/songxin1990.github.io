@@ -3,7 +3,7 @@ layout: page
 breadcrumb: true
 title:  如何短时间内学会双跏趺坐?
 category: tao
-categoryStr: 禅
+categoryStr: 道
 tags: 
 keywords: tao
 description: 
