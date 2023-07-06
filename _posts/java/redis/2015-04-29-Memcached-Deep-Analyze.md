@@ -3,7 +3,7 @@ layout: page
 breadcrumb: true
 title: Memcached深度分析-转载
 category: redis
-categoryStr: 开源框架
+categoryStr: 分布式
 tags: cache
 keywords: 
 description: 

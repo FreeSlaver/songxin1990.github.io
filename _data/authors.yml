@@ -6,9 +6,9 @@
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 songxin: # replace this with your info
-  name: "freeslaver"
-  siterole: "交易，编程，鞋子"
-  uri: https://freeslaver.com/
-  github: http://github.com/songxin1990
+  name: "Java课堂"
+  siterole: "Java课堂"
+  uri: https://javaclass.net/
+  github: http://github.com/freeslaver
 
 # you can add more authors here

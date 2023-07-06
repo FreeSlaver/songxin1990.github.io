@@ -4,7 +4,7 @@ breadcrumb: true
 title: Spring常见高频面试题总结
 category: spring
 categoryStr: Spring
-tags: [Spring,面试题]
+tags: [interview]
 keywords:
 description:
 ---

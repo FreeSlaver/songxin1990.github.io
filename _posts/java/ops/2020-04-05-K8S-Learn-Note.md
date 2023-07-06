@@ -3,7 +3,7 @@ layout: page
 breadcrumb: true
 title: K8S学习笔记总结
 category: ops
-categoryStr: 开源框架
+categoryStr: 分布式
 tags:
 keywords:
 description:

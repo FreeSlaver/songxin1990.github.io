@@ -3,7 +3,7 @@ layout: page
 breadcrumb: true
 title: 一个消息队列应该具有的功能
 category: distribute
-categoryStr: 开源框架
+categoryStr: 分布式
 tags: MQ 原创
 keywords: 
 description: 

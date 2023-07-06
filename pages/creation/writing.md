@@ -2,14 +2,14 @@
 layout: page
 breadcrumb: true
 show_meta: false
-title: "废弃"
+title: "写作"
 subheadline: ""
 header:
-   image_fullwidth: "header/default.jpg"
-permalink: "/trash/"
+   image_fullwidth: "header/note.jpg"
+permalink: "/writing/"
 ---
 <ul>
-    {% for post in site.categories.trash %}
+    {% for post in site.categories.writing %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>

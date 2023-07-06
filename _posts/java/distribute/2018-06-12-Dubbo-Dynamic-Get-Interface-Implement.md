@@ -3,7 +3,7 @@ layout: page
 breadcrumb: true
 title: Dubbo动态获取接口实现
 category: distribute
-categoryStr: 开源框架
+categoryStr: 分布式
 tags: [dubbo,opensource]
 keywords: dubbo,动态
 description: 如何动态的从Dubbo中获取指定接口的，不同业务系统的实现实例，并进行调用。

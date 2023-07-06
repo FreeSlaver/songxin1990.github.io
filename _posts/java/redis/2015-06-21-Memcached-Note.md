@@ -3,7 +3,7 @@ layout: page
 breadcrumb: true
 title: Memcached学习笔记
 category: redis
-categoryStr: 开源框架
+categoryStr: 分布式
 tags: chache
 keywords: 
 description: 

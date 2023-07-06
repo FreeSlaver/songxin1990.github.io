@@ -3,7 +3,7 @@ layout: page
 breadcrumb: true
 title: 分布式追踪技术选型
 category: distribute
-categoryStr: 开源框架
+categoryStr: 分布式
 tags: 
 keywords:
 description:

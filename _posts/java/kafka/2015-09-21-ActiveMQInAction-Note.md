@@ -3,7 +3,7 @@ layout: page
 breadcrumb: true
 title: ActiveMQ in Action读书笔记
 category: kafka
-categoryStr: 开源框架
+categoryStr: 分布式
 tags: MQ Note
 keywords: 
 description: 

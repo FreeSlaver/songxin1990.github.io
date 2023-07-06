@@ -4,7 +4,7 @@ breadcrumb: true
 title: 如何在面试中介绍自己的项目经验
 category: career
 categoryStr: 职场
-tags: [面试,项目经验]
+tags: [interview]
 keywords: 面试,项目经验
 description:
 ---

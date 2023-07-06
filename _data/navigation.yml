@@ -2,13 +2,16 @@
   url: "/"
   side: left
 
-
-- title: "Java"
-  url: "/java/"
+- title: "方法"
+  url: "/method/"
   side: left
 
 - title: "Kafka"
   url: "/kafka/"
+  side: left
+
+- title: "Spring"
+  url: "/spring/"
   side: left
 
 - title: "Redis"
@@ -17,6 +20,10 @@
 
 - title: "MySQL"
   url: "/mysql/"
+  side: left
+
+- title: "Java"
+  url: "/java/"
   side: left
 
 - title: "项目总结"
@@ -35,13 +42,15 @@
   url: "/career/"
   side: left
 
+- title: "语录"
+  url: "/quote/"
+  side: left
+
+
 - title: "写作"
   url: "/writing"
   side: left
   dropdown:
-    - title: "笔记"
-      url: "/note/"
-      side: left
     - title: "杂文"
       url: "/essay/"
 
