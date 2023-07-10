@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Redis面试题-如何提高缓存命中率？
 category: redis
 categoryStr: redis

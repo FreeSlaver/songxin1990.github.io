@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 现代金融经济的眼重看历史（心得连载）
 category: stock
 categoryStr: 股票

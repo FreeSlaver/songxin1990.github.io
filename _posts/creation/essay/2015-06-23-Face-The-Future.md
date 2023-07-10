@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Face The stock And Your Destiny
 category: essay
 categoryStr: 随笔

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Kafka Connect开发教程
 category: kafka
 categoryStr: 大数据

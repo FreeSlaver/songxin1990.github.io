@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 延时队列带重试的几个架构比较
 category: java
 categoryStr: java

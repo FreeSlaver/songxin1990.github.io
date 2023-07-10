@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 如何设计一个消息队列系统？
 category: java
 categoryStr: java

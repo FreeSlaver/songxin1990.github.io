@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 炒股精要十讲-2选股
 category: stock
 categoryStr: 股票

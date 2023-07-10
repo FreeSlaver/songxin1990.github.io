@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 电商订单系统设计之订单号生成
 category: project
 categoryStr: 项目总结

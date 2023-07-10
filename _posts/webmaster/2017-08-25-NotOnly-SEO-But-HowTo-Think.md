@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 不仅仅只是SEO，更是一种思考方式
 category: webmaster
 categoryStr: 网站建设

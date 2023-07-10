@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title:  对势的理解
 category: tao
 categoryStr: 道

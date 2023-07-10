@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 没有情人的情人节
 category: essay
 categoryStr: 随笔

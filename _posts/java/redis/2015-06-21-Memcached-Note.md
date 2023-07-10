@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Memcached学习笔记
 category: redis
 categoryStr: 分布式

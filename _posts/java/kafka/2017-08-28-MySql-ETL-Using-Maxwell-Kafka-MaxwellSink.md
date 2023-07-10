@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 使用Maxwell Kafka做ETL同步Mysql
 category: kafka
 categoryStr: 大数据

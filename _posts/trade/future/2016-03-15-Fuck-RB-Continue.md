@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 今晚继续搞螺纹
 category: future
 categoryStr: 期货

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 炒股精要十讲-1大盘
 category: stock
 categoryStr: 股票

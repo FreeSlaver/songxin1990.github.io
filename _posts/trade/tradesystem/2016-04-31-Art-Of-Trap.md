@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 陷阱的艺术
 category: tradesystem
 categoryStr: 交易系统

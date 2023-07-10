@@ -1,7 +1,7 @@
 ---
 permalink: /baiduindex.html
 layout: page
-breadcrumb: true
+
 title: Github Pages百度索引收录工具
 category: webmaster
 categoryStr: 网站建设

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Kafka命令
 category: kafka
 categoryStr: 大数据

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 谈程序员职业发展-借势与商业产品预判
 category: career
 categoryStr: 职场

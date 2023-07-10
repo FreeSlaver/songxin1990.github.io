@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 最美的句子
 category: essay
 categoryStr: 随笔

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 show_meta: false
 title: "精华帖"
 subheadline: "本站原创精华文章收录"

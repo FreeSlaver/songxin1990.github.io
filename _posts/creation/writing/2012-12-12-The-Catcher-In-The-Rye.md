@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 麦田里的守望者-读后感
 category: writing
 categoryStr: 笔记

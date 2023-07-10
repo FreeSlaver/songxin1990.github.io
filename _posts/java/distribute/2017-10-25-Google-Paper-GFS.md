@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Google论文之Google File System笔记
 category: distribute
 categoryStr: 分布式

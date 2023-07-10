@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: RabbitMQ学习笔记总结
 category: java
 categoryStr: java

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: InfluxDB介绍
 category: ops
 categoryStr: 运维监控

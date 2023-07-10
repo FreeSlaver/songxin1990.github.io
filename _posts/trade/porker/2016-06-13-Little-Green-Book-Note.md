@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 小绿皮书读书笔记
 category: porker
 categoryStr: 德州扑克

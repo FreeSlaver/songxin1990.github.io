@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 十大交易员“圣经”
 category: stock
 categoryStr: 股票

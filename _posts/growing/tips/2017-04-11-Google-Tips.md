@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Google搜索技巧
 category: tips
 categoryStr: 小贴士

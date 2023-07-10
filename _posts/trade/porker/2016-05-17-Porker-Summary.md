@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 德州扑克总结经验
 category: porker
 categoryStr: 德州扑克

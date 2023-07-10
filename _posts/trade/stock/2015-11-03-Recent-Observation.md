@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 最近观察
 category: stock
 categoryStr: 股票

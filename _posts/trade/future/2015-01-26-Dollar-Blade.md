@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 在美元的闸刀面前，一切都是浮云
 category: future
 categoryStr: 经济

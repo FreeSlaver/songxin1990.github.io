@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 股市新手防守3招-2止损
 category: stock
 categoryStr: 股票

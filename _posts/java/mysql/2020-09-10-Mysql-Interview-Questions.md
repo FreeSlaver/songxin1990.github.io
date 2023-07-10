@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Mysql数据库面试题
 category: mysql
 categoryStr: MySQL

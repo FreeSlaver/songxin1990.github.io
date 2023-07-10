@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 show_meta: false
 title: "项目经验总结"
 subheadline: "性能优化线上故障系统重构"

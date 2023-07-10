@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 如何追求女人-转载
 category: essay
 categoryStr: 随笔

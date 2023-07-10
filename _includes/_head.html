@@ -19,60 +19,59 @@
 {% assign title = title | strip_html | escape | strip_newlines %}
 
 {% endcapture %}
-    <meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-    {% seo %}
-	{% if page.keywords %}
-	<meta name="keywords" content="{{ page.keywords }}">
-	{% endif %}
-	<title>{{ title }}</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+{% seo %}
+{% if page.keywords %}
+<meta name="keywords" content="{{ page.keywords }}">
+{% endif %}
+<title>{{ title }}</title>
 
-    <link rel="stylesheet" type="text/css" href="{{ url }}/assets/css/styles_feeling_responsive.css">
+<link rel="stylesheet" type="text/css" href="{{ url }}/assets/css/styles_feeling_responsive.css">
 
-  {% if site.asciidoctor-enabled == true %}
-    <link rel="stylesheet" href="{{ url }}/assets/css/font-awesome.min.css">
-  {% endif %}
+{% if site.asciidoctor-enabled == true %}
+<link rel="stylesheet" href="{{ url }}/assets/css/font-awesome.min.css">
+{% endif %}
 
-	<script src="{{ url }}/assets/js/modernizr.min.js"></script>
+<script src="{{ url }}/assets/js/modernizr.min.js"></script>
 
-	<!--<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>-->
-	<!--<script>-->
-		<!--WebFont.load({-->
-			<!--google: {-->
-				<!--families: [ 'Lato:400,700,400italic:latin', 'Volkhov::latin' ]-->
-			<!--}-->
-		<!--});-->
-	<!--</script>-->
+<!--<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>-->
+<!--<script>-->
+<!--WebFont.load({-->
+<!--google: {-->
+<!--families: [ 'Lato:400,700,400italic:latin', 'Volkhov::latin' ]-->
+<!--}-->
+<!--});-->
+<!--</script>-->
 
-	<noscript>
-		<!--<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic%7CVolkhov' rel='stylesheet' type='text/css'>-->
-		<link href='{{ url }}/assets/css/webfont.css' rel='stylesheet' type='text/css'>
-	</noscript>
-
-
-	<!-- Search Engine Optimization -->
-	{% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification}}">{% endif %}
-	{% if site.bing_webmastertools_id %}<meta name="msvalidate.01" content="{{ site.bing_webmastertools_id }}" >{% endif %}
-	{% if site.yandex_site_verification %}<meta name="yandex-verification" content="{{ site.yandex_site_verification }}">{% endif %}
-	{% if site.google_author %}<link rel="author" href="{{ site.google_author }}">{% endif %}
-	{% if site.alexa_verify_id %}<meta name="alexaVerifyID" content="{{ site.alexa_verify_id }}">{% endif %}
-	{% if page.noindex == true or layout.noindex == true %}<meta name="robots" content="noindex">{% endif %}
-
-	<meta name="msvalidate.01" content="76B177235172097DAFF78A0C750658B1" />
-	<meta name="sogou_site_verification" content="0g3QdKGMGK"/>
-	<meta name="360-site-verification" content="c94e3336c2f515d0285f3d18312ab981" />
-	<meta name="baidu-site-verification" content="gP0ZZIXso0" />
+<noscript>
+	<!--<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic%7CVolkhov' rel='stylesheet' type='text/css'>-->
+	<link href='{{ url }}/assets/css/webfont.css' rel='stylesheet' type='text/css'>
+</noscript>
 
 
-	{% if page.mediaplayer == true %}
-		<link rel="stylesheet" href="{{ url }}/assets/mediaelement_js/mediaelementplayer.min.css">
-	{% endif %}
+<!-- Search Engine Optimization -->
+{% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification}}">{% endif %}
+{% if site.bing_webmastertools_id %}<meta name="msvalidate.01" content="{{ site.bing_webmastertools_id }}" >{% endif %}
+{% if site.yandex_site_verification %}<meta name="yandex-verification" content="{{ site.yandex_site_verification }}">{% endif %}
+{% if site.google_author %}<link rel="author" href="{{ site.google_author }}">{% endif %}
+{% if site.alexa_verify_id %}<meta name="alexaVerifyID" content="{{ site.alexa_verify_id }}">{% endif %}
+{% if page.noindex == true or layout.noindex == true %}<meta name="robots" content="noindex">{% endif %}
 
-	{% include _favicon.html %}
+<meta name="msvalidate.01" content="76B177235172097DAFF78A0C750658B1" />
+<meta name="sogou_site_verification" content="0g3QdKGMGK"/>
+<meta name="360-site-verification" content="c94e3336c2f515d0285f3d18312ab981" />
+<meta name="baidu-site-verification" content="gP0ZZIXso0" />
 
-	{% unless page.style == NULL %}
-	<style type="text/css">{{ page.style }}</style>
-	{% endunless %}
 
-    {% include _baiduanalytics.html %}
+{% if page.mediaplayer == true %}
+<link rel="stylesheet" href="{{ url }}/assets/mediaelement_js/mediaelementplayer.min.css">
+{% endif %}
+
+{% include _favicon.html %}
+
+{% unless page.style == NULL %}
+<style type="text/css">{{ page.style }}</style>
+{% endunless %}
+
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 面试之自我介绍
 category: interview
 categoryStr: 面试

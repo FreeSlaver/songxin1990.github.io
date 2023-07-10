@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 投资投机心法
 category: tradesystem
 categoryStr: 交易系统

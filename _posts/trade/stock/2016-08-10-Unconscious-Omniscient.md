@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 无所知，无所不知
 category: stock
 categoryStr: 股票

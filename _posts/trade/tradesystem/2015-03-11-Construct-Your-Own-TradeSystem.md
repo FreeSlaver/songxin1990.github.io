@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 构建自己的交易系统
 category: tradesystem
 categoryStr: 交易系统

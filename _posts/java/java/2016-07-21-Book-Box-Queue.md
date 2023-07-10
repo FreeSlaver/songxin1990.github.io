@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 预约箱格请求排队
 category: java
 categoryStr: java

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 镜花水月
 category: essay
 categoryStr: 随笔

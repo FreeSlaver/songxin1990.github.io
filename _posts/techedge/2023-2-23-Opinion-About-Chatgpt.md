@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 
 category: techedge
 categoryStr: 科技前沿

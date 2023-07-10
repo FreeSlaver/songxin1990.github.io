@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 时光之蛊
 category: essay
 categoryStr: 随笔

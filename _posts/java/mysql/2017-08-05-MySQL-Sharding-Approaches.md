@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: MySQL分库分表方案
 redirect_from:
   - /2017/08/05/MySQL-Sharding-Approaches.html

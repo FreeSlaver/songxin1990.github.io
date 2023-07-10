@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 如何快速掌握一门编程语言
 category: method
 categoryStr: 方法论

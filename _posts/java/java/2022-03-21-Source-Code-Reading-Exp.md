@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 源码阅读个人经验总结
 category: java
 categoryStr: java

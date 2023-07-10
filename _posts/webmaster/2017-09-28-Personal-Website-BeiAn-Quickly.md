@@ -1,7 +1,7 @@
 ---
 
 layout: page
-breadcrumb: true
+
 title: 个人网站快速备案
 categoryStr: 网站建设
 category: webmaster

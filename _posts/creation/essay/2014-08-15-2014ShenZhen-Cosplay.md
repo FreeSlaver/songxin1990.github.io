@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 2014深圳动漫展
 category: essay
 categoryStr: 随笔

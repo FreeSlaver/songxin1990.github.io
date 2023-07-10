@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 如何高效学习—读书笔记
 category: writing
 categoryStr: 笔记

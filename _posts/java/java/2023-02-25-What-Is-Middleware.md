@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 什么是中间件
 category: java
 categoryStr: java

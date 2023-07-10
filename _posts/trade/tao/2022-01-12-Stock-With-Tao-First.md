@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 以股入道-用炒股来理解道德经1到9章
 category: tao
 categoryStr: 道

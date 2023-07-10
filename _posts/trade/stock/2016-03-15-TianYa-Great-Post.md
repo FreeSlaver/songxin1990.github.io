@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 天涯牛帖-转载
 category: stock
 categoryStr: 期货

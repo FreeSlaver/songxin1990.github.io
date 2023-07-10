@@ -1,0 +1,20 @@
+---
+layout: page
+
+title: 诀别
+category: me
+categoryStr: 我的
+tags:
+keywords:
+description:
+published:  false
+---
+
+
+写这封信不是为了解释什么，也不是为了获取理解之类的，只是想让你们死的明白一点。  
+之所以用信件的方式，只是为了让你们余生都活在悔恨痛苦自责的深渊中。
+
+## 
+
+## 
+

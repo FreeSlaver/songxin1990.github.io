@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title:  对道生一，一生二，二生三，三生万物的理解
 category: stock
 categoryStr: 道

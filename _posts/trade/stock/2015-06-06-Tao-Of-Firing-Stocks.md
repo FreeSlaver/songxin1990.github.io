@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 炒股之道
 category: stock
 categoryStr: 股票

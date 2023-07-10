@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 那些人那些事那些美好的曾经你们在哪里
 category: essay
 categoryStr: 随笔

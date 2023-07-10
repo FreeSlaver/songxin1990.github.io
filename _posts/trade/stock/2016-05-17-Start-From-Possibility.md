@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 从可能性出发
 category: stock
 categoryStr: 股票

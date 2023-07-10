@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 2015年1月19日中国股灾
 category: stock
 categoryStr: 股票

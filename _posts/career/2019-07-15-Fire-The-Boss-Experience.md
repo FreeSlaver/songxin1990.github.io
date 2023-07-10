@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 能够随时炒掉老板是种什么样的体验？
 category: career
 categoryStr: 职场 

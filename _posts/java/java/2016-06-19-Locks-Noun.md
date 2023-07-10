@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 关于JDK几种锁的名词解释
 category: java
 categoryStr: 并发

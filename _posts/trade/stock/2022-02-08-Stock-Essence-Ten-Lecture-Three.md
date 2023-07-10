@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 炒股精要十讲-3趋势
 category: stock
 categoryStr: 股票

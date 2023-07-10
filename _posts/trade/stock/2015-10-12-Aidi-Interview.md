@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 艾迪.塞柯塔访谈摘要
 category: stock
 categoryStr: 股票

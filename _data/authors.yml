@@ -5,10 +5,10 @@
 # 3. Change default post/page authors in config.yml
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
-songxin: # replace this with your info
+javaclass: # replace this with your info
   name: "Java课堂"
   siterole: "Java课堂"
   uri: https://javaclass.net/
-  github: http://github.com/freeslaver
+  github: https://github.com/freeslaver
 
 # you can add more authors here

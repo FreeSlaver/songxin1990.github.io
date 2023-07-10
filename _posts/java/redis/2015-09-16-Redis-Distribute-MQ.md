@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 基于Redis实现分布式消息队列
 category: redis
 categoryStr: redis

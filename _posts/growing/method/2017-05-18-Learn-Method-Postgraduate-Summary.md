@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 学习方法 考研小结
 category: method
 categoryStr: 方法论

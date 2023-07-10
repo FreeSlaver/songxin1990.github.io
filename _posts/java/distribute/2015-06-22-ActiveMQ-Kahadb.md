@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Activemq之KahaDB实现
 category: distribute
 categoryStr: 分布式

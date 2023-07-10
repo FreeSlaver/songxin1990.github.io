@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 架构师笔试面试准备
 category: career
 categoryStr: 职场 

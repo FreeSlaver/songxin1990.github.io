@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 show_meta: false
 title: "redis"
 subheadline: ""

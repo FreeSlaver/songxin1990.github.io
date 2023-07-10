@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Zookeeper leader选举和failover机制
 category: distribute
 categoryStr: 分布式

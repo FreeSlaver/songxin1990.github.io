@@ -1,7 +1,4 @@
-- name: Zhihu
-  url: https://www.zhihu.com/people/zenhacker
-  class: icon-zhihu
-  title: 知乎
+
 
 - name: GitHub
   url: http://github.com/songxin1990
@@ -12,6 +9,11 @@
   url: https://stackoverflow.com/users/6708214/songxin
   class: icon-stack-overflow
   title: Ask me a Question
+
+- name: Zhihu
+  url: https://www.zhihu.com/people/zenhacker
+  class: icon-zhihu
+  title: 知乎
 
 - name: Linkedin
   url: http://linkedin.com/songxin1990

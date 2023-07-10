@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 使用htaccess对虚拟主机进行301重定向
 category: webmaster
 categoryStr: 网站建设

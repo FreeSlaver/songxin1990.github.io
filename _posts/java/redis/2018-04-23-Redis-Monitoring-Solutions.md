@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Redis监控解决方案
 category: redis
 categoryStr: redis

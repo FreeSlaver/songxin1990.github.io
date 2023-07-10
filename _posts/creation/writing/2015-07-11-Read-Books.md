@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 读过的书
 category: writing
 categoryStr: 读书 

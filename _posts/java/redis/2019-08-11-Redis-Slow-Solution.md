@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Redis性能优化变慢了怎么解决？
 category: redis
 categoryStr: redis

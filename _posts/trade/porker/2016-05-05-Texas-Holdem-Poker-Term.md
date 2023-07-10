@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 德州扑克术语大全
 category: porker
 categoryStr: 德州扑克

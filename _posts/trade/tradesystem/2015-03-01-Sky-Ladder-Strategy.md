@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 天梯战法
 category: tradesystem
 categoryStr: 交易系统

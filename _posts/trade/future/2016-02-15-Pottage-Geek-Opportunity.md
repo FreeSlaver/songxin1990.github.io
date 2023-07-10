@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 浓汤野人：交易中的机会-转载
 category: future
 categoryStr: 期货

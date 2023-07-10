@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 学习的艺术—读书笔记
 category: writing
 categoryStr: 笔记

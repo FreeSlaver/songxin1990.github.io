@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 中国文化
 category: essay
 categoryStr: 文化

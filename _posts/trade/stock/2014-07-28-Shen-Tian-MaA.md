@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 20140728深天马A
 category: stock
 categoryStr: 股票

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 几个国外的交易网站
 category: stock
 categoryStr: 股票

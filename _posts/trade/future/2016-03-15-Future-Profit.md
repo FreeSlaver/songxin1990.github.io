@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 期货日内交易的止损、持盈和止盈法则
 category: future
 categoryStr: 期货

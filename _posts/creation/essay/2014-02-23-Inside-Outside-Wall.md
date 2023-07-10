@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 围墙
 category: essay
 categoryStr: 随笔

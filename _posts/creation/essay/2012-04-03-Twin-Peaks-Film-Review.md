@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 《双峰镇》影评
 category: essay
 categoryStr: 影评

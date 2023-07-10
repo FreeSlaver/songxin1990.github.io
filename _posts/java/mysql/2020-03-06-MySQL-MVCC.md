@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: MySQL MVCC机制
 category: mysql
 categoryStr: MySQL

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 芒格推荐书单(完全版32本)
 category: writing
 categoryStr: 读书 

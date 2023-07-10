@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 为什么我拒掉了阿里P6的offer
 category: career
 categoryStr: 职场 

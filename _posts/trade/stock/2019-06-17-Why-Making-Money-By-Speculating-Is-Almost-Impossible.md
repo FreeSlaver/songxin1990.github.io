@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 为什么我说靠炒股赚钱几乎是不可能
 category: stock
 categoryStr: 股票

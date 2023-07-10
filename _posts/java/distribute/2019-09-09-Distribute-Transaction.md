@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 分布式事务
 category: distribute
 categoryStr: 分布式

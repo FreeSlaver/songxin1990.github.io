@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 老实人的下场
 category: essay
 categoryStr: 随便

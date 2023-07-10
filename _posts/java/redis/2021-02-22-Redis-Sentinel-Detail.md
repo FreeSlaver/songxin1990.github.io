@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Redis Sentinel详解
 category: redis
 categoryStr: redis

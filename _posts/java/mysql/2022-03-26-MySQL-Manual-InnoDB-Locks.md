@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: MySQL官方文档学习笔记-InnoDB锁机制
 category: mysql
 categoryStr: MySQL

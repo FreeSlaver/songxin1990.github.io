@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 面试技巧总结
 category: interview
 categoryStr: 面试

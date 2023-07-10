@@ -21,7 +21,7 @@ credits: '<p> <a href="/">javaclass.net</a> Created with &hearts; by <a href="/m
 href="http://www.miitbeian.gov.cn" target="_blank" rel="nofollow">粤ICP备17122701号</a>.</p>'
 
 # Main author of the website
-author: songxin
+author: javaclass
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -206,7 +206,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: feelingresponsive
+#disqus_shortname: feelingresponsive
 
 
 #      _____

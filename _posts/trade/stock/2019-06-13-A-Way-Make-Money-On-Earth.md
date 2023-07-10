@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 到底有没一种赚钱的方法？
 category: stock 
 categoryStr: 股票 

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 论凌波之死
 category: essay
 tags: essence

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 听过的歌
 category: essay
 categoryStr: 音乐

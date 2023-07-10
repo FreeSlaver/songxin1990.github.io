@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 盘感训练方法-转载
 category: stock
 categoryStr: 股票

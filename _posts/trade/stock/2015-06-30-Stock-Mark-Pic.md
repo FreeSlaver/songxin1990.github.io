@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 炒股笔记配图
 category: stock
 categoryStr: 股票

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 并发性能优化 – 降低锁粒度
 category: java
 categoryStr: 并发

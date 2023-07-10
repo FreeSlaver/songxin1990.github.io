@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 分布式追踪技术选型
 category: distribute
 categoryStr: 分布式

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Apache Kafka技术分享
 category: kafka
 categoryStr: 大数据

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Dubbo技术分享
 category: distribute
 categoryStr: 分布式

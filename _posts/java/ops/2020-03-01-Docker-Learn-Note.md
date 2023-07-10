@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Docker学习笔记总结
 category: ops
 categoryStr: 分布式

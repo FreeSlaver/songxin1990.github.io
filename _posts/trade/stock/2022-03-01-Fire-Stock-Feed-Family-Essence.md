@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 
 category: stock
 categoryStr: 股票

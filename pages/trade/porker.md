@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 show_meta: false
 title: "德州扑克"
 subheadline: "上帝也爱赌博"

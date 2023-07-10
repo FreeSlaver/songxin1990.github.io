@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 禅修的好地方
 category: tao
 categoryStr: 道

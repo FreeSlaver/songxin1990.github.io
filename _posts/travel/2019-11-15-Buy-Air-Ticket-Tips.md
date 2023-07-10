@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 购买机票技巧
 category: travel
 categoryStr: 旅行

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 分布式锁面试题及解决方案
 category: distribute
 categoryStr: 分布式

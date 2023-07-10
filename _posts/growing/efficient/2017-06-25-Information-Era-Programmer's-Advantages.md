@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 信息时代，程序员的优势
 category: efficient
 categoryStr: 高效

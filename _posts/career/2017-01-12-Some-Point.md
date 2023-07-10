@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 投机还是工作
 category: career
 categoryStr: 职场 

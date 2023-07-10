@@ -29,34 +29,41 @@
 - title: "项目总结"
   url: "/project/"
   side: left
+  dropdown:
+    - title: "分布式"
+      url: "/distribute/"
+      side: left
+    - title: "运维"
+      url: "/ops/"
+      side: left
 
-- title: "分布式"
-  url: "/distribute/"
+- title: "面试"
+  url: "#"
   side: left
-
-- title: "运维"
-  url: "/ops/"
-  side: left
+  dropdown:
+    - title: "简历"
+      url: "/resume/"
+    - title: "面试题"
+      url: "/interview-question/"
+    - title: "面试"
+      url: "/interview-experience/"
 
 - title: "职场"
   url: "/career/"
   side: left
 
-- title: "语录"
-  url: "/quote/"
-  side: left
 
 
-- title: "写作"
-  url: "/writing"
+- title: "博客"
+  url: "#"
   side: left
   dropdown:
-    - title: "杂文"
+    - title: "写作"
       url: "/essay/"
-
-- title: "精华"
-  url: "/essence/"
-  side: left
+    - title: "精华"
+      url: "/essence/"
+    - title: "语录"
+      url: "/quote.html"
 
 - title: "归档"
   url: "/archive/"

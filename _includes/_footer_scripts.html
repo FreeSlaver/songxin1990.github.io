@@ -54,21 +54,23 @@ s0.parentNode.insertBefore(s1,s0);
 
 {% assign author = site.data.authors[page.author] %}
 <script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Person",
-  "name": "宋鑫",
-  "url": "https://3gods.com",
-  "sameAs": [
-    "{{ author.github }}",
-    "{{ author.zhihu }}",
-    "{{ author.googleplus }}",
-    "{{ author.facebook }}",
-    "{{ author.twitter }}",
-    "{{ author.linkedin }}"
-  ]
-}
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "javaclass",
+        "url": "https://javaclass.com",
+        "sameAs": [
+            "{{ author.github }}",
+            "{{ author.zhihu }}",
+            "{{ author.googleplus }}",
+            "{{ author.facebook }}",
+            "{{ author.twitter }}",
+            "{{ author.linkedin }}"
+        ]
+    }
 </script>
+
+{% include _baiduanalytics.html %}
 
 {% if false %}
 <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>

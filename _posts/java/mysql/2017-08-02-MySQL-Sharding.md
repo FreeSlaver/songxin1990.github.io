@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 数据库分库分表
 redirect_from:
   - /2017/08/02/MySQL-Sharding.html

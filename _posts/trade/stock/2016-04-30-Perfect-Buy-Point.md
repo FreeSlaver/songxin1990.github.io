@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 最完美的买点
 category: stock
 categoryStr: 股票

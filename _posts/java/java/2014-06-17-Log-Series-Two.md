@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 日志队列系统二 关于protobuf
 category: trash
 categoryStr: 分布式

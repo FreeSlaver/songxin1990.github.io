@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 一个消息队列应该具有的功能
 category: distribute
 categoryStr: 分布式

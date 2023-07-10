@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: linux
 category: java
 categoryStr: java

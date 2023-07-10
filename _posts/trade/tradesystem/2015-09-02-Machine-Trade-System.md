@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 机械交易系统 开始画蛋
 category: tradesystem
 categoryStr: 交易系统

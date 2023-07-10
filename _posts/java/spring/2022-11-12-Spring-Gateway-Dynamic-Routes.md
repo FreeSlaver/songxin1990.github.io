@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Spring Cloud Gateway动态路由实现的几种方式
 category: spring
 categoryStr: Spring

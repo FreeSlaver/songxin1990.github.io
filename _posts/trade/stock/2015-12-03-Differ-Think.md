@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 逆思考
 category: stock
 categoryStr: 股票

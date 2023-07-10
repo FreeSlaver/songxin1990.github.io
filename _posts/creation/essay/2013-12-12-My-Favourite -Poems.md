@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 我喜爱的诗词
 category: essay
 categoryStr: 随笔

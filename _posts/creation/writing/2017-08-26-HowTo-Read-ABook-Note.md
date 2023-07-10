@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 如何阅读一本书—读书笔记
 category: writing
 categoryStr: 笔记

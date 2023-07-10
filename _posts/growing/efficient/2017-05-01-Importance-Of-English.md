@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 英文的重要性
 category: efficient
 categoryStr: 高效

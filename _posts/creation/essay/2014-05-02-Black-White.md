@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 黑与白
 category: essay
 categoryStr: 随笔

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Kafka线上生产环境常见问题及解决方案
 category: kafka
 categoryStr: Kafka

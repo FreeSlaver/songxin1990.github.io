@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 小王子-读后感
 category: writing
 categoryStr: 笔记

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 程序员职业发展-笔记
 category: career
 categoryStr: 职场

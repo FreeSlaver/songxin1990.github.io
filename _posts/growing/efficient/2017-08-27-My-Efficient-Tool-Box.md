@@ -1,54 +1,15 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 我的高效工具箱
 category: efficient
 categoryStr: 高效
 tags: efficient tool
 keywords: efficient tool
-description: 我的高效工具箱，高效的工具代表的就是高效的生产力。包括翻墙，搜索，浏览器，浏览器插件，工作开发，写作，网盘，获取资讯等。
+description: 我的高效工具箱，高效的工具代表的就是高效的生产力。包括科学上网，翻墙，搜索，浏览器，浏览器插件，工作开发，写作，网盘，获取资讯等。
 ---
 
-<div id="table-of-contents">
-<h2>目录</h2>
-<div id="text-table-of-contents">
-<ul>
-<li><a href="#sec-1">1. 我的高效工具箱</a>
-<ul>
-<li><a href="#sec-1-1">1.1. 核心工具</a></li>
-
-<li><a href="#sec-1-3">1.3. 搜索引擎 Google</a></li>
-<li><a href="#sec-1-4">1.4. 浏览器 Chrome</a>
-<ul>
-<li><a href="#sec-1-4-1">1.4.1. 浏览器书签 Chrome BookMark</a></li>
-</ul>
-</li>
-<li><a href="#sec-1-5">1.5. 浏览器插件 Chrome-extensions</a>
-<ul>
-<li><a href="#sec-1-5-1">1.5.1. 拦截讨厌的广告 Adblock Plus</a></li>
-<li><a href="#sec-1-5-2">1.5.2. 查看JSON JSON-handler</a></li>
-<li><a href="#sec-1-5-3">1.5.3. HTTP API调试 Restlet Client</a></li>
-<li><a href="#sec-1-5-4">1.5.4. 划词翻译</a></li>
-<li><a href="#sec-1-5-5">1.5.5. 购物党比价</a></li>
-</ul>
-</li>
-<li><a href="#sec-1-6">1.6. GTD Emacs+OrgMode</a></li>
-<li><a href="#sec-1-7">1.7. 工作开发 InteliJ Idea</a></li>
-<li><a href="#sec-1-8">1.8. 做笔记 Emacs+OrgMode</a></li>
-<li><a href="#sec-1-9">1.9. 写作 Jekyll+Markdown</a></li>
-<li><a href="#sec-1-10">1.10. 网盘同步 Dropbox</a></li>
-<li><a href="#sec-1-11">1.11. 收发邮件 网易企业邮</a></li>
-<li><a href="#sec-1-12">1.12. 获取资讯 Feedly，Pocket，IFTTT</a></li>
-<li><a href="#sec-1-13">1.13. 即时通讯 QQ</a></li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-
-
-
-## 核心工具<a id="sec-1-1" name="sec-1-1"></a>
+## 核心平台<a id="sec-1-1" name="sec-1-1"></a>
 
 在开始介绍之前，我要强调一个核心的理念就是：   
 **围绕核心的工具来构建整个工具箱集合，并形成自己的高效工作流。**  

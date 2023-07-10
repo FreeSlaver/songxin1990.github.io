@@ -1,13 +1,13 @@
 ---
 layout: page
-breadcrumb: true
+
 published: false
 title: 做事要有规划性
 category: tips
 categoryStr: 小贴士
 tags: 公积金
 keywords:  公积金,商转公,公积金全额提取,规划性
-breadcrumb: true
+
 description: 
 image:
     title: mediaplayer_js-title.jpg

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 本地缓存 分布式缓存 数据库db的数据一致性
 category: redis
 categoryStr: redis

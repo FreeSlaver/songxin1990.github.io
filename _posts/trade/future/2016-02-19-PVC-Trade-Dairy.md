@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: PVC交易日记
 category: future
 categoryStr: 期货

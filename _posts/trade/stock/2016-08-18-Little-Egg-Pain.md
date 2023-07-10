@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 有点蛋疼啊
 category: stock
 categoryStr: 股票

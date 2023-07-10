@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: jgit 权限及个人化的Twitter
 category: webmaster
 categoryStr: 网站建设

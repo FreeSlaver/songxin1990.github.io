@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 小牌小底池
 category: porker
 categoryStr: 德州扑克

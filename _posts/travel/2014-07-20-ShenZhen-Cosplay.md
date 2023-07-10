@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 2014深圳Cosplay
 category: travel
 categoryStr: 摄影

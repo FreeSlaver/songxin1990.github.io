@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 一些小技巧
 category: stock
 categoryStr: 股票

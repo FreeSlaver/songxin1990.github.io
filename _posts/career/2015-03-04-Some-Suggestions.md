@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 工作上的几点建议-转载
 category: career
 categoryStr: 职场 

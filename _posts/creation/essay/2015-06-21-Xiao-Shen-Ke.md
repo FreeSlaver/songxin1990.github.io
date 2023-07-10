@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 肖申克的救赎
 category: essay
 categoryStr: 随笔

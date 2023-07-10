@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 寻找假后真的股票
 category: stock
 categoryStr: 股票

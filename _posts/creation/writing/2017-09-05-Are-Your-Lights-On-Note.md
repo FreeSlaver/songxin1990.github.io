@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 你的灯还亮着吗—读书笔记
 category: writing
 categoryStr: 笔记

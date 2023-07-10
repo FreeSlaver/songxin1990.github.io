@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 随机地从集合中取元素
 category: java
 categoryStr: java

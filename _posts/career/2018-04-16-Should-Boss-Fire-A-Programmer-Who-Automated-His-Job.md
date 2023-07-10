@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 老板应该解雇一个每周只工作1,2个小时的程序员吗？
 category: career
 categoryStr: 职场 

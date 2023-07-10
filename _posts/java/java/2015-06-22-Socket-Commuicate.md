@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 通信框架两种消息发送方式
 category: java
 categoryStr: java基础

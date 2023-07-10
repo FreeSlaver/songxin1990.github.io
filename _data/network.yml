@@ -1,11 +1,12 @@
 - menu_name: "Dankeschön"
 
-- name: "Themes by phlow"
-  url: "http://pholow.de/"
+- name: "Themes by phlow name feeling-responsive"
+  url: "https://javaclass.net/"
+  #https://phlow.github.io/feeling-responsive/:
   class: "network-entypo"
   title: "Icons by Daniel Bruce"
 
 - name: "Built on Foundation"
-  url: "http://foundation.zurb.com/"
+  url: "https://javaclass.net/"
   class: "services-newsletter"
   title: "Built on Foundation"

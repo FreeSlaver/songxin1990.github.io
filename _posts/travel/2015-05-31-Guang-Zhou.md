@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 广州
 category: travel
 categoryStr: 摄影

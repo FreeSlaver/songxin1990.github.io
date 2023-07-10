@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 这个市场
 category: tradesystem
 categoryStr: 交易系统

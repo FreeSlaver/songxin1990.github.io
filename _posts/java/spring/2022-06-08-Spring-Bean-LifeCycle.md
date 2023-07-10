@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Spring Bean的生命周期详解-配图
 category: spring
 categoryStr: Spring

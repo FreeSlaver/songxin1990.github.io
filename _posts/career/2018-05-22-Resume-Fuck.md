@@ -1,7 +1,7 @@
 ---
 permalink: /resume.html
 layout: page
-breadcrumb: true
+
 title: 简历
 category: career
 categoryStr: 职场 

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 工作不易，生活不易
 category: career
 categoryStr: 职场 

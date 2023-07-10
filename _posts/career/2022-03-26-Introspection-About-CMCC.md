@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 对之前中集电商职业阶段的反思
 category: career
 categoryStr: 职场

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 玩的有问题的几手牌
 category: porker
 categoryStr: 德州扑克

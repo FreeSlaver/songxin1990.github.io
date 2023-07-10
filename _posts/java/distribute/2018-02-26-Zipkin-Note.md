@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Zipkin笔记
 category: distribute
 categoryStr: 分布式

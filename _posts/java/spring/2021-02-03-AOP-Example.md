@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 实现一个自定义的Spring AOP
 category: spring
 categoryStr: Spring

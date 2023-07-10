@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 几个交易策略
 category: stock
 categoryStr: 交易系统

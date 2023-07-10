@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: MySQL索引为什么用B+树而不用二叉树，B树？
 category: mysql
 categoryStr: MySQL

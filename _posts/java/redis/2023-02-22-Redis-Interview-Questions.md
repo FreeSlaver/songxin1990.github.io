@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Redis面试题收录
 category: redis
 categoryStr: redis

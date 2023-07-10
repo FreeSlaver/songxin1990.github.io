@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 关于美联储加息和A股牛市
 category: stock
 categoryStr: 股票

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title:  打工还是从商，一生一次的抉择-转载
 category: career
 categoryStr: 职场 

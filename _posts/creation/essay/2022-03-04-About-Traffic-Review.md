@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 关于互联网流量的一点看法
 category: essay
 tags: essence

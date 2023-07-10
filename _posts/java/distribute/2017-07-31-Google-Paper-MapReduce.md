@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Google论文之MapReduce详解
 category: distribute
 categoryStr: 分布式

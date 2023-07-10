@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Kafka消息投递语义-消息不丢失，不重复，不丢不重
 category: kafka
 categoryStr: 大数据

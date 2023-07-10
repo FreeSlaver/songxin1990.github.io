@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Dubbo常见高频面试题
 category: distribute
 categoryStr: 分布式

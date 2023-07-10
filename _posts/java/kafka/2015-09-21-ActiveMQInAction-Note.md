@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: ActiveMQ in Action读书笔记
 category: kafka
 categoryStr: 分布式

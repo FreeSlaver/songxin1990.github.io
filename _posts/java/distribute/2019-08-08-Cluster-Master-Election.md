@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 你知道的集群选举方式有哪些？都有什么优缺点，适用场景？
 category: java
 categoryStr: 分布式

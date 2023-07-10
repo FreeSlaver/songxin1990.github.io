@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Spark项目总结
 category: distribute
 categoryStr: 分布式

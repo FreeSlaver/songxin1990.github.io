@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 我的期货经历摘录笔记
 category: future
 categoryStr: 期货

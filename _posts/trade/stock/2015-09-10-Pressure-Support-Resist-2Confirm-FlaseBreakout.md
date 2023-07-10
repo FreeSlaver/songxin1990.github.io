@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 压力 支撑 阻挡 二次确认 假突破
 category: stock
 categoryStr: 股票

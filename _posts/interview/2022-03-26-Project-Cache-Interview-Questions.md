@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 缓存面试题
 category: interview
 categoryStr: 面试

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: MySQL线上生产环境故障及解决方案
 category: mysql
 categoryStr: MySQL

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 工作无非拿钱干活，要不卖力学东西
 category: career
 categoryStr: 职场 

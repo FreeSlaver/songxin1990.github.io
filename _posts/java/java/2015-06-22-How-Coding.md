@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 如何书写简洁优雅的代码
 category: java
 categoryStr: java

@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "感想"
-breadcrumb: true
+
 subheadline: ""
 header:
    image_fullwidth: "header/essay.jpg"

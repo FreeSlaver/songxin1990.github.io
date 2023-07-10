@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 宋鑫1989公众号开通了
 category: writing
 categoryStr: 笔记

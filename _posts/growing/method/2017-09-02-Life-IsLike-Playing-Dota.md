@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 人生就像打Dota
 category: method
 categoryStr: 方法论

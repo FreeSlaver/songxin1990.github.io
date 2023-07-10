@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Shadowsocks最简最快安装步骤
 category: webmaster
 categoryStr: 网站建设

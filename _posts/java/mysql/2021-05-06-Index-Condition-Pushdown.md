@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 索引下推
 category: mysql
 categoryStr: MySQL

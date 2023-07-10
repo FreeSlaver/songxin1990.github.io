@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 云南旅行攻略
 category: travel
 categoryStr: 旅行

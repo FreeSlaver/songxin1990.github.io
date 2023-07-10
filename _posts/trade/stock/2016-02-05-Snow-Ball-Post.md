@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 雪球好文集锦-转载
 category: stock
 categoryStr: 股票

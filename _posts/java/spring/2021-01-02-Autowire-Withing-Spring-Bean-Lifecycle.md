@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Autowire注解是在Spring生命周期的哪一步运行的？
 category: spring
 categoryStr: Spring

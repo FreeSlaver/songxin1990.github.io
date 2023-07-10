@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 股市新手防守3招-1方法
 category: stock
 categoryStr: 股票

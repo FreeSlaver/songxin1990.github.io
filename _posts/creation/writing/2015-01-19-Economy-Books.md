@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 金融必读书籍
 category: writing
 categoryStr: 读书 

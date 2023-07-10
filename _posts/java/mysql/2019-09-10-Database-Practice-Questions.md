@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Java面试题-数据库笔试题收集MySQL
 category: mysql
 categoryStr: MySQL

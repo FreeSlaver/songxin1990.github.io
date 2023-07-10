@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 顶尖高手的修行秘笈
 category: stock
 categoryStr: 股票

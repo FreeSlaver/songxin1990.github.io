@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Spring Redis pipeline的java代码实现
 category: redis
 categoryStr: redis

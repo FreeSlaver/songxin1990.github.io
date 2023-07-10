@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 大牛推荐技术书籍
 category: writing
 categoryStr: 读书 

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Dubbo动态获取接口实现
 category: distribute
 categoryStr: 分布式

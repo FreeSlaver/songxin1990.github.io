@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 最棒的旅游技巧总结
 category: travel
 categoryStr: 旅行

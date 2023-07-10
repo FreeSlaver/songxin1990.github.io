@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Zookeeper面试题
 category: distribute
 categoryStr: 分布式

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: RPC原理以及如何实现一个简单RPC框架
 category: java
 categoryStr: java

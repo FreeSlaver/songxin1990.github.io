@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 搞钱
 category: tao
 categoryStr: 道

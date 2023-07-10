@@ -1,18 +1,18 @@
 ---
 layout: page
-breadcrumb: true
-title: 宋鑫的简历
-category: career
-categoryStr: 职场 
+
+title: 宋鑫的简历-2017年-中文
+category: me
+categoryStr: 我 
 tags: 
 keywords: 
-description: 宋鑫的简历，java程序员，期待年薪百万。
+description: 宋鑫的简历，java程序员，
 published: false
 ---
 
 # 个人信息
 
- - 宋鑫/男/1990年/湖北武汉/28/汉族
+ - 宋鑫--男--1990年--湖北武汉--28
  - 2012年6月/长江大学/计算机科学与技术专业
  - Tel:18025360608/Email:<a href="mailto:songxin@3gods.com">songxin@3gods.com</a>
  - Website：<a href="https://3gods.com">宋鑫的博客</a>

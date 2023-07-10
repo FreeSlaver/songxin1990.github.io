@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 橙色女孩-读后感
 category: writing
 categoryStr: 笔记

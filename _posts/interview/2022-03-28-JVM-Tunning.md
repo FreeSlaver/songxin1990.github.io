@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Java面试题-JVM调优
 category: java
 categoryStr: 面试

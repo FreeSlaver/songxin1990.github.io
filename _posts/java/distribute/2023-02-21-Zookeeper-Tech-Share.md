@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Zookeeper技术分享
 category: distribute
 categoryStr: 分布式

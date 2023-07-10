@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 关于本网站logo的说明
 category: essay
 categoryStr: 随笔

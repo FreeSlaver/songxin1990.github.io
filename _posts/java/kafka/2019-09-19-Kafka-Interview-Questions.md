@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Kafka常见高频面试题
 category: kafka
 categoryStr: Kafka

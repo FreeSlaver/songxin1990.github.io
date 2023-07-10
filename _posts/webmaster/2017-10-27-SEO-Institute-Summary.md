@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 公司SEO讲座总结
 category: webmaster
 categoryStr: 网站建设

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: Linux脚本编程
 category: ops
 categoryStr: 运维监控

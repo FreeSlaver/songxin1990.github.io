@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 初雪
 category: essay
 categoryStr: 随笔

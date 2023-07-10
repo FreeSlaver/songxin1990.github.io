@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 给Github Pages自定义域名添加HTTPS
 category: webmaster
 categoryStr: 网站建设

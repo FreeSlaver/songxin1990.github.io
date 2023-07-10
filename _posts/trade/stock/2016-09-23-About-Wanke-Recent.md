@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 关于万科a近期走势
 category: stock
 categoryStr: 股票

@@ -1,6 +1,6 @@
 ---
 layout: page
-breadcrumb: true
+
 title: 小散户
 category: stock
 categoryStr: 股票
