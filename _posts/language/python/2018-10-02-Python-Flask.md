@@ -87,9 +87,7 @@ description:
    那么这个include和集成机制有什么区别？
    也就是子template要覆盖的部分就用block之类的，然后在子template中覆盖。
 ## flask模板继承
-```python
-{% extends "base.html" %}
-```
+使用extends这个，但是和liquid冲突，没法用上面的这种inlucde来写，
    现在要做的是：这个body怎么弄？还是include？
 ## Broken pip
    需要结合WSGI使用，并且加上app.run(threaded=True)
