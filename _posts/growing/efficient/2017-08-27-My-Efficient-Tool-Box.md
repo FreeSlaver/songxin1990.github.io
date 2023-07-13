@@ -111,7 +111,9 @@ GTD，Getting Things Done。是一种时间和事务的管理方法。核心原�
 具体的想了解的，可以自行Google下。  
 
 ## 网盘同步 Dropbox<a id="sec-1-10" name="sec-1-10"></a>
-
+已经放弃Dropbox了，依托chrome还是用Google Drive更high，github也能存东西，这个做备份，  
+国内的玩意就去他妈隔壁把。
+--------
 国内的网盘怕了，说关就关，Dropbox真的业界良心，2G容量完全够用。  
 主要用来存储文档，PDF，部分图片，笔记，博客，emacs配置，idea配置等。  
 

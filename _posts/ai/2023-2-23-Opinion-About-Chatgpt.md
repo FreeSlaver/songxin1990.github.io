@@ -1,10 +1,9 @@
 ---
 layout: page
 
-title: 
-category: techedge
-categoryStr: 科技前沿
-tags: 
+title: ChatGPT是什么？
+category: ai
+tags: [chatgpt]
 keywords:
 description:
 ---

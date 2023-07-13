@@ -1,3 +1,4 @@
+---
 layout: page
 title:  B战txt话
 category: make-money

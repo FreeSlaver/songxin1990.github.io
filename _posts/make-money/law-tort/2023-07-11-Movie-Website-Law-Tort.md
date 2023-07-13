@@ -1,0 +1,44 @@
+---
+layout: page
+title:  影视网站侵权法律法规相关问题
+category: law-tort
+tags:
+keywords:
+description:
+published:  false
+---
+https://www.google.com/search?q=%E5%BD%B1%E8%A7%86+%E7%94%B5%E5%BD%B1+%E4%BE%B5%E6%9D%83+%E5%88%A4%E5%88%91&rlz=1C1CHZO_zh-CNCN1046CN1046&sxsrf=AB5stBgIKSljOnO0JvutraGiVEQxqXiCcQ%3A1689035653857&ei=haOsZLX2M4y74-EPgbGViAE&ved=0ahUKEwj1zKSRtIWAAxWM3TgGHYFYBREQ4dUDCA8&uact=5&oq=%E5%BD%B1%E8%A7%86+%E7%94%B5%E5%BD%B1+%E4%BE%B5%E6%9D%83+%E5%88%A4%E5%88%91&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQogQyBQgAEKIEMgUIABCiBDIFCAAQogQ6BwgjEOoCECc6FQgAEAMQjwEQ6gIQtAIQjAMQ5QIYAToVCC4QAxCPARDqAhC0AhCMAxDlAhgBOgQIIxAnOggIABCKBRCRAjoOCC4QigUQxwEQ0QMQkQI6DgguEIAEELEDEMcBENEDOhEILhCDARDHARCxAxDRAxCABDoLCAAQigUQsQMQgwE6CwguEIAEEMcBENEDOgsIABCABBCxAxCDAToHCAAQigUQQzoRCC4QgAQQsQMQgwEQxwEQ0QM6CAguEIAEELEDOggIABCABBCxAzoFCC4QgAQ6CwguEIoFELEDEIMBOggILhCxAxCABDoFCAAQgAQ6EwguEIAEEJcFENwEEN4EEOAEGAI6FAguEIoFELEDEIMBEMcBENEDEJECOhQILhCDARDHARCxAxDRAxCKBRCRAjoKCC4QigUQsQMQQzoOCC4QrwEQxwEQsQMQgAQ6DgguEIoFELEDEIMBEJECOhEILhCDARCvARDHARCxAxCABDoLCC4QgAQQsQMQgwE6DgguEIAEELEDEMcBEK8BOhMILhCABBCxAxCDARDHARDRAxAKOhEILhCKBRCxAxDHARDRAxCRAjoNCC4QgAQQxwEQ0QMQCjoHCAAQgAQQCjoKCAAQgAQQsQMQCjoNCC4QgAQQxwEQrwEQCjofCC4QigUQsQMQxwEQ0QMQkQIQlwUQ3AQQ3gQQ4AQYAjoHCAAQDBCABDoFCCEQoAFKBAhBGABQAFjJbWDPbmgVcAB4A4AB4AKIAf5KkgEHMi0yMC4xM5gBAKABAbABFMABAdoBBggBEAEYC9oBBggCEAEYFA&sclient=gws-wiz-serp
+
+https://www.google.com/search?q=%E5%BD%B1%E8%A7%86+%E7%94%B5%E5%BD%B1+%E4%BE%B5%E6%9D%83+%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84&newwindow=1&rlz=1C1CHZO_zh-CNCN1046CN1046&sxsrf=AB5stBi9PbAC1IrfbSjq5PGGqMQ8GXZ_1A%3A1689035684644&ei=pKOsZPv7Jta94-EP69ig-Ao&ved=0ahUKEwj73fuftIWAAxXW3jgGHWssCK8Q4dUDCA8&uact=5&oq=%E5%BD%B1%E8%A7%86+%E7%94%B5%E5%BD%B1+%E4%BE%B5%E6%9D%83+%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQogQyBQgAEKIEMgUIABCiBDoICAAQogQQsAM6BAgjECc6BQghEKABSgQIQRgBUOoYWIVKYMpLaAtwAHgCgAHJAogBuiCSAQcxLjAuNy43mAEAoAEBwAEByAED&sclient=gws-wiz-serp
+
+https://www.google.com/search?q=%E5%BD%B1%E8%A7%86%E6%90%9C%E7%B4%A2%E8%BF%99%E7%B1%BB%E7%BD%91%E7%AB%99+%E4%BE%B5%E6%9D%83+%E7%8A%AF%E6%B3%95%E5%90%97&newwindow=1&rlz=1C1CHZO_zh-CNCN1046CN1046&sxsrf=AB5stBhJLt2xak4L2Sz2FpbGev5rBWzbag%3A1689035857629&ei=UaSsZImOJtC0oAS-kq2wCg&ved=0ahUKEwjJ-rnytIWAAxVQGogKHT5JC6YQ4dUDCA8&uact=5&oq=%E5%BD%B1%E8%A7%86%E6%90%9C%E7%B4%A2%E8%BF%99%E7%B1%BB%E7%BD%91%E7%AB%99+%E4%BE%B5%E6%9D%83+%E7%8A%AF%E6%B3%95%E5%90%97&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzoHCCMQ6gIQJzoVCC4QAxCPARDqAhC0AhCMAxDlAhgBOhUIABADEI8BEOoCELQCEIwDEOUCGAE6BAgjECc6FAguEIMBEMcBELEDENEDEIoFEJECOhQILhCKBRCxAxCDARDHARDRAxCRAjoLCAAQgAQQsQMQgwE6CwguEIoFELEDEJECOg4ILhCKBRCxAxCDARCRAjoOCC4QrwEQxwEQsQMQgAQ6CAguEIAEELEDOhEILhCDARCvARDHARCxAxCABDoLCC4QgAQQsQMQgwE6DgguEIAEELEDEMcBEK8BOg4ILhCDARCxAxCKBRCRAjoICAAQgAQQsQM6BQgAEIAEOgcILhCABBAKOhwILhCDARCxAxCKBRCRAhCXBRDcBBDeBBDgBBgCOgUILhCABDoTCC4QgAQQsQMQgwEQxwEQ0QMQCjoTCC4QgAQQlwUQ3AQQ3gQQ4AQYAjoHCAAQigUQQzoFCAAQogRKBAhBGABQAFjcW2D6XGgKcAB4B4ABmAaIAcpskgEPMS4wLjE4LjE0LjQuMi4ymAEAoAEBsAEUwAEB2gEGCAEQARgL2gEGCAIQARgU&sclient=gws-wiz-serp
+
+https://www.chinanews.com.cn/shipin/cns/2021/02-03/news879643.shtml
+
+http://debund.com/article?id=1677
+
+https://www.tisi.org/4332
+
+https://www.zhichanli.com/p/1835156924
+
+https://www.dehenglaw.com/CN/tansuocontent/0008/008124/7.aspx?MID=0902
+
+https://www.thepaper.cn/newsDetail_forward_23505653
+
+https://www.tisi.org/1878
+
+http://www.cdjcy.gov.cn/yasf/256041.jhtml
+
+http://www.runping.com/201607/1712.html
+
+如果以营利为目的,传播、转载他人享有著作权的漫画、影视作品链接或资源,且达到刑法规定的情节严重标准,其行为则涉嫌侵犯著作权罪,将判处相应刑罚。 
+
+，在播放时无显示来源，直接进入播放页面；被告在播放涉案作品时无任何前置广告及暂停播放时的广告，位显示乐视网水印，显示的版本、布局与乐视APP不同；  
+乐视网上有明确声明不能盗链，故腾讯公司认为被告进行了涉案作品的编辑，具有恶意，被告为获取盈利直接设链播放涉案作品
+两者在播放时均未进行跳转呈现出被链网站页面，最终均未实现被链网站上的广告利益并占用被链网站的宽带资源。
+
+达到对涉案作品进行提供与传播的直接控制，使用户最终实现了通过网络，在任意的时间、地点获取作品的目的，构成了对权利人信息网络传播权的直接侵权。
+
+虽然聚合平台辩称仅提供技术服务，但实质上是以搜索、链接为名实现了在自己的APP上播放他人网站上视频资源的效果。
+
+应当说，从APP开发，到提供搜索服务，到编排热门影视剧作品，再到存储上述作品的链接，聚合平台的上述工作作为“技术服务”名实相符。
