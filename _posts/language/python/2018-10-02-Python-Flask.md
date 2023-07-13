@@ -80,7 +80,7 @@ description:
 
    如果直接提交form的话，data是null。
 ## flask 引入html页面
-   {% include 'banner.html' %}
+include
 
    有没有一些通用的框架？每次都要学些新东西。
 
