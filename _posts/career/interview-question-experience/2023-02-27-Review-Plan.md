@@ -2,7 +2,7 @@
 layout: page
 
 title: 面试之自我介绍
-category: interview
+category: interview-question-experience
 categoryStr: 面试
 tags: [interview]
 keywords:

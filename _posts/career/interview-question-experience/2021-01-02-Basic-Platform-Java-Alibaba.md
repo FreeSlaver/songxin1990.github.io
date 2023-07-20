@@ -1,8 +1,7 @@
 ---
 layout: page
-
 title: 基础平台Java研发工程师面经-阿里
-category: interview-experience
+category: interview-question-experience
 categoryStr: 面试
 tags: [interview-experience]
 keywords:

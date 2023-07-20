@@ -2,7 +2,7 @@
 layout: page
 
 title: Java项目面试题
-category: interview
+category: interview-question-experience
 categoryStr: 面试
 tags: [interview]
 keywords:

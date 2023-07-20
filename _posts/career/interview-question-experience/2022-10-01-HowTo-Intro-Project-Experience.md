@@ -2,7 +2,7 @@
 layout: page
 
 title: 如何在面试中介绍自己的项目经验
-category: career
+category: interview-question-experience
 categoryStr: 职场
 tags: [interview]
 keywords: 面试,项目经验

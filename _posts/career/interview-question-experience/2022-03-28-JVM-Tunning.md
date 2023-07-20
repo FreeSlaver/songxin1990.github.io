@@ -2,7 +2,7 @@
 layout: page
 
 title: Java面试题-JVM调优
-category: java
+category: interview-question-experience
 categoryStr: 面试
 tags: [interview]
 keywords:

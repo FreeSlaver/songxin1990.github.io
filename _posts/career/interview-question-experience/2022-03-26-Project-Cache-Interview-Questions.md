@@ -2,7 +2,7 @@
 layout: page
 
 title: 缓存面试题
-category: interview
+category: interview-question-experience
 categoryStr: 面试
 tags: [interview]
 keywords:

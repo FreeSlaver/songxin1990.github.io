@@ -2,7 +2,7 @@
 layout: page
 
 title: 非科班出生水货硕士阿里新商场面经
-category: interview-experience
+category: interview-question-experience
 categoryStr: 面试
 tags: [阿里巴巴,硕士,]
 keywords:

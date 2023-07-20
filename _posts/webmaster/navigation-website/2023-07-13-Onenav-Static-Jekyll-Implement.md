@@ -5,7 +5,7 @@ category: webmaster
 tags:
 keywords:
 description:
-published:  true
+published:  false
 ---
 
 最终决定还是用Jekyll静态来实现，其实整个的导航站没有，动态的必要，出了极少的留言和意见反馈，可以在二级域名挂载第三方的应用，  

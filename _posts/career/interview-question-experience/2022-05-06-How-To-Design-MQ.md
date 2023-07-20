@@ -2,7 +2,7 @@
 layout: page
 
 title: 如何设计一个消息队列系统？
-category: java
+category: interview-question-experience
 categoryStr: java
 tags: [interview]
 keywords:

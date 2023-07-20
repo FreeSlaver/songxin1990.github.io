@@ -2,7 +2,7 @@
 layout: page
 
 title: 面试技巧总结
-category: interview
+category: interview-question-experience
 categoryStr: 面试
 tags: [interview]
 keywords:

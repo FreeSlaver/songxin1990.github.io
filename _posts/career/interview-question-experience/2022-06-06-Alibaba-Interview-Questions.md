@@ -2,7 +2,7 @@
 layout: page
 
 title: 阿里巴巴Java面经
-category: interview
+category: interview-question-experience
 categoryStr: 面试
 tags: [interview]
 keywords:

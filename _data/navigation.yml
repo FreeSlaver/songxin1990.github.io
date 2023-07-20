@@ -37,22 +37,28 @@
       url: "/ops/"
       side: left
 
-- title: "面试"
+- title: "职场"
   url: "#"
   side: left
   dropdown:
     - title: "简历"
       url: "/resume/"
-    - title: "面试题"
-      url: "/interview-question/"
-    - title: "面试"
-      url: "/interview-experience/"
+    - title: "面试题面经"
+      url: "/interview-question-experience/"
+    - title: "职场"
+      url: "/career/"
 
-- title: "职场"
-  url: "/career/"
+
+- title: "儒释道"
+  url: "#"
   side: left
-
-
+  dropdown:
+    - title: "儒"
+      url: "/confucian/"
+    - title: "释"
+      url: "/buddha/"
+    - title: "道"
+      url: "/tao"
 
 - title: "博客"
   url: "#"
