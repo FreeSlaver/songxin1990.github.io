@@ -2,29 +2,19 @@
   url: "/"
   side: left
 
-- title: "方法"
-  url: "/method/"
+- title: "Java后端"
+  url: "#"
   side: left
-
-- title: "Kafka"
-  url: "/kafka/"
-  side: left
-
-- title: "Spring"
-  url: "/spring/"
-  side: left
-
-- title: "Redis"
-  url: "/redis/"
-  side: left
-
-- title: "MySQL"
-  url: "/mysql/"
-  side: left
-
-- title: "Java"
-  url: "/java/"
-  side: left
+    - title: "Java"
+      url: "/java/"
+    - title: "Spring"
+      url: "/spring/"
+    - title: "MySQL"
+      url: "/mysql/"
+    - title: "Redis"
+      url: "/redis/"
+    - title: "Kafka"
+      url: "/kafka/"
 
 - title: "项目总结"
   url: "/project/"
@@ -47,6 +37,10 @@
       url: "/interview-question-experience/"
     - title: "职场"
       url: "/career/"
+
+- title: "方法"
+  url: "/method/"
+  side: left
 
 
 - title: "儒释道"

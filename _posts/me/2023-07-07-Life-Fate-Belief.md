@@ -4,11 +4,10 @@ layout: page
 
 title: 人生命运信念
 category: me
-categoryStr: 我的
 tags:
 keywords:
 description: 我的人生命运信念
-published:  false
+published:  true
 ---
 
 ## 站起来，去战斗，踏跶开。

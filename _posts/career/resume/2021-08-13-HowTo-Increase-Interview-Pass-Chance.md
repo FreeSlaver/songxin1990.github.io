@@ -1,6 +1,5 @@
 ---
 layout: page
-
 title: 怎么写简历才能提高拿Offer几率
 category: resume
 categoryStr: 简历
