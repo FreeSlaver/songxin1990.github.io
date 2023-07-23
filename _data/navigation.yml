@@ -5,6 +5,7 @@
 - title: "Java后端"
   url: "#"
   side: left
+  dropdown:
     - title: "Java"
       url: "/java/"
     - title: "Spring"
@@ -38,21 +39,58 @@
     - title: "职场"
       url: "/career/"
 
-- title: "方法"
-  url: "/method/"
+- title: "成功学"
+  url: "#"
   side: left
+  dropdown:
+    - title: "心理"
+      url: "/psychology/"
+    - title: "方法"
+      url: "/method/"
 
+
+
+- title: "商业"
+  url: "#"
+  side: left
+  dropdown:
+    - title: "搞钱"
+      url: "/make-money/"
+    - title: "产品"
+      url: "/tao"
+    - title: "流量推广"
+      url: "/net-traffic/"
+    - title: "侵权违法"
+      url: "/law-tort/"
 
 - title: "儒释道"
   url: "#"
   side: left
   dropdown:
-    - title: "儒"
-      url: "/confucian/"
-    - title: "释"
-      url: "/buddha/"
     - title: "道"
       url: "/tao"
+    - title: "释"
+      url: "/buddha/"
+    - title: "儒"
+      url: "/confucian/"
+    - title: "心理"
+      url: "/psychology/"
+
+
+- title: "交易"
+  url: "#"
+  side: left
+  dropdown:
+    - title: "股票"
+      url: "/stock/"
+    - title: "交易系统"
+      url: "/tradesystem/"
+    - title: "期货"
+      url: "/method/"
+    - title: "德州扑克"
+      url: "/porker/"
+    - title: "赌博"
+      url: "/gamble/"
 
 - title: "博客"
   url: "#"

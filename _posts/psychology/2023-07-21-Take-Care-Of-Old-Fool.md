@@ -1,8 +1,8 @@
 ---
 layout: page
 title:  照料老人容易抑郁
-category: ops
-tags: [负载均衡,LVS]
+category: psychology
+tags: [抑郁,老人]
 keywords:
 description:
 ---
