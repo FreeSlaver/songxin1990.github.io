@@ -1,3 +1,4 @@
+---
 layout: page
 title:  做一个音乐的社区怎么样了？
 category: make-money

@@ -2,12 +2,11 @@
   url: "/"
   side: left
 
-- title: "Java后端"
+
+- title: "Java框架组件"
   url: "#"
   side: left
   dropdown:
-    - title: "Java"
-      url: "/java/"
     - title: "Spring"
       url: "/spring/"
     - title: "MySQL"
@@ -17,16 +16,20 @@
     - title: "Kafka"
       url: "/kafka/"
 
-- title: "项目总结"
-  url: "/project/"
+
+- title: "集群分布式微服务"
+  url: "#"
   side: left
   dropdown:
-    - title: "分布式"
+    - title: "Java"
+      url: "/java/"
+    - title: "集群分布式"
       url: "/distribute/"
-      side: left
+    - title: "程序系统设计"
+      url: "/program-system-design/"
     - title: "运维"
       url: "/ops/"
-      side: left
+
 
 - title: "职场"
   url: "#"
@@ -39,21 +42,12 @@
     - title: "职场"
       url: "/career/"
 
-- title: "成功学"
-  url: "#"
-  side: left
-  dropdown:
-    - title: "心理"
-      url: "/psychology/"
-    - title: "方法"
-      url: "/method/"
-
-
-
 - title: "商业"
   url: "#"
   side: left
   dropdown:
+    - title: "方法论"
+      url: "/method/"
     - title: "搞钱"
       url: "/make-money/"
     - title: "产品"
@@ -77,12 +71,14 @@
       url: "/psychology/"
 
 
-- title: "交易"
+- title: "投资"
   url: "#"
   side: left
   dropdown:
     - title: "股票"
       url: "/stock/"
+    - title: "每日复盘"
+      url: "/everyday-replay/"
     - title: "交易系统"
       url: "/tradesystem/"
     - title: "期货"
