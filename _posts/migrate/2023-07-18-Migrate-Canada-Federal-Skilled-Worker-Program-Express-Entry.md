@@ -1,9 +1,7 @@
 ---
 layout: page
-
 title: 移民加拿大流程
-category: me
-categoryStr: 我的
+category: migrate
 tags:
 keywords:
 description: 我的人生命运原则
