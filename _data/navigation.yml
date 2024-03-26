@@ -42,6 +42,10 @@
     - title: "职场"
       url: "/career/"
 
+- title: "工具箱"
+  url: "/tools/"
+  side: left
+
 - title: "商业"
   url: "#"
   side: left
@@ -57,38 +61,7 @@
     - title: "侵权违法"
       url: "/law-tort/"
 
-- title: "儒释道"
-  url: "#"
-  side: left
-  dropdown:
-    - title: "道"
-      url: "/tao"
-    - title: "释"
-      url: "/buddha/"
-    - title: "儒"
-      url: "/confucian/"
-    - title: "心理"
-      url: "/psychology/"
-
-
-- title: "投资"
-  url: "#"
-  side: left
-  dropdown:
-    - title: "股票"
-      url: "/stock/"
-    - title: "每日复盘"
-      url: "/everyday-replay/"
-    - title: "交易系统"
-      url: "/tradesystem/"
-    - title: "期货"
-      url: "/method/"
-    - title: "德州扑克"
-      url: "/porker/"
-    - title: "赌博"
-      url: "/gamble/"
-
-- title: "博客"
+- title: "创作"
   url: "#"
   side: left
   dropdown:

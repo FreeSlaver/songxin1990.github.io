@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  知乎盐选会员破解搬砖项目
-category: product
+category: make-money
 tags: [zhihu]
 keywords:
 description:
