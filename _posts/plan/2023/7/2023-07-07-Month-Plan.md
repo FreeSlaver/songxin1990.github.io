@@ -2,7 +2,7 @@
 layout: page
 
 title: 2023年7月规划
-category: me
+category: plan
 categoryStr: 我的
 tags:
 keywords:

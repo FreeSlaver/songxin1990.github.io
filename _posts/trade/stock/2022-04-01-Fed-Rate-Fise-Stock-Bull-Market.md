@@ -7,6 +7,7 @@ categoryStr: 股票
 tags: [essence]
 keywords: [美联储 加息 牛市]
 description:
+published:  false
 ---
 
 美联储加息还未落地之前，A股必定暴跌，特别是在加息的前后一天，必定暴跌。而在加息落地之后，A股会暴涨。这点我在很久之前就说过，现在也得到验证了。

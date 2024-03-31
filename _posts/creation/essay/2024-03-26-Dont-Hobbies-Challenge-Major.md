@@ -19,7 +19,7 @@ published:  true
 然而这一切都在某个下午幻灭了。那是十几年前，我二十岁，正值当打之年，一个学生网站组织了一场慈善球赛，我和几个球友应邀参加，他们都是上海高中各校队的优秀球员。比如二中菲戈、附中克林斯曼、杨浦范巴斯滕、静安巴乔。
 
 对手是上海一支职业队的儿童预备队，都是五年级左右的学生。我们去的时候欢声笑语，彼此告诫要对小学生下手轻一点，毕竟人家是儿童，哈哈哈哈。
-![韩寒](/img/creation/essay/2024-03-26-Dont-Hobbies-Challenge-Major-1)
+![韩寒](/img/creation/essay/2024-03-26-Dont-Hobbies-Challenge-Major-1.jpg)
 
 ▲ 韩寒（前排左二）
 上半场结束后，我作为金山区齐达内，我他妈只触到了一次球，上半场20分钟，我们就被灌了将近20个球。我们进球0个，传球成功不到十次，其他时间都在被小学生们当狗遛。
@@ -33,11 +33,11 @@ published:  true
 他们不知道，“网红”作为一个新兴行业，也正逐步趋于成熟化。那些出现在我们视野的网红，基本都是专业出身。要想单靠碰运气，吸引眼球就在网络上一夜爆红，简直是痴人说梦。
 
 作为近几年最火的网红，papi酱坐拥2000多万粉丝，共获得1200万融资，公司估值1.2亿左右。
-![papi酱](/img/creation/essay/2024-03-26-Dont-Hobbies-Challenge-Major-2)
+![papi酱](/img/creation/essay/2024-03-26-Dont-Hobbies-Challenge-Major-2.gif)
 
 先后以2000万天价签下综艺首秀，出演吴君如执导的喜剧电影《妖妖铃》。如今，更是加入百度App担任首席内容官。记得她刚火起来的时候，很多人感慨，互联网真是个好东西。就连样貌不佳、身材不好，不会唱歌不会跳舞的业余普通女孩，也能靠着变声搞怪火起来，做网红真是容易。
 
-![papi酱](/img/creation/essay/2024-03-26-Dont-Hobbies-Challenge-Major-3)
+![papi酱](/img/creation/essay/2024-03-26-Dont-Hobbies-Challenge-Major-3.gif)
 但翻开papi酱的履历，你会发现，她不仅不业余，而且是一个实打实的资深娱乐圈从业者。
 毕业于中央戏剧学院导演系的她，从小就是学院派。早在2006年，大一的papi酱就开始兼职担任网络主持人。
 
@@ -50,7 +50,7 @@ published:  true
 直到2015年，papi酱凭借敏锐的职业眼光，捉住短视频风口，在多个平台进行内容创业。
 
 历经多次试验，努力了整整一年，才终于获得了网友们的认可。在此前，近10年的时间里，papi酱一直从事着娱乐行业的工作。与其说她是一夜爆红，不如说是厚积薄发的结果。
-![papi酱](/img/creation/essay/2024-03-26-Dont-Hobbies-Challenge-Major-4)
+![papi酱](/img/creation/essay/2024-03-26-Dont-Hobbies-Challenge-Major-4.jpg)
 
 03
 除了当网红，很多人还把娱乐圈“选秀”，当做普通人跨越财富和阶层的快速通道。
@@ -62,13 +62,13 @@ published:  true
 《中国好声音》第四季，一位自称奶爸的选手孙伯纶，凭借出色的表现，获得了导师四转。
 
 节目中的他衣着朴素，没有做发型，言语间还有些胆怯，完全符合一个“普通人”的形象。
-![爸的选手孙伯纶](/img/creation/essay/2024-03-26-Dont-Hobbies-Challenge-Major-5)
+![爸的选手孙伯纶](/img/creation/essay/2024-03-26-Dont-Hobbies-Challenge-Major-5.jpg)
 
 然而，在百度百科上，却赫然写着“中国男歌手”五个大字。
 孙伯纶不仅职业经历丰富，多次参加节目，还举办过专业音乐剧的全国巡演。
 
 压根不是草根素人！
-![奶爸的选手孙伯纶](/img/creation/essay/2024-03-26-Dont-Hobbies-Challenge-Major-6)
+![奶爸的选手孙伯纶](/img/creation/essay/2024-03-26-Dont-Hobbies-Challenge-Major-6.jpg)
 
 平时登台的他，也不是像好声音里面那般青涩。
 
@@ -88,7 +88,7 @@ published:  true
 结果，被几句四两拨千斤的怒怼，轰下了台。
 
 这一举动，得到了众多网友支持。
-![郭德纲](/img/creation/essay/2024-03-26-Dont-Hobbies-Challenge-Major-7)
+![郭德纲](/img/creation/essay/2024-03-26-Dont-Hobbies-Challenge-Major-7.gif)
 
 自以为是的外行，别说轻视业界名人，就连登上舞台，都是对专业人士的侮辱。
 作为专业相声演员，郭德纲功底十分深厚。
@@ -98,7 +98,7 @@ published:  true
 其间又学习了京剧、评剧、河北梆子、西河大鼓、单弦等技艺。
 
 样样通而不松，辗转演出多年。
-![郭德纲](/img/creation/essay/2024-03-26-Dont-Hobbies-Challenge-Major-8)
+![郭德纲](/img/creation/essay/2024-03-26-Dont-Hobbies-Challenge-Major-8.jpg)
 
 在如此扎实的专业经历面前，两个半路出家，没有真才实学，还口口声声说“教”郭德纲相声的人，简直不知天高地厚。
 要记住，专业人士的可怕超乎你的想象，不要用你自以为是的业余水平，和别人的生存技能比试。
@@ -108,7 +108,7 @@ published:  true
 除了文娱项目，在体育方面，业余和专业的差距，更是明显。
 
 在《来吧冠军》节目里，邹市明曾和天龙八部的虚竹扮演者樊少皇，进行擂台对决。
-![樊少皇](/img/creation/essay/2024-03-26-Dont-Hobbies-Challenge-Major-9)
+![樊少皇](/img/creation/essay/2024-03-26-Dont-Hobbies-Challenge-Major-9.jpg)
 
 按照规则，邹市明让单手，右手背在身后，仍然花式吊打樊少皇。
 其实，邹市明也就玩玩，做做综艺效果，根本没有出力。
@@ -118,10 +118,10 @@ published:  true
 如果觉得视频不够直接，我们再来看一组数据：
 
 樊少皇，13岁开始习武，身高1米82，体重80kg，常年拍摄动作片武打片，担任武术指导。
-![樊少皇](/img/creation/essay/2024-03-26-Dont-Hobbies-Challenge-Major-10)
+![樊少皇](/img/creation/essay/2024-03-26-Dont-Hobbies-Challenge-Major-10.jpg)
 
 而邹市明，身高仅162cm，体重48kg，在樊少皇面前就是个小矮人。
-![樊少皇](/img/creation/essay/2024-03-26-Dont-Hobbies-Challenge-Major-11)
+![樊少皇](/img/creation/essay/2024-03-26-Dont-Hobbies-Challenge-Major-11.jpg)
 他之所以能碾压对方，靠的是长期的专业训练，同样一个东西，他们能看到太多外人看不到的东西，并付出千万倍努力。
 所谓专业，就是将一件事做到了极致，达到业余人士无法企及的高度。
 
@@ -142,7 +142,7 @@ published:  true
 可对方一时没收住力道，不慎误伤了徐晓东，致其额头受伤，倒地不起。
 
 最后去医院缝了26针。
-![徐晓东](/img/creation/essay/2024-03-26-Dont-Hobbies-Challenge-Major-12)
+![徐晓东](/img/creation/essay/2024-03-26-Dont-Hobbies-Challenge-Major-12.jpg)
 
 很多事情，并不是看上去那么简单。
 对于职业选手，每一个单项，都是一个非常复杂的系统。

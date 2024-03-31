@@ -5,7 +5,7 @@ category: everyday-replay
 tags: [每日复盘,股市,A股]
 keywords:
 description:  随便找一件事情，天天坚持去做是非常困难的。
-published:  true
+published:  false
 ---
 
 2023年7月28日股市复盘 22:50 SunnyPalm  

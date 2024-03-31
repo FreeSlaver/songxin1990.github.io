@@ -5,7 +5,7 @@ category: stock-god-diary
 tags: [交易,师傅,]
 keywords:
 description:
-published:  true
+published: false
 ---
 
 师傅有撒好处？给我一个理由。  

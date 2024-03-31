@@ -5,7 +5,7 @@ category: everyday-replay
 tags: [每日复盘,股市,A股]
 keywords:
 description:  
-published:  true
+published:  false
 ---
 
 不写了，全写到日记里面。这群狗逼，不配看。

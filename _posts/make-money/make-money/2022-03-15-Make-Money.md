@@ -3,7 +3,7 @@ layout: page
 
 title: 搞钱
 category: make-money
-categoryStr: 道
+categoryStr: 赚钱
 tags: [essence,makemoney]
 keywords: 搞钱
 description:
