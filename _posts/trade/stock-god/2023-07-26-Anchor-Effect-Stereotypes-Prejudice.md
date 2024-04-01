@@ -5,7 +5,7 @@ category: stock-god
 tags: [锚定效应,固有印象,偏见]
 keywords:
 description:
-published:  true
+published:  false
 ---
 
 锚定效应，更准确的说法是：一种心理的固有印象，认知偏见。  
