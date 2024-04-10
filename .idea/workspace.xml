@@ -5,15 +5,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7218f7ea-2cb6-4092-968c-d9096a66ea92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-01-HowTo-Stop-Lose-Close-Position.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-01-HowTo-Stop-Lose.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-02-Stop-Lose-Type.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/career/career/2024-04-02-Best-Time-Dismiss-Technology-Partner.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/career/career/2024-04-10-The-Hard-Core-Problem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/career/interview/2024-03-07-HowTo-Answer-Reasons-Of-Resign.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/career/interview/2024-04-01-Other-Interview-Company.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/career/interview/2024-04-08-HowTo-Introduce-Yourself.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/career/interview/2024-04-09-HowTo-Answer-What-Your-Disadvantage.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/career/interview/2024-04-10-HowTo-Answer-Expected-Salary.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/career/resume/2022-02-02-HowTo-Intro-Project-Resume.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/career/resume/2024-04-01-How-HR-Filter-Resumes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/career/resume/2024-04-03-HowTo-Write-Resume.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/career/resume/2024-04-05-Best-Way-Write-Project-Experience-Resume.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/dog-cunt-parent/2019--17-13-Dog-Cunt-Parent.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/dog-cunt-parent/2019-07-13-Rubbish-Parent.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/dog-cunt-parent/2024-04-08-Blind-Date.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/dog-cunt-parent/2024-04-10-HowTo-Run-Away.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/architecture-design/2022-05-07-Why-Most-Code-Farmer-Cant-Grow-Architect.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/architecture-design/2024-03-04-HowTo-Choose-Tech.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/architecture-design/2024-04-02-What-Is-Architecture.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/architecture-design/2024-04-05-Multiple-Data-Center.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/java/2024-04-07-Concept-improve.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/java/2024-04-08-Java-Design-Flaws.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/maxwell/2024-04-03-Maxwell-Learn-Note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/micro-service/2024-04-07-Micro-Service-Best-Practice.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/mysql/2024-04-03-MySQL-Binlog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/programmer/2024-03-05-Essence-Of-Programming.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/programmer/2024-03-10-HowTo-Learn-Programming.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/programmer/2024-04-08-Concept-Improve-Programmer-Ability.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/programmer/2024-04-09-HowTo-Become-Architect.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/project/2024-04-04-Social-Engineering-Database.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/make-money/make-money/2024-04-06-Stock-Gong-Zhong-Hao-Pay.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/make-money/method/2021-04-08-Top-Method-Of-Thinking-One.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/make-money/method/2021-04-08-Top-Method-Of-Thinking-Two.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/make-money/method/2024-04-01-Usefule-Princinple.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/psychology/2024-04-06-Nothing-Want-Todo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/psychology/2024-04-07-China-Parent.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock/2019-06-06-My-Future-Experience.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock/2021-04-05-Entanglement-In-Zen.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock/2022-02-02-SelfTaught-Sucessful-Trader.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock/2024-04-05-Only-Two-Trend-Make-Money.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock/2024-04-09-Only-Bet-Deterministic-Opportunity.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock/2024-04-10-Miss-Trend-Buy-Point-Open-Position.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock/2024-04-10-Only-Bet-Deterministic-Big-Trend.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/career/interview.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2024-03-26-Choice-Of-Fate.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/creation/essay/2024-03-26-Choice-Of-Fate.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/make-money/net-traffic/2024-03-26-Exposure-Methods.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/make-money/net-traffic/2024-03-26-Exposure-Methods.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-31-HowTo-Analyse-Market.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-31-HowTo-Analyse-Market.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/interview-question-experience/2022-03-04-Interview-Tricks.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/career/interview/2022-03-04-Interview-Tricks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/interview-question-experience/2022-10-01-HowTo-Intro-Project-Experience.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/career/interview/2022-10-01-HowTo-Intro-Project-Experience.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/interview-question-experience/2023-02-17-Interview-Self-Introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/career/interview/2023-02-17-Interview-Self-Introduction.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/self-mock-interview/2023-07-26-Self-Mock-Interview-Project-Introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/career/interview/2023-07-26-Self-Mock-Interview-Project-Introduction.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/self-mock-interview/2023-07-26-Self-Mock-Interview-Self-Introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/career/interview/2023-07-26-Self-Mock-Interview-Self-Introduction.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/self-mock-interview/2023-07-26-Self-Mock-Interview.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/career/interview/2023-07-26-Self-Mock-Interview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/java/2023-07-24-ORM-Implement-Mechanism.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2023-07-24-ORM-Implement-Mechanism.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-31-HowTo-Pick-Stock.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-31-HowTo-Pick-Stock.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-god/2023-07-26-Anchor-Effect-Stereotypes-Prejudice.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-god/2023-07-26-Anchor-Effect-Stereotypes-Prejudice.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,25 +93,25 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/songxin1990.github.io/_posts/language&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/songxin1990.github.io/pages/career&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\songxin1990.github.io\pages\career" />
+      <recent name="D:\songxin1990.github.io\_posts\make-money\method" />
       <recent name="D:\songxin1990.github.io\_posts\language" />
       <recent name="D:\songxin1990.github.io\_posts" />
       <recent name="D:\songxin1990.github.io" />
-      <recent name="D:\songxin1990.github.io\_posts\confucian-buddha-tao\tao\stock-explain-tao" />
-      <recent name="D:\songxin1990.github.io\_posts\career\self-mock-interview" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\songxin1990.github.io\_posts\career\interview" />
+      <recent name="D:\songxin1990.github.io\_posts\career\resume" />
       <recent name="D:\songxin1990.github.io\_posts\career\self-mock-interview" />
       <recent name="D:\songxin1990.github.io\_posts\tools" />
       <recent name="D:\songxin1990.github.io\_posts" />
-      <recent name="D:\songxin1990.github.io\_posts\me" />
-      <recent name="D:\songxin1990.github.io\_posts\me\hunt-job" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
