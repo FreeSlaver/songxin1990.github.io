@@ -1,7 +1,7 @@
 ---
 layout: page
 title:   架构师如何做好技术选型？
-category: program-system-design
+category: architecture-design
 tags:
 keywords:
 description:

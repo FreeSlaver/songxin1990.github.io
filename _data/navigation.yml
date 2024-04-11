@@ -3,35 +3,38 @@
   side: left
 
 
-- title: "Java框架组件"
-  url: "#"
-  side: left
-  dropdown:
-    - title: "Spring"
-      url: "/spring/"
-    - title: "MySQL"
-      url: "/mysql/"
-    - title: "Redis"
-      url: "/redis/"
-    - title: "Kafka"
-      url: "/kafka/"
-
-
-- title: "集群分布式微服务"
+- title: "Java技术框架"
   url: "#"
   side: left
   dropdown:
     - title: "Java"
       url: "/java/"
+    - title: "Spring"
+      url: "/spring/"
+    - title: "Spring Cloud"
+      url: "/spring-cloud/"
+    - title: "Redis"
+      url: "/redis/"
+    - title: "Kafka"
+      url: "/kafka/"
+    - title: "MySQL"
+      url: "/mysql/"
+
+- title: "架构设计"
+  url: "#"
+  side: left
+  dropdown:
+    - title: "架构设计"
+      url: "/architecture-design/"
     - title: "集群分布式"
       url: "/distribute/"
     - title: "程序系统设计"
       url: "/program-system-design/"
-    - title: "运维"
+    - title: "DevOps"
       url: "/ops/"
 
 
-- title: "求职"
+- title: "求职面试"
   url: "#"
   side: left
   dropdown:
@@ -44,24 +47,23 @@
     - title: "职场"
       url: "/career/"
 
-- title: "工具箱"
-  url: "/tools/"
-  side: left
 
-- title: "商业"
-  url: "#"
-  side: left
-  dropdown:
-    - title: "方法论"
-      url: "/method/"
-    - title: "搞钱"
-      url: "/make-money/"
-    - title: "产品"
-      url: "/tao"
-    - title: "流量推广"
-      url: "/net-traffic/"
-    - title: "侵权违法"
-      url: "/law-tort/"
+
+
+#- title: "商业"
+#  url: "#"
+#  side: left
+#  dropdown:
+#    - title: "方法论"
+#      url: "/method/"
+#    - title: "搞钱"
+#      url: "/make-money/"
+#    - title: "产品"
+#      url: "/tao"
+#    - title: "流量推广"
+#      url: "/net-traffic/"
+#    - title: "侵权违法"
+#      url: "/law-tort/"
 
 - title: "创作"
   url: "#"
@@ -73,6 +75,13 @@
       url: "/essence/"
     - title: "语录"
       url: "/quote.html"
+- title: "股票投资交易"
+  url: "https://gushenyi.com"
+  side: left
+
+- title: "道德经"
+  url: "/dao/"
+  side: left
 
 - title: "归档"
   url: "/archive/"

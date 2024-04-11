@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  评论过滤拦截系统
-category: program-system-design
+title:  消息系统设计原则，必须满足的点
+category: architecture-design
 tags: [消息系统,程序设计]
 keywords:
 description:
