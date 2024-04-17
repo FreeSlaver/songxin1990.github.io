@@ -47,7 +47,9 @@
     - title: "职场"
       url: "/career/"
 
-
+- title: "前沿技术"
+  url: "/tech-edge/"
+  side: left
 
 
 #- title: "商业"
@@ -75,12 +77,12 @@
       url: "/essence/"
     - title: "语录"
       url: "/quote.html"
-- title: "股票投资交易"
+- title: "投资"
   url: "https://gushenyi.com"
   side: left
 
 - title: "道德经"
-  url: "/dao/"
+  url: "/tao/"
   side: left
 
 - title: "归档"

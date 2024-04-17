@@ -5,114 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7218f7ea-2cb6-4092-968c-d9096a66ea92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/2024-02-02-World-Celebrities-Tao.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/2024-03-03-Wangbi-Tao.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/2024-04-04-Mawangdui-Dao.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/interview/career/2024-04-10-The-Hard-Core-Problem.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2023-09-10-Byte-Dance-Java-Backend.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2024-04-11-What-Happen-After-Type-URL-Brower.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/java/architecture-design/2023-07-20-HowTo-Design-Message-Queue.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/java/architecture-design/2024-02-03-Flash-Sale-System-Design.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/java/architecture-design/2024-03-04-Internet-Three-Highs.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/java/architecture-design/2024-04-01-High-Concurrency-Class-Note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/java/computer-science/2024-01-10-Mouse-Working-Theory.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/java/java/2023-08-09-Domain-Name-System-Detail.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/java/programmer/2023-09-09-HowTo-Become-Expert-Programmer.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/psychology/2024-04-01-Why-Conflict-Hunt-Job.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/tools/2023-06-07- Unified-Modeling-Language.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2023-06-09-Cloud-Server-Config.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2024-01-01-Huo-LaLa-Data.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2024-03-03-Interview-QPS-Data.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2024-04-13-Project-Interview-Importance.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/interview/interview/2024-04-16-Before-Interview-Question.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/architecture-design/2024-04-10-Xianyu-Yidi-Duohuo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/architecture-design/2024-04-12-Monitor-And-Alarm-Platform-Building.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/architecture-design/2024-09-09-My-Ten-Years-Architecture-Perception.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/cache/2024-04-13-Cache-Tech-Summary.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/mysql/2024-04-01-MySQL-Interview-Question.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/spring-cloud/2023-03-03-What-Is-Micro-Service.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/spring-cloud/2024-04-09-What-Is-Domain-Driven-Design.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/spring-cloud/2024-04-12-Micro-Service-Govern.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/make-money/net-traffic/2023-04-05-HowTo-Increse-Fans-Zhihu.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/make-money/product/2024-02-06-HowTo-Build-Character.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/news/2024-04-14-National-Nine-Articles.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2021-03-03-Why-You-Fire-Stock.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-01-Stock-Course-Syllabus.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-02-Why-Write-Course.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-03-HowTo-Write-Trade-Diary.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-04-01-Withdraw-QQ-Group-Away-From-BBS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-04-20-Avoid-Lose.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-05-01-Overcome-The-Fear-Of-Lose.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-15-WhatIs-Trend-Structure-Pattern.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-16-2635-Bear-Market-Lowest.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-16-Shit-In-Head.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-17-Fire-Short-Term-Fire-Emotion.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-17-You-Lose-Because-Of-Shit-Full-Of-Head.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-14-Best-Book-For-Trade.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-06-01-Trend-Scale.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2024-04-15-Stock-Market-Replay.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2024-04-16-Stock-Market-Replay.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2024-04-17-Stock-Market-Replay.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock/2024-04-14-Learn-Trade-From-Zero-Follow-Gushenyi.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/java/architecture-design/2024-04-10-Xianyu-Yidi-Duohuo-1.awebp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/java/architecture-design.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2015-03-04-Some-Suggestions.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2015-03-04-Some-Suggestions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2015-05-09-Plan-Of-Life-In-2015.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2015-05-09-Plan-Of-Life-In-2015.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2015-05-10-Hard-Choice.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2015-05-10-Hard-Choice.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2015-09-26-Day-Day-Up-Little.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2015-09-26-Day-Day-Up-Little.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2016-01-20-12-Suggestion-For-Java-Interview.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2016-01-20-12-Suggestion-For-Java-Interview.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2016-01-20-Architect-Interview.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2016-01-20-Architect-Interview.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2016-02-13-2015-Year-Summary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2016-02-13-2015-Year-Summary.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2016-05-04-Seckill-System-Design.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2016-05-04-Seckill-System-Design.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2016-05-06-My-Interview-Question.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2016-05-06-My-Interview-Question.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2016-08-18-Job-Salary-Learn.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2016-08-18-Job-Salary-Learn.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2016-12-31-Hard-Work-Live-Hard.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2016-12-31-Hard-Work-Live-Hard.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2017-01-12-Some-Point.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2017-01-12-Some-Point.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2017-02-03-Summarize2016-Outlook2017.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2017-02-03-Summarize2016-Outlook2017.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2017-02-14-Business-Or-Job-One-Life-One-Choice.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2017-02-14-Business-Or-Job-One-Life-One-Choice.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2017-12-29-Summary-2017-Outlook-2018.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2017-12-29-Summary-2017-Outlook-2018.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2018-03-16-Why-Iam-Failing-In-Applying-AJob.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2018-03-16-Why-Iam-Failing-In-Applying-AJob.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2018-03-22-Recent-Thoughts.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2018-03-22-Recent-Thoughts.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2018-04-04-Once-An-Ali-Interview-Record.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2018-04-04-Once-An-Ali-Interview-Record.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2018-04-12-Why-I-Refuse-Ali-T6-Offer.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2018-04-12-Why-I-Refuse-Ali-T6-Offer.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2018-04-16-Should-Boss-Fire-A-Programmer-Who-Automated-His-Job.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2018-04-16-Should-Boss-Fire-A-Programmer-Who-Automated-His-Job.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2018-04-18-Why-Are-Company-Not-Hiring-Old-Programmer.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2018-04-18-Why-Are-Company-Not-Hiring-Old-Programmer.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2018-05-22-Resume-Fuck.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2018-05-22-Resume-Fuck.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2018-06-27-What-I-Learned-From-The-Hell-Days.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2018-06-27-What-I-Learned-From-The-Hell-Days.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2019-07-15-Fire-The-Boss-Experience.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2019-07-15-Fire-The-Boss-Experience.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2022-03-26-Introspection-About-CMCC.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2022-03-26-Introspection-About-CMCC.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2022-04-13-Programmer-Career-Progress.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2022-04-13-Programmer-Career-Progress.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2022-07-29-Programmer-Career-Development-Plan-And-Way-Out.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2022-07-29-Programmer-Career-Development-Plan-And-Way-Out.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2022-10-01-Interview-Self-Introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2022-10-01-Interview-Self-Introduction.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2022-10-15-Programmer-Career-Evolution.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2022-10-15-Programmer-Career-Evolution.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2023-07-14-Set-Goal-Finally.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2023-07-14-Set-Goal-Finally.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2023-07-14-Sideline-Logic.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2023-07-14-Sideline-Logic.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2023-07-19-HowTo-Judge-Company-Really-Hire.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2023-07-19-HowTo-Judge-Company-Really-Hire.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2023-07-19-HowTo-Judge-Company-Worth-To-Joining.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2023-07-19-HowTo-Judge-Company-Worth-To-Joining.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2023-07-19-Programmer-Hunt-Job-Oversee.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2023-07-19-Programmer-Hunt-Job-Oversee.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2023-07-24-Hunt-Job-Other-Methods.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2023-07-24-Hunt-Job-Other-Methods.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2023-07-25-Employment-Hazard-Disadvantage.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2023-07-25-Employment-Hazard-Disadvantage.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2024-04-02-Best-Time-Dismiss-Technology-Partner.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2024-04-02-Best-Time-Dismiss-Technology-Partner.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/career/2024-04-10-The-Hard-Core-Problem.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview-question-experience/2021-01-02-Basic-Platform-Java-Alibaba.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2021-01-02-Basic-Platform-Java-Alibaba.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview-question-experience/2021-01-03-Water-Master-Alibaba.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2021-01-03-Water-Master-Alibaba.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview-question-experience/2022-03-26-Project-Cache-Interview-Questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2022-03-26-Project-Cache-Interview-Questions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview-question-experience/2022-03-28-JVM-Tunning.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2022-03-28-JVM-Tunning.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview-question-experience/2022-05-06-How-To-Design-MQ.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2022-05-06-How-To-Design-MQ.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview-question-experience/2022-06-06-Alibaba-Interview-Questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2022-06-06-Alibaba-Interview-Questions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview-question-experience/2022-07-07-Project-Interview-Questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2022-07-07-Project-Interview-Questions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview-question-experience/2023-01-02-Project-Introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2023-01-02-Project-Introduction.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview-question-experience/2023-02-27-Review-Plan.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2023-02-27-Review-Plan.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview-question-experience/2023-06-25-Alibaba-Five-Interview-Tian-Mao.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2023-06-25-Alibaba-Five-Interview-Tian-Mao.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview-question-experience/2023-07-21-How-Do-You-Create-Index.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2023-07-21-How-Do-You-Create-Index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview-question-experience/2023-07-22-Interview-Tricks-Tips.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2023-07-22-Interview-Tricks-Tips.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview-question-experience/2023-07-24-Java-Position-Requirement.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2023-07-24-Java-Position-Requirement.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview-question-experience/2023-07-24-What-You-Want-Ask-From-me.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2023-07-24-What-You-Want-Ask-From-me.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview-question-experience/2023-07-24-Why-Interview-Process-Set-Up-Like-This.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2023-07-24-Why-Interview-Process-Set-Up-Like-This.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview/2022-03-04-Interview-Tricks.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview/2022-03-04-Interview-Tricks.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview/2022-10-01-HowTo-Intro-Project-Experience.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview/2022-10-01-HowTo-Intro-Project-Experience.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview/2023-02-17-Interview-Self-Introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview/2023-02-17-Interview-Self-Introduction.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview/2023-07-26-Self-Mock-Interview-Project-Introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview/2023-07-26-Self-Mock-Interview-Project-Introduction.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview/2023-07-26-Self-Mock-Interview-Self-Introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview/2023-07-26-Self-Mock-Interview-Self-Introduction.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview/2023-07-26-Self-Mock-Interview.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview/2023-07-26-Self-Mock-Interview.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview/2024-03-07-HowTo-Answer-Reasons-Of-Resign.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview/2024-03-07-HowTo-Answer-Reasons-Of-Resign.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview/2024-04-01-Other-Interview-Company.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview/2024-04-01-Other-Interview-Company.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview/2024-04-08-HowTo-Introduce-Yourself.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview/2024-04-08-HowTo-Introduce-Yourself.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview/2024-04-09-HowTo-Answer-What-Your-Disadvantage.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview/2024-04-09-HowTo-Answer-What-Your-Disadvantage.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/interview/2024-04-10-HowTo-Answer-Expected-Salary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview/2024-04-10-HowTo-Answer-Expected-Salary.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/resume/2021-05-09-Tao-Of-Programmer-Resume.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/resume/2021-05-09-Tao-Of-Programmer-Resume.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/resume/2021-08-13-HowTo-Increase-Interview-Pass-Chance.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/resume/2021-08-13-HowTo-Increase-Interview-Pass-Chance.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/resume/2022-02-02-HowTo-Intro-Project-Resume.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/resume/2022-02-02-HowTo-Intro-Project-Resume.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/resume/2022-02-03-HowTo-Write-Outstanding-Resume.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/resume/2022-02-03-HowTo-Write-Outstanding-Resume.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/resume/2022-05-06-Summary-Of-Resume-And-Interview-By-Dalao.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/resume/2022-05-06-Summary-Of-Resume-And-Interview-By-Dalao.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/resume/2022-07-09-Resume-Interviewer-Wants.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/resume/2022-07-09-Resume-Interviewer-Wants.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/resume/2022-09-10-HowTo-Judge-Company-Resume-Worth-Delivery.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/resume/2022-09-10-HowTo-Judge-Company-Resume-Worth-Delivery.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/resume/2023-04-05-Write-Resume-Tips.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/resume/2023-04-05-Write-Resume-Tips.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/resume/2023-07-09-Job-Hunt-Methods-Except-Delivery-Resume.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/resume/2023-07-09-Job-Hunt-Methods-Except-Delivery-Resume.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/resume/2023-07-21-HowTo-Increase-Resume-Approve-Chance.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/resume/2023-07-21-HowTo-Increase-Resume-Approve-Chance.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/resume/2024-03-01-HowTo-Beautify-Resume.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/resume/2024-03-01-HowTo-Beautify-Resume.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/resume/2024-04-01-How-HR-Filter-Resumes.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/resume/2024-04-01-How-HR-Filter-Resumes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/resume/2024-04-03-HowTo-Write-Resume.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/resume/2024-04-03-HowTo-Write-Resume.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/career/resume/2024-04-05-Best-Way-Write-Project-Experience-Resume.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/resume/2024-04-05-Best-Way-Write-Project-Experience-Resume.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/2023-07-22-Han-Fei-Zi-Explaining-Lao-Zi.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/2023-07-22-Han-Fei-Zi-Explaining-Lao-Zi.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/stock-explain-tao/2022-08-14-Stock-Explain-Tao-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/stock-explain-tao/2022-08-14-Stock-Explain-Tao-1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/stock-explain-tao/2022-08-14-Stock-Explain-Tao-Sell.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/stock-explain-tao/2022-08-14-Stock-Explain-Tao-Sell.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/stock-explain-tao/2022-08-15-Stock-Explain-Tao-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/stock-explain-tao/2022-08-15-Stock-Explain-Tao-2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/stock-explain-tao/2022-08-15-Stock-Explain-Tao-3.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/stock-explain-tao/2022-08-15-Stock-Explain-Tao-3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/stock-explain-tao/2022-08-15-Stock-Explain-Tao-4.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/stock-explain-tao/2022-08-15-Stock-Explain-Tao-4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/stock-explain-tao/2022-08-15-Stock-Explain-Tao-5.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/stock-explain-tao/2022-08-15-Stock-Explain-Tao-5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/java/2024-04-07-Concept-improve.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/programmer/2024-04-07-Concept-improve.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/program-system-design/2023-07-17-Message-System-Design.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/architecture-design/2023-07-17-Message-System-Design.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/program-system-design/2023-07-20-HowTo-Design-Message-Queue.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/2022-02-02-River-Tao.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/program-system-design/2023-07-26-HowTo-Make-Technology Selecting.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/architecture-design/2023-07-26-HowTo-Make-Technology Selecting.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2019-06-06-My-Future-Experience.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock/2019-06-06-My-Future-Experience.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2021-04-05-Entanglement-In-Zen.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock/2021-04-05-Entanglement-In-Zen.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2024-03-26-Choice-Of-Fate.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/creation/essay/2024-03-26-Choice-Of-Fate.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2023-07-22-Interview-Tricks-Tips.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2023-07-22-Interview-Tricks-Tips.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/architecture-design/2024-04-05-Multiple-Data-Center.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/architecture-design/2024-04-05-Multiple-Data-Center.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/micro-service/2024-04-07-Micro-Service-Best-Practice.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/spring-cloud/2024-04-07-Micro-Service-Best-Practice.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2024-03-31-Stock-Trade-Plan.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2024-03-31-Stock-Market-Replay.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,25 +83,25 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/songxin1990.github.io/pages/career&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/songxin1990.github.io/img/java/architecture-design&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\songxin1990.github.io\img\java\architecture-design" />
       <recent name="D:\songxin1990.github.io\pages\career" />
       <recent name="D:\songxin1990.github.io\_posts\make-money\method" />
       <recent name="D:\songxin1990.github.io\_posts\language" />
       <recent name="D:\songxin1990.github.io\_posts" />
-      <recent name="D:\songxin1990.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\songxin1990.github.io\_posts\java\programmer" />
+      <recent name="D:\songxin1990.github.io\_posts\trade\stock-everyday-replay" />
       <recent name="D:\songxin1990.github.io\_posts\java\architecture-design" />
-      <recent name="D:\songxin1990.github.io\_posts\career\interview" />
-      <recent name="D:\songxin1990.github.io\_posts\career\resume" />
-      <recent name="D:\songxin1990.github.io\_posts\career\self-mock-interview" />
+      <recent name="D:\songxin1990.github.io\_posts\java\spring-cloud" />
+      <recent name="D:\songxin1990.github.io\_posts\java\micro-service" />
+      <recent name="D:\songxin1990.github.io\_posts\java\programmer" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

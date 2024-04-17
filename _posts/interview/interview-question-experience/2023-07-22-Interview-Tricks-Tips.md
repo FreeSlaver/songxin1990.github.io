@@ -2,7 +2,7 @@
 layout: page
 title:  程序员面试技巧
 category: interview-question-experience
-tags: [技巧,诡计,程序员]
+tags: [技巧,程序员]
 keywords:
 description:
 published: true
