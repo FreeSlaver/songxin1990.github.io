@@ -5,49 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7218f7ea-2cb6-4092-968c-d9096a66ea92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2023-06-09-Cloud-Server-Config.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2024-01-01-Huo-LaLa-Data.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2024-03-03-Interview-QPS-Data.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2024-04-13-Project-Interview-Importance.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/interview/interview/2024-04-16-Before-Interview-Question.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/java/architecture-design/2024-04-10-Xianyu-Yidi-Duohuo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/java/architecture-design/2024-04-12-Monitor-And-Alarm-Platform-Building.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/java/architecture-design/2024-09-09-My-Ten-Years-Architecture-Perception.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/java/cache/2024-04-13-Cache-Tech-Summary.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/java/mysql/2024-04-01-MySQL-Interview-Question.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/java/spring-cloud/2023-03-03-What-Is-Micro-Service.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/java/spring-cloud/2024-04-09-What-Is-Domain-Driven-Design.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/java/spring-cloud/2024-04-12-Micro-Service-Govern.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/make-money/net-traffic/2023-04-05-HowTo-Increse-Fans-Zhihu.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/make-money/product/2024-02-06-HowTo-Build-Character.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/news/2024-04-14-National-Nine-Articles.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2021-03-03-Why-You-Fire-Stock.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-01-Stock-Course-Syllabus.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-02-Why-Write-Course.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-03-HowTo-Write-Trade-Diary.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-04-01-Withdraw-QQ-Group-Away-From-BBS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-04-20-Avoid-Lose.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-05-01-Overcome-The-Fear-Of-Lose.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-15-WhatIs-Trend-Structure-Pattern.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-16-2635-Bear-Market-Lowest.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-16-Shit-In-Head.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-17-Fire-Short-Term-Fire-Emotion.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-17-You-Lose-Because-Of-Shit-Full-Of-Head.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-14-Best-Book-For-Trade.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-06-01-Trend-Scale.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2024-04-15-Stock-Market-Replay.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2024-04-16-Stock-Market-Replay.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2024-04-17-Stock-Market-Replay.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock/2024-04-14-Learn-Trade-From-Zero-Follow-Gushenyi.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/java/architecture-design/2024-04-10-Xianyu-Yidi-Duohuo-1.awebp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/java/architecture-design.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/interview/resume/2024-04-07-Resume-Problems.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/architecture-design/2024-04-21-Java-API-Gateway.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/micro-service/2024-04-10-Distribute-Config.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/micro-service/2024-04-11-Service-Registry-Discovery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/project/2024-04-20-HuoLaLa-Message-Center.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-04-HowTo-Learn-Fire-Stock.mdd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-04-Recommended-Books-For-Stock.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-06-Recommended-Posts-For-Stock.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-04-Why-Open-Position-Not-Matters.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-05-Why-We-Turn-Blind-Eye-To-Tao.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-05-HowTo-Elevate-Realm.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-18-How-Market-Drive.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-06-02-Trend.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-07-01-Steady-Profitable-Trading-System.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-07-02-Trade-Final-Destination-Find-Yourself.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2024-04-18-Stock-Market-Replay.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2024-04-19-Stock-Market-Replay.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock/2023-03-03-Original-Turtle-Trading-Rules-Notes.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2024-03-26-Choice-Of-Fate.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/creation/essay/2024-03-26-Choice-Of-Fate.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2023-07-22-Interview-Tricks-Tips.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2023-07-22-Interview-Tricks-Tips.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/architecture-design/2024-04-05-Multiple-Data-Center.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/architecture-design/2024-04-05-Multiple-Data-Center.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/micro-service/2024-04-07-Micro-Service-Best-Practice.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/spring-cloud/2024-04-07-Micro-Service-Best-Practice.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2024-03-31-Stock-Trade-Plan.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2024-03-31-Stock-Market-Replay.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/spring-cloud/2023-03-03-What-Is-Micro-Service.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/micro-service/2023-03-03-What-Is-Micro-Service.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/spring-cloud/2024-04-07-Micro-Service-Best-Practice.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/micro-service/2024-04-07-Micro-Service-Best-Practice.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/spring-cloud/2024-04-09-What-Is-Domain-Driven-Design.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/micro-service/2024-04-09-What-Is-Domain-Driven-Design.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/spring-cloud/2024-04-12-Micro-Service-Govern.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/micro-service/2024-04-12-Micro-Service-Govern.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-31-HowTo-Open-Position.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-31-HowTo-Open-Position.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-16-Shit-In-Head.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-16-Shit-In-Head.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-14-Best-Book-For-Trade.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-14-Best-Book-For-Trade.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-06-01-Trend-Scale.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-06-02-Trend-Scale.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
