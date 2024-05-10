@@ -5,21 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7218f7ea-2cb6-4092-968c-d9096a66ea92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-01-01-My-Future-Exprience-Talk.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-31-Buy-Opportunity.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-31-Perfect-Buy-Position.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-06-Trade-Not-Gamble.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-06-Where-Does-Market-Uncertainty-Come-From.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-09-Construct-Centainty.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-12-Market-Tao-Number.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-10-The-One.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2024-05-06-Stock-Market-Replay.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/event-driven-invest/2024-05-09-911-Influence.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/programmer/2024-05-10-HowTo-Interest-Program-Cultivation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/story/2024-05-09-PanMao-Event-Think.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/story/2024-05-09-Why-Stock.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/story/2024-05-10-My-Stock-Career.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-02-03-Talk-Trade-For-Living.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-10-Week-Summary.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-11-Close-Profit.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-12-You-Lose-Because-You-Think.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-07-Cut-Lose-Let-Profit-Run.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-07-Cut-Lose-Let-Profit-Run.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-31-HowTo-Pick-Stock.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-31-HowTo-Pick-Stock.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-03-The-CertaintyAnd-Uncertainty-Of-Market.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-07-The-Certainty-And-Uncertainty-Of-Market.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-04-Where-Does-Market-Uncertainty-Come-From.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-04-02-HowTo-Gamble.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-09-Figured-Everything-Out.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-09-Figured-Everything-Out.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2023-04-02-HowTo-Gamble.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-04-02-HowTo-Gamble.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-01-01-My-Future-Exprience-Talk.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-01-01-My-Future-Exprience-Talk.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-12-Market-Tao-Number.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-12-Market-Tao-Number.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/songxin1990.github.io/img/java/architecture-design&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
