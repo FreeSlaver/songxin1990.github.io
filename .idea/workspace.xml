@@ -5,38 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7218f7ea-2cb6-4092-968c-d9096a66ea92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/make-money/make-money/2024-05-13-If-You-Sell-Water.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/make-money/make-money/2024-05-16-China-Real-Estate.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/make-money/net-traffic/2024-05-13-Why-BigCat-So-Hot.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-01-01-Learn-Speculate-Convert-Think.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-02-04-Abstract.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-02-05-Speculate-Stock-Gamble.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-01-02-Reminiscences-Of-Stock-Operator-Backend.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-31-Buy-Opportunity-Once-Bought-Rise.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-31-HowTo-Pick-Stock-End.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-12-Anchoring-Effect.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-12-National-Debt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-12-Single-Without-Anchoring-Effect.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-13-Hold-On-Waist-Go-Straight-Up.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-13-Short-Close-Profit-Problem.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-06-03-Why-Livemore-Never-Buy-Retrace.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-13-Crowd-Group-Wrong-Prejudice.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-14-No-Prediction-Only-Following.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-15-Stock-Most-Essential-Game-Rule.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2024-05-12-Tomorrow-Trade-Plan.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/interview/career/2024-06-06-Plan.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/interview/career/2024-06-08-NYCS-Trick.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/speculate-logic/2024-05-16-Low-Airspace-Economy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/speculate-logic/2024-05-17-Commercial-Aerospace.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-11-Recent-Trade-Summary.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-17-Everyday-Profit-Inspire.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-20-HowTo-Look-Upon-Market.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-20-Speculate-In-Stocks-Cost.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-21-Why-Speculate-Make-Money-So-Hard.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-21-Zen-LunYu-Note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-22-HowTo-Increase-Position.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-23-How-Market-Driven.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-23-HowTo-Operate-Stock.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-23-Talk-About-Turtle-Rule.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-24-Why-Market-Monitoring-Meaningless.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-09-If-I-Die-Tomorrow.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-12-Stock-Churning-System-Down.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-12-Stock-Churning-System-Up.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-19-Close-Profit-End.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-20-Distinguish-Trend-Turn.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/stock-explain-tao/2022-08-14-Stock-Explain-Tao-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/stock-explain-tao/2022-08-14-Stock-Explain-Tao-1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/stock-explain-tao/2022-08-14-Stock-Explain-Tao-Sell.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/stock-explain-tao/2022-08-15-Stock-Explain-Tao-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/stock-explain-tao/2022-08-15-Stock-Explain-Tao-2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/programmer/2023-09-09-HowTo-Become-Expert-Programmer.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/programmer/2023-09-09-HowTo-Become-Expert-Programmer.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2023-02-01-Steady-Profit-Why-Sell-Course.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-02-01-Steady-Profit-Why-Sell-Course.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-01-01-My-Future-Exprience-Talk.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-01-01-My-Future-Exprience-Talk.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-31-Buy-Opportunity.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-31-Buy-Opportunity.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-18-How-Market-Drive.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-18-How-Market-Drive.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-10-Week-Summary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-10-Week-Summary.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-06-02-Trend.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-06-02-Trend.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-06-Where-Does-Market-Uncertainty-Come-From.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-06-Where-Does-Market-Uncertainty-Come-From.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-07-The-Certainty-And-Uncertainty-Of-Market.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-07-The-Certainty-And-Uncertainty-Of-Market.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/interview/career/2024-04-10-The-Hard-Core-Problem.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/career/2024-04-10-The-Hard-Core-Problem.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-31-HowTo-Analyse-Market.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-31-HowTo-Analyse-Market.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-01-HowTo-Stop-Lose-Close-Position.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-01-HowTo-Close-Profit-Close-Position.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-15-Stock-Most-Essential-Game-Rule.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-15-Stock-Most-Essential-Game-Rule.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
