@@ -34,7 +34,7 @@ their only purpose is to prevent other transactions from inserting to the gap
 
 间隙锁(Gap Lock)是Innodb在可重复读（Reapteapable Read默认隔离级别）提交下为了解决幻读问题时引入的锁机制  
 当使用范围条件而不是相等条件检索数据，并请求共享锁或排他锁时，InnoDB会给符合条件的已有数据记录的索引项加锁；  
-对于键值在条件范围内但不存在的记录，叫做“间隙(GAP)”，InnoDB也会对这些“间隙”进行加锁，这种锁机制就是所谓的间隙锁(NEXT-KEY)锁。  
+对于键值在条件范围内但不存在的记录，叫做“间隙(GAP)”，InnoDB也会对这些“间隙”进行加锁，这种锁机制就是所谓的间隙锁（Gap Lock）。  
 
 id为主键，所谓的删除其实是做逻辑删除，只是做了状态更改，而不做物理删除。  
 
