@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：为什么利弗莫尔说他从不在回调时买入?
+title:  谷神一的炒股交易教程：为什么利弗莫尔说他从不在回调时买入?
 category: stock-course
 tags:
 keywords:

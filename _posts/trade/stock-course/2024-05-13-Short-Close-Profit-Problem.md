@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：短期止盈系统的止盈问题
+title:  谷神一的炒股交易教程：短期止盈系统的止盈问题
 category: stock-course
 tags:
 keywords:

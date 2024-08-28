@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：学炒股首先得颠倒你的思维方式
+title:  谷神一的炒股交易教程：学炒股首先得颠倒你的思维方式
 category: stock-course
 tags:
 keywords:

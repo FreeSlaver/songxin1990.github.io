@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：庄家主力是如何操盘的？
+title:  谷神一的炒股交易教程：庄家主力是如何操盘的？
 category: stock-course
 tags:
 keywords:

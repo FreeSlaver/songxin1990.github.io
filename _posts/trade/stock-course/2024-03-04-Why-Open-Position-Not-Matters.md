@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：为什么我说随便在任意点开仓都没问题？
+title:  谷神一的炒股交易教程：为什么我说随便在任意点开仓都没问题？
 category: stock-course
 tags:
 keywords:

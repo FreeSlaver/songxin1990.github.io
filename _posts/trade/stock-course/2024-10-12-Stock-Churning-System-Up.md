@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：股票炒单，反突破交易系统-上
+title:  谷神一的炒股交易教程：股票炒单，反突破交易系统-上
 category: stock-course
 tags:
 keywords:

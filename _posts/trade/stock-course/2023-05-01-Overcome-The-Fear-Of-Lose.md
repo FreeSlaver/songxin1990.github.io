@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：炒股如何克服怕亏的心理？
+title:  谷神一的炒股交易教程：炒股如何克服怕亏的心理？
 category: stock-course
 tags:
 keywords:

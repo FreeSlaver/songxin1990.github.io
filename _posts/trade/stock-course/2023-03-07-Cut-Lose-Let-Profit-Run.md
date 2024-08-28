@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：截断亏损，让盈利奔跑
+title:  谷神一的炒股交易教程：截断亏损，让盈利奔跑
 category: stock-course
 tags:
 keywords:

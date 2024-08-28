@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：学炒股有哪些经典的网络帖子？
+title:  谷神一的炒股交易教程：学炒股有哪些经典的网络帖子？
 category: stock-course
 tags:
 keywords:

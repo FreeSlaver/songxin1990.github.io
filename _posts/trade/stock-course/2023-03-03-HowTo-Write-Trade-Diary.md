@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：如何写交易日记？以及写交易日记的重要性
+title:  谷神一的炒股交易教程：如何写交易日记？以及写交易日记的重要性
 category: stock-course
 tags:
 keywords:

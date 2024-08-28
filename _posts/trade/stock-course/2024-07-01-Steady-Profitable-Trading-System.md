@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：一个最适合新手的能够”稳定“盈利的炒股交易系统
+title:  谷神一的炒股交易教程：一个最适合新手的能够”稳定“盈利的炒股交易系统
 category: stock-course
 tags:
 keywords:

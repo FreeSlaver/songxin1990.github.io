@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：腰，扶腰直上九万里
+title:  谷神一的炒股交易教程：腰，扶腰直上九万里
 category: stock-course
 tags:
 keywords:

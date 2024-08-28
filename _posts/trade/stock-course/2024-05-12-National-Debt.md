@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：超长期国债
+title:  谷神一的炒股交易教程：超长期国债
 category: stock-course
 tags:
 keywords:

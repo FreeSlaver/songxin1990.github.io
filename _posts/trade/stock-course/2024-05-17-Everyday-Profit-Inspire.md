@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：持仓告诉你一切
+title:  谷神一的炒股交易教程：持仓告诉你一切
 category: stock-course
 tags:
 keywords:

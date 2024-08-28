@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：市场中一切起心动念皆是错
+title:  谷神一的炒股交易教程：市场中一切起心动念皆是错
 category: stock-course
 tags:
 keywords: 

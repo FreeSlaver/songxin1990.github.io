@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：为什么我说炒股盯盘是毫无意义的，甚至可能是有极大害处的？
+title:  谷神一的炒股交易教程：为什么我说炒股盯盘是毫无意义的，甚至可能是有极大害处的？
 category: stock-course
 tags:
 keywords:

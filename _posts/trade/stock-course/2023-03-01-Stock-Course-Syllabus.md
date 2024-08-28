@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票教程大纲
+title:  谷神一的炒股交易教程教程大纲
 category: stock-course
 tags:
 keywords:

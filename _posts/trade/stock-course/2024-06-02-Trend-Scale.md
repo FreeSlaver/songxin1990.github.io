@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：趋势的级别
+title:  谷神一的炒股交易教程：趋势的级别
 category: stock-course
 tags:
 keywords:

@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：锚定效应
+title:  谷神一的炒股交易教程：锚定效应
 category: stock-course
 tags:
 keywords:

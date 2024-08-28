@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：脑子里面有屎没掏干净
+title:  谷神一的炒股交易教程：脑子里面有屎没掏干净
 category: stock-course
 tags:
 keywords:

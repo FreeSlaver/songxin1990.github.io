@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：最佳的买点，起爆点在哪里？
+title:  谷神一的炒股交易教程：最佳的买点，起爆点在哪里？
 category: stock-course
 tags:
 keywords:

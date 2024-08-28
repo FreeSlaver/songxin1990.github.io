@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：想明白了没用，制定你的交易规则
+title:  谷神一的炒股交易教程：想明白了没用，制定你的交易规则
 category: stock-course
 tags:
 keywords:

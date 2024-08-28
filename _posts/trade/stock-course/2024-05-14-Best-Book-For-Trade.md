@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：对我交易提升最大的一本书是哪本？
+title:  谷神一的炒股交易教程：对我交易提升最大的一本书是哪本？
 category: stock-course
 tags:
 keywords:

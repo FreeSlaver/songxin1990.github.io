@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：本周炒股交易经验总结
+title:  谷神一的炒股交易教程：本周炒股交易经验总结
 category: stock-course
 tags:
 keywords:

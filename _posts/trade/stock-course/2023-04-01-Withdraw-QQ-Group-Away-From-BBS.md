@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：退掉你所有的QQ群，WX群，注销掉你的雪球，淘股吧，东财股吧账号，潜心修炼
+title:  谷神一的炒股交易教程：退掉你所有的QQ群，WX群，注销掉你的雪球，淘股吧，东财股吧账号，潜心修炼
 category: stock-course
 tags:
 keywords:

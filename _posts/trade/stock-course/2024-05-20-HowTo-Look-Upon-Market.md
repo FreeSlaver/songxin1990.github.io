@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：如何看待xx年xx月xx日的A股走势？
+title:  谷神一的炒股交易教程：如何看待xx年xx月xx日的A股走势？
 category: stock-course
 tags:
 keywords:

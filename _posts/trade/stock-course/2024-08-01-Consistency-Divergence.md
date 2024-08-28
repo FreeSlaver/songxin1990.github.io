@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：一致性与分歧性
+title:  谷神一的炒股交易教程：一致性与分歧性
 category: stock-course
 tags:
 keywords:

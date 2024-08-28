@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：交易真能稳定盈利，为什么还授课？
+title:  谷神一的炒股交易教程：交易真能稳定盈利，为什么还授课？
 category: stock-course
 tags:
 keywords:

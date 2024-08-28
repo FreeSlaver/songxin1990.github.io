@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：道德经与股票市场中的“数”
+title:  谷神一的炒股交易教程：道德经与股票市场中的“数”
 category: stock-course
 tags:
 keywords:

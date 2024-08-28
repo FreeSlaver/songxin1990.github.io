@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：炒股交易到底是不是赌博？
+title:  谷神一的炒股交易教程：炒股交易到底是不是赌博？
 category: stock-course
 tags:
 keywords:

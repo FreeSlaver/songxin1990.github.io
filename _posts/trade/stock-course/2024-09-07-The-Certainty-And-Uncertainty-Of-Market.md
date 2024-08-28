@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：市场的不确定性与确定性
+title:  谷神一的炒股交易教程：市场的不确定性与确定性
 category: stock-course
 tags:
 keywords:

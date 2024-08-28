@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：市场走势是如何驱动的？
+title:  谷神一的炒股交易教程：市场走势是如何驱动的？
 category: stock-course
 tags:
 keywords:

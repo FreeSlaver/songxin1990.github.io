@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：2635会是这轮熊市的最低点吗？
+title:  谷神一的炒股交易教程：2635会是这轮熊市的最低点吗？
 category: stock-course
 tags:
 keywords:

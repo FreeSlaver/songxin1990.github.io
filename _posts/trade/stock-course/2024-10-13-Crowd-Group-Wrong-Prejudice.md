@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：群体无意识的错误，一致性偏见
+title:  谷神一的炒股交易教程：群体无意识的错误，一致性偏见
 category: stock-course
 tags:
 keywords:

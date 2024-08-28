@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：学炒股应该看哪些书籍？
+title:  谷神一的炒股交易教程：学炒股应该看哪些书籍？
 category: stock-course
 tags:
 keywords:

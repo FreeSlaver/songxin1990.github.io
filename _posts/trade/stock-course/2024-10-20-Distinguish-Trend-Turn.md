@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：如何识别趋势的转折？
+title:  谷神一的炒股交易教程：如何识别趋势的转折？
 category: stock-course
 tags:
 keywords:

@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：为什么我们总是对正确的事情视而不见？
+title:  谷神一的炒股交易教程：为什么我们总是对正确的事情视而不见？
 category: stock-course
 tags:
 keywords:

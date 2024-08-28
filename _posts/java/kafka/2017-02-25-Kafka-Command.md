@@ -17,13 +17,14 @@ JMX_PORT=9997  bin/kafka-server-start.sh config/server.properties &
 
 **关闭kafka** 
 
-bin/kafka-server-start.sh config/server.properties &
+bin/kafka-server-stop.sh config/server.properties &
 
 **建立主题** 
 
 bin/kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 3 --partitions 6 --topic my-replicated-test
 
-**删除主题，慎用 ** 只会删除zookeeper中的元数据，数据文件需手动删除 
+**删除主题，慎用**  
+只会删除zookeeper中的元数据，数据文件需手动删除 
 
 bin/kafka-topics.sh --delete --zookeeper 10.45.130.186:2181,10.45.130.187:2181,10.45.130.189:2181 --topic esb.topic
 
@@ -42,7 +43,8 @@ bin/kafka-console-producer.sh --broker-list localhost:9092 --topic my-replicated
 **添加partition** 
 
 /bin/kafka-topics.sh –zookeeper localhost:2181/config/mobile/mq –alter –partitions 20 –topic
-topicName
+topicName  
+
 /bin/kafka-topics.sh --zookeeper localhost:2181 /kafka --alter --topic *** --partitions 10
 
 **建立消费者接受消息** 
@@ -99,6 +101,8 @@ cat preferred-click.json
   {"topic": "click", "partition": 7},
     ]
 }
+
+```
 
 ```
 

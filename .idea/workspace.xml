@@ -5,38 +5,150 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7218f7ea-2cb6-4092-968c-d9096a66ea92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/dog-cunt-parent/2024-08-17-HowTo-Go-Abroad.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/dog-cunt-parent/2024-08-17-Narcissistic-Personality-Disorder-Parent.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2024-08-18-Inventory-Seckill.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/interview/interview/2024-06-11-Interview-Project-SMS-Message-Center.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/java/architecture-design/2024-08-13-Gateway-Architecture-Design.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/java/architecture-design/2024-08-13-Push-Service-Architecture-Design.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/java/java/2024-06-13-Why-Java-Reflection-Slow.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/java/micro-service/2024-08-16-Current-Limiting-Fusing-Downgrade.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/java/mysql/2024-08-16-WhatIs-Relational-Database.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/java/mysql/2024-08-18-Interview-Question-MySQL-SQL-Tuning.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/java/mysql/2024-08-18-Interview-Question-MySQL-Tuning.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/java/redis/2024-06-13-Redis-Big-Key-Big-Value-Optimization.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/make-money/make-money/2024-06-11-Money-Essence-Problem.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/plan/2014/2024-08-14-Everyday-Plan.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/psychology/2024-08-18-HowTo-Destroy-Person.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/story/2024-08-18-My-Story.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/dog-cunt-parent/2024-07-07-Curse-Dog-Cunt-Death.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/dog-cunt-parent/2024-08-21-Dog-Cunt-Parent-Books.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/dog-cunt-parent/2024-08-21-Why-Family-Hurt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/dog-cunt-parent/2024-08-23-No-Way-Out.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/dog-cunt-parent/2024-08-26-Curse-Dog-Cunt-Hell.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/dog-cunt-parent/2024-08-26-Run-Away.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/dog-cunt-parent/2024-08-26-We-Are-All-GaoHongMei.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/dog-cunt-parent/2024-08-27-Now-Situation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2024-08-23-Unnormal-Questions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/distribute/2024-08-22-Distribute-Transaction-Up.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/java/2024-08-24-Java-ThreadLocal-Explain.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java/kafka/2024-08-21-Kafka-Review-Questions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/make-money/make-money/2024-08-20-Black-Myth-Wukong-Chance.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/make-money/zhi-hu/2024-08-27-Can-ZhiHu-Make-Money.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/make-money/zhi-hu/2024-08-27-Zhihu-Make-Money.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/make-money/zhi-hu/2024-08-28-Creator-Center-Numbers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/make-money/zhi-hu/2024-08-28-Creatro-School.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/me/2024-08-19-Old-Time-Is-Still-Flying.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/me/2024-08-21-Go-Abroad-Only-Outway.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/me/2024-08-21-WhatIs-Good.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/me/2024-08-25-Other-People.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/me/2024-08-25-What-I-Suitable-For.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/plan/2024-08-22-Mercy-To-Life.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/startup/2024-07-07-Startup-Project.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/startup/2024-08-08-Pay-To-Work.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/startup/2024-08-25-Startup-Kernel-Minimum-Modle.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/startup/2024-08-26-One-Leek-Self-Cultivate.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/startup/2024-08-26-Startup-Make-Money.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/startup/2024-08-26-We-Media-Startup.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/startup/2024-08-27-MBTI-Make-Money.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/startup/2024-08-28-Tizi-Tui-Guang.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/startup/2024-09-09-Rigister-Company.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/story/2024-08-25-Stroy-Personal-View.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/story/2024-08-27-Go-Ahead-No-Turn.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/story/stock-career/2024-05-06-Speculate-Stock-Miserable-Stories.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/story/stock-career/2024-05-07-Future-Miserable.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/story/stock-career/2024-05-09-My-Stock-Career-Question.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/2024-08-24-Stock-Make-Money.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2021-03-03-Cataloguemd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2021-03-04-HowTo-Choose-Stock-Broker.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2021-03-05-Internet-Worth-BBS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2021-03-06-K-Lines.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2021-03-07-Time-Share-Chart.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2021-03-08-Average-Line.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2021-03-09-Average-Line-Vibrant.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2022-08-08-Speculate-Genius.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-08-23-How-To-Trade-Combat.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-08-24-Mortal-Speculate-Make-Money.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-08-24-Trade-Loneliness.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-08-24-WhatIs-Key-Point-Jesse-Say.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-08-25-HowTo-Judge-Bear-Exhaustion.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-08-25-WhatIs-Stock.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-08-26-Falling-Leaves-Know-Autumn.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-08-26-Invest-Truth.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-08-28-Kung-Fu-Beyond-Poetry.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-08-28-Painful-Things-Trade.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-08-28-Sell-Comb-To-Buddhist-Monk.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/dog-cunt-parent/2019--17-13-Dog-Cunt-Parent.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/dog-cunt-parent/2019--17-13-Dog-Cunt-Parent.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/interview/career/2022-10-01-Interview-Self-Introduction.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2022-03-28-JVM-Tunning.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview-question-experience/2022-03-28-JVM-Tunning.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/interview/interview/2023-07-26-Self-Mock-Interview.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/interview/interview/2023-07-26-Self-Mock-Interview.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/java/architecture-design/2023-07-17-Message-System-Design.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/architecture-design/2023-07-17-Message-System-Design.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/java/2023-08-09-Domain-Name-System-Detail.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/java/2023-08-09-Domain-Name-System-Detail.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/mysql/2017-08-02-MySQL-Sharding.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/mysql/2017-08-02-MySQL-Sharding.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/mysql/2019-09-10-Database-Practice-Questions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/mysql/2020-09-10-Mysql-Interview-Questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/mysql/2020-09-10-MySQL-Interview-Questions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/mysql/2021-09-10-Mysql-Index.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/mysql/2021-09-10-MySQL-Index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/java/mysql/2022-03-26-MySQL-Manual-InnoDB-Locks.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/mysql/2022-03-26-MySQL-Manual-InnoDB-Locks.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/make-money/make-money/2023-03-30-Tao-Of-Make-Money.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/make-money/make-money/2023-03-30-Tao-Of-Make-Money.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/story/2024-05-09-PanMao-Event-Think.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/story/2024-05-09-Why-Stock.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/story/2024-05-09-Why-Stock.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/distribute/2019-09-09-Distribute-Transaction.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/distribute/2019-09-09-Distribute-Transaction.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/kafka/2015-09-21-ActiveMQInAction-Note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/kafka/2017-02-25-Kafka-Command.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/kafka/2017-02-25-Kafka-Command.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/redis/2016-06-23-Redis-Sync-DB.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/redis/2016-06-23-Redis-Sync-DB.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/redis/2017-11-08-Redis-Expire-Mechanism.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/redis/2017-11-08-Redis-Expire-Mechanism.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/redis/2021-02-22-Redis-Sentinel-Detail.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/java/redis/2021-02-22-Redis-Sentinel-Detail.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/redis/2021-05-06-Java-Snow-Crash-Solution.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/redis/2022-02-01-Redis-Interview-QandA.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java/redis/2023-07-28-Redis-Core-Principle.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/make-money/net-traffic/2023-04-05-HowTo-Increse-Fans-Zhihu.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/make-money/zhi-hu/2023-04-05-Zhihu-Increse-Fans.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/plan/2014/2024-08-14-Everyday-Plan.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/plan/2014/2024-08-14-Everyday-Plan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/story/2024-05-09-Why-Stock.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/story/stock-career/2024-05-09-My-Stock-Career-Catalog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/story/2024-05-10-My-Stock-Career.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/story/2024-08-18-My-Story.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/story/2024-08-18-My-Story.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2023-01-01-Learn-Speculate-Convert-Think.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-01-01-Learn-Speculate-Convert-Think.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2023-02-01-Steady-Profit-Why-Sell-Course.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-02-01-Steady-Profit-Why-Sell-Course.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2023-02-02-100-Percent-Profit-Open-Position.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-02-02-100-Percent-Profit-Open-Position.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2023-02-03-Talk-Trade-For-Living.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-02-03-Talk-Trade-For-Living.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2023-02-04-Abstract.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-02-04-Abstract.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2023-02-05-Speculate-Stock-Gamble.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-02-05-Speculate-Stock-Gamble.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-01-Stock-Course-Syllabus.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-01-Stock-Course-Syllabus.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-02-Why-Write-Course.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-02-Why-Write-Course.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-03-HowTo-Write-Trade-Diary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-03-HowTo-Write-Trade-Diary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-04-HowTo-Learn-Fire-Stock.mdd" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-04-HowTo-Learn-Fire-Stock.mdd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-04-Recommended-Books-For-Stock.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-04-Recommended-Books-For-Stock.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-05-Once-Bought-Price-Decline-Once-Sold-Price-Rise-Up.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-05-Once-Bought-Price-Decline-Once-Sold-Price-Rise-Up.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-06-Once-Bought-Price-Decline-Once-Sold-Price-Rise-Middle.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-06-Once-Bought-Price-Decline-Once-Sold-Price-Rise-Middle.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-06-Recommended-Posts-For-Stock.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-06-Recommended-Posts-For-Stock.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-07-Cut-Lose-Let-Profit-Run.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-03-07-Cut-Lose-Let-Profit-Run.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2023-04-01-Withdraw-QQ-Group-Away-From-BBS.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-04-01-Withdraw-QQ-Group-Away-From-BBS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2023-04-02-HowTo-Gamble.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-04-02-HowTo-Gamble.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2023-05-01-Overcome-The-Fear-Of-Lose.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2023-05-01-Overcome-The-Fear-Of-Lose.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-04-Why-Open-Position-Not-Matters.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-04-Why-Open-Position-Not-Matters.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-05-Why-We-Turn-Blind-Eye-To-Tao.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-05-Why-We-Turn-Blind-Eye-To-Tao.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-31-Buy-Opportunity-Once-Bought-Rise.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-31-Buy-Opportunity-Once-Bought-Rise.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-31-Buy-Opportunity.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-31-Buy-Opportunity.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-31-HowTo-Pick-Stock-End.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-31-HowTo-Pick-Stock-End.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-31-HowTo-Pick-Stock.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-31-HowTo-Pick-Stock.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-31-Perfect-Buy-Position.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-03-31-Perfect-Buy-Position.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-05-HowTo-Elevate-Realm.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-05-HowTo-Elevate-Realm.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-15-WhatIs-Trend-Structure-Pattern.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-15-WhatIs-Trend-Structure-Pattern.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-16-2635-Bear-Market-Lowest.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-16-2635-Bear-Market-Lowest.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-16-Shit-In-Head.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-16-Shit-In-Head.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-17-Fire-Short-Term-Fire-Emotion.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-17-Fire-Short-Term-Fire-Emotion.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-17-You-Lose-Because-Of-Shit-Full-Of-Head.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-17-You-Lose-Because-Of-Shit-Full-Of-Head.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-18-How-Market-Drive.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-04-18-How-Market-Drive.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-10-Week-Summary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-10-Week-Summary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-11-Recent-Trade-Summary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-11-Recent-Trade-Summary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-12-Anchoring-Effect.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-12-Anchoring-Effect.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-12-National-Debt.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-12-National-Debt.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-12-Single-Without-Anchoring-Effect.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-12-Single-Without-Anchoring-Effect.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-13-Hold-On-Waist-Go-Straight-Up.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-13-Hold-On-Waist-Go-Straight-Up.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-13-Short-Close-Profit-Problem.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-13-Short-Close-Profit-Problem.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-14-Best-Book-For-Trade.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-14-Best-Book-For-Trade.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-17-Everyday-Profit-Inspire.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-17-Everyday-Profit-Inspire.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-20-HowTo-Look-Upon-Market.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-20-HowTo-Look-Upon-Market.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-20-Speculate-In-Stocks-Cost.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-20-Speculate-In-Stocks-Cost.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-21-Why-Speculate-Make-Money-So-Hard.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-21-Why-Speculate-Make-Money-So-Hard.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-22-HowTo-Increase-Position.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-22-HowTo-Increase-Position.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-23-How-Market-Driven.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-23-How-Market-Driven.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-23-HowTo-Operate-Stock.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-23-HowTo-Operate-Stock.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-23-Talk-About-Turtle-Rule.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-23-Talk-About-Turtle-Rule.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-24-Why-Market-Monitoring-Meaningless.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-05-24-Why-Market-Monitoring-Meaningless.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-06-02-Trend-Scale.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-06-02-Trend-Scale.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-06-02-Trend.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-06-02-Trend.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-06-03-Why-Livemore-Never-Buy-Retrace.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-06-03-Why-Livemore-Never-Buy-Retrace.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-07-01-Steady-Profitable-Trading-System.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-07-01-Steady-Profitable-Trading-System.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-08-01-Consistency-Divergence.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-08-01-Consistency-Divergence.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-06-Trade-Not-Gamble.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-06-Trade-Not-Gamble.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-06-Where-Does-Market-Uncertainty-Come-From.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-06-Where-Does-Market-Uncertainty-Come-From.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-07-The-Certainty-And-Uncertainty-Of-Market.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-07-The-Certainty-And-Uncertainty-Of-Market.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-09-Figured-Everything-Out.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-09-Figured-Everything-Out.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-10-Figured-Out-Useless-Formulate-Trade-Rules.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-10-Figured-Out-Useless-Formulate-Trade-Rules.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-12-Market-Tao-Number.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-12-Market-Tao-Number.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-10-The-One.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-10-The-One.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-11-Close-Profit.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-11-Close-Profit.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-12-Stock-Churning-System-Down.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-12-Stock-Churning-System-Down.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-12-Stock-Churning-System-Up.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-12-Stock-Churning-System-Up.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-12-You-Lose-Because-You-Think.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-12-You-Lose-Because-You-Think.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-13-Crowd-Group-Wrong-Prejudice.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-13-Crowd-Group-Wrong-Prejudice.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-14-No-Prediction-Only-Following.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-14-No-Prediction-Only-Following.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-15-Stock-Most-Essential-Game-Rule.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-15-Stock-Most-Essential-Game-Rule.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-19-Close-Profit-End.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-19-Close-Profit-End.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-20-Distinguish-Trend-Turn.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-20-Distinguish-Trend-Turn.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2024-04-14-Learn-Trade-From-Zero-Follow-Gushenyi.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock/2024-04-14-Learn-Trade-From-Zero-Follow-Gushenyi.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,30 +179,30 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/songxin1990.github.io/_posts/java/mysql",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/songxin1990.github.io/_posts/trade/stock-course&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\songxin1990.github.io\_posts\java\mysql" />
       <recent name="D:\songxin1990.github.io\_posts\trade\stock-course" />
+      <recent name="D:\songxin1990.github.io\_posts\story\stock-career" />
+      <recent name="D:\songxin1990.github.io\_posts\java\mysql" />
       <recent name="D:\songxin1990.github.io\img\java\architecture-design" />
       <recent name="D:\songxin1990.github.io\pages\career" />
-      <recent name="D:\songxin1990.github.io\_posts\make-money\method" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\songxin1990.github.io\_posts\make-money\zhi-hu" />
+      <recent name="D:\songxin1990.github.io\_posts\story\stock-career" />
+      <recent name="D:\songxin1990.github.io\_posts\trade" />
+      <recent name="D:\songxin1990.github.io\_posts\me" />
       <recent name="D:\songxin1990.github.io\_posts\interview\interview" />
-      <recent name="D:\songxin1990.github.io\_posts\trade\stock-course" />
-      <recent name="D:\songxin1990.github.io\_posts\trade\stock-everyday-replay" />
-      <recent name="D:\songxin1990.github.io\_posts\java\architecture-design" />
-      <recent name="D:\songxin1990.github.io\_posts\java\spring-cloud" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

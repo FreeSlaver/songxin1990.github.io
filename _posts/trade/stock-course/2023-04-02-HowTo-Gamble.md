@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  谷神一教你炒股票：今天玩一个抛硬币的赌博游戏
+title:  谷神一的炒股交易教程：今天玩一个抛硬币的赌博游戏
 category: stock-course
 tags:
 keywords:
