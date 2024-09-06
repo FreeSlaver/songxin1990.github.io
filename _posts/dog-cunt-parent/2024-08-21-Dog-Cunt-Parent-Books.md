@@ -1,11 +1,11 @@
 ---
 layout: page
 title: 原生家庭书籍
-category: me
+category: dog-cunt-parent
 tags:   
 keywords:
 description:
-published: true
+published: false
 ---
 
 为何家会伤人
