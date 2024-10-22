@@ -16,6 +16,7 @@ slogan: '专注与Java程序员学习，简历，面试，职场等课程'
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: ''
 
+theme: jekyll-theme-minimal
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p> <a href="/">javaclass.net</a> Created with &hearts; by <a href="/me.html">Java课堂</a> &copy; 2013-2999 <a 
 href="http://www.miitbeian.gov.cn" target="_blank" rel="nofollow">粤ICP备17122701号</a>.</p>'

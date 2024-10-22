@@ -4,57 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7218f7ea-2cb6-4092-968c-d9096a66ea92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/make-money/2024-09-13-Account-Buy-Sell-Intermediary-Platform.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/startup/2024-09-19-Startup-Learn-Resouce.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/startup/2024-10-15-Fire-Stock-Website.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/startup/2024-10-15-Start-Startup.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-07-Tomorrow-Stock-Market.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-10-11-One-PBOC-One-NFRA-One-CSRC.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/trade/stock-course/test.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/travel/2024-09-19-JiangXi-Travel-Tips.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/travel/2024-09-29-ShunDe-Travel-Tips.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/webmaster/wordpress/2024-10-18-GuShenYi-Make-Money.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/stock-explain-tao/2022-08-14-Stock-Explain-Tao-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/stock-explain-tao/2022-08-14-Stock-Explain-Tao-1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/stock-explain-tao/2022-08-15-Stock-Explain-Tao-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/stock-explain-tao/2022-08-15-Stock-Explain-Tao-2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/make-money/2024-09-09-Pig-Swine.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/make-money/2024-09-09-Pig-Swine.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/make-money/make-money/2024-03-26-MakeMoney-Project.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/make-money/make-money/2024-03-26-MakeMoney-Project.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/me/2099-09-09-Life-Design.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/me/2099-09-09-Life-Design.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/startup/2024-07-07-Startup-Project.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/startup/2024-07-07-Startup-Project.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/story/Rebellion-Awareness-World/2024-08-18-My-Story.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/story/Rebellion-Awareness-World/2024-08-18-My-Story.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/gamble/2022-02-02-Why-Gambler-Lost-Everything-For-Regret.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/gamble/2022-02-02-Why-Gambler-Lost-Everything-For-Regret.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/news/2024-04-14-National-Nine-Articles.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/speculate-logic/2024-05-16-Low-Airspace-Economy.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/speculate-logic/2024-05-17-Commercial-Aerospace.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/confucian-buddha-tao/tao/2024-09-21-Tao-Breathe-Method.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-12-Market-Tao-Number.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/trade/stock-course/2024-09-12-Market-Tao-Number.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2023-07-24-Stock-Market-Replay.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2023-07-25-Stock-Market-Replay.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2023-07-26-Stock-Market-Replay.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2023-07-27-Stock-Maket-Replay.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2023-07-28-Stock-Market-Replay.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2023-08-13-Stock-Market-Replay.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2023-08-14-Stock-Market-Replay.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2023-08-15-Stock-Market-Replay.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2024-03-31-Stock-Market-Replay.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2024-04-15-Stock-Market-Replay.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2024-04-16-Stock-Market-Replay.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2024-04-17-Stock-Market-Replay.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2024-04-18-Stock-Market-Replay.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2024-04-19-Stock-Market-Replay.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2024-05-06-Stock-Market-Replay.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/stock-everyday-replay/2024-05-12-Tomorrow-Trade-Plan.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2013-11-13-Trade-Idea.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2014-08-20-Againt-Breakout-System.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2015-03-01-Sky-Ladder-Strategy.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2015-03-06-Three-Level-Risk.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2015-03-11-Construct-Your-Own-TradeSystem.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2015-03-20-Some-Trade-Strategy.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2015-09-02-Machine-Trade-System.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2016-02-15-Crane-Dojo-Trade-Essence .md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2016-02-15-Trade-Correct-Start.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2024-09-12-Vite-Press.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/webmaster/2024-09-12-Vite-Press.md" afterDir="false" />
-    </list>
+    <list default="true" id="7218f7ea-2cb6-4092-968c-d9096a66ea92" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
